@@ -11,7 +11,7 @@
 
 const LS_KEY = "shirose-voice";
 const ENGINE = "http://127.0.0.1:50021";
-const ST = () => window.__KING SSW_STATE || {};
+const ST = () => window.__SHIROSE_STATE || {};
 const lget = (k, d) => { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch(e){ return d; } };
 const lset = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch(e){} };
 

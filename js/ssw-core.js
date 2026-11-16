@@ -18,7 +18,7 @@
 let FB = null;
 export function initSswCore(fb) { FB = fb; }
 
-const S = () => window.__KING SSW_STATE || {};
+const S = () => window.__SHIROSE_STATE || {};
 export const uidNow = () => S().user?.uid || "guest";
 export const isGuest = () => !S().user || (FB && FB.isGuestUser && FB.isGuestUser());
 export const isGuru = () => { try { return !!(FB && FB.userIsGuru && FB.userIsGuru()); } catch (e) { return false; } };

@@ -513,7 +513,7 @@ export async function tambahKoin(delta, alasan) {
 /* Cadangan saat kuota BACA Firestore habis (transaksi butuh baca): ubah saldo dengan increment() = tulis murni, tanpa baca.
  * Saldo awal diambil dari data yang sudah dimuat (state/cache). Kurang dari 0 ditolak di klien. */
 async function _koinTulisSaja(delta, alasan) {
-  const st = window.__KING SSW_STATE; const sekarang = Number(st && st.gami && st.gami.koin) || 0;
+  const st = window.__SHIROSE_STATE; const sekarang = Number(st && st.gami && st.gami.koin) || 0;
   if (delta < 0 && sekarang + delta < 0) throw new Error("Koin tidak cukup!");
   const wref = doc(db, "king_siswa", currentUser.uid, "wallet", "main");
   await setDoc(wref, { koin: increment(delta), uid: currentUser.uid, updated: serverTimestamp() }, { merge: true });

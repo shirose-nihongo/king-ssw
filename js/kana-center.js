@@ -15,7 +15,7 @@ import { loadGlyph, writableChars, createPlayer, WriteCanvas, scoreWriting, comp
 let FB = null;
 export function initKana(fb) { FB = fb; }
 
-const S = () => window.__KING SSW_STATE || window.state || {};
+const S = () => window.__SHIROSE_STATE || window.state || {};
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const toast = (m) => (window.toast ? window.toast(m) : console.log(m));
 const LS = {

@@ -20,7 +20,7 @@ export function initMensetsu(fb) {
   initPrep({ getFB: () => FB, esc, toast, LS, uid, isGuest, param, setPage, refresh, BIDANG, cfgGet, getProv: () => PROV, loadProviders });
 }
 
-const S = () => window.__KING SSW_STATE || window.state || {};
+const S = () => window.__SHIROSE_STATE || window.state || {};
 const SV = () => window.SV;
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const toast = (m) => (window.toast ? window.toast(m) : console.log(m));

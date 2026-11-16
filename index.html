@@ -8,7 +8,7 @@
    Tidak mengubah auth/routing; PWA terpasang & pengguna yang pernah login tetap langsung ke aplikasi. */
 (function(){try{
   var standalone = (window.matchMedia && matchMedia("(display-mode: standalone)").matches) || navigator.standalone === true;
-  if (!location.hash && !standalone && !localStorage.getItem("shirose-returning")) location.replace("./landing.html");
+  /* KING SSW: tanpa landing page */
 }catch(e){}})();
 </script>
 <title>KING SSW — Learn Japanese. Track Your Progress. Build Your Future.</title>
@@ -1381,7 +1381,7 @@ html{overflow-x:hidden;}
 
 <!-- ============ TOP BAR ============ -->
 <div class="topbar">
-  <a href="./landing.html" class="brand" title="KING SSW by SSW no Ou">シ<span class="rose">🌹</span>ロセ <span style="font-family:var(--font-sans); font-size:13px; letter-spacing:.5px;">NIHONGO</span></a>
+  <a href="./" class="brand" title="KING SSW by SSW no Ou">👑 KING <span style="font-family:var(--font-sans); font-size:13px; letter-spacing:.5px;">SSW</span></a>
   <div class="lvl-pill-group" id="lvl-pills">
     <!-- JS filled -->
   </div>
@@ -1758,7 +1758,7 @@ function renderLogin(){
   return `
     <div class="auth-page">
       <div class="auth-card">
-        <div class="brand-row">シ<span class="rose">🌹</span>ロセ NIHONGO</div>
+        <div class="brand-row">👑 KING SSW NIHONGO</div>
         <h2 id="auth-page-title">${isDaftar ? "Buat akun baru" : "Masuk ke akunmu"}</h2>
         <p class="sub" id="auth-page-sub">${isDaftar
           ? "Daftar sekali, progres belajar kamu tersimpan otomatis."
@@ -1780,7 +1780,7 @@ function renderLogin(){
         <button class="btn" id="auth-page-submit" onclick="submitAuthPage()">${isDaftar ? "Daftar Sekarang" : "Masuk"}</button>
         <button class="btn ghost" onclick="kirimResetPassword()" style="font-size:12px;">Lupa password?</button>
         <p style="font-size:13px; color:var(--gray); margin:10px 0 0; text-align:center;">Belum punya akun? Akun siswa dibuat oleh guru/moderator.</p>
-        <button class="btn ghost" onclick="location.href='./landing.html'" style="margin-top:12px;">← Kembali ke beranda</button>
+        <button class="btn ghost" onclick="location.href='./'" style="margin-top:12px;">← Kembali ke beranda</button>
 
         <div id="auth-page-err" class="auth-err">${deniedMsg}</div>
 
@@ -1995,11 +1995,11 @@ async function loadGami(){
     // Guest from localStorage
     const key = `shirose-gami-${state.level}`;
     state.gami = JSON.parse(localStorage.getItem(key) || '{"xp":0,"koin":0,"streak":0,"level_karakter":1}');
-    if (window.KING SSW_THEME) window.KING SSW_THEME.refresh();
+    if (window.SHIROSE_THEME) window.SHIROSE_THEME.refresh();
     return;
   }
   state.gami = await FB.getGami(state.level);
-  try { const g = FB.getGachaState ? await FB.getGachaState() : null; if (window.KING SSW_THEME) window.KING SSW_THEME.setOwned(g && g.inv || []); } catch (e) {}
+  try { const g = FB.getGachaState ? await FB.getGachaState() : null; if (window.SHIROSE_THEME) window.SHIROSE_THEME.setOwned(g && g.inv || []); } catch (e) {}
 }
 async function awardXP(dXP, dKoin = 0){
   const oldLvl = state.gami.level_karakter || 1;
@@ -2067,7 +2067,7 @@ async function loadMateri(tipe, lvl){
   }
 }
 
-window.__KING SSW_STATE = state;
+window.__SHIROSE_STATE = state;
 /* ========== ROUTES ========== */
 const routes = {
   "pilih-level": renderPilihLevel,
@@ -5691,7 +5691,7 @@ FB.onAuth(async (user, siswa) => {
   _authFiredOnce = true;
 
   state.user = user; state.siswa = siswa;
-  try { window.KING SSW_THEME_FREE = !!(user && (FB.userIsGuru() || FB.hasUnlimitedCoins())); if (window.KING SSW_THEME) window.KING SSW_THEME.refresh(); } catch(e){}
+  try { window.SHIROSE_THEME_FREE = !!(user && (FB.userIsGuru() || FB.hasUnlimitedCoins())); if (window.SHIROSE_THEME) window.SHIROSE_THEME.refresh(); } catch(e){}
   const btn = document.getElementById("btn-auth");
   if (user) {
     try { localStorage.setItem("shirose-returning","1"); } catch(e){}

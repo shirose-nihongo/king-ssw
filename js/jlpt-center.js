@@ -14,7 +14,7 @@
 let FB = null;
 export function initJlpt(fb) { FB = fb; }
 
-const S = () => window.__KING SSW_STATE || window.state || {};
+const S = () => window.__SHIROSE_STATE || window.state || {};
 const LV = ["n5", "n4", "n3", "n2", "n1"];
 const ABCD = "ABCD";
 const JENIS = {

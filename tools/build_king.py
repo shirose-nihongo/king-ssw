@@ -52,8 +52,13 @@ function renderKingHome(){
 '''
 ed("index.html", [
   ("function _renderRoute(name, rest){\n  const fn = routes[name] || renderHome;", KING_JS + "\nfunction _renderRoute(name, rest){\n  const fn = (KING_OK(name) && name !== \"home\" ? routes[name] : null) || renderKingHome;"),
+  ('if (!location.hash && !standalone && !localStorage.getItem("shirose-returning")) location.replace("./landing.html");', '/* KING SSW: tanpa landing page */'),
+  ('シ<span class="rose">🌹</span>ロセ <span style="font-family:var(--font-sans); font-size:13px; letter-spacing:.5px;">NIHONGO</span>', '👑 KING <span style="font-family:var(--font-sans); font-size:13px; letter-spacing:.5px;">SSW</span>'),
   ("if (state.user && !BEBAS_PILIH_LEVEL.has(name)", "if (false && state.user && !BEBAS_PILIH_LEVEL.has(name)"),
 ])
+for f in ("index.html", "teacher.html", "sw.js"):
+    t = open(os.path.join(DST, f), encoding="utf-8").read().replace("./landing.html", "./").replace('"./", \n', '').replace("シ<span class=\"rose\">🌹</span>ロセ", "👑 KING SSW")
+    open(os.path.join(DST, f), "w", encoding="utf-8").write(t)
 # 4) Branding
 BR = [("SHIROSE NIHONGO", "KING SSW"), ("Shirose Nihongo", "KING SSW"), ("SHIROSE", "KING SSW")]
 for root, _, files in os.walk(DST):
@@ -61,7 +66,7 @@ for root, _, files in os.walk(DST):
     for f in files:
         if f.endswith((".html", ".js", ".webmanifest", ".css", ".md")):
             p = os.path.join(root, f); t = open(p, encoding="utf-8", errors="ignore").read(); t2 = t
-            for a, b in BR: t2 = t2.replace(a, b)
+            for a, b in BR: t2 = re.sub(r"(?<![\w$])" + re.escape(a) + r"(?![\w$])", b, t2)
             if t2 != t: open(p, "w", encoding="utf-8").write(t2)
 ed("sw.js", [('const CACHE = "shirose-nihongo-', 'const CACHE = "king-ssw-')])
 ed("manifest.webmanifest", [], must=False)

@@ -13,7 +13,7 @@ const KVG = "shirose-kvg-v1";       // goresan KanjiVG yang pernah dibuka (offli
 const CORE = [
   "./",
   "./index.html",
-  "./landing.html",
+  "./",
   "./js/landing-config.js",
   "./teacher.html",
   "./manifest.webmanifest",

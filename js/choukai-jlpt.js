@@ -10,7 +10,7 @@
  * Naskah rekaman lengkap: ./audio/choukai/naskah-rekaman.csv
  * ===================================================================== */
 
-const ST = () => window.__KING SSW_STATE || {};
+const ST = () => window.__SHIROSE_STATE || {};
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const LS = {
   get(k, d){ try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch(e){ return d; } },

@@ -6,7 +6,7 @@
  *  - Tab "PPT Resmi JF": tautan unduhan PPT resmi Irodori (Japan Foundation) + file lokal bila sudah diunggah.
  * Route: #jft-slide, #jft-slide/{ir0|ir1|ir2}, #jft-slide/{lv}/{bab}
  * ===================================================================== */
-const S = () => window.__KING SSW_STATE || window.state || {};
+const S = () => window.__SHIROSE_STATE || window.state || {};
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const rb = (s) => esc(s).replace(/([一-鿿々]+)\[([^\]]+)\]/g, "<ruby>$1<rt>$2</rt></ruby>").replace(/\[([^\]]+)\]/g, "");
 const plain = (s) => String(s ?? "").replace(/\[[^\]]*\]/g, "");

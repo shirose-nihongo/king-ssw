@@ -21,7 +21,7 @@ let FB = null;
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const RAR = { common: ["Common", "#9aa0a6"], uncommon: ["Uncommon", "#5bd16b"], rare: ["Rare", "#4aa3ff"], epic: ["Epic", "#b266ff"], legendary: ["Legendary", "#ffb703"], mythic: ["Mythic", "#ff4d94"] };
 const NAMA = Object.fromEntries(ITEMS.map(x => [x.id, (x.kind === "theme" ? "🎨 " : "") + x.nama]));
-const S = () => window.__KING SSW_STATE || {};
+const S = () => window.__SHIROSE_STATE || {};
 let last = null, busy = false;
 export function initGacha(fb) { FB = fb; }
 async function render() {
@@ -38,7 +38,7 @@ async function render() {
   const tabelRate = ORD.map(r => { const n = (CONFIG.POOL[r] || []).length; return `<tr><td style="color:${RAR[r][1]};font-weight:800;">${RAR[r][0]}</td><td><div style="background:#8883;border-radius:6px;height:8px;min-width:90px;"><div style="width:${Math.min(100, pctOf[r] * 2.2)}%;height:100%;border-radius:6px;background:${RAR[r][1]};"></div></div></td><td><b>${fmt(pctOf[r])}</b></td><td>${n} item</td><td>${n ? fmt(pctOf[r] / n) : "–"}</td></tr>`; }).join("");
   const galeri = ORD.map(r => { const a = CONFIG.POOL[r] || []; if (!a.length) return "";
     return `<h4 style="margin:14px 0 6px;color:${RAR[r][1]};">${RAR[r][0]} · ${fmt(pctOf[r])} <small style="color:var(--gray);">(${a.length} item, tiap item ≈ ${fmt(pctOf[r] / a.length)})</small></h4><div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;">` + a.map(i => { const x = byId[i] || {}, own = inv.includes(i) || (st.siswa?.karakter?.inventory || []).includes(i), th = x.kind === "theme";
-      return `<div style="padding:10px;border-radius:12px;border:1px solid ${RAR[r][1]};opacity:${own ? 1 : .92};${own ? "" : "filter:saturate(.8);"}">${gambarItem(i, r, 84)}<div style="font-weight:700;font-size:13px;margin:4px 0;">${esc(x.nama || i)}</div><div style="font-size:11px;color:var(--gray);">${th ? "Tema tampilan" : esc(x.kat || "Barang shop")}${x.harga ? " · 🪙 " + x.harga.toLocaleString("id-ID") : ""}</div><div style="font-size:11px;margin-top:3px;">≈ ${fmt(pctOf[r] / a.length)} per tarikan</div>${own ? '<div style="font-size:11px;color:#3cc878;margin-top:3px;">✓ Dimiliki</div>' : ""}${th ? `<button class="btn ghost" style="margin-top:6px;padding:4px 8px;font-size:12px;" onclick="KING SSW_THEME.preview('${i.slice(6)}')">👀 Pratinjau</button>` : ""}</div>`; }).join("") + "</div>"; }).join("");
+      return `<div style="padding:10px;border-radius:12px;border:1px solid ${RAR[r][1]};opacity:${own ? 1 : .92};${own ? "" : "filter:saturate(.8);"}">${gambarItem(i, r, 84)}<div style="font-weight:700;font-size:13px;margin:4px 0;">${esc(x.nama || i)}</div><div style="font-size:11px;color:var(--gray);">${th ? "Tema tampilan" : esc(x.kat || "Barang shop")}${x.harga ? " · 🪙 " + x.harga.toLocaleString("id-ID") : ""}</div><div style="font-size:11px;margin-top:3px;">≈ ${fmt(pctOf[r] / a.length)} per tarikan</div>${own ? '<div style="font-size:11px;color:#3cc878;margin-top:3px;">✓ Dimiliki</div>' : ""}${th ? `<button class="btn ghost" style="margin-top:6px;padding:4px 8px;font-size:12px;" onclick="SHIROSE_THEME.preview('${i.slice(6)}')">👀 Pratinjau</button>` : ""}</div>`; }).join("") + "</div>"; }).join("");
   const hasil = last ? `<div class="panel" style="margin-top:12px;"><h3>Hasil tarikan</h3>${last.results.map(x => `<div style="padding:6px 0;border-bottom:1px solid var(--border,#333);color:${RAR[x.rarity][1]};"><b>${RAR[x.rarity][0]}</b> · ${esc(NAMA[x.item] || x.item)}${x.dup ? ' <small style="color:var(--gray);">(duplikat, tidak ada pengembalian)</small>' : " ✨ baru!"}</div>`).join("")}</div>` : "";
   const aktif = true;
   return `<div class="panel"><h1>🎰 Gacha</h1>
@@ -150,8 +150,8 @@ async function satuTarik(n) {
     const j = await r.json(); if (!r.ok) throw new Error(j.error || "Gagal"); res = j;
   } else res = await tarikLokal(n);   // MODE LOKAL sementara (belum ada server)
   last = res;
-  const gs = await FB.getGachaState(); if (window.KING SSW_THEME) window.KING SSW_THEME.setOwned(gs && gs.inv || []);
-  if (window.__KING SSW_STATE) window.__KING SSW_STATE.gami.koin = res.koin;
+  const gs = await FB.getGachaState(); if (window.SHIROSE_THEME) window.SHIROSE_THEME.setOwned(gs && gs.inv || []);
+  if (window.__SHIROSE_STATE) window.__SHIROSE_STATE.gami.koin = res.koin;
   const c = document.getElementById("chip-coin"); if (c && !(FB.hasUnlimitedCoins && FB.hasUnlimitedCoins())) c.textContent = res.koin;
   return res;
 }
@@ -198,7 +198,7 @@ async function tarikLokal(n) {
   const price = n === 10 ? CONFIG.PRICE_10 : CONFIG.PRICE_1;
   const unl = !!(FB.hasUnlimitedCoins && FB.hasUnlimitedCoins());
   const g = (await FB.getGachaState()) || { sinceEpic: 0, sinceLegend: 0, inv: [] };
-  const st = window.__KING SSW_STATE; const saldo = Number(st && st.gami && st.gami.koin) || 0;
+  const st = window.__SHIROSE_STATE; const saldo = Number(st && st.gami && st.gami.koin) || 0;
   if (!unl && saldo < price) throw new Error("Koin tidak cukup!");
   const own = Array.from(new Set([...(g.inv || []), ...(FB.ownedShopIds ? FB.ownedShopIds() : [])]));
   const r = rollMany(n, { sinceEpic: g.sinceEpic || 0, sinceLegend: g.sinceLegend || 0 }, own, undefined, unl ? CONFIG_FREE : CONFIG);

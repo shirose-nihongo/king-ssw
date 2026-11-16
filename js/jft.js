@@ -10,7 +10,7 @@
  * TRYOUT (模擬試験): paket tetap orisinal di data/jft/tryout.json (50 soal · 60 menit · 4 bagian). Latihan: soal isian dari data/jft/isi.json + tombol Cek jawaban.
  * Route: #jft, #jft-ujian, #jft-tryout, #jft-paket/{b0p0|sim0|try0}, #jft-tes, #jft-hasil
  * ===================================================================== */
-const S = () => window.__KING SSW_STATE || window.state || {};
+const S = () => window.__SHIROSE_STATE || window.state || {};
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const rb = (s) => esc(s).replace(/([一-鿿々]+)\[([^\]]+)\]/g, "<ruby>$1<rt>$2</rt></ruby>").replace(/\[([^\]]+)\]/g, "");
