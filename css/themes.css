@@ -1,0 +1,164 @@
+/* Tema KING SSW: Ungu (bawaan) + 4 cuaca (Cerah, Hujan, Salju, Badai). Pakai variabel warna yang sudah ada. */
+html[data-theme="cerah"]{
+  --navy:#12345f; --navy-2:#1a4a80; --navy-3:#2563a8; --navy-4:#0a2447;
+  --pink:#ffb703; --pink-light:#ffd166; --pink-dark:#e08a00; --purple:#38bdf8; --border:#2a5a94; --border-light:#3f78b8;
+  --shadow-glow:0 0 30px rgba(255,183,3,.35);
+}
+html[data-theme="hujan"]{
+  --navy:#1c2733; --navy-2:#27384a; --navy-3:#33495f; --navy-4:#111922;
+  --pink:#4fc3f7; --pink-light:#81d4fa; --pink-dark:#0288d1; --purple:#7c9cbf; --border:#33485c; --border-light:#4a6580;
+  --shadow-glow:0 0 30px rgba(79,195,247,.3);
+}
+html[data-theme="salju"]{
+  --navy:#243a52; --navy-2:#2f4b69; --navy-3:#3c6285; --navy-4:#18283a;
+  --pink:#9bd7ff; --pink-light:#cdeaff; --pink-dark:#4aa3df; --purple:#b9c8ff; --border:#3d5d7c; --border-light:#5b7fa3;
+  --shadow-glow:0 0 30px rgba(155,215,255,.35);
+}
+html[data-theme="badai"]{
+  --navy:#1a1a24; --navy-2:#262633; --navy-3:#34344a; --navy-4:#0d0d14;
+  --pink:#ffd60a; --pink-light:#ffe55c; --pink-dark:#c9a400; --purple:#8e8ef0; --border:#34344a; --border-light:#4c4c68;
+  --shadow-glow:0 0 30px rgba(255,214,10,.3);
+}
+html[data-theme="cerah"] body{background:radial-gradient(ellipse at 85% 8%,rgba(255,214,102,.35) 0%,transparent 45%),radial-gradient(ellipse at 15% 80%,rgba(56,189,248,.18) 0%,transparent 50%),linear-gradient(to bottom,var(--navy-4),var(--navy));}
+html[data-theme="hujan"] body{background:radial-gradient(ellipse at 30% 20%,rgba(79,195,247,.12) 0%,transparent 55%),linear-gradient(to bottom,var(--navy-4),var(--navy));}
+html[data-theme="salju"] body{background:radial-gradient(ellipse at 50% 0%,rgba(205,234,255,.2) 0%,transparent 55%),linear-gradient(to bottom,var(--navy-4),var(--navy));}
+html[data-theme="badai"] body{background:radial-gradient(ellipse at 70% 10%,rgba(142,142,240,.14) 0%,transparent 50%),linear-gradient(to bottom,var(--navy-4),var(--navy));}
+html[data-theme]:not([data-theme="ungu"]) .topbar{background:color-mix(in srgb,var(--navy-4) 90%,transparent);}
+
+/* ===== Lapisan cuaca (dekoratif, tidak bisa diklik) ===== */
+#wx{position:fixed;inset:0;pointer-events:none;overflow:hidden;z-index:-1}
+#wx i{position:absolute;display:block}
+#wx .drop{top:-12vh;width:2px;height:14vh;background:linear-gradient(to bottom,transparent,rgba(160,215,255,.65));animation:wxrain linear infinite}
+@keyframes wxrain{to{transform:translateY(125vh)}}
+#wx .flake{top:-5vh;border-radius:50%;background:#fff;opacity:.85;animation:wxsnow linear infinite}
+@keyframes wxsnow{0%{transform:translate(0,0)}50%{transform:translate(18px,55vh)}100%{transform:translate(-12px,108vh)}}
+#wx .sun{top:-120px;right:-120px;width:340px;height:340px;border-radius:50%;background:radial-gradient(circle,rgba(255,214,102,.55),rgba(255,183,3,.18) 45%,transparent 70%);animation:wxsun 6s ease-in-out infinite alternate}
+@keyframes wxsun{to{transform:scale(1.12);opacity:.8}}
+#wx .flash{inset:0;background:rgba(210,220,255,.0);animation:wxflash 7s infinite}
+@keyframes wxflash{0%,86%,100%{background:rgba(210,220,255,0)}87%{background:rgba(220,230,255,.35)}88%{background:rgba(210,220,255,0)}90%{background:rgba(220,230,255,.25)}92%{background:rgba(210,220,255,0)}}
+@media (prefers-reduced-motion:reduce){#wx i{animation:none!important}}
+
+/* ===== Tombol & menu tema ===== */
+.th-wrap{position:relative}
+.th-btn{background:transparent;border:1px solid var(--border-light);color:var(--white);border-radius:12px;padding:8px 10px;font-size:18px;cursor:pointer;line-height:1}
+.th-menu{display:none;position:absolute;right:0;top:calc(100% + 8px);min-width:170px;background:var(--navy-2);border:1px solid var(--border-light);border-radius:14px;padding:6px;box-shadow:0 12px 30px rgba(0,0,0,.45);z-index:80}
+.th-menu.open{display:block}
+.th-menu button{display:flex;gap:10px;align-items:center;width:100%;background:none;border:0;color:var(--white);font:inherit;font-size:15px;padding:10px 12px;border-radius:10px;cursor:pointer;text-align:left}
+.th-menu button:hover,.th-menu button.on{background:var(--navy-3)}
+.th-menu button.on::after{content:"✓";margin-left:auto;color:var(--pink)}
+
+/* ===== Footer sosmed ===== */
+.sosmed{display:flex;gap:12px;justify-content:center;align-items:center;flex-wrap:wrap;padding:22px 14px 90px;color:var(--gray);font-size:14px}
+.sosmed a{display:inline-flex;align-items:center;gap:8px;color:var(--white);text-decoration:none;border:1px solid var(--border-light);padding:10px 16px;border-radius:999px;background:rgba(255,255,255,.04)}
+.sosmed a:hover{border-color:var(--pink);box-shadow:var(--shadow-glow)}
+.sosmed svg{width:18px;height:18px;fill:currentColor}
+body.auth-mode .sosmed{display:none}
+/* ===== Footer sosmed — versi hitam & ungu ===== */
+.sosmed{position:relative;margin:18px auto 0;max-width:560px;gap:12px;padding:20px 18px;margin-bottom:84px;border-radius:26px;
+  background:radial-gradient(120% 140% at 0% 0%,rgba(168,85,247,.28),transparent 55%),radial-gradient(120% 140% at 100% 100%,rgba(124,58,237,.30),transparent 55%),#07040f;
+  border:1px solid rgba(168,85,247,.45);box-shadow:0 0 0 1px rgba(0,0,0,.6) inset,0 12px 40px rgba(124,58,237,.28);overflow:hidden}
+.sosmed::before{content:"";position:absolute;inset:-60%;background:conic-gradient(from 0deg,transparent 0 70%,rgba(192,132,252,.35) 85%,transparent 100%);animation:smSpin 9s linear infinite;pointer-events:none;opacity:.55}
+.sosmed::after{content:"";position:absolute;inset:1px;border-radius:25px;background:linear-gradient(180deg,rgba(10,5,22,.92),rgba(5,2,12,.96));pointer-events:none}
+.sosmed>*{position:relative;z-index:1}
+@keyframes smSpin{to{transform:rotate(360deg)}}
+.sosmed .sm-lead{flex-basis:100%;text-align:center;font-size:12px;font-weight:800;letter-spacing:.28em;text-transform:uppercase;color:#c4b5fd}
+.sosmed .sm-id{flex-basis:100%;text-align:center;font-size:13px;color:#a78bfa;font-weight:600;letter-spacing:.04em}
+.sosmed a{gap:10px;padding:9px 18px 9px 10px;border:1px solid rgba(168,85,247,.55);background:linear-gradient(135deg,#120a24,#06030d);color:#f5f3ff;font-weight:700;font-size:14px;
+  box-shadow:0 0 0 0 rgba(168,85,247,0);transition:transform .22s cubic-bezier(.2,.9,.3,1.3),box-shadow .22s,border-color .22s,background .22s}
+.sosmed a svg{width:34px;height:34px;padding:8px;border-radius:50%;box-sizing:border-box;fill:#fff;background:linear-gradient(135deg,#a855f7,#6d28d9);box-shadow:0 4px 14px rgba(124,58,237,.55);transition:transform .3s,background .3s}
+.sosmed a:hover,.sosmed a:focus-visible{transform:translateY(-3px) scale(1.04);border-color:#c084fc;background:linear-gradient(135deg,#2a0f55,#0b0518);box-shadow:0 8px 26px rgba(168,85,247,.55),0 0 0 3px rgba(168,85,247,.18);outline:none}
+.sosmed a:hover svg{transform:rotate(-8deg) scale(1.08);background:linear-gradient(135deg,#d8b4fe,#8b5cf6)}
+.sosmed a:active{transform:translateY(0) scale(.98)}
+.sosmed .sm-tt svg{background:linear-gradient(135deg,#7c3aed,#c026d3)}
+@media (prefers-reduced-motion:reduce){.sosmed::before{animation:none}.sosmed a,.sosmed a svg{transition:none}}
+@media (max-width:420px){.sosmed{margin-left:12px;margin-right:12px;padding:18px 12px}.sosmed a{padding-right:14px}}
+
+
+/* ===== 4 musim (Dingin=salju, Gugur, Panas, Semi) ===== */
+html[data-theme="gugur"]{
+  --navy:#2d1a14; --navy-2:#42261b; --navy-3:#5a3524; --navy-4:#1c100c;
+  --pink:#f08a24; --pink-light:#ffb25c; --pink-dark:#c0392b; --purple:#e0523a; --border:#5a3524; --border-light:#7d4b33;
+  --shadow-glow:0 0 30px rgba(240,138,36,.35);
+}
+html[data-theme="panas"]{
+  --navy:#0e6fae; --navy-2:#1385c9; --navy-3:#2a9ee0; --navy-4:#0a5a94;
+  --pink:#ffd23f; --pink-light:#ffe37a; --pink-dark:#e0a800; --purple:#f4a261; --border:#2c93d1; --border-light:#5ab6ea;
+  --shadow-glow:0 0 30px rgba(255,210,63,.45);
+}
+html[data-theme="semi"]{
+  --navy:#2e1f4a; --navy-2:#412c66; --navy-3:#57408a; --navy-4:#1d1233;
+  --pink:#ff8fc0; --pink-light:#ffb8d8; --pink-dark:#d94f8f; --purple:#7aa7ff; --border:#4d3a78; --border-light:#6b55a0;
+  --shadow-glow:0 0 30px rgba(255,143,192,.35);
+}
+html[data-theme="gugur"] body{background:radial-gradient(ellipse at 20% 0%,rgba(240,138,36,.2) 0%,transparent 55%),linear-gradient(to bottom,var(--navy-4),var(--navy));}
+html[data-theme="panas"] body{background:linear-gradient(160deg,#0e6fae 0%,#2a9ee0 40%,#8fd0ee 70%,#ffd96b 100%);background-attachment:fixed}
+html[data-theme="semi"] body{background:radial-gradient(ellipse at 80% 0%,rgba(255,143,192,.22) 0%,transparent 55%),linear-gradient(to bottom,var(--navy-4),var(--navy));}
+#wx .leaf{top:-8vh;font-style:normal;line-height:1;animation:wxleaf linear infinite}
+@keyframes wxleaf{0%{transform:translate(0,0) rotate(0)}50%{transform:translate(40px,55vh) rotate(180deg)}100%{transform:translate(-20px,112vh) rotate(360deg)}}
+#wx .wave{left:0;right:0;bottom:0;height:90px;background:linear-gradient(to top,rgba(34,211,238,.22),transparent);animation:wxwave 4s ease-in-out infinite alternate}
+@keyframes wxwave{to{opacity:.5;transform:translateY(8px)}}
+
+/* ===== Pantai (Panas) ===== */
+#wx .sun2{top:-70px;right:6vw;width:150px;height:150px;border-radius:50%;background:radial-gradient(circle,#fff6c2 0%,#ffd84a 45%,#ffb703 70%);box-shadow:0 0 90px 40px rgba(255,214,80,.55);animation:wxsun 5s ease-in-out infinite alternate}
+#wx .rays{top:-60vh;right:-30vw;width:120vw;height:120vh;background:repeating-conic-gradient(from 0deg at 80% 55%,rgba(255,240,170,.16) 0 6deg,transparent 6deg 16deg);animation:wxrot 60s linear infinite;transform-origin:80% 55%}
+@keyframes wxrot{to{transform:rotate(360deg)}}
+#wx .sea{left:0;right:0;bottom:20vh;height:16vh;background:linear-gradient(to bottom,rgba(0,150,200,.0),#14a3d6 30%,#2fc4e6);}
+#wx .foam{left:0;right:0;bottom:20vh;height:10px;background:rgba(255,255,255,.75);filter:blur(2px);animation:wxwave 3s ease-in-out infinite alternate}
+#wx .sand{left:0;right:0;bottom:0;height:21vh;background:linear-gradient(to bottom,#f6dfa3,#e9c777 60%,#d9b05c);border-radius:50% 50% 0 0/18px 18px 0 0}
+#wx .palm{bottom:12vh;font-style:normal;line-height:1;filter:drop-shadow(0 6px 4px rgba(0,0,0,.25))}
+
+/* pemandangan: buram + memudar ke atas supaya menyatu */
+#wx .scene{position:absolute;left:0;right:0;bottom:0;width:100%;height:50vh;opacity:.9;filter:blur(1.5px);-webkit-mask-image:linear-gradient(to top,#000 50%,transparent 100%);mask-image:linear-gradient(to top,#000 50%,transparent 100%)}
+html[data-theme="panas"] #wx .palm{filter:blur(1.2px) drop-shadow(0 6px 4px rgba(0,0,0,.2));opacity:.9}
+html[data-theme="panas"] #wx .sand,html[data-theme="panas"] #wx .sea{filter:blur(1px)}
+
+/* ===== Warna footer sosmed mengikuti tema ===== */
+html[data-theme="cerah"]{--sm-a:#ffb703;--sm-b:#e08a00;--sm-l:#ffe29a;--sm-bg1:#0d2c52;--sm-bg2:#071a33;--sm-rgb:255,183,3}
+html[data-theme="hujan"]{--sm-a:#4fc3f7;--sm-b:#0288d1;--sm-l:#b3e5fc;--sm-bg1:#14202b;--sm-bg2:#0a1118;--sm-rgb:79,195,247}
+html[data-theme="salju"]{--sm-a:#9bd7ff;--sm-b:#4aa3df;--sm-l:#e3f3ff;--sm-bg1:#1b2e44;--sm-bg2:#0f1c2c;--sm-rgb:155,215,255}
+html[data-theme="badai"]{--sm-a:#ffd60a;--sm-b:#c9a400;--sm-l:#fff3a3;--sm-bg1:#151520;--sm-bg2:#08080e;--sm-rgb:255,214,10}
+html[data-theme="gugur"]{--sm-a:#f08a24;--sm-b:#c0392b;--sm-l:#ffd0a0;--sm-bg1:#2a1710;--sm-bg2:#150a06;--sm-rgb:240,138,36}
+html[data-theme="panas"]{--sm-a:#ffd23f;--sm-b:#e0a800;--sm-l:#fff0b0;--sm-bg1:#0a4d78;--sm-bg2:#06304e;--sm-rgb:255,210,63}
+html[data-theme="semi"]{--sm-a:#ff8fc0;--sm-b:#d94f8f;--sm-l:#ffd3e8;--sm-bg1:#2a1a44;--sm-bg2:#170c2a;--sm-rgb:255,143,192}
+html[data-theme]:not([data-theme="ungu"]) .sosmed::before{background:conic-gradient(from 0deg,transparent 0 70%,rgba(var(--sm-rgb),.4) 85%,transparent 100%)}
+html[data-theme]:not([data-theme="ungu"]) .sosmed::after{background:linear-gradient(180deg,var(--sm-bg1),var(--sm-bg2))}
+html[data-theme]:not([data-theme="ungu"]) .sosmed .sm-lead{color:var(--sm-l)}
+html[data-theme]:not([data-theme="ungu"]) .sosmed .sm-id{color:var(--sm-a)}
+html[data-theme]:not([data-theme="ungu"]) .sosmed a{border-color:rgba(var(--sm-rgb),.55);background:linear-gradient(135deg,var(--sm-bg1),var(--sm-bg2));color:#fff}
+html[data-theme]:not([data-theme="ungu"]) .sosmed a svg,html[data-theme]:not([data-theme="ungu"]) .sosmed .sm-tt svg{background:linear-gradient(135deg,var(--sm-a),var(--sm-b));fill:#10131f;box-shadow:0 4px 14px rgba(var(--sm-rgb),.45)}
+html[data-theme]:not([data-theme="ungu"]) .sosmed a:hover,html[data-theme]:not([data-theme="ungu"]) .sosmed a:focus-visible{border-color:var(--sm-a);background:linear-gradient(135deg,var(--sm-bg1),var(--sm-bg2));box-shadow:0 8px 26px rgba(var(--sm-rgb),.5),0 0 0 3px rgba(var(--sm-rgb),.18)}
+html[data-theme]:not([data-theme="ungu"]) .sosmed a:hover svg{background:linear-gradient(135deg,var(--sm-l),var(--sm-a))}
+.th-btn{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:700;white-space:nowrap}
+.th-btn .th-txt{font-size:12px}
+@media (max-width:420px){.th-btn{padding:7px 8px}.th-btn .th-txt{font-size:11px}}
+
+/* Monokrom (bawaan Lv1): hitam-putih, aksen putih */
+html[data-theme="mono"]{--navy:#141414;--navy-2:#1f1f1f;--navy-3:#2b2b2b;--navy-4:#0b0b0b;--pink:#f2f2f2;--pink-light:#ffffff;--pink-dark:#bdbdbd;--purple:#9e9e9e;--border:#333;--border-light:#4a4a4a;--shadow-glow:0 0 24px rgba(255,255,255,.12)}
+html[data-theme="mono"] body{background:linear-gradient(to bottom,var(--navy-4),var(--navy))}
+.th-menu button.lock{opacity:.55}.th-lk{margin-left:auto;font-size:11px;color:var(--gray)}
+
+/* Putih (bawaan): web biasa — putih + hitam, minimalis. */
+html[data-theme="putih"]{--navy:#ffffff;--navy-2:#f5f5f5;--navy-3:#ebebeb;--navy-4:#fafafa;--pink:#111111;--pink-light:#333333;--pink-dark:#000000;--purple:#444444;--gold:#8a6d00;--cyan:#0b7285;--white:#111111;--off:#111111;--gray:#555555;--gray-dim:#8a8a8a;--border:#dddddd;--border-light:#c8c8c8;--shadow-glow:0 0 0 rgba(0,0,0,0)}
+html[data-theme="putih"] body{background:#ffffff;color:#111}
+html[data-theme="putih"] .topbar{background:rgba(255,255,255,.96);border-bottom:1px solid #e3e3e3}
+html[data-theme="putih"] .orbit-node,html[data-theme="putih"] .side-node{background:#fff;color:#111;border:2px solid #111;box-shadow:0 3px 12px rgba(0,0,0,.12)}
+html[data-theme="putih"] .orbit-node:hover,html[data-theme="putih"] .side-node:hover{border-color:#000;box-shadow:0 6px 18px rgba(0,0,0,.22);filter:none}
+html[data-theme="putih"] .btn:not(.ghost):not(.gold){background:#111;color:#fff;border-color:#111}
+html[data-theme="putih"] .btn.ghost{color:#111;border-color:#bdbdbd;background:#fff}
+html[data-theme="putih"] .panel,html[data-theme="putih"] .hub-card,html[data-theme="putih"] .materi-item,html[data-theme="putih"] .jlpt-card,html[data-theme="putih"] .modal-box{background:#fff;color:#111;border:1px solid #ddd;box-shadow:0 1px 6px rgba(0,0,0,.06)}
+html[data-theme="putih"] .chip{background:#f3f3f3;color:#111;border-color:#ddd}
+html[data-theme="putih"] input,html[data-theme="putih"] select,html[data-theme="putih"] textarea{background:#fff;color:#111;border-color:#c8c8c8}
+html[data-theme="putih"] .th-menu{background:#fff;border-color:#ccc}
+html[data-theme="putih"] .th-menu button{color:#111}html[data-theme="putih"] .th-menu button:hover,html[data-theme="putih"] .th-menu button.on{background:#eee}
+
+/* IG & TikTok selalu terlihat di topbar (footer sosmed sering tertutup konten) */
+.tb-sm{display:inline-flex;gap:6px;align-items:center;margin-right:4px}
+.tb-sm a{display:inline-flex;width:30px;height:30px;border-radius:50%;align-items:center;justify-content:center;background:linear-gradient(135deg,#a855f7,#6d28d9);box-shadow:0 2px 8px rgba(0,0,0,.25)}
+.tb-sm a.tt{background:linear-gradient(135deg,#111,#c026d3)}
+.tb-sm svg{width:16px;height:16px;fill:#fff;background:none!important;padding:0!important;box-shadow:none!important;border-radius:0!important;display:block}
+@media (max-width:420px){.tb-sm a{width:26px;height:26px}.tb-sm svg{width:14px;height:14px}}
+
+#th-lock{position:fixed;inset:0;z-index:9998;background:transparent;cursor:not-allowed}
+.th-previewing{overflow-x:hidden}
+#th-prev{position:fixed;left:50%;bottom:14px;transform:translateX(-50%);z-index:9999;display:flex;gap:10px;align-items:center;flex-wrap:wrap;justify-content:center;max-width:94vw;padding:10px 14px;border-radius:14px;background:#111;color:#fff;border:1px solid #777;box-shadow:0 8px 28px rgba(0,0,0,.45);font-size:13px}
+#th-prev .pv-x{background:#fff;color:#111;border:0;border-radius:10px;padding:8px 14px;font-weight:800;cursor:pointer}

@@ -1,0 +1,25 @@
+node_modules/
+.env
+.env.local
+.DS_Store
+*.log
+.netlify/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+backup/kanji-lama-vietnamese.json
+backup/vi-arti-unique.txt
+graphify-out/
+
+# Rahasia & konfigurasi lokal — JANGAN PERNAH di-commit (R2 / Cloudflare / rclone)
+.env*
+*.pem
+*.key
+rclone.conf
+.rclone.conf
+.dev.vars
+wrangler.toml.local
+r2-credentials*
+*secret*
+audio-map.local.json
