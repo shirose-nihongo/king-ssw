@@ -23,7 +23,7 @@
 <link rel="icon" href="./icon-192.png"/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@400;700;800&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@400;700;800&family=Zen+Kaku+Gothic+New:wght@400;500;700&family=Klee+One:wght@400;600&family=Zen+Maru+Gothic:wght@400;500;700;900&family=Zen+Kurenaido&display=swap" rel="stylesheet"/>
 
 <style>
 :root{
@@ -175,6 +175,11 @@ body{
   .fab-nav{bottom:calc(14px + env(safe-area-inset-bottom)); right:14px;}
   .fab-nav .fab{width:48px; height:48px; font-size:18px;}
 }
+
+/* Anti tumpang-tindih: isi halaman selalu bisa di-scroll sampai di atas tombol melayang (Android & iPhone) */
+#app{padding-bottom:calc(96px + env(safe-area-inset-bottom))}
+.panel, .contoh-item{max-width:100%; overflow-wrap:anywhere}
+.fab-nav{max-width:calc(100vw - 20px)}
 
 /* ========== PWA INSTALL BUTTON + iOS modal ========== */
 .install-btn{
@@ -1370,13 +1375,13 @@ html{overflow-x:hidden;}
 .kimg{display:block;max-width:min(100%,360px);max-height:240px;margin:10px auto;border-radius:12px;object-fit:contain}
 .vf-row{margin:8px 0;font-size:13px;color:var(--gray);display:flex;gap:8px;align-items:center;flex-wrap:wrap}.vf-sw{display:inline-flex;gap:6px}
 </style>
-<link rel="stylesheet" href="./css/shirose-extra.css?v=20261116k"/>
+<link rel="stylesheet" href="./css/shirose-extra.css?v=20261116m"/>
 <link rel="stylesheet" href="./css/jlpt-center.css?v=20261109j"/>
 <link rel="stylesheet" href="./css/kana-center.css?v=20261114f"/>
 <link rel="stylesheet" href="./css/ssw.css?v=20261112zh"/>
 <link rel="stylesheet" href="./css/mensetsu.css?v=20261116a"/>
 <link rel="stylesheet" href="./css/jft.css?v=20261114f"/>
-<link rel="stylesheet" href="./css/themes.css?v=20261115g"/>
+<link rel="stylesheet" href="./css/themes.css?v=20261116w"/>
 </head>
 <body>
 
@@ -1421,7 +1426,7 @@ html{overflow-x:hidden;}
 
 <!-- ============ TOASTS ============ -->
 <div class="toast-wrap" id="toasts"></div>
-<script src="./js/themes.js?v=20261116k"></script>
+<script src="./js/themes.js?v=20261116p"></script>
 
 <!-- ============ LEVEL UP OVERLAY ============ -->
 <div class="levelup-overlay" id="levelup">
@@ -1432,17 +1437,17 @@ html{overflow-x:hidden;}
 </div>
 
 <script type="module">
-import { renderCharacter, CATALOG, CATALOG_LABELS, DEFAULT_EQUIPPED } from "./js/character.js?v=20261116k";
-import { allShopItems } from "./js/shop-seed.js?v=20261116k";
+import { renderCharacter, CATALOG, CATALOG_LABELS, DEFAULT_EQUIPPED } from "./js/character.js?v=20261116m";
+import { allShopItems } from "./js/shop-seed.js?v=20261116m";
 import * as KV from "./js/kanji-vocab.js?v=20261116n";   // kosakata berbasis Kanji (N5-N1)
 import { ACHIEVEMENTS } from "./js/achievements.js";
 // ?v=20261108h — cache-buster, lihat catatan sama di teacher.html.
-import * as FB from "./js/firebase-sync.js?v=20261116t";
+import * as FB from "./js/firebase-sync.js?v=20261116u";
 import { renderChoukaiJLPT, displayBar, applyDisplayPrefs } from "./js/choukai-jlpt.js?v=20261109c";
 import SV from "./js/voice.js?v=20261109c";
 import { renderJlpt, renderRiwayatJlpt, renderReviewJlpt, initJlpt, ringkasanTerakhir } from "./js/jlpt-center.js?v=20261114f";
 // Sesi Hiragana & Katakana + latihan menulis (berdiri sendiri, tidak terkait level JLPT)
-import { KANA_ROUTES, initKana } from "./js/kana-center.js?v=20261116k";
+import { KANA_ROUTES, initKana } from "./js/kana-center.js?v=20261116m";
 // SSW 特定技能 (Floating Learning Islands, peta bab, materi ID/JP, kosakata, flashcard SM-2, kuis)
 import { SSW_ROUTES, initSsw } from "./js/ssw.js?v=20261114f";
 import { JFT_ROUTES, initJft } from "./js/jft.js?v=20261115b";
@@ -2968,7 +2973,7 @@ window.showMateri = async (tipe, idx, vno) => {
         ${contoh ? `<div class="contoh-item" style="justify-content:flex-start; flex-direction:column; text-align:left; position:relative;">
           <div class="jp">${_rubyJp(contoh)} <button class="say-mini" title="Dengarkan contoh" data-say="${SV.escAttr(contoh)}" data-role="kosakata-contoh" onclick="SV.btn(this)">🔊</button></div>
           <div class="id" style="text-align:left;">${contohArti}</div>
-          <button class="btn sm ghost" style="position:absolute; top:6px; right:6px; padding:4px 8px;"
+          <button class="btn sm ghost" style="align-self:flex-end; margin-top:8px; padding:6px 12px;"
                   onclick='rangkumPopup({}, "Contoh kalimat: ${contoh.replace(/"/g,"\\&quot;").slice(0,60)}")'>➕ Rangkum</button>
         </div>` : ""}
         <div style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap; margin-top:16px;">
@@ -5719,9 +5724,15 @@ FB.onAuth(async (user, siswa) => {
 
   // Snap to an allowed level before loading gami / rendering routes
   if (user && siswa) enforceLevelAccess();
-  await loadGami();
+  // Jangan biarkan UI menunggu jaringan: tunggu data XP/koin paling lama 1,2 dtk, sisanya dimuat di latar belakang.
+  const _gp = loadGami();
+  await Promise.race([_gp.catch(() => {}), new Promise(r => setTimeout(r, 1200))]);
   renderLevelPills();
   updateChips();
+  _gp.then(() => {
+    try { updateChips(); renderLevelPills(); } catch (_) {}
+    if ((location.hash.slice(1) || "home") === "home" && state.user) { try { route("home"); } catch (_) {} }
+  }).catch(() => {});
 
   const currentHash = (location.hash.slice(1) || "").split("/")[0];
 

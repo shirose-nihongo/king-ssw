@@ -35,6 +35,7 @@
   function layer(t){
     var w=document.getElementById("wx");
     if(!w){w=document.createElement("div");w.id="wx";document.body.insertBefore(w,document.body.firstChild)}
+    if(!animTheme()){w.innerHTML=scene(t);return}
     var h=scene(t),i,r=function(a,b){return a+Math.random()*(b-a)};
     if(t==="hujan"||t==="badai"){for(i=0;i<(t==="badai"?55:40);i++)h+='<i class="drop" style="left:'+r(0,100).toFixed(1)+'%;animation-duration:'+r(.7,1.3).toFixed(2)+'s;animation-delay:-'+r(0,2).toFixed(2)+'s;opacity:'+r(.35,.8).toFixed(2)+'"></i>'}
     if(t==="badai")h+='<i class="flash"></i>';
@@ -49,6 +50,46 @@
     layer(t);
     var mn=document.getElementById("th-menu");if(mn)[].forEach.call(mn.querySelectorAll("button"),function(b){b.classList.toggle("on",b.dataset.t===t)});
   }
+  /* Animasi dipisah: KARAKTER (SMIL senjata/sayap/aura) dan TEMA (hujan, salju, daun, dll).
+     localStorage: 'shirose-anim-char' & 'shirose-anim-theme' ('0' = mati). Kunci lama 'shirose-anim' jadi nilai awal keduanya. */
+  function flag(k){try{var v=localStorage.getItem("shirose-anim-"+k);if(v===null)v=localStorage.getItem("shirose-anim");return v!=="0"}catch(e){return true}}
+  function animChar(){return flag("char")}
+  function animTheme(){return flag("theme")}
+  function applyAnim(){
+    var c=animChar(),t=animTheme(),H=document.documentElement;
+    H.setAttribute("data-anim-char",c?"on":"off");H.setAttribute("data-anim-theme",t?"on":"off");
+    var bc=document.getElementById("th-anim-c"),bt=document.getElementById("th-anim-t");
+    if(bc)bc.innerHTML=c?"🧍 Animasi karakter: <b>ON</b>":"🧍 Animasi karakter: <b>OFF</b>";
+    if(bt)bt.innerHTML=t?"🌦️ Animasi tema: <b>ON</b>":"🌦️ Animasi tema: <b>OFF</b>";
+  }
+  function setAnim(k,on){
+    try{localStorage.setItem("shirose-anim-"+k,on?"1":"0")}catch(e){}
+    applyAnim();
+    if(k==="char"){if(on)unfreeze();else freeze();try{if(typeof window.route==="function")window.route(location.hash.slice(1)||"home")}catch(e){}}
+    else layer(get());
+  }
+  /* Karakter OFF: bekukan animasi SMIL di pose awal (item tetap tampil, tidak bergerak) */
+  var frT=0;
+  function freeze(){
+    if(animChar())return;
+    [].forEach.call(document.querySelectorAll("svg"),function(v){try{v.pauseAnimations();v.setCurrentTime(0)}catch(e){}});
+  }
+  function freezeSoon(){if(animChar())return;clearTimeout(frT);frT=setTimeout(freeze,60)}
+  try{new MutationObserver(freezeSoon).observe(document.documentElement,{childList:true,subtree:true})}catch(e){}
+  function unfreeze(){[].forEach.call(document.querySelectorAll("svg"),function(v){try{v.unpauseAnimations()}catch(e){}})}
+  window.SHIROSE_ANIM={char:animChar,theme:animTheme,set:setAnim};
+  /* ===== Font Jepang (dipilih di samping "Ganti tema"). Disimpan di localStorage 'shirose-jpfont' ===== */
+  var FK="shirose-jpfont";
+  /* [id, nama, keterangan, font-family contoh] */
+  var FN=[["mincho","Mincho (bawaan)","さ・き menyambung","'Shippori Mincho B1','Noto Serif JP',serif"],["kyokasho","Kyokasho (buku pelajaran)","さ・き terpisah","'Klee One','Noto Serif JP',serif"],["gothic","Gothic","さ・き terpisah","'Zen Kaku Gothic New','Noto Sans JP',sans-serif"],["maru","Maru (bulat)","さ・き terpisah","'Zen Maru Gothic','Noto Sans JP',sans-serif"],["pena","Tulisan pena","さ・き terpisah","'Zen Kurenaido','Noto Sans JP',sans-serif"]];
+  function fget(){try{var v=localStorage.getItem(FK);return FN.some(function(f){return f[0]===v})?v:"mincho"}catch(e){return "mincho"}}
+  function fapply(f){
+    document.documentElement.setAttribute("data-jpfont",f);
+    var mn=document.getElementById("fn-menu");if(mn)[].forEach.call(mn.querySelectorAll("button"),function(b){b.classList.toggle("on",b.dataset.f===f)});
+  }
+  function fset(f){try{localStorage.setItem(FK,f)}catch(e){}fapply(f)}
+  fapply(fget());
+  window.SHIROSE_JPFONT={get:fget,set:fset,list:FN};
   function set(t){try{localStorage.setItem(KEY,t)}catch(e){}apply(t)}
   function setOwned(ids){OWNED={};(ids||[]).forEach(function(i){if(/^theme_/.test(i))OWNED[i.slice(6)]=1});apply(get())}
   window.SHIROSE_THEME={set:set,get:get,locked:locked,list:TH,setOwned:setOwned,preview:preview,closePreview:closePreview,refresh:function(){apply(get())}};
@@ -75,18 +116,29 @@
     tr.insertBefore(w,tr.firstChild);
   }
   function init(){
-    apply(get());sosmedTop();
+    applyAnim();apply(get());sosmedTop();
     var tr=document.querySelector(".topbar-right");
     if(tr&&!document.getElementById("th-menu")){
       var d=document.createElement("div");d.className="th-wrap";
-      d.innerHTML='<button class="th-btn" id="th-btn" title="Ganti tema" aria-label="Ganti tema">🎨 <span class="th-txt">Ganti tema</span></button><div class="th-menu" id="th-menu">'+TH.map(function(t){return '<button data-t="'+t[0]+'">'+t[1]+' '+t[2]+'<small class="th-lk"></small></button>'}).join("")+'</div>';
+      d.innerHTML='<button class="th-btn" id="th-btn" title="Ganti tema" aria-label="Ganti tema">🎨 <span class="th-txt">Ganti tema</span></button><div class="th-menu" id="th-menu">'+TH.map(function(t){return '<button data-t="'+t[0]+'">'+t[1]+' '+t[2]+'<small class="th-lk"></small></button>'}).join("")+'<button data-anim="char" id="th-anim-c" class="th-anim"></button><button data-anim="theme" id="th-anim-t" class="th-anim"></button></div>';
       tr.insertBefore(d,tr.firstChild);
       d.querySelector("#th-btn").onclick=function(e){e.stopPropagation();document.getElementById("th-menu").classList.toggle("open")};
       function mark(){[].forEach.call(document.querySelectorAll("#th-menu button"),function(b){var L=locked(b.dataset.t),m=TH.filter(function(t){return t[0]===b.dataset.t})[0][4];b.classList.toggle("lock",L);b.querySelector(".th-lk").textContent=L?"🔒 Lv "+m:""})}
       d.querySelector("#th-btn").addEventListener("click",mark);
-      d.querySelector("#th-menu").onclick=function(e){var b=e.target.closest("button");if(b){if(locked(b.dataset.t)){preview(b.dataset.t);document.getElementById("th-menu").classList.remove("open");return}clearPrev();set(b.dataset.t);document.getElementById("th-menu").classList.remove("open")}};
+      d.querySelector("#th-menu").onclick=function(e){var b=e.target.closest("button");if(b&&b.dataset.anim){var kk=b.dataset.anim;setAnim(kk,!(kk==="char"?animChar():animTheme()));return}if(b){if(locked(b.dataset.t)){preview(b.dataset.t);document.getElementById("th-menu").classList.remove("open");return}clearPrev();set(b.dataset.t);document.getElementById("th-menu").classList.remove("open")}};
       document.addEventListener("click",function(){var m=document.getElementById("th-menu");if(m)m.classList.remove("open")});
-      apply(get());
+      applyAnim();apply(get());
+    }
+    if(tr&&!document.getElementById("fn-menu")){
+      var f=document.createElement("div");f.className="th-wrap";
+      f.innerHTML='<button class="th-btn" id="fn-btn" title="Ganti font Jepang" aria-label="Ganti font Jepang">あ <span class="th-txt">Font</span></button><div class="th-menu fn-menu" id="fn-menu">'+FN.map(function(x){return '<button data-f="'+x[0]+'"><span class="fn-s" style="font-family:'+x[3]+'">さきあ</span><span class="fn-n">'+x[1]+'<small>'+x[2]+'</small></span></button>'}).join("")+'</div>';
+      var anchor=document.querySelector(".th-wrap");
+      tr.insertBefore(f,anchor?anchor.nextSibling:tr.firstChild);
+      f.querySelector("#fn-btn").onclick=function(e){e.stopPropagation();var t=document.getElementById("th-menu");if(t)t.classList.remove("open");document.getElementById("fn-menu").classList.toggle("open")};
+      f.querySelector("#fn-menu").onclick=function(e){var b=e.target.closest("button");if(b){fset(b.dataset.f);document.getElementById("fn-menu").classList.remove("open")}};
+      document.addEventListener("click",function(){var m=document.getElementById("fn-menu");if(m)m.classList.remove("open")});
+      var tb=document.getElementById("th-btn");if(tb)tb.addEventListener("click",function(){document.getElementById("fn-menu").classList.remove("open")},true);
+      fapply(fget());
     }
   }
   if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init);else init();
