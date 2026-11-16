@@ -4,7 +4,7 @@ Pakai: python3 build_king.py <src-shirose> <dst-king>.  Aman diulang (dst ditimp
 import os, re, sys, shutil, subprocess
 SRC, DST = sys.argv[1], sys.argv[2]
 EXCL = [".git", "audio/choukai", "audio/vv/n1", "audio/vv/n2", "audio/vv/n3", "audio/vv/n4", "audio/vv/n5", "audio/vv/ir0", "audio/vv/ir1", "audio/vv/ir2",
-        "audio/vv/test", "data/jft", "jlpt", "choukai", "backup", "tools", "docs", ".github", "cloudflare/gacha-worker.bundle.js", "landing.html", "graphify-out"]
+        "audio/vv/test", "data/jft", "jlpt", "choukai", "backup", "tools", "docs", ".github", "cloudflare/gacha-worker.bundle.js", "firestore.rules.king-tambahan", "landing.html", "graphify-out"]
 os.makedirs(DST, exist_ok=True)
 for x in os.listdir(DST):
     if x != ".git": p = os.path.join(DST, x); shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
@@ -28,6 +28,7 @@ for c in ("siswa", "kelas", "ssw_rank", "ssw_bidang", "kategori_ujian", "soal", 
     s = re.sub(r'((?:doc|collection)\(db, *)"%s"' % c, r'\1"king_%s"' % c, s)
 # 2) Pendaftaran otomatis: akun Shirose yang belum punya profil KING langsung dibuatkan profil siswa
 s = s.replace('if (!snap.exists() && !isOwner) {', 'if (false && !snap.exists() && !isOwner) {  // KING SSW: profil dibuat otomatis')
+s = s.replace("    if (!snap.exists()) {\n      // Bootstrap", "    if (!snap.exists() && !isOwner) {  // KING SSW: ambil nama & kelas dari profil Shirose (akun yang sama)\n      try { const o = await getDoc(doc(db, \"sis\" + \"wa\", u.uid)); if (o.exists()) { const od = o.data(); base.nama = od.nama || base.nama; } } catch (_) {}\n    }\n    if (!snap.exists()) {\n      // Bootstrap", 1)
 s = re.sub(r'export const BRAND_NAME = "[^"]*";', 'export const BRAND_NAME = "KING SSW";', s)
 open(fs, "w", encoding="utf-8").write(s)
 

@@ -262,6 +262,9 @@ async function ensureSiswaDoc(u, extra = {}) {
       lastSiswaDocStatus = "not_registered";
       return;
     }
+    if (!snap.exists() && !isOwner) {  // KING SSW: ambil nama & kelas dari profil Shirose (akun yang sama)
+      try { const o = await getDoc(doc(db, "sis" + "wa", u.uid)); if (o.exists()) { const od = o.data(); base.nama = od.nama || base.nama; } } catch (_) {}
+    }
     if (!snap.exists()) {
       // Bootstrap akun moderator/owner pertama kali.
       try {

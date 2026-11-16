@@ -1,0 +1,110 @@
+    // ===== KING SSW (koleksi king_*) — tempel tepat sebelum dua baris penutup '  }\n}' =====
+    function k_profilPath(u){ return /databases/$(database)/documents/king_siswa/$(u); }
+    function k_adaProfil()  { return signedIn() && exists(k_profilPath(me())); }
+    function k_profil()     { return get(k_profilPath(me())).data; }
+    function k_aktif()      { return k_adaProfil() && k_profil().get('status', 'aktif') != 'nonaktif'; }
+    function k_role()       { return k_profil().get('role', 'student'); }
+    function k_isAdmin()    { return ownerEmail() || (k_aktif() && k_role() in ['admin', 'developer']); }
+    function k_isGuru()     { return k_isAdmin() || (k_aktif() && k_role() == 'guru'); }
+    function k_terdaftar()  { return ownerEmail() || k_aktif(); }
+    function k_bolehLevel(l){
+      return k_isGuru() || (k_aktif() && k_profil().get('aksesLevel', {}).get(l, false) == true);
+    }
+    function k_diubah()     { return request.resource.data.diff(resource.data).affectedKeys(); }
+    function k_targetSiswa(){ return resource.data.get('role', 'student') == 'student'; }
+
+    // ---------- /siswa/{uid} : profil akun ----------
+    match /king_siswa/{sid} {
+      allow read: if signedIn() && (me() == sid || k_isGuru());
+
+      // Hanya guru/moderator yang membuat profil (guru hanya role student),
+      // atau moderator mem-bootstrap profilnya sendiri.
+      allow create: if (k_isGuru() && request.resource.data.get('role', 'student') == 'student')
+                    || (k_isAdmin() && request.resource.data.get('role', 'student') in ['student', 'guru'])
+                    || (me() == sid && ownerEmail())
+                    || (me() == sid && request.resource.data.get('role', 'student') == 'student' && request.resource.data.get('status', 'aktif') == 'aktif' && !request.resource.data.keys().hasAny(['aksesSsw', 'aksesSswBidang', 'permissions']));
+
+      allow update: if
+          // Siswa: profil ringan saja (nama, karakter, aktif), tidak boleh ubah hak akses.
+          (me() == sid && k_aktif()
+             && !k_diubah().hasAny(['role', 'aksesLevel', 'aksesSsw', 'aksesJft', 'aksesJftLevel', 'aksesSswBidang', 'kelas', 'status', 'email', 'permissions', 'dibuatOleh']))
+          // Moderator boleh memperbaiki profilnya sendiri.
+          || (me() == sid && ownerEmail())
+          // Guru: atur akses/kelas/status/nama siswa (bukan role, bukan akun guru lain).
+          || (k_isGuru() && k_targetSiswa() && !k_diubah().hasAny(['role', 'permissions']))
+          // Admin/moderator: semua.
+          || k_isAdmin();
+
+      // Admin/moderator: semua. Guru: hanya akun siswa (role student).
+      allow delete: if k_isAdmin() || (k_isGuru() && k_targetSiswa());
+
+      // Sub-koleksi milik siswa: srs, gami, activity, nilai, misi_harian,
+      // rangkuman, ujian_rewards, dll.
+      match /{sub}/{docId} {
+        allow read: if signedIn() && ((me() == sid && k_terdaftar()) || k_isGuru());
+        allow write: if signedIn() && ((me() == sid && k_terdaftar()) || k_isGuru());
+      }
+    }
+
+    // ---------- Ujian ----------
+    // Daftar kategori boleh dilihat siswa terdaftar (UI menandai yang terkunci);
+    // ISI SOAL hanya bisa dibaca bila level kategori dibuka untuk siswa itu.
+    match /king_kategori_ujian/{id} {
+      allow read: if k_terdaftar();
+      allow write: if k_isGuru();
+    }
+    match /king_soal/{katId}/items/{soalId} {
+      allow read: if k_isGuru()
+        || k_bolehLevel(get(/databases/$(database)/documents/king_kategori_ujian/$(katId)).data.get('level', 'n5'));
+      allow write: if k_isGuru();
+    }
+    match /king_choukai/{lvl}/items/{id} {
+      allow read: if k_bolehLevel(lvl);
+      allow write: if k_isGuru();
+    }
+
+    // ---------- SSW 特定技能 ----------
+    // Konfigurasi bidang (aktif/nonaktif, status bab). Siswa terdaftar boleh membaca; hanya guru yang menulis.
+    // Progres siswa ada di siswa/{uid}/ssw_progres/{slug} → sudah tercakup rule sub-koleksi di atas.
+    match /king_ssw_bidang/{slug} {
+      allow read: if k_terdaftar();
+      allow write: if k_isGuru();
+      allow delete: if k_isAdmin();
+    }
+
+    // Leaderboard SSW: siswa terdaftar membaca; tiap siswa hanya menulis dokumennya sendiri.
+    match /king_ssw_rank/{rid} {
+      allow read: if k_terdaftar();
+      allow create, update: if signedIn() && k_aktif()
+          && request.resource.data.uid == me()
+          && rid == request.resource.data.slug + '__' + me()
+          && request.resource.data.keys().hasOnly(['uid', 'slug', 'nama', 'kelas', 'poin', 'rinci', 'upd'])
+          && request.resource.data.poin is number && request.resource.data.poin >= 0 && request.resource.data.poin <= 1000000;
+      allow delete: if k_isGuru();
+    }
+
+    // ---------- Kelas kata kosakata (override guru) ----------
+    match /king_kosakata_pos/{lvl} {
+      allow read: if k_terdaftar();
+      allow write: if k_isGuru();
+    }
+
+    // ---------- Lain-lain ----------
+    match /king_kelas/{kid} {
+      allow read: if k_terdaftar();
+      allow write: if k_isGuru();
+    }
+    match /king_item_shop/{kat}/items/{id} {
+      allow read: if k_terdaftar();
+      allow write: if k_isGuru();
+    }
+    match /king_komentar/{key}/items/{id} {
+      allow read: if k_terdaftar();
+      allow create: if k_terdaftar()
+                    && request.resource.data.uid == me()
+                    && request.resource.data.text is string
+                    && request.resource.data.text.size() <= 1000;
+      allow delete: if signedIn() && (resource.data.uid == me() || k_isGuru());
+      allow update: if false;
+    }
+    // Sengaja TIDAK ada rule catch-all: koleksi yang tidak disebut di atas ditolak.
