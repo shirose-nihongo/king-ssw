@@ -1,0 +1,514 @@
+{
+ "schema": 1,
+ "bidang": "auto-maintenance",
+ "source": "JICA「みてまなぶ！自動車整備の日本語」(2023年12月30日第1版) https://www.jica.go.jp/activities/issues/transport/mechanic/health_safety_text/index.html",
+ "markup": "Teks JP memakai {kanji|furigana}; **tebal**.",
+ "bab": {
+  "id": "bab3",
+  "no": 3,
+  "title": {
+   "id": "Kata kerja dalam perawatan mobil",
+   "jp": "{自動車整備|じどうしゃせいび}で{使|つか}う{動詞|どうし}"
+  },
+  "intro": {
+   "id": "Kata kerja yang dipakai dalam instruksi kerja sehari-hari, beserta contoh kalimat.",
+   "jp": "{整備|せいび}の{仕事|しごと}でよく{使|つか}う{動詞|どうし}と{例文|れいぶん}をおぼえます。"
+  },
+  "pages": [
+   39,
+   43
+  ],
+  "subs": [
+   {
+    "id": "b3s1",
+    "no": 1,
+    "title": {
+     "id": "Kata kerja: keselamatan & kebersihan",
+     "jp": "{安全衛生|あんぜんえいせい}・{清掃|せいそう}の{動詞|どうし}"
+    },
+    "pages": [
+     39,
+     39
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 39 — Kata kerja: keselamatan, kesehatan, kebersihan"
+      },
+      {
+       "ul": [
+        "① **気を付ける** (きをつける · kiotsukeru) — berhati-hati; alias/keterangan: 気付けや（Kansai). Contoh: 重たい部品や大型車のタイヤをもちあげるとき、リフトをあげるとき、気を付けて。 → Hati-hati saat mengangkat komponen berat/ban kendaraan besar atau menaikkan lift.",
+        "② **戻す** (もどす · modosu) — mengembalikan; alias/keterangan: 片す、直す. Contoh: ジャッキ、もどしといて。 → Tolong kembalikan dongkrak.",
+        "③ **磨く** (みがく · migaku) — menggosok, memoles. Keterangan: Tolong poles bodinya.",
+        "④ **片づける** (かたづける · katazukeru) — merapikan, membereskan; alias/keterangan: 片す、戻す、直す. Contoh: バンパーを、片づけて。 → Tolong bereskan bemper itu.",
+        "⑤ **掃除する** (そうじする · soujisuru) — membersihkan; alias/keterangan: さらう. Contoh: 車内を掃除して。 → Tolong bersihkan bagian dalam mobil.",
+        "⑥ **ふく** (ふく · fuku) — mengelap; alias/keterangan: 拭く. Contoh: 床をふいて。 → Tolong lap lantainya.",
+        "⑦ **掃く** (はく · haku) — menyapu; alias/keterangan: さらう. Contoh: ほうきではいて。 → Sapu dengan sapu.",
+        "⑧ **洗う** (あらう · arau) — mencuci; alias/keterangan: 洗車する. Contoh: 手を洗って。車洗って。 → Cuci tangan. Cuci mobilnya.",
+        "⑨ **きれいにする** (きれいにする · kireinisuru) — membersihkan, merapikan. Keterangan: Tolong bersihkan keset lantainya."
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 39"
+      },
+      {
+       "ul": [
+        "① **{気を付ける|きをつける}** (気付けや（Kansai))：重たい部品や大型車のタイヤをもちあげるとき、リフトをあげるとき、気を付けて。",
+        "② **{戻す|もどす}** (片す、直す)：ジャッキ、もどしといて。",
+        "③ **{磨く|みがく}**：ボディ、磨いて。",
+        "④ **{片づける|かたづける}** (片す、戻す、直す)：バンパーを、片づけて。",
+        "⑤ **{掃除する|そうじする}** (さらう)：車内を掃除して。",
+        "⑥ **ふく** (拭く)：床をふいて。",
+        "⑦ **{掃く|はく}** (さらう)：ほうきではいて。",
+        "⑧ **{洗う|あらう}** (洗車する)：手を洗って。車洗って。",
+        "⑨ **きれいにする**：フロアマットをきれいにして。"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 9 istilah Jepang dari buku JICA (hal. 39–39).",
+      "points": [
+       "**気を付ける** = berhati-hati",
+       "**戻す** = mengembalikan",
+       "**磨く** = menggosok, memoles",
+       "**片づける** = merapikan, membereskan",
+       "**掃除する** = membersihkan"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを9こおぼえます。",
+      "points": [
+       "**{気を付ける|きをつける}**",
+       "**{戻す|もどす}**",
+       "**{磨く|みがく}**",
+       "**{片づける|かたづける}**",
+       "**{掃除する|そうじする}**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b3s2",
+    "no": 2,
+    "title": {
+     "id": "Kata kerja: ruang mesin",
+     "jp": "エンジンルーム{点検|てんけん}の{動詞|どうし}"
+    },
+    "pages": [
+     39,
+     40
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 39 — Kata kerja: pemeriksaan ruang mesin (1)"
+      },
+      {
+       "ul": [
+        "① **かえる** (かえる · kaeru) — mengganti; alias/keterangan: 替える／取り替える、交換する. Contoh: ワイパーかえようか。オイルかえようか。エレメントもかえて。 → Ganti wiper? Ganti oli? Elemen juga tolong diganti.",
+        "② **すてる** (すてる · suteru) — membuang; alias/keterangan: 捨てる、ほかす、なげる. Contoh: ゴミ、すてといて。 → Tolong buang sampahnya."
+       ]
+      },
+      {
+       "h": "Hal. 40 — Kata kerja: pemeriksaan ruang mesin (2)"
+      },
+      {
+       "ul": [
+        "③ **さます** (さます · samasu) — mendinginkan; alias/keterangan: 冷ます、ひやす. Contoh: エンジンさまして。 → Tolong dinginkan mesinnya.",
+        "④ **張る** (はる · haru) — mengencangkan (sabuk); alias/keterangan: ひっぱる. Contoh: ベルトを張って。 → Tolong kencangkan sabuknya.",
+        "⑤ **オンにする** (おんにする · onnisuru) — menghidupkan (ON); alias/keterangan: オンして. Contoh: IG（イグニッション）オンして。 → Hidupkan kunci kontak (ON).",
+        "⑥ **オフにする** (おふにする · ofunisuru) — mematikan (OFF); alias/keterangan: ⇔オン. Contoh: IG（イグニッション）オフして。 → Matikan kunci kontak (OFF).",
+        "⑦ **エンジンをかける** (えんじんをかける · enjinokakeru) — menghidupkan mesin. Keterangan: Hidupkan mesinnya.",
+        "⑧ **調整する** (ちょうせいする · chouseisuru) — menyetel; alias/keterangan: 調節する、あわせる. Contoh: 空気圧を調節して。 → Tolong setel tekanan angin.",
+        "⑨ **あける** (あける · akeru) — membuka; alias/keterangan: 開ける. Contoh: ボンネットをあけて。 → Tolong buka kap mesin.",
+        "⑩ **しめる** (しめる · shimeru) — menutup; alias/keterangan: 閉める. Contoh: ボンネットをしめて。 → Tolong tutup kap mesin.",
+        "⑪ **止める** (とめる · tomeru) — menghentikan, mematikan. Keterangan: Matikan mesinnya.",
+        "⑫ **とる** (とる · toru) — mengambil. Keterangan: Tolong ambilkan ratchet.",
+        "⑬ **とりだす** (とりだす · toridasu) — mengeluarkan; alias/keterangan: はずす、とりはずす. Contoh: エアコン・フィルターをとりだして。 → Tolong keluarkan filter AC.",
+        "⑭ **つなぐ** (つなぐ · tsunagu) — menyambung; alias/keterangan: はめる. Contoh: エア・ホースをつないで。 → Sambungkan selang udara.",
+        "⑮ **はずす** (はずす · hazusu) — melepas; alias/keterangan: とりはずす. Contoh: エア・クリーナーをはずして。バッテリーとりはずして。 → Lepas saringan udara. Lepas aki.",
+        "⑯ **点検する** (てんけんする · tenkensuru) — memeriksa; alias/keterangan: みる. Contoh: エンジンルームを、点検して。 → Periksa ruang mesin."
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 39"
+      },
+      {
+       "ul": [
+        "① **かえる** (替える／取り替える、交換する)：ワイパーかえようか。オイルかえようか。エレメントもかえて。",
+        "② **すてる** (捨てる、ほかす、なげる)：ゴミ、すてといて。"
+       ]
+      },
+      {
+       "h": "ページ 40"
+      },
+      {
+       "ul": [
+        "③ **さます** (冷ます、ひやす)：エンジンさまして。",
+        "④ **{張る|はる}** (ひっぱる)：ベルトを張って。",
+        "⑤ **オンにする** (オンして)：IG（イグニッション）オンして。",
+        "⑥ **オフにする** (⇔オン)：IG（イグニッション）オフして。",
+        "⑦ **エンジンをかける**：エンジンをかけて。",
+        "⑧ **{調整する|ちょうせいする}** (調節する、あわせる)：空気圧を調節して。",
+        "⑨ **あける** (開ける)：ボンネットをあけて。",
+        "⑩ **しめる** (閉める)：ボンネットをしめて。",
+        "⑪ **{止める|とめる}**：エンジンをとめて。",
+        "⑫ **とる**：ラチェットをとって。",
+        "⑬ **とりだす** (はずす、とりはずす)：エアコン・フィルターをとりだして。",
+        "⑭ **つなぐ** (はめる)：エア・ホースをつないで。",
+        "⑮ **はずす** (とりはずす)：エア・クリーナーをはずして。バッテリーとりはずして。",
+        "⑯ **{点検する|てんけんする}** (みる)：エンジンルームを、点検して。"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 16 istilah Jepang dari buku JICA (hal. 39–40).",
+      "points": [
+       "**かえる** = mengganti",
+       "**すてる** = membuang",
+       "**さます** = mendinginkan",
+       "**張る** = mengencangkan (sabuk)",
+       "**オンにする** = menghidupkan (ON)"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを16こおぼえます。",
+      "points": [
+       "**かえる**",
+       "**すてる**",
+       "**さます**",
+       "**{張る|はる}**",
+       "**オンにする**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b3s3",
+    "no": 3,
+    "title": {
+     "id": "Kata kerja: kaki-kaki",
+     "jp": "{足|あし}まわり{点検|てんけん}の{動詞|どうし}"
+    },
+    "pages": [
+     40,
+     41
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 40 — Kata kerja: pemeriksaan kaki-kaki (1)"
+      },
+      {
+       "ul": [
+        "① **入れ替える** (いれかえる · irekaeru) — menukar posisi; alias/keterangan: ローテーションして. Contoh: タイヤ（の前と後ろ）を入れ替えて。 → Tukar posisi ban depan dan belakang (rotasi ban).",
+        "② **はずす** (はずす · hazusu) — melepas; alias/keterangan: とる、ばらす. Contoh: タイヤをはずして。ブレーキはずして。 → Lepas bannya. Lepas remnya."
+       ]
+      },
+      {
+       "h": "Hal. 41 — Kata kerja: pemeriksaan kaki-kaki (2)"
+      },
+      {
+       "ul": [
+        "③ **つける** (つける · tsukeru) — memasang; alias/keterangan: とりつける、組む、組みつける、はめる. Contoh: タイヤ、つけて。ブレーキ、ドラムを組んどいて。 → Pasang bannya. Rakit tromol remnya.",
+        "④ **分解する** (ぶんかいする · bunkaisuru) — membongkar; alias/keterangan: ばらす、あける. Contoh: ドラムブレーキを分解して。 → Bongkar rem tromol.",
+        "⑤ **ゆるめる** (ゆるめる · yurumeru) — mengendurkan; alias/keterangan: 緩める. Contoh: ナットをゆるめて。ボルト緩めて。 → Kendurkan murnya. Kendurkan bautnya.",
+        "⑥ **しめる** (しめる · shimeru) — mengencangkan; alias/keterangan: 締める⇔ゆるめる. Contoh: ナットをしめて。ドレーン、締めといて。 → Kencangkan murnya. Kencangkan drain.",
+        "⑦ **動かす** (うごかす · ugokasu) — menggerakkan, memindahkan; alias/keterangan: どかす、ころがす. Contoh: オイル・ドレーナーを、動かして。 → Pindahkan penampung oli.",
+        "⑧ **もちあげる** (もちあげる · mochiageru) — mengangkat; alias/keterangan: あげる. Contoh: タイヤをもちあげて。 → Angkat bannya.",
+        "⑨ **削る** (けずる · kezuru) — mengikis, menyerut. Keterangan: Kikis sepatu rem (saat berbunyi mencicit)."
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 40"
+      },
+      {
+       "ul": [
+        "① **{入れ替える|いれかえる}** (ローテーションして)：タイヤ（の前と後ろ）を入れ替えて。",
+        "② **はずす** (とる、ばらす)：タイヤをはずして。ブレーキはずして。"
+       ]
+      },
+      {
+       "h": "ページ 41"
+      },
+      {
+       "ul": [
+        "③ **つける** (とりつける、組む、組みつける、はめる)：タイヤ、つけて。ブレーキ、ドラムを組んどいて。",
+        "④ **{分解する|ぶんかいする}** (ばらす、あける)：ドラムブレーキを分解して。",
+        "⑤ **ゆるめる** (緩める)：ナットをゆるめて。ボルト緩めて。",
+        "⑥ **しめる** (締める⇔ゆるめる)：ナットをしめて。ドレーン、締めといて。",
+        "⑦ **{動かす|うごかす}** (どかす、ころがす)：オイル・ドレーナーを、動かして。",
+        "⑧ **もちあげる** (あげる)：タイヤをもちあげて。",
+        "⑨ **{削る|けずる}**：ブレーキシューを削って。（キーッという音がするとき）"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 9 istilah Jepang dari buku JICA (hal. 40–41).",
+      "points": [
+       "**入れ替える** = menukar posisi",
+       "**はずす** = melepas",
+       "**つける** = memasang",
+       "**分解する** = membongkar",
+       "**ゆるめる** = mengendurkan"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを9こおぼえます。",
+      "points": [
+       "**{入れ替える|いれかえる}**",
+       "**はずす**",
+       "**つける**",
+       "**{分解する|ぶんかいする}**",
+       "**ゆるめる**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b3s4",
+    "no": 4,
+    "title": {
+     "id": "Kata kerja: bagian bawah",
+     "jp": "{下|した}まわり{点検|てんけん}の{動詞|どうし}"
+    },
+    "pages": [
+     41,
+     41
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 41 — Kata kerja: pemeriksaan bagian bawah"
+      },
+      {
+       "ul": [
+        "① **もつ** (もつ · motsu) — memegang; alias/keterangan: ささえる. Contoh: マフラーをもって。 → Pegang knalpotnya.",
+        "② **上げる** (あげる · ageru) — menaikkan. Keterangan: Naikkan lift. Naikkan dongkrak.",
+        "③ **おろす** (おろす · orosu) — menurunkan; alias/keterangan: さげる（⇔上げる）. Contoh: リフトを、おろして。 → Turunkan lift.",
+        "④ **入れる** (いれる · ireru) — memasukkan, mengisi. Keterangan: Isi oli mesin.",
+        "⑤ **抜く** (ぬく · nuku) — mengeluarkan, menguras; alias/keterangan: （オイルを）出す（⇔入れる）. Contoh: エンジン・オイルを抜いて。 → Kuras oli mesin.",
+        "⑥ **はずす** (はずす · hazusu) — melepas. Keterangan: Lepas konektornya."
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 41"
+      },
+      {
+       "ul": [
+        "① **もつ** (ささえる)：マフラーをもって。",
+        "② **{上げる|あげる}**：リフトをあげて。ジャッキ、あげて。",
+        "③ **おろす** (さげる（⇔上げる）)：リフトを、おろして。",
+        "④ **{入れる|いれる}**：エンジン・オイルを入れて。",
+        "⑤ **{抜く|ぬく}** (（オイルを）出す（⇔入れる）)：エンジン・オイルを抜いて。",
+        "⑥ **はずす**：コネクターをはずして。"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 6 istilah Jepang dari buku JICA (hal. 41–41).",
+      "points": [
+       "**もつ** = memegang",
+       "**上げる** = menaikkan",
+       "**おろす** = menurunkan",
+       "**入れる** = memasukkan, mengisi",
+       "**抜く** = mengeluarkan, menguras"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを6こおぼえます。",
+      "points": [
+       "**もつ**",
+       "**{上げる|あげる}**",
+       "**おろす**",
+       "**{入れる|いれる}**",
+       "**{抜く|ぬく}**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b3s5",
+    "no": 5,
+    "title": {
+     "id": "Kata kerja lain",
+     "jp": "そのほかの{動詞|どうし}"
+    },
+    "pages": [
+     42,
+     43
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 42 — Kata kerja lain"
+      },
+      {
+       "ul": [
+        "① **押す** (おす · osu) — mendorong. Keterangan: Dorong mobilnya.",
+        "② **回す** (まわす · mawasu) — memutar; alias/keterangan: （ハンドルを）きる. Contoh: ハンドルを回して。 → Putar setirnya.",
+        "③ **ロックする** (ろっくする · rokkusuru) — mengunci; alias/keterangan: ロックかけて. Contoh: ドア・ロックをロックして。 → Kunci pintu.",
+        "④ **解除する** (かいじょする · kaijosuru) — membuka kunci; alias/keterangan: ロックはずして（⇔ロックする）. Contoh: ドア・ロックを解除して。 → Buka kunci pintu.",
+        "⑤ **さわる** (さわる · sawaru) — menyentuh. Keterangan: Pegang selang atas radiator (untuk memeriksa kehangatan mesin).",
+        "⑥ **あわせる** (あわせる · awaseru) — menyesuaikan, mencocokkan; alias/keterangan: そろえる. Contoh: 位置をあわせて。（タイヤの取り付けでボルトとホイールの穴の位置をそろえる） → Cocokkan posisi lubang baut dan pelek saat memasang ban.",
+        "⑦ **測る** (はかる · hakaru) — mengukur; alias/keterangan: みて、チェックして. Contoh: デプス・ゲージでタイヤの溝を測って。 → Ukur alur ban dengan depth gauge.",
+        "⑧ **固定する** (こていする · koteisuru) — mengunci posisi, memfiksasi. Keterangan: Fiksasi aki di tempatnya.",
+        "⑨ **おく** (おく · oku) — meletakkan; alias/keterangan: 置く. Contoh: バンパー、ゆかにおかないで。 → Jangan letakkan bemper di lantai.",
+        "⑩ **急ぐ** (いそぐ · isogu) — bergegas; alias/keterangan: 急ぎ. Contoh: この作業、急ぎだから、急いで。 → Pekerjaan ini mendesak, tolong cepat.",
+        "⑪ **のる** (のる · noru) — naik (ke mobil); alias/keterangan: 乗る. Contoh: 車に乗って。（荷重をかけた上で点検するため） → Naik ke mobil (agar diperiksa dengan beban).",
+        "⑫ **ふむ** (ふむ · fumu) — menginjak; alias/keterangan: 踏む. Contoh: ブレーキふんで。 → Injak remnya.",
+        "⑬ **確認する** (かくにんする · kakuninsuru) — memastikan, mengecek; alias/keterangan: チェックして、みて. Contoh: ブレーキ・ランプ、確認して。ヘッドライトみて。 → Cek lampu rem. Lihat lampu depan (lampu mati/tidak).",
+        "⑭ **書く** (かく · kaku) — menulis. Keterangan: Tulis sisa sepatu rem di lembar instruksi."
+       ]
+      },
+      {
+       "h": "Hal. 43 — Kolom 7–8: tanda-tanda pada mobil"
+      },
+      {
+       "p": "Kolom 7: 初心者マーク (若葉マーク) wajib dipasang di depan dan belakang selama 1 tahun setelah mendapat SIM. 高齢者マーク dianjurkan bagi pengemudi berusia 70 tahun ke atas (tidak wajib)."
+      },
+      {
+       "p": "Kolom 8: tanda daun semanggi empat = pengemudi dengan syarat SIM khusus (disabilitas); tanda kupu-kupu = pengemudi tuli/tidak dapat mendengar; tanda kursi roda = penumpang dengan gangguan kaki/tubuh."
+      },
+      {
+       "ul": [
+        "**初心者マーク** (しょしんしゃまーく · shoshinshamaaku) — tanda pengemudi pemula; alias/keterangan: 若葉マーク",
+        "**高齢者マーク** (こうれいしゃまーく · koureishamaaku) — tanda pengemudi lansia; alias/keterangan: 70歳以上のシニア・ドライバー"
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 42"
+      },
+      {
+       "ul": [
+        "① **{押す|おす}**：車を押して。",
+        "② **{回す|まわす}** (（ハンドルを）きる)：ハンドルを回して。",
+        "③ **ロックする** (ロックかけて)：ドア・ロックをロックして。",
+        "④ **{解除する|かいじょする}** (ロックはずして（⇔ロックする）)：ドア・ロックを解除して。",
+        "⑤ **さわる**：アッパーホースをさわって。（エンジンの温まりを確認するため）",
+        "⑥ **あわせる** (そろえる)：位置をあわせて。（タイヤの取り付けでボルトとホイールの穴の位置をそろえる）",
+        "⑦ **{測る|はかる}** (みて、チェックして)：デプス・ゲージでタイヤの溝を測って。",
+        "⑧ **{固定する|こていする}**：バッテリーを固定して。",
+        "⑨ **おく** (置く)：バンパー、ゆかにおかないで。",
+        "⑩ **{急ぐ|いそぐ}** (急ぎ)：この作業、急ぎだから、急いで。",
+        "⑪ **のる** (乗る)：車に乗って。（荷重をかけた上で点検するため）",
+        "⑫ **ふむ** (踏む)：ブレーキふんで。",
+        "⑬ **{確認する|かくにんする}** (チェックして、みて)：ブレーキ・ランプ、確認して。ヘッドライトみて。",
+        "⑭ **{書く|かく}**：ブレーキ・シューの残量を、指示書に書いて。"
+       ]
+      },
+      {
+       "h": "ページ 43"
+      },
+      {
+       "ul": [
+        "**{初心者マーク|しょしんしゃまーく}** (若葉マーク)",
+        "**{高齢者マーク|こうれいしゃまーく}** (70歳以上のシニア・ドライバー)"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 16 istilah Jepang dari buku JICA (hal. 42–43).",
+      "points": [
+       "**押す** = mendorong",
+       "**回す** = memutar",
+       "**ロックする** = mengunci",
+       "**解除する** = membuka kunci",
+       "**さわる** = menyentuh"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを16こおぼえます。",
+      "points": [
+       "**{押す|おす}**",
+       "**{回す|まわす}**",
+       "**ロックする**",
+       "**{解除する|かいじょする}**",
+       "**さわる**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   }
+  ]
+ }
+}

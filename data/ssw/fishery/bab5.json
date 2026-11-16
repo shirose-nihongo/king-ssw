@@ -1,0 +1,281 @@
+{
+ "schema": 1,
+ "bidang": "fishery",
+ "source": "Teks dan gambar halaman: 特定技能 漁業技能測定試験 学習用テキスト (一般社団法人大日本水産会, 初版2019年12月, 一部改訂2025年9月) — 漁業一般・漁業安全・網漁業・釣漁業, versi Jepang dan versi bahasa Indonesia. Ringkasan, kosakata, dan soal latihan: Shirose Nihongo (bukan soal resmi).",
+ "markup": "Teks JP memakai {kanji|furigana} untuk ruby. Teks ID/JP memakai **tebal**.",
+ "bab": {
+  "id": "bab5",
+  "no": 5,
+  "title": {
+   "id": "Pukat Hela Dasar (底引き網)",
+   "jp": "{底|そこ}{引|ひ}き{網漁業|あみぎょぎょう}"
+  },
+  "intro": {
+   "id": "Pukat hela dasar: bagian jaring, otter trawl, dua kapal.",
+   "jp": "{底|そこ}{引|ひ}き{網漁業|あみぎょぎょう}：{網|あみ}の{部分|ぶぶん}、オッタートロール、{二艘|にそう}びき。"
+  },
+  "pages": [
+   82,
+   87
+  ],
+  "subs": [
+   {
+    "id": "b5s1",
+    "no": 1,
+    "title": {
+     "id": "Bagian Jaring dan Metode Otter Trawl",
+     "jp": "{網|あみ}{部|ぶ}{位|い}とオッタートロール"
+    },
+    "pages": [
+     82,
+     83
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Deskripsi bagian-bagian jaring utama"
+      },
+      {
+       "p": "Jaring pada umumnya, terdiri dari Kantong jaring Sayap Jaring untuk mengumpulkan T T a a li l i K k e e p p al a a l a Kantong jaring hewan di bagian depan mulut jaring, Badan Jaring, dan Kantong Jaring untuk S S e e l l o a n n g gs s a o n n g g jaring mengumpulkan ikan. Ukuran mata jaring adalah yang terbesar di ujung depan Sayap Jaring dari bagian tersebut secara bertahap mengecil dan menjadi terkecil di Kantong Jaring. Tali Ris Atas memanjang dari ujung atas Sayap Jaring JaJarriinngg uutatmama a ke bagian atas ujung depan Badan Jaring, dan Tali Ris Bawah memanjang Tali utama Tali utama dari ujung bawah Sayap Jaring ke bagian bawah ujung depan badan Jaring (lihat Gambar 22)."
+      },
+      {
+       "p": "Gambar 22 Bagian-bagian utama jaring pukat dasar"
+      },
+      {
+       "h": "Metode pukat berang-berang"
+      },
+      {
+       "p": "Metode penangkapan Pukat Hela Dasar Berpapan adalah metode penangkapan ikan di mana jaring disebarkan ke kiri dan ke kanan menggunakan Papan pembuka mulut jaring (Gambar 23)."
+      },
+      {
+       "p": "Metode ini digunakan di seluruh dunia karena dapat dioperasikan oleh satu kapal dan dapat dioperasikan bahkan dalam cuaca badai."
+      },
+      {
+       "h": "(1) Papan pembuka mulut jaring dan tali-temali Gambar 23: Pukat Hela Dasar"
+      },
+      {
+       "p": "Papan pembuka mulut jaring adalah papan yang terbuat Berpapan dari besi, kayu, FRP, dll. Dengan mempertahankan sudut yang konstan (sudut penjemputan) terhadap arah jaring tarik, perbedaan tekanan yang dihasilkan antara bagian depan dan belakang papan, seperti sayap pesawat terbang, menciptakan gaya mengembang jaring yang mengembangkan jaring."
+      },
+      {
+       "p": "Papan pembuka mulut jaring juga berfungsi mengintimidasi ikan-ikan di sekitarnya dengan “asap pasir” yang berhembus ke dasar laut dan mengarahkannya ke mulut jaring."
+      },
+      {
+       "h": "(2) Cara melempar dan Menarik jaring."
+      },
+      {
+       "p": "Ketika pekerjaan dimulai, jaring akan dilemparkan secara berurutan dari bagian Cod end (kantong jaring)."
+      },
+      {
+       "p": "Pada saat itu jaring, Pennent jaring, Hand rope (tali tangan) , Asobi wire (kawat fleksibel) dan Warp (tali penarik) dihubungkan secara berurutan ( Gambar 24 ). Papan pembuka mulut jaring tidak terhubung, tapi dipindahkan dengan posisi gantung dari Top roller di Gallose buritan, Warp (tali penarik) dijalin dengan rantai derek, Warp (tali penarink), papan pembuka mulut jaring dan jaring disambungkan. Saat jaring diangkat, kurangi kecepatan pengangkatan saat Warp (tali penarink) menjadi lebih pendek, dan angkat sampai papan pembuka mulut jaring digantung di Gallose. Proses selanjutnya adalah kebalikan dari prosedur pelemparan jaring."
+      },
+      {
+       "p": "Gambar 24: Tali-temali papan pembuka mulut jaring Trawl"
+      }
+     ],
+     "jp": [
+      {
+       "h": "1.{主要網部|しゅようあみぶ}{位|い}の{名称|めいしょう}"
+      },
+      {
+       "p": "{網|あみ}は{一般|いっぱん}に、{網口前方|あみくちぜんぽう}の{生物|せいぶつ}を{集|あつ}めるための{袖網|そであみ}、{身網|みあみ}および{魚|さかな}を{蓄積|ちくせき}するためのコッドエンドから{構成|こうせい}される。{目合|めあい}は{袖網|そであみ}の{先端部|せんたんぶ}が{最|もっと}も{大|おお}きく、ここから{徐々|じょじょ}に{小|ちい}さくなり、コッドエンドで{最小|さいしょう}となる。{袖網上端部|そであみじょうたんぶ}から{身網前端上部|みあみぜんたんじょうぶ}に{沿|そ}ってヘッドロープが、{袖網|そであみか}下端{部|ぶ}から{身網前端下|みあみぜんたんか}{部|ぶ}に{沿|そ}ってはグランドロープが{取|と}り{付|つ}けられる（{図|ず}２２）。"
+      },
+      {
+       "h": "２．オッタートロール{漁法|ぎょほう}"
+      },
+      {
+       "p": "オッターボードを{用|もち}いて{網|あみ}を{左右|さゆう}に{展開|てんかい}する{漁法|ぎょほう}である。（{図|ず}２３）"
+      },
+      {
+       "p": "{単船|たんせん}で{操業|そうぎょう}でき、ある{程度|ていど}の{荒天|こうてん}でも{操業|そうぎょう}できるため、{世界中|せかいじゅう}で{行|おこな}われている。"
+      },
+      {
+       "p": "{図|ず}２３オッタートロール{漁法|ぎょほう}（１）オッターボードと{索|さく}{具|ぐ}"
+      },
+      {
+       "p": "オッターボードは{鉄|てつ}や{木|き}、FRPなどで{製作|せいさく}された{板|いた}である。{曳網方向|ひきあみほうこう}に{対|たい}して{一定|いってい}の{角|かく}{度|ど}（{迎|むか}え{角|かく}）を{保|たも}つことで、{飛|ひ}行{機|き}の{翼|つばさ}のように{板|いた}の{表|おもて}と{裏|うら}に{生|しょう}じる{圧力差|あつりょくさ}が{拡網力|かくもうりょく}となって{網|あみ}を{展開|てんかい}させる。"
+      },
+      {
+       "p": "オッターボードは{海底|かいてい}との{接触|せっしょく}で{巻|ま}き{上|あ}がる“{砂煙|すなけむり}”で{周辺|しゅうへん}の{魚|さかな}を{威嚇|いかく}して{網口|あみくち}へと{誘導|ゆうどう}する{機能|きのう}もある。（２）{投|とう}・{揚網方法|ようもうほうほう}"
+      },
+      {
+       "p": "{操業|そうぎょう}が{始|はじ}まると、コッドエンドから{順|じゅん}に{網|あみ}を{投入|とうにゅう}する。この{時点|じてん}では、{網|あみ}と{網|あみ}ペンネント、ハンドロープ、{遊|あそ}びワイヤー、ワープが{順|じゅん}に{連結|れんけつ}されているが（{図|ず}２４）、オッターボードはつながっておらず、{船尾|せんび}ギャロースにあるトップローラーから{吊|つ}り{下|さ}げられた{状態|じょうたい}で{移|うつ}し、ワープにトーイングチェーンを{連結|れんけつ}しワープ、オッターボード、{網|あみ}が{連結|れんけつ}された{状態|じょうたい}となる。{揚網|ようもう}のときには、ワープが{短|みじか}くなってきたら{巻|ま}き{上|あ}げ{速度|そくど}を{落|お}とし、オッターボードがギャロースに{吊|つ}り{上|あ}がるまで{巻|ま}き{上|あ}げる。その{後|あと}は{投網|とうもう}の{逆|ぎゃく}の{手順|てじゅん}を{行|おこな}う。"
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Jaring pukat dasar: sayap, badan, kantong; mata jaring terbesar di ujung depan, terkecil di kantong. Otter trawl membuka mulut jaring dengan papan pembuka.",
+      "points": [
+       "Ukuran mata: besar di depan → kecil di kantong.",
+       "Otter trawl bisa oleh satu kapal, bahkan saat cuaca buruk.",
+       "Papan pembuka dari besi/kayu/FRP."
+      ],
+      "avoid": [
+       "Mengira kantong jaring bermata paling besar."
+      ],
+      "exam": [
+       "Tiga bagian jaring."
+      ]
+     },
+     "jp": {
+      "core": "{底|そこ}{曳網|ひきあみ}は{袖網|そであみ}、{身網|みあみ}、{袋|るぶくろ}{網|あみ}でできる。オッタートロールは{拡網板|かくもうばん}で{網口|あみくち}をひらく。",
+      "points": [
+       "{目合|めあい}は{前|まえ}が{大|おお}きく、{袋|るぶくろ}{網|あみ}が{小|ちい}さい。",
+       "オッタートロールは1{隻|せき}でできる。",
+       "{拡網板|かくもうばん}は{鉄|てつ}、{木|き}、FRPなどで{作|つく}る。"
+      ],
+      "avoid": [
+       "{袋|るぶくろ}{網|あみ}の{目|め}がいちばん{大|おお}きいと{思|おも}うこと。"
+      ],
+      "exam": [
+       "{網|あみ}の3つの{部分|ぶぶん}。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b5s2",
+    "no": 2,
+    "title": {
+     "id": "Dua Kapal, Dogol, Pencegahan Bahaya",
+     "jp": "{二艘|にそう}びき・{駆|か}け{廻|まわ}し・{危険防止|きけんぼうし}"
+    },
+    "pages": [
+     83,
+     87
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Metode pukat dua perahu"
+      },
+      {
+       "p": "Ini adalah metode penangkapan ikan di mana dua perahu, dengan jarak tertentu di antara keduanya, menarik ujung jaring, menyebarkan jaring, dan menariknya masuk (Gambar 25). Karena merupakan metode penangkapan ikan dengan pukat sederhana, metode ini dipraktikkan di seluruh dunia, tetapi memerlukan lebih banyak perahu dan tenaga kerja daripada metode penangkapan ikan dengan pukat atau penangkapan ikan melingkar. Gambar 25 Penangkapan ikan dengan pukat dua perahu"
+      },
+      {
+       "h": "(1) Tali penarik dan perlengkapannya"
+      },
+      {
+       "p": "Kedua perahu tersebut memanfaatkan jaring yang terbuka lebar untuk menarik jaring, dan menggunakan tali majemuk yang panjang dan tebal untuk mengagetkan dan mengumpulkan ikan."
+      },
+      {
+       "h": "(2) Cara melempar dan menarik jaring"
+      },
+      {
+       "p": "Operasi penarikan dengan dua perahu terdiri atas satu perahu utama dan satu perahu pendukung. Setelah perahu utama melemparkan jaringnya, perahu pendukung mendekati perahu utama, untuk menyerahkan ujung tali penariknya kepada perahu utama, lalu menyambung dengan tali penarik pada satu sisi jaring perahu utama dan mulai menarik jaring tersebut. Pada waktu menarik jaring, perahu pendukung mendekati perahu utama dan menyerahkan ujung tali penarik kepada perahu utama. Perahu utama menggunakan mesin derek di kedua sisi untuk menarik tali penarik dan bersiap menarik jaring. Sementara itu, perahu pendukung mulai bertugas melemparkan jaring yang dibawanya. 3. Metode penangkapan ikan berputar Pelampung dipasang di ujung tali penarik dan dilemparkan ke laut. Perahu kemudian berlayar mulai dari posisi ini dengan jalur membentuk wajik di permukaan laut, secara bertahap melemparkan tali penarik, jaring, dan kemudian tali penarik berikutnya ke laut. Metode penangkapan ikan ini dilakukan dengan membawa pelampung ke atas perahu dan menarik jaring dengan dua perahu tunda (Gambar 26)."
+      },
+      {
+       "p": "Gambar 26 Metode penangkapan berputar Dibandingkan dengan metode penangkapan ikan pukat dasar lainnya, metode pukat ini memiliki kecepatan pukat yang relatif lambat dan alat tangkapnya ringan."
+      },
+      {
+       "p": "Tali majemuk konvensional memiliki diameter yang berbeda pada sisi kapal dan sisi jaring, sehingga setelah jaring ditarik, perlu untuk mengatur tali penarik dalam urutan terbalik sebagai persiapan untuk melempar jaring berikutnya. Dalam beberapa tahun terakhir, tali penarik yang ketebalannya seragam atau simetris dari depan ke belakang,telah menjadi umum digunakan, dan keduanya dapat dihubungkan ke sisi jaring. Selain itu, gulungan untuk menggulung tali penarik dan mesin pengangkat jaring juga telah digunakan secara populer."
+      },
+      {
+       "h": "Pencegahan bahaya"
+      },
+      {
+       "p": "Di dalam perahu penangkap ikan pukat dasar terasa sempit dan bergoyang, dan karena ada penarik kawat dan mesin derek yang beroperasi, para kru harus sangat berhati-hati saat bekerja di tempat- tempat sebagai berikut."
+      },
+      {
+       "ul": [
+        "Di dekat sisi winch selama pengoperasian",
+        "Di sekitar tali atau kawat yang dikencangkan dengan kuat",
+        "Di sekitar landasan tarik",
+        "Bagian bawah menara derek saat jaring digantung",
+        "Di sekitar sisi (kedua sisi) kapal saat kapal bergoyang",
+        "Dek yang menjadi licin karena darah dan lemak ikan"
+       ]
+      },
+      {
+       "p": "Perikanan Jaring Tetap"
+      }
+     ],
+     "jp": [
+      {
+       "h": "３.{二艘|にそう}びき{漁法|ぎょほう}"
+      },
+      {
+       "p": "2{隻|せき}の{船|ふね}が{一定|いってい}の{間隔|かんかく}を{保|たも}ちながら{網|あみ}の{両端|りょうたん}を{曳|ひ}くことで、{網|あみ}を{展開|てんかい}して{曳網|ひきあみ}する{漁法|ぎょほう}である（{図|ず}２５）。{単純|たんじゅん}な{曳網方法|ひきあみほうほう}であるため、{世界各地|せかいかくち}で{行|おこな}われているが、オッタートロールや{駆|か}け{廻|まわ}し{漁法|ぎょほう}に{比|くら}べて、{船|ふね}と{労働力|ろうどうりょく}が{多|おお}く{必要|ひつよう}である。"
+      },
+      {
+       "p": "{図|ず}２５{二艘|にそう}{曳|ひ}き{漁法|ぎょほう}（１）{曳綱|ひきつな}と{索|さく}{具|ぐ}"
+      },
+      {
+       "p": "{二隻|にせき}の{漁船|ぎょせん}で{網口|あみくち}を{拡|ひろ}げながら{曳網|ひきあみ}し、{長|なが}くて{太|ふと}いコンパウンドロープで{魚介類|ぎょかいるい}を{脅|おど}かして{駆集|くしゅう}する。（２）{投|とう}・{揚網方法|ようもうほうほう}"
+      },
+      {
+       "p": "{二艘|にそう}{曳|ひ}き{漁法|ぎょほう}は、{主船|しゅせん}と{従船|じゅうせん}の2{隻|せき}の{漁船|ぎょせん}が{一組|ひとくみ}となり、{主船|しゅせん}が{投網|とうもう}した{後|あと}、{従船|じゅうせん}が{主船|しゅせん}に{接近|せっきん}して{自船|じせん}の{曳綱|ひきつな}の{端|はし}を{主船|しゅせん}に{渡|わた}し、{主船|しゅせん}の{網|あみ}の{片側|かたがわ}の{曳索|えいさく}に{連結|れんけつ}して{曳網|ひきあみ}を{開始|かいし}する。{揚網|ようもう}は、{従船|じゅうせん}が{主船|しゅせん}に{接近|せっきん}して{曳綱|ひきつな}の{端|はし}を{主船|しゅせん}に渡す。{主船|しゅせん}は{両舷|りょうげん}のウインチにより{曳綱|ひきつな}を{巻|ま}き{上|あ}げ、{揚網|ようもう}する。{一方|いっぽう}、{従船|じゅうせん}は{自船|じせん}が{持|も}っている{網|あみ}の{投入|とうにゅう}{作業|さぎょう}を{開始|かいし}する。"
+      },
+      {
+       "h": "４．{駆|か}け{廻|まわ}し{漁法|ぎょほう}"
+      },
+      {
+       "p": "{曳綱|ひきつな}の{端|はし}にブイを{取|と}り{付|つ}けて{海中|かいちゅう}に{投入|とうにゅう}し、この{位|い}{置|ち}を{起点|きてん}に{海面上|かいめんじょう}に{菱形|ひしがた}を{描|えが}くように{船|ふね}が{航走|こうそう}して、{曳綱|ひきつな}、{網|あみ}、もう{一方|いっぽう}の{曳綱|ひきつな}を{順|じゅん}に{投入|とうにゅう}していく。そしてブイを{船上|せんじょう}に{取|と}り{込|こ}み、2{本|ほん}の{曳綱|ひきつな}により{網|あみ}を{曳|ひ}く{漁法|ぎょほう}である（{図|ず}２６）。"
+      },
+      {
+       "p": "{図|ず}２６{駆|か}け{廻|わ}し{漁法|ぎょほう}"
+      },
+      {
+       "p": "{駆|か}け{廻|まわ}しは{他|ほか}の{底曳網漁法|そこひきあみぎょほう}に{比|くら}べて、{曳網速力|えいもうそくりょく}が{比較的遅|ひかくてきおそ}く、{漁具|ぎょぐ}も{軽量|けいりょう}である。"
+      },
+      {
+       "p": "{従来|じゅうらい}の{曳綱|ひきつな}（コンパウンドロープ）は、{船側|せんがわ}と{網側|あみがわ}の{直径|ちょっけい}が{異|こと}なったので、{揚網後|ようもうご}に{次|つぎ}の{投網|とうあみ}に{備|そな}えて{曳綱|ひきつな}を{逆|ぎゃく}の{順序|じゅんじょ}にする{作業|さぎょう}があった。{近年|きんねん}では{均一|きんいつ}、{或|ある}いは{前後|ぜんご}で{対称|たいしょう}な{太|ふと}さの{曳綱|ひきつな}が{使用|しよう}されることが{多|おお}く、どちらを{網側|あみがわ}に{連結|れんけつ}しても{良|よ}いようになっている。また、{曳綱|ひきつな}を{巻|ま}きとるリール、ネットウインチなどが{普及|ふきゅう}している。"
+      },
+      {
+       "h": "５．{危険防止|きけんぼうし}"
+      },
+      {
+       "p": "{底曳網漁船|そこひきあみぎょせん}は{船|ふね}の{中|なか}が{狭|せま}く、{揺|ゆ}れるうえにワイヤーやウインチが{稼働|かどう}しているため、{下|か}{記|き}のような{場所|ばしょ}では{十分注意|じゅうぶんちゅうい}して{作業|さぎょう}を{行|おこな}う。"
+      },
+      {
+       "ul": [
+        "{稼働中|かどうちゅう}のウインチの{側|そば}",
+        "{強|つよ}く{張|は}っているロープやワイヤー{付近|ふきん}",
+        "{船尾付近|せんびふきん}のスリップウェイや{舷門付近|げんもんふきん}",
+        "{網|あみ}を{吊|つ}り{下|さ}げている{際|さい}のデリック{下|か}方{部|ぶ}",
+        "ローリングしている{際|さい}の{船|ふね}のサイド（{両脇|りょうわき}）{近辺|きんぺん}",
+        "{魚|さかな}の{血|ち}や{脂|あぶら}で{滑|すべ}りやすくなっているデッキ"
+       ]
+      },
+      {
+       "p": "ていちあみぎょぎょう"
+      },
+      {
+       "p": "定置網漁業"
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Pukat dua kapal: dua kapal menarik ujung jaring dengan jarak tertentu; butuh banyak kapal dan tenaga. Ada kapal utama dan kapal pendukung.",
+      "points": [
+       "Menggunakan tali tarik panjang untuk menggiring ikan.",
+       "Kapal pendukung menyerahkan ujung tali penarik ke kapal utama.",
+       "Hati-hati terlilit tali saat jaring ditarik."
+      ],
+      "avoid": [
+       "Berdiri di dekat tali tarik yang tegang."
+      ],
+      "exam": [
+       "Peran kapal utama dan pendukung."
+      ]
+     },
+     "jp": {
+      "core": "{二艘|にそう}びきは2{隻|せき}の{船|ふね}で{網|あみ}をひく{漁法|ぎょほう}。{主船|しゅせん}と{従船|じゅうせん}がある。",
+      "points": [
+       "{長|なが}い{曳索|えいさく}で{魚|さかな}をおどして{集|あつ}める。",
+       "{従船|じゅうせん}は{曳索|えいさく}の{端|はし}を{主船|しゅせん}にわたす。",
+       "{網|あみ}やロープにからまれないよう{注意|ちゅうい}する。"
+      ],
+      "avoid": [
+       "ぴんと{張|は}った{曳索|えいさく}の{近|ちか}くに{立|た}つこと。"
+      ],
+      "exam": [
+       " {主船|しゅせん}と{従船|じゅうせん}の{役割|やくわり}。"
+      ]
+     }
+    }
+   }
+  ]
+ }
+}

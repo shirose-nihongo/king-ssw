@@ -1,0 +1,5612 @@
+{
+ "items": [
+  {
+   "id": "am-001",
+   "kata": "運転席",
+   "kana": "うんてんせき",
+   "romaji": "untenseki",
+   "arti": "kursi pengemudi",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA",
+   "alias": "ドライバーのせき"
+  },
+  {
+   "id": "am-002",
+   "kata": "助手席",
+   "kana": "じょしゅせき",
+   "romaji": "joshuseki",
+   "arti": "kursi penumpang depan",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-003",
+   "kata": "後部座席",
+   "kana": "こうぶざせき",
+   "romaji": "koubuzaseki",
+   "arti": "kursi penumpang belakang",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA",
+   "alias": "うしろのせき"
+  },
+  {
+   "id": "am-004",
+   "kata": "バック・ミラー",
+   "kana": "ばっくみらー",
+   "romaji": "bakku miraa",
+   "arti": "spion tengah (kabin)",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA",
+   "alias": "ルーム・ミラー"
+  },
+  {
+   "id": "am-005",
+   "kata": "エアコンの吹き出し口",
+   "kana": "えあこんのふきだしぐち",
+   "romaji": "eakonnofukidashiguchi",
+   "arti": "lubang hembusan AC",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-006",
+   "kata": "カーナビ",
+   "kana": "かーなび",
+   "romaji": "kaanabi",
+   "arti": "navigasi mobil",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1",
+    "b1s4"
+   ],
+   "sumber": "JICA",
+   "alias": "カー・ナビゲーションシステム"
+  },
+  {
+   "id": "am-007",
+   "kata": "ハンドル",
+   "kana": "はんどる",
+   "romaji": "handoru",
+   "arti": "setir",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-008",
+   "kata": "ホーン",
+   "kana": "ほーん",
+   "romaji": "hoon",
+   "arti": "klakson",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA",
+   "alias": "クラクション"
+  },
+  {
+   "id": "am-009",
+   "kata": "ウィンカー・レバー",
+   "kana": "うぃんかーればー",
+   "romaji": "uぃnkaa rebaa",
+   "arti": "tuas lampu sein",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-010",
+   "kata": "ライティング・スイッチ",
+   "kana": "らいてぃんぐすいっち",
+   "romaji": "raiteぃngu suicchi",
+   "arti": "saklar lampu",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-011",
+   "kata": "パッシング・ライト・スイッチ",
+   "kana": "ぱっしんぐらいとすいっち",
+   "romaji": "passhingu raito suicchi",
+   "arti": "saklar lampu passing",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-012",
+   "kata": "メーター",
+   "kana": "めーたー",
+   "romaji": "meetaa",
+   "arti": "panel instrumen (meteran)",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1",
+    "b4s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-013",
+   "kata": "ウォッシャー・スイッチ",
+   "kana": "うぉっしゃーすいっち",
+   "romaji": "uぉsshaa suicchi",
+   "arti": "saklar penyemprot kaca",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-014",
+   "kata": "グローブ・ボックス",
+   "kana": "ぐろーぶぼっくす",
+   "romaji": "guroobu bokkusu",
+   "arti": "laci dasbor",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA",
+   "alias": "助手席の前にある"
+  },
+  {
+   "id": "am-015",
+   "kata": "ダッシュボード",
+   "kana": "だっしゅぼーど",
+   "romaji": "dasshuboodo",
+   "arti": "dasbor",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-016",
+   "kata": "センター・パネル",
+   "kana": "せんたーぱねる",
+   "romaji": "sentaa paneru",
+   "arti": "panel tengah",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-017",
+   "kata": "車のカギ（キー）",
+   "kana": "くるまのかぎきー",
+   "romaji": "kurumanokagi kii",
+   "arti": "kunci mobil",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-018",
+   "kata": "ハザード・スイッチ",
+   "kana": "はざーどすいっち",
+   "romaji": "hazaado suicchi",
+   "arti": "saklar lampu hazard",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-019",
+   "kata": "シフト・レバー",
+   "kana": "しふとればー",
+   "romaji": "shifuto rebaa",
+   "arti": "tuas persneling",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-020",
+   "kata": "アクセル・ペダル",
+   "kana": "あくせるぺだる",
+   "romaji": "akuseru pedaru",
+   "arti": "pedal gas",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA",
+   "alias": "※AT車"
+  },
+  {
+   "id": "am-021",
+   "kata": "ブレーキ・ペダル",
+   "kana": "ぶれーきぺだる",
+   "romaji": "bureeki pedaru",
+   "arti": "pedal rem",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1",
+    "b4s6"
+   ],
+   "sumber": "JICA",
+   "alias": "フット・ペダル（AT車）"
+  },
+  {
+   "id": "am-022",
+   "kata": "クラッチ・ペダル",
+   "kana": "くらっちぺだる",
+   "romaji": "kuracchi pedaru",
+   "arti": "pedal kopling",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA",
+   "alias": "※マニュアル車"
+  },
+  {
+   "id": "am-023",
+   "kata": "パーキング・ブレーキ",
+   "kana": "ぱーきんぐぶれーき",
+   "romaji": "paakingu bureeki",
+   "arti": "rem parkir",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA",
+   "alias": "レバー式・足踏み式・電動（電子）式"
+  },
+  {
+   "id": "am-024",
+   "kata": "ルームランプ",
+   "kana": "るーむらんぷ",
+   "romaji": "ruumuranpu",
+   "arti": "lampu kabin",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-025",
+   "kata": "サン・バイザー",
+   "kana": "さんばいざー",
+   "romaji": "san baizaa",
+   "arti": "pelindung silau",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-026",
+   "kata": "エアバッグ",
+   "kana": "えあばっぐ",
+   "romaji": "eabaggu",
+   "arti": "kantong udara (airbag)",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1",
+    "b4s7"
+   ],
+   "sumber": "JICA",
+   "alias": "ふくらんだとき"
+  },
+  {
+   "id": "am-027",
+   "kata": "シートベルト",
+   "kana": "しーとべると",
+   "romaji": "shiitoberuto",
+   "arti": "sabuk pengaman",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1",
+    "b4s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-028",
+   "kata": "シートベルトのバックル",
+   "kana": "しーとべるとのばっくる",
+   "romaji": "shiitoberutonobakkuru",
+   "arti": "kait sabuk pengaman",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-029",
+   "kata": "センター・コンソール",
+   "kana": "せんたーこんそーる",
+   "romaji": "sentaa konsooru",
+   "arti": "konsol tengah",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-030",
+   "kata": "ヘッド・レスト",
+   "kana": "へっどれすと",
+   "romaji": "heddo resuto",
+   "arti": "sandaran kepala",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-031",
+   "kata": "エンジン・チェック・ランプ",
+   "kana": "えんじんちぇっくらんぷ",
+   "romaji": "enjin chiぇkku ranpu",
+   "arti": "lampu peringatan mesin",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA",
+   "alias": "エンジン警告灯",
+   "contoh": "エンジンに異常があるときに、つきます。",
+   "arti_contoh": "Menyala saat ada kelainan pada mesin."
+  },
+  {
+   "id": "am-032",
+   "kata": "ブレーキ・ウォーニング・ランプ",
+   "kana": "ぶれーきうぉーにんぐらんぷ",
+   "romaji": "bureeki uぉぉningu ranpu",
+   "arti": "lampu peringatan rem",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA",
+   "alias": "ブレーキ警告灯",
+   "contoh": "ブレーキ液がたりないとき、パーキング・ブレーキをひいたときに、つきます。",
+   "arti_contoh": "Menyala saat minyak rem kurang atau rem parkir ditarik."
+  },
+  {
+   "id": "am-033",
+   "kata": "SRSエアバッグ・ウォーニング・ランプ",
+   "kana": "えすあーるえす えあばっぐうぉーにんぐらんぷ",
+   "romaji": "esuaaruesu eabaggu uぉぉningu ranpu",
+   "arti": "lampu peringatan airbag SRS",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA",
+   "alias": "SRSエアバッグ警告灯",
+   "contoh": "エアバッグに異常があるときに、つきます。",
+   "arti_contoh": "Menyala saat ada kelainan pada airbag."
+  },
+  {
+   "id": "am-034",
+   "kata": "ABS・ウォーニング・ランプ",
+   "kana": "えーびーえすうぉーにんぐらんぷ",
+   "romaji": "eebiiesu uぉぉningu ranpu",
+   "arti": "lampu peringatan ABS",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA",
+   "alias": "ABS警告灯",
+   "contoh": "ABS（Antilock Brake System）に異常があるときに、つきます。",
+   "arti_contoh": "Menyala saat ada kelainan pada sistem ABS."
+  },
+  {
+   "id": "am-035",
+   "kata": "バッテリー・ウォーニング・ランプ",
+   "kana": "ばってりーうぉーにんぐらんぷ",
+   "romaji": "batterii uぉぉningu ranpu",
+   "arti": "lampu peringatan aki",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA",
+   "alias": "充電警告灯",
+   "contoh": "バッテリーを充電できないときに、つきます。",
+   "arti_contoh": "Menyala saat aki tidak bisa diisi."
+  },
+  {
+   "id": "am-036",
+   "kata": "半ドア・ウォーニング・ランプ",
+   "kana": "はんどあうぉーにんぐらんぷ",
+   "romaji": "handoa uぉぉningu ranpu",
+   "arti": "lampu peringatan pintu belum rapat",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA",
+   "alias": "半ドア警告灯",
+   "contoh": "ドアが開いているときに、つきます。",
+   "arti_contoh": "Menyala saat pintu terbuka/belum tertutup rapat."
+  },
+  {
+   "id": "am-037",
+   "kata": "オイルプレッシャー・ウォーニング・ランプ",
+   "kana": "おいるぷれっしゃーうぉーにんぐらんぷ",
+   "romaji": "oirupuresshaa uぉぉningu ranpu",
+   "arti": "lampu peringatan tekanan oli",
+   "cat": "Di dalam mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "sumber": "JICA",
+   "alias": "油圧警告灯",
+   "contoh": "エンジン・オイルの油圧に異常があるときに、つきます。",
+   "arti_contoh": "Menyala saat tekanan oli mesin tidak normal."
+  },
+  {
+   "id": "am-038",
+   "kata": "ボンネット",
+   "kana": "ぼんねっと",
+   "romaji": "bonnetto",
+   "arti": "kap mesin",
+   "cat": "Luar mobil: depan",
+   "bab": "bab1",
+   "src": [
+    "b1s2"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-039",
+   "kata": "前照灯",
+   "kana": "ぜんしょうとう",
+   "romaji": "zenshoutou",
+   "arti": "lampu depan",
+   "cat": "Luar mobil: depan",
+   "bab": "bab1",
+   "src": [
+    "b1s2"
+   ],
+   "sumber": "JICA",
+   "alias": "ヘッドライト"
+  },
+  {
+   "id": "am-040",
+   "kata": "フロント・バンパー",
+   "kana": "ふろんとばんぱー",
+   "romaji": "furonto banpaa",
+   "arti": "bemper depan",
+   "cat": "Luar mobil: depan",
+   "bab": "bab1",
+   "src": [
+    "b1s2"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-041",
+   "kata": "フロント・グリル",
+   "kana": "ふろんとぐりる",
+   "romaji": "furonto guriru",
+   "arti": "gril depan",
+   "cat": "Luar mobil: depan",
+   "bab": "bab1",
+   "src": [
+    "b1s2"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-042",
+   "kata": "ナンバー・プレート",
+   "kana": "なんばーぷれーと",
+   "romaji": "nanbaa pureeto",
+   "arti": "pelat nomor",
+   "cat": "Luar mobil: depan",
+   "bab": "bab1",
+   "src": [
+    "b1s2"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-043",
+   "kata": "ワイパー",
+   "kana": "わいぱー",
+   "romaji": "waipaa",
+   "arti": "wiper",
+   "cat": "Luar mobil: depan",
+   "bab": "bab1",
+   "src": [
+    "b1s2",
+    "b4s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-044",
+   "kata": "ワイパー・アーム",
+   "kana": "わいぱーあーむ",
+   "romaji": "waipaa aamu",
+   "arti": "lengan wiper",
+   "cat": "Luar mobil: depan",
+   "bab": "bab1",
+   "src": [
+    "b1s2"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-045",
+   "kata": "フロント・ガラス",
+   "kana": "ふろんとがらす",
+   "romaji": "furonto garasu",
+   "arti": "kaca depan",
+   "cat": "Luar mobil: depan",
+   "bab": "bab1",
+   "src": [
+    "b1s2"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-046",
+   "kata": "車幅灯",
+   "kana": "しゃはばとう",
+   "romaji": "shahabatou",
+   "arti": "lampu posisi (lebar kendaraan)",
+   "cat": "Luar mobil: depan",
+   "bab": "bab1",
+   "src": [
+    "b1s2"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-047",
+   "kata": "フォグ・ランプ",
+   "kana": "ふぉぐらんぷ",
+   "romaji": "fuぉgu ranpu",
+   "arti": "lampu kabut",
+   "cat": "Luar mobil: depan",
+   "bab": "bab1",
+   "src": [
+    "b1s2"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-048",
+   "kata": "給油口",
+   "kana": "きゅうゆこう",
+   "romaji": "kyuuyukou",
+   "arti": "lubang pengisian bahan bakar",
+   "cat": "Luar mobil: samping",
+   "bab": "bab1",
+   "src": [
+    "b1s3"
+   ],
+   "sumber": "JICA",
+   "alias": "フューエル・リッド"
+  },
+  {
+   "id": "am-049",
+   "kata": "ウィンカー",
+   "kana": "うぃんかー",
+   "romaji": "uぃnkaa",
+   "arti": "lampu sein",
+   "cat": "Luar mobil: samping",
+   "bab": "bab1",
+   "src": [
+    "b1s3"
+   ],
+   "sumber": "JICA",
+   "alias": "方向指示器"
+  },
+  {
+   "id": "am-050",
+   "kata": "ドア・ハンドル",
+   "kana": "どあはんどる",
+   "romaji": "doa handoru",
+   "arti": "pegangan pintu",
+   "cat": "Luar mobil: samping",
+   "bab": "bab1",
+   "src": [
+    "b1s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-051",
+   "kata": "フロント・ピラー",
+   "kana": "ふろんとぴらー",
+   "romaji": "furonto piraa",
+   "arti": "tiang depan (pilar A)",
+   "cat": "Luar mobil: samping",
+   "bab": "bab1",
+   "src": [
+    "b1s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-052",
+   "kata": "ドア・ミラー・ウィンカー",
+   "kana": "どあみらーうぃんかー",
+   "romaji": "doa miraa uぃnkaa",
+   "arti": "lampu sein di spion pintu",
+   "cat": "Luar mobil: samping",
+   "bab": "bab1",
+   "src": [
+    "b1s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-053",
+   "kata": "左サイド・ミラー",
+   "kana": "ひだりさいどみらー",
+   "romaji": "hidarisaido miraa",
+   "arti": "spion samping kiri",
+   "cat": "Luar mobil: samping",
+   "bab": "bab1",
+   "src": [
+    "b1s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-054",
+   "kata": "フェンダー",
+   "kana": "ふぇんだー",
+   "romaji": "fuぇndaa",
+   "arti": "spatbor",
+   "cat": "Luar mobil: samping",
+   "bab": "bab1",
+   "src": [
+    "b1s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-055",
+   "kata": "ドア",
+   "kana": "どあ",
+   "romaji": "doa",
+   "arti": "pintu",
+   "cat": "Luar mobil: samping",
+   "bab": "bab1",
+   "src": [
+    "b1s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-056",
+   "kata": "リア・ドア",
+   "kana": "りあどあ",
+   "romaji": "ria doa",
+   "arti": "pintu belakang",
+   "cat": "Luar mobil: samping",
+   "bab": "bab1",
+   "src": [
+    "b1s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-057",
+   "kata": "キー・シリンダー",
+   "kana": "きーしりんだー",
+   "romaji": "kii shirindaa",
+   "arti": "lubang kunci",
+   "cat": "Luar mobil: samping",
+   "bab": "bab1",
+   "src": [
+    "b1s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-058",
+   "kata": "右サイド・ミラー",
+   "kana": "みぎさいどみらー",
+   "romaji": "migisaido miraa",
+   "arti": "spion samping kanan",
+   "cat": "Luar mobil: samping",
+   "bab": "bab1",
+   "src": [
+    "b1s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-059",
+   "kata": "リア・ガラス",
+   "kana": "りあがらす",
+   "romaji": "ria garasu",
+   "arti": "kaca belakang",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-060",
+   "kata": "リア・ワイパー",
+   "kana": "りあわいぱー",
+   "romaji": "ria waipaa",
+   "arti": "wiper belakang",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-061",
+   "kata": "リア・ゲート",
+   "kana": "りあげーと",
+   "romaji": "ria geeto",
+   "arti": "pintu bagasi belakang",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-062",
+   "kata": "リア・バンパー",
+   "kana": "りあばんぱー",
+   "romaji": "ria banpaa",
+   "arti": "bemper belakang",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-063",
+   "kata": "クオーター・パネル",
+   "kana": "くおーたーぱねる",
+   "romaji": "kuootaa paneru",
+   "arti": "panel samping belakang",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4"
+   ],
+   "sumber": "JICA",
+   "alias": "リア・フェンダー"
+  },
+  {
+   "id": "am-064",
+   "kata": "ルーフ",
+   "kana": "るーふ",
+   "romaji": "ruufu",
+   "arti": "atap",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-065",
+   "kata": "後退灯",
+   "kana": "こうたいとう",
+   "romaji": "koutaitou",
+   "arti": "lampu mundur",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4"
+   ],
+   "sumber": "JICA",
+   "alias": "バック・ランプ"
+  },
+  {
+   "id": "am-066",
+   "kata": "ライセンス・ランプ",
+   "kana": "らいせんすらんぷ",
+   "romaji": "raisensu ranpu",
+   "arti": "lampu pelat nomor",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4"
+   ],
+   "sumber": "JICA",
+   "alias": "ナンバー灯"
+  },
+  {
+   "id": "am-067",
+   "kata": "ブレーキ・ランプ",
+   "kana": "ぶれーきらんぷ",
+   "romaji": "bureeki ranpu",
+   "arti": "lampu rem",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4"
+   ],
+   "sumber": "JICA",
+   "alias": "制動灯、ストップ・ランプ"
+  },
+  {
+   "id": "am-068",
+   "kata": "ハイ・マウント・ストップ・ランプ",
+   "kana": "はいまうんとすとっぷらんぷ",
+   "romaji": "hai maunto sutoppu ranpu",
+   "arti": "lampu rem tambahan (posisi tinggi)",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-069",
+   "kata": "テール・レンズ",
+   "kana": "てーるれんず",
+   "romaji": "teeru renzu",
+   "arti": "lensa lampu belakang",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-070",
+   "kata": "クォータ・パネル",
+   "kana": "くぉーたぱねる",
+   "romaji": "kuぉぉta paneru",
+   "arti": "panel samping belakang",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4"
+   ],
+   "sumber": "JICA",
+   "alias": "リア・フェンダー"
+  },
+  {
+   "id": "am-071",
+   "kata": "トランク",
+   "kana": "とらんく",
+   "romaji": "toranku",
+   "arti": "bagasi",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-072",
+   "kata": "エアコン",
+   "kana": "えあこん",
+   "romaji": "eakon",
+   "arti": "AC (singkatan)",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4"
+   ],
+   "sumber": "JICA",
+   "alias": "エア・コンディショナー"
+  },
+  {
+   "id": "am-073",
+   "kata": "パワステ",
+   "kana": "ぱわすて",
+   "romaji": "pawasute",
+   "arti": "power steering (singkatan)",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4",
+    "b4s6"
+   ],
+   "sumber": "JICA",
+   "alias": "パワーステアリング"
+  },
+  {
+   "id": "am-074",
+   "kata": "エキマニ",
+   "kana": "えきまに",
+   "romaji": "ekimani",
+   "arti": "manifold buang (singkatan)",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4",
+    "b4s3"
+   ],
+   "sumber": "JICA",
+   "alias": "エキゾースト・マニホールド"
+  },
+  {
+   "id": "am-075",
+   "kata": "インマニ",
+   "kana": "いんまに",
+   "romaji": "inmani",
+   "arti": "manifold hisap (singkatan)",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4",
+    "b4s3"
+   ],
+   "sumber": "JICA",
+   "alias": "インテーク・マニホールド"
+  },
+  {
+   "id": "am-076",
+   "kata": "右ハンドル",
+   "kana": "みぎはんどる",
+   "romaji": "migihandoru",
+   "arti": "setir kanan",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-077",
+   "kata": "左ハンドル",
+   "kana": "ひだりはんどる",
+   "romaji": "hidarihandoru",
+   "arti": "setir kiri",
+   "cat": "Luar mobil: belakang",
+   "bab": "bab1",
+   "src": [
+    "b1s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-078",
+   "kata": "エンジン",
+   "kana": "えんじん",
+   "romaji": "enjin",
+   "arti": "mesin",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5",
+    "b4s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-079",
+   "kata": "エンジン・オイル",
+   "kana": "えんじんおいる",
+   "romaji": "enjin oiru",
+   "arti": "oli mesin",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-080",
+   "kata": "ブレーキ・リザーバ・タンク",
+   "kana": "ぶれーきりざーばたんく",
+   "romaji": "bureeki rizaaba tanku",
+   "arti": "tangki cadangan minyak rem",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-081",
+   "kata": "ブレーキ・フルード",
+   "kana": "ぶれーきふるーど",
+   "romaji": "bureeki furuudo",
+   "arti": "minyak rem",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA",
+   "alias": "ブレーキ液"
+  },
+  {
+   "id": "am-082",
+   "kata": "ウィンド・ウォッシャ液",
+   "kana": "うぃんどうぉっしゃえき",
+   "romaji": "uぃndo uぉsshaeki",
+   "arti": "cairan penyemprot kaca",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-083",
+   "kata": "ラジエータ・リザーバ・タンク",
+   "kana": "らじえーたりざーばたんく",
+   "romaji": "rajieeta rizaaba tanku",
+   "arti": "tangki cadangan radiator",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-084",
+   "kata": "クーラント",
+   "kana": "くーらんと",
+   "romaji": "kuuranto",
+   "arti": "cairan pendingin",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5",
+    "b4s4"
+   ],
+   "sumber": "JICA",
+   "alias": "冷却水"
+  },
+  {
+   "id": "am-085",
+   "kata": "冷却ファン",
+   "kana": "れいきゃくふぁん",
+   "romaji": "reikyakufuぁn",
+   "arti": "kipas pendingin",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5",
+    "b4s4"
+   ],
+   "sumber": "JICA",
+   "alias": "ラジエーターファン"
+  },
+  {
+   "id": "am-086",
+   "kata": "バッテリのターミナル部",
+   "kana": "ばってりのたーみなるぶ",
+   "romaji": "batterinotaaminarubu",
+   "arti": "bagian terminal aki",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-087",
+   "kata": "バッテリ",
+   "kana": "ばってり",
+   "romaji": "batteri",
+   "arti": "aki",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-088",
+   "kata": "バッテリ液",
+   "kana": "ばってりえき",
+   "romaji": "batterieki",
+   "arti": "cairan aki",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-089",
+   "kata": "パワー・ステアリング・ベルト",
+   "kana": "ぱわーすてありんぐべると",
+   "romaji": "pawaa sutearingu beruto",
+   "arti": "sabuk power steering",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-090",
+   "kata": "ファン・ベルト",
+   "kana": "ふぁんべると",
+   "romaji": "fuぁn beruto",
+   "arti": "sabuk kipas",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-091",
+   "kata": "スパーク・プラグ",
+   "kana": "すぱーくぷらぐ",
+   "romaji": "supaaku puragu",
+   "arti": "busi",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-092",
+   "kata": "ディストリビュータのキャップ",
+   "kana": "でぃすとりびゅーたのきゃっぷ",
+   "romaji": "deぃsutoribyuutanokyappu",
+   "arti": "tutup distributor",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-093",
+   "kata": "エンジンECU",
+   "kana": "えんじんいーしーゆー",
+   "romaji": "enjiniishiiyuu",
+   "arti": "unit kontrol mesin (ECU)",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA",
+   "alias": "エンジン・コントロール・ユニット"
+  },
+  {
+   "id": "am-094",
+   "kata": "アッパー・ホース",
+   "kana": "あっぱーほーす",
+   "romaji": "appaa hoosu",
+   "arti": "selang atas radiator",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-095",
+   "kata": "クーラントのリザーバ・タンク",
+   "kana": "くーらんとのりざーばたんく",
+   "romaji": "kuurantonorizaaba tanku",
+   "arti": "tangki cadangan coolant",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA",
+   "alias": "ラジエータ・リザーバ・タンク"
+  },
+  {
+   "id": "am-096",
+   "kata": "エア・クリーナー・ボックス",
+   "kana": "えあくりーなーぼっくす",
+   "romaji": "ea kuriinaa bokkusu",
+   "arti": "kotak saringan udara",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-097",
+   "kata": "イグニッション・コイル",
+   "kana": "いぐにっしょんこいる",
+   "romaji": "igunisshon koiru",
+   "arti": "koil pengapian",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-098",
+   "kata": "ヘッド・カバー",
+   "kana": "へっどかばー",
+   "romaji": "heddo kabaa",
+   "arti": "tutup kepala silinder",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-099",
+   "kata": "フィラー・キャップ",
+   "kana": "ふぃらーきゃっぷ",
+   "romaji": "fuぃraa kyappu",
+   "arti": "tutup pengisian oli",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-100",
+   "kata": "レベル・ゲージ",
+   "kana": "れべるげーじ",
+   "romaji": "reberu geeji",
+   "arti": "batang celup oli (dipstick)",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-101",
+   "kata": "ウィンド・ウォッシャ液のリザーバ・タンク",
+   "kana": "うぃんどうぉっしゃえきのりざーばたんく",
+   "romaji": "uぃndo uぉsshaekinorizaaba tanku",
+   "arti": "tangki cairan penyemprot kaca",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-102",
+   "kata": "エンジン・マウント",
+   "kana": "えんじんまうんと",
+   "romaji": "enjin maunto",
+   "arti": "dudukan mesin",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-103",
+   "kata": "オルタネータ",
+   "kana": "おるたねーた",
+   "romaji": "orutaneeta",
+   "arti": "alternator (dinamo pengisi)",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA",
+   "alias": "オルタネーター"
+  },
+  {
+   "id": "am-104",
+   "kata": "インテーク・マニホールド",
+   "kana": "いんてーくまにほーるど",
+   "romaji": "inteeku manihoorudo",
+   "arti": "manifold hisap",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-105",
+   "kata": "ラジエーター・キャップ",
+   "kana": "らじえーたーきゃっぷ",
+   "romaji": "rajieetaa kyappu",
+   "arti": "tutup radiator",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-106",
+   "kata": "ブレーキ・マスタ・シリンダ",
+   "kana": "ぶれーきますたしりんだ",
+   "romaji": "bureeki masuta shirinda",
+   "arti": "master silinder rem",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-107",
+   "kata": "マスター・バック",
+   "kana": "ますたーばっく",
+   "romaji": "masutaa bakku",
+   "arti": "servo rem (master back)",
+   "cat": "Di dalam ruang mesin",
+   "bab": "bab1",
+   "src": [
+    "b1s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-108",
+   "kata": "足回り",
+   "kana": "あしまわり",
+   "romaji": "ashimawari",
+   "arti": "kaki-kaki",
+   "cat": "Kaki-kaki",
+   "bab": "bab1",
+   "src": [
+    "b1s6"
+   ],
+   "sumber": "JICA",
+   "alias": "足廻り：車のタイヤとサスペンションのこと"
+  },
+  {
+   "id": "am-109",
+   "kata": "タイヤ",
+   "kana": "たいや",
+   "romaji": "taiya",
+   "arti": "ban",
+   "cat": "Kaki-kaki",
+   "bab": "bab1",
+   "src": [
+    "b1s6",
+    "b4s5"
+   ],
+   "sumber": "JICA",
+   "alias": "ゴムのところ"
+  },
+  {
+   "id": "am-110",
+   "kata": "ホイール",
+   "kana": "ほいーる",
+   "romaji": "hoiiru",
+   "arti": "pelek",
+   "cat": "Kaki-kaki",
+   "bab": "bab1",
+   "src": [
+    "b1s6",
+    "b4s5"
+   ],
+   "sumber": "JICA",
+   "alias": "金属のところ"
+  },
+  {
+   "id": "am-111",
+   "kata": "ホイール・ナット",
+   "kana": "ほいーるなっと",
+   "romaji": "hoiiru natto",
+   "arti": "mur roda",
+   "cat": "Kaki-kaki",
+   "bab": "bab1",
+   "src": [
+    "b1s6"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-112",
+   "kata": "エアー・バルブ",
+   "kana": "えあーばるぶ",
+   "romaji": "eaa barubu",
+   "arti": "pentil ban",
+   "cat": "Kaki-kaki",
+   "bab": "bab1",
+   "src": [
+    "b1s6"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-113",
+   "kata": "ブレーキ・ディスク",
+   "kana": "ぶれーきでぃすく",
+   "romaji": "bureeki deぃsuku",
+   "arti": "cakram rem",
+   "cat": "Kaki-kaki",
+   "bab": "bab1",
+   "src": [
+    "b1s6"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-114",
+   "kata": "ブレーキ・ディスク・キャリパ",
+   "kana": "ぶれーきでぃすくきゃりぱ",
+   "romaji": "bureeki deぃsuku kyaripa",
+   "arti": "kaliper cakram rem",
+   "cat": "Kaki-kaki",
+   "bab": "bab1",
+   "src": [
+    "b1s6"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-115",
+   "kata": "ブレーキ・パッド",
+   "kana": "ぶれーきぱっど",
+   "romaji": "bureeki paddo",
+   "arti": "kampas rem cakram",
+   "cat": "Kaki-kaki",
+   "bab": "bab1",
+   "src": [
+    "b1s6"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-116",
+   "kata": "ブレーキ・ドラム",
+   "kana": "ぶれーきどらむ",
+   "romaji": "bureeki doramu",
+   "arti": "tromol rem",
+   "cat": "Kaki-kaki",
+   "bab": "bab1",
+   "src": [
+    "b1s6",
+    "b4s6"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-117",
+   "kata": "ブレーキ・ホイール・シリンダ",
+   "kana": "ぶれーきほいーるしりんだ",
+   "romaji": "bureeki hoiiru shirinda",
+   "arti": "silinder roda rem",
+   "cat": "Kaki-kaki",
+   "bab": "bab1",
+   "src": [
+    "b1s6"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-118",
+   "kata": "ブレーキ・シュー",
+   "kana": "ぶれーきしゅー",
+   "romaji": "bureeki shuu",
+   "arti": "sepatu rem (kampas rem tromol)",
+   "cat": "Kaki-kaki",
+   "bab": "bab1",
+   "src": [
+    "b1s6",
+    "b4s6"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-119",
+   "kata": "空気圧",
+   "kana": "くうきあつ",
+   "romaji": "kuukiatsu",
+   "arti": "tekanan udara ban",
+   "cat": "Kaki-kaki",
+   "bab": "bab1",
+   "src": [
+    "b1s6"
+   ],
+   "sumber": "JICA",
+   "alias": "エア・ゲージではかることができるもの"
+  },
+  {
+   "id": "am-120",
+   "kata": "下回り",
+   "kana": "したまわり",
+   "romaji": "shitamawari",
+   "arti": "bagian bawah mobil",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7"
+   ],
+   "sumber": "JICA",
+   "alias": "ジャッキで上げた車の下からみえる部品"
+  },
+  {
+   "id": "am-121",
+   "kata": "ドライブ・シャフト",
+   "kana": "どらいぶしゃふと",
+   "romaji": "doraibu shafuto",
+   "arti": "poros penggerak (drive shaft)",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7",
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-122",
+   "kata": "プロペラ・シャフト",
+   "kana": "ぷろぺらしゃふと",
+   "romaji": "puropera shafuto",
+   "arti": "poros propeller",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-123",
+   "kata": "ナックル",
+   "kana": "なっくる",
+   "romaji": "nakkuru",
+   "arti": "knuckle (penyangga roda)",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-124",
+   "kata": "ブレーキ・ホース",
+   "kana": "ぶれーきほーす",
+   "romaji": "bureeki hoosu",
+   "arti": "selang rem",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7",
+    "b4s6"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-125",
+   "kata": "トランスミッション",
+   "kana": "とらんすみっしょん",
+   "romaji": "toransumisshon",
+   "arti": "transmisi",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7",
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-126",
+   "kata": "ディファレンシャル",
+   "kana": "でぃふぁれんしゃる",
+   "romaji": "deぃfuぁrensharu",
+   "arti": "diferensial (gardan)",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7"
+   ],
+   "sumber": "JICA",
+   "alias": "デフ"
+  },
+  {
+   "id": "am-127",
+   "kata": "ロア・アーム",
+   "kana": "ろああーむ",
+   "romaji": "roa aamu",
+   "arti": "lengan bawah",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-128",
+   "kata": "オイル・フィルター",
+   "kana": "おいるふぃるたー",
+   "romaji": "oiru fuぃrutaa",
+   "arti": "filter oli",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7"
+   ],
+   "sumber": "JICA",
+   "alias": "オイル・エレメント"
+  },
+  {
+   "id": "am-129",
+   "kata": "エアコン・コンプレッサー",
+   "kana": "えあこんこんぷれっさー",
+   "romaji": "eakon konpuressaa",
+   "arti": "kompresor AC",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-130",
+   "kata": "ロア・ホース",
+   "kana": "ろあほーす",
+   "romaji": "roa hoosu",
+   "arti": "selang bawah radiator",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-131",
+   "kata": "オイルパン",
+   "kana": "おいるぱん",
+   "romaji": "oirupan",
+   "arti": "karter oli",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7",
+    "b4s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-132",
+   "kata": "ドレーンボルト",
+   "kana": "どれーんぼると",
+   "romaji": "doreenboruto",
+   "arti": "baut pembuang oli",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7"
+   ],
+   "sumber": "JICA",
+   "alias": "ドレーンプラグ"
+  },
+  {
+   "id": "am-133",
+   "kata": "O2センサー",
+   "kana": "おーつーせんさー",
+   "romaji": "ootsuusensaa",
+   "arti": "sensor oksigen (O2)",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7",
+    "b4s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-134",
+   "kata": "触媒",
+   "kana": "しょくばい",
+   "romaji": "shokubai",
+   "arti": "katalis (converter gas buang)",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-135",
+   "kata": "サブ・フレーム",
+   "kana": "さぶふれーむ",
+   "romaji": "sabu fureemu",
+   "arti": "rangka bantu (subframe)",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-136",
+   "kata": "タイロッド",
+   "kana": "たいろっど",
+   "romaji": "tairoddo",
+   "arti": "tie rod (batang kemudi)",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-137",
+   "kata": "ホーシング",
+   "kana": "ほーしんぐ",
+   "romaji": "hooshingu",
+   "arti": "rumah gardan",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-138",
+   "kata": "コイル・スプリング",
+   "kana": "こいるすぷりんぐ",
+   "romaji": "koiru supuringu",
+   "arti": "pegas keong",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7",
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-139",
+   "kata": "ブレーキ・パイプ",
+   "kana": "ぶれーきぱいぷ",
+   "romaji": "bureeki paipu",
+   "arti": "pipa rem",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-140",
+   "kata": "ショック・アブソーバー",
+   "kana": "しょっくあぶそーばー",
+   "romaji": "shokku abusoobaa",
+   "arti": "peredam kejut",
+   "cat": "Bagian bawah mobil",
+   "bab": "bab1",
+   "src": [
+    "b1s7",
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-141",
+   "kata": "エキゾースト・パイプ",
+   "kana": "えきぞーすとぱいぷ",
+   "romaji": "ekizoosuto paipu",
+   "arti": "pipa gas buang",
+   "cat": "Jenis kendaraan",
+   "bab": "bab1",
+   "src": [
+    "b1s8",
+    "b4s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-142",
+   "kata": "マフラー",
+   "kana": "まふらー",
+   "romaji": "mafuraa",
+   "arti": "knalpot",
+   "cat": "Jenis kendaraan",
+   "bab": "bab1",
+   "src": [
+    "b1s8",
+    "b4s3"
+   ],
+   "sumber": "JICA",
+   "alias": "マフラ"
+  },
+  {
+   "id": "am-143",
+   "kata": "フューエル・タンク",
+   "kana": "ふゅーえるたんく",
+   "romaji": "fyuueru tanku",
+   "arti": "tangki bahan bakar",
+   "cat": "Jenis kendaraan",
+   "bab": "bab1",
+   "src": [
+    "b1s8"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-144",
+   "kata": "遮熱板",
+   "kana": "しゃねつばん",
+   "romaji": "shanetsuban",
+   "arti": "pelindung panas",
+   "cat": "Jenis kendaraan",
+   "bab": "bab1",
+   "src": [
+    "b1s8"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-145",
+   "kata": "セダン",
+   "kana": "せだん",
+   "romaji": "sedan",
+   "arti": "sedan",
+   "cat": "Jenis kendaraan",
+   "bab": "bab1",
+   "src": [
+    "b1s8"
+   ],
+   "sumber": "JICA",
+   "catatan": "Terdiri dari tiga bagian: ruang mesin, kabin, dan bagasi (3 box), 4 pintu."
+  },
+  {
+   "id": "am-146",
+   "kata": "ステーションワゴン",
+   "kana": "すてーしょんわごん",
+   "romaji": "suteeshonwagon",
+   "arti": "station wagon",
+   "cat": "Jenis kendaraan",
+   "bab": "bab1",
+   "src": [
+    "b1s8"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mobil 2 box; ruang barang belakang menyatu dengan kursi belakang sehingga luas. Biasanya 5 penumpang, lebih rendah daripada SUV/minivan."
+  },
+  {
+   "id": "am-147",
+   "kata": "ワンボックス",
+   "kana": "わんぼっくす",
+   "romaji": "wanbokkusu",
+   "arti": "mobil satu boks (van)",
+   "cat": "Jenis kendaraan",
+   "bab": "bab1",
+   "src": [
+    "b1s8"
+   ],
+   "sumber": "JICA",
+   "catatan": "Ruang mesin berada di bawah kabin sehingga ruangnya menyatu seperti satu kotak."
+  },
+  {
+   "id": "am-148",
+   "kata": "バス",
+   "kana": "ばす",
+   "romaji": "basu",
+   "arti": "bus",
+   "cat": "Jenis kendaraan",
+   "bab": "bab1",
+   "src": [
+    "b1s8"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-149",
+   "kata": "トラック",
+   "kana": "とらっく",
+   "romaji": "torakku",
+   "arti": "truk",
+   "cat": "Jenis kendaraan",
+   "bab": "bab1",
+   "src": [
+    "b1s8"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-150",
+   "kata": "軽トラ",
+   "kana": "けいとら",
+   "romaji": "keitora",
+   "arti": "truk mini (kei truck)",
+   "cat": "Jenis kendaraan",
+   "bab": "bab1",
+   "src": [
+    "b1s8"
+   ],
+   "sumber": "JICA",
+   "alias": "軽トラック"
+  },
+  {
+   "id": "am-151",
+   "kata": "パトカー",
+   "kana": "ぱとかー",
+   "romaji": "patokaa",
+   "arti": "mobil patroli polisi",
+   "cat": "Jenis kendaraan",
+   "bab": "bab1",
+   "src": [
+    "b1s8"
+   ],
+   "sumber": "JICA",
+   "alias": "けいさつの車"
+  },
+  {
+   "id": "am-152",
+   "kata": "車検",
+   "kana": "しゃけん",
+   "romaji": "shaken",
+   "arti": "uji kendaraan (shaken)",
+   "cat": "Jenis kendaraan",
+   "bab": "bab1",
+   "src": [
+    "b1s8"
+   ],
+   "sumber": "JICA",
+   "catatan": "Sistem pemeriksaan kendaraan oleh negara sesuai hukum; di Jepang diperiksa apakah kendaraan memenuhi standar keselamatan."
+  },
+  {
+   "id": "am-153",
+   "kata": "免許証",
+   "kana": "めんきょしょう",
+   "romaji": "menkyoshou",
+   "arti": "surat izin mengemudi (SIM)",
+   "cat": "Jenis kendaraan",
+   "bab": "bab1",
+   "src": [
+    "b1s8"
+   ],
+   "sumber": "JICA",
+   "alias": "車を運転するためにひつような許可証"
+  },
+  {
+   "id": "am-154",
+   "kata": "定期点検",
+   "kana": "ていきてんけん",
+   "romaji": "teikitenken",
+   "arti": "pemeriksaan berkala",
+   "cat": "Istilah lain di bengkel",
+   "bab": "bab1",
+   "src": [
+    "b1s9"
+   ],
+   "sumber": "JICA",
+   "catatan": "Di Jepang mobil diperiksa secara berkala dan komponen yang akan memburuk diganti sebelum rusak."
+  },
+  {
+   "id": "am-155",
+   "kata": "予防保全",
+   "kana": "よぼうほぜん",
+   "romaji": "yobouhozen",
+   "arti": "perawatan pencegahan",
+   "cat": "Istilah lain di bengkel",
+   "bab": "bab1",
+   "src": [
+    "b1s9"
+   ],
+   "sumber": "JICA",
+   "alias": "この考えかたを予防保全といいます。"
+  },
+  {
+   "id": "am-156",
+   "kata": "定期点検整備記録簿",
+   "kana": "ていきてんけんせいびきろくぼ",
+   "romaji": "teikitenkenseibikirokubo",
+   "arti": "buku catatan pemeriksaan berkala",
+   "cat": "Istilah lain di bengkel",
+   "bab": "bab1",
+   "src": [
+    "b1s9"
+   ],
+   "sumber": "JICA",
+   "alias": "1年点検、2年点検、3ヶ月点検、6ヶ月点検、12ヶ月点検"
+  },
+  {
+   "id": "am-157",
+   "kata": "A",
+   "kana": "えー",
+   "romaji": "ee",
+   "arti": "A = disetel (調整した)",
+   "cat": "Istilah lain di bengkel",
+   "bab": "bab1",
+   "src": [
+    "b1s9"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-158",
+   "kata": "×",
+   "kana": "ばつ",
+   "romaji": "batsu",
+   "arti": "× = komponen diganti (部品を交換した)",
+   "cat": "Istilah lain di bengkel",
+   "bab": "bab1",
+   "src": [
+    "b1s9"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-159",
+   "kata": "L",
+   "kana": "える",
+   "romaji": "eru",
+   "arti": "L = diberi pelumas/cairan ditambah (給油)",
+   "cat": "Istilah lain di bengkel",
+   "bab": "bab1",
+   "src": [
+    "b1s9"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-160",
+   "kata": "C",
+   "kana": "しー",
+   "romaji": "shii",
+   "arti": "C = dibersihkan (清掃した)",
+   "cat": "Istilah lain di bengkel",
+   "bab": "bab1",
+   "src": [
+    "b1s9"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-161",
+   "kata": "△",
+   "kana": "さんかく",
+   "romaji": "sankaku",
+   "arti": "△ = diperbaiki (修理した)",
+   "cat": "Istilah lain di bengkel",
+   "bab": "bab1",
+   "src": [
+    "b1s9"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-162",
+   "kata": "T",
+   "kana": "てぃー",
+   "romaji": "teぃぃ",
+   "arti": "T = dikencangkan (締付けた)",
+   "cat": "Istilah lain di bengkel",
+   "bab": "bab1",
+   "src": [
+    "b1s9"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-163",
+   "kata": "レ",
+   "kana": "れ",
+   "romaji": "re",
+   "arti": "レ = tidak ada kelainan, baik (異常なし、大丈夫)",
+   "cat": "Istilah lain di bengkel",
+   "bab": "bab1",
+   "src": [
+    "b1s9"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-164",
+   "kata": "指示書",
+   "kana": "しじしょ",
+   "romaji": "shijisho",
+   "arti": "lembar instruksi kerja",
+   "cat": "Istilah lain di bengkel",
+   "bab": "bab1",
+   "src": [
+    "b1s9"
+   ],
+   "sumber": "JICA",
+   "alias": "作業のないようが書いてある"
+  },
+  {
+   "id": "am-165",
+   "kata": "朝礼",
+   "kana": "ちょうれい",
+   "romaji": "chourei",
+   "arti": "apel pagi",
+   "cat": "Istilah lain di bengkel",
+   "bab": "bab1",
+   "src": [
+    "b1s9"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-166",
+   "kata": "ラジオ体操",
+   "kana": "らじおたいそう",
+   "romaji": "rajiotaisou",
+   "arti": "senam radio",
+   "cat": "Istilah lain di bengkel",
+   "bab": "bab1",
+   "src": [
+    "b1s9"
+   ],
+   "sumber": "JICA",
+   "catatan": "Senam bersama sebelum kerja agar tidak cedera; semua orang Jepang mengenalnya."
+  },
+  {
+   "id": "am-167",
+   "kata": "ベビーシート",
+   "kana": "べびーしーと",
+   "romaji": "bebiishiito",
+   "arti": "kursi bayi",
+   "cat": "Istilah lain di bengkel",
+   "bab": "bab1",
+   "src": [
+    "b1s9"
+   ],
+   "sumber": "JICA",
+   "alias": "0〜1歳、身長70cm以下、体重10kg以下くらい"
+  },
+  {
+   "id": "am-168",
+   "kata": "チャイルドシート",
+   "kana": "ちゃいるどしーと",
+   "romaji": "chairudoshiito",
+   "arti": "kursi anak",
+   "cat": "Istilah lain di bengkel",
+   "bab": "bab1",
+   "src": [
+    "b1s9"
+   ],
+   "sumber": "JICA",
+   "alias": "1〜4歳ごろ、身長100cm以下、体重9〜18kg"
+  },
+  {
+   "id": "am-169",
+   "kata": "ジュニアシート",
+   "kana": "じゅにあしーと",
+   "romaji": "juniashiito",
+   "arti": "kursi junior",
+   "cat": "Istilah lain di bengkel",
+   "bab": "bab1",
+   "src": [
+    "b1s9"
+   ],
+   "sumber": "JICA",
+   "alias": "4〜10歳ごろ、体重15〜36kg"
+  },
+  {
+   "id": "am-170",
+   "kata": "スパナ",
+   "kana": "すぱな",
+   "romaji": "supana",
+   "arti": "kunci pas",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-171",
+   "kata": "モンキーレンチ",
+   "kana": "もんきーれんち",
+   "romaji": "monkiirenchi",
+   "arti": "kunci inggris",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "モンキー（正式にはモンキ・レンチ）"
+  },
+  {
+   "id": "am-172",
+   "kata": "眼鏡レンチ",
+   "kana": "めがねれんち",
+   "romaji": "meganerenchi",
+   "arti": "kunci ring",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "めがね（正式にはオフセット・レンチ）"
+  },
+  {
+   "id": "am-173",
+   "kata": "スピンナ・ハンドル",
+   "kana": "すぴんなはんどる",
+   "romaji": "supinna handoru",
+   "arti": "tangkai putar socket",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "スピンナ、ヒンジハンドル"
+  },
+  {
+   "id": "am-174",
+   "kata": "ソケットレンチ",
+   "kana": "そけっとれんち",
+   "romaji": "sokettorenchi",
+   "arti": "kunci socket",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "ソケット"
+  },
+  {
+   "id": "am-175",
+   "kata": "ディープ・ソケット",
+   "kana": "でぃーぷそけっと",
+   "romaji": "deぃぃpu soketto",
+   "arti": "socket panjang (deep socket)",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "ディープ"
+  },
+  {
+   "id": "am-176",
+   "kata": "ラチェット・ハンドル",
+   "kana": "らちぇっとはんどる",
+   "romaji": "rachiぇtto handoru",
+   "arti": "tangkai ratchet",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "ラチェット"
+  },
+  {
+   "id": "am-177",
+   "kata": "Tレンチ",
+   "kana": "てぃーれんち",
+   "romaji": "teぃぃrenchi",
+   "arti": "kunci T (slide handle)",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "Tレン、T型スライドハンドル"
+  },
+  {
+   "id": "am-178",
+   "kata": "エア・インパクト・レンチ",
+   "kana": "えあいんぱくとれんち",
+   "romaji": "ea inpakuto renchi",
+   "arti": "kunci impak angin",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "インパクト"
+  },
+  {
+   "id": "am-179",
+   "kata": "電動インパクト・レンチ",
+   "kana": "でんどういんぱくとれんち",
+   "romaji": "dendouinpakuto renchi",
+   "arti": "kunci impak listrik",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "電パク"
+  },
+  {
+   "id": "am-180",
+   "kata": "六角レンチ",
+   "kana": "ろっかくれんち",
+   "romaji": "rokkakurenchi",
+   "arti": "kunci L (heksagon)",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "六角棒スパナ、ヘキサゴン・レンチ"
+  },
+  {
+   "id": "am-181",
+   "kata": "パイプレンチ",
+   "kana": "ぱいぷれんち",
+   "romaji": "paipurenchi",
+   "arti": "kunci pipa",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "パイレン"
+  },
+  {
+   "id": "am-182",
+   "kata": "プラス・ドライバ",
+   "kana": "ぷらすどらいば",
+   "romaji": "purasu doraiba",
+   "arti": "obeng plus",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-183",
+   "kata": "マイナス・ドライバ",
+   "kana": "まいなすどらいば",
+   "romaji": "mainasu doraiba",
+   "arti": "obeng minus",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-184",
+   "kata": "普通型ドライバ",
+   "kana": "ふつうがたどらいば",
+   "romaji": "futsuugatadoraiba",
+   "arti": "obeng biasa",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Poros hanya sampai tengah gagang; tidak boleh dipukul."
+  },
+  {
+   "id": "am-185",
+   "kata": "貫通型ドライバ",
+   "kana": "かんつうがたどらいば",
+   "romaji": "kantsuugatadoraiba",
+   "arti": "obeng tembus",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Poros menembus gagang; lebih kuat dan boleh dipukul."
+  },
+  {
+   "id": "am-186",
+   "kata": "スタッビ・ドライバ",
+   "kana": "すたっびどらいば",
+   "romaji": "sutabbi doraiba",
+   "arti": "obeng pendek",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Gagang pendek; dipakai di tempat sempit."
+  },
+  {
+   "id": "am-187",
+   "kata": "ショック・ドライバ",
+   "kana": "しょっくどらいば",
+   "romaji": "shokku doraiba",
+   "arti": "obeng kejut",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Dipukul untuk melonggarkan sekrup yang terpasang kuat."
+  },
+  {
+   "id": "am-188",
+   "kata": "ハンマ",
+   "kana": "はんま",
+   "romaji": "hanma",
+   "arti": "palu",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "片手ハンマ"
+  },
+  {
+   "id": "am-189",
+   "kata": "木ハンマ",
+   "kana": "きはんま",
+   "romaji": "kihanma",
+   "arti": "palu kayu",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "モクハン"
+  },
+  {
+   "id": "am-190",
+   "kata": "ゴムハンマ",
+   "kana": "ごむはんま",
+   "romaji": "gomuhanma",
+   "arti": "palu karet",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "ゴムハン"
+  },
+  {
+   "id": "am-191",
+   "kata": "銅ハンマ",
+   "kana": "どうはんま",
+   "romaji": "douhanma",
+   "arti": "palu tembaga",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "ドウハン"
+  },
+  {
+   "id": "am-192",
+   "kata": "プラスチック・ハンマ",
+   "kana": "ぷらすちっくはんま",
+   "romaji": "purasuchikku hanma",
+   "arti": "palu plastik",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "プラハン"
+  },
+  {
+   "id": "am-193",
+   "kata": "テスト・ハンマ",
+   "kana": "てすとはんま",
+   "romaji": "tesuto hanma",
+   "arti": "palu uji",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Dipakai mengecek kekendoran baut dan mur."
+  },
+  {
+   "id": "am-194",
+   "kata": "プライヤ",
+   "kana": "ぷらいや",
+   "romaji": "puraiya",
+   "arti": "tang",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-195",
+   "kata": "コンビネーション・プライヤ",
+   "kana": "こんびねーしょんぷらいや",
+   "romaji": "konbineeshon puraiya",
+   "arti": "tang kombinasi",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Bukaan rahang bisa dua tingkat dengan mengganti lubang titik tumpu."
+  },
+  {
+   "id": "am-196",
+   "kata": "ペンチ",
+   "kana": "ぺんち",
+   "romaji": "penchi",
+   "arti": "tang potong",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Dipakai memotong kawat tembaga/besi."
+  },
+  {
+   "id": "am-197",
+   "kata": "ラジオ・ペンチ",
+   "kana": "らじおぺんち",
+   "romaji": "rajio penchi",
+   "arti": "tang lancip",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Ujung rahang sangat ramping, ada mata potong di sisi; dipakai di tempat sempit."
+  },
+  {
+   "id": "am-198",
+   "kata": "ニッパ",
+   "kana": "にっぱ",
+   "romaji": "nippa",
+   "arti": "tang pemotong (nipper)",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Dipakai memotong kawat tipis dan mengupas kabel."
+  },
+  {
+   "id": "am-199",
+   "kata": "スナップ・リング・プライヤ",
+   "kana": "すなっぷりんぐぷらいや",
+   "romaji": "sunappu ringu puraiya",
+   "arti": "tang cincin snap",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-200",
+   "kata": "ウォーターポンプ・プライヤ",
+   "kana": "うぉーたーぽんぷぷらいや",
+   "romaji": "uぉぉtaaponpu puraiya",
+   "arti": "tang pompa air",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-201",
+   "kata": "スライド・ハンマ",
+   "kana": "すらいどはんま",
+   "romaji": "suraido hanma",
+   "arti": "palu geser (slide hammer)",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-202",
+   "kata": "たがね",
+   "kana": "たがね",
+   "romaji": "tagane",
+   "arti": "pahat besi",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-203",
+   "kata": "油圧プレス",
+   "kana": "ゆあつぷれす",
+   "romaji": "yuatsupuresu",
+   "arti": "pres hidrolik",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Dipakai memasang/melepas bearing dan bushing."
+  },
+  {
+   "id": "am-204",
+   "kata": "バイス",
+   "kana": "ばいす",
+   "romaji": "baisu",
+   "arti": "ragum",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "alias": "万力"
+  },
+  {
+   "id": "am-205",
+   "kata": "やすり",
+   "kana": "やすり",
+   "romaji": "yasuri",
+   "arti": "kikir",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Ada berbagai bentuk: datar, setengah bulat, bulat, persegi, segitiga."
+  },
+  {
+   "id": "am-206",
+   "kata": "弓のこ",
+   "kana": "ゆみのこ",
+   "romaji": "yuminoko",
+   "arti": "gergaji busur",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-207",
+   "kata": "リーマ",
+   "kana": "りーま",
+   "romaji": "riima",
+   "arti": "reamer",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Dipakai menghaluskan lubang hasil bor (finishing bagian dalam)."
+  },
+  {
+   "id": "am-208",
+   "kata": "ベンチ・グラインダ",
+   "kana": "べんちぐらいんだ",
+   "romaji": "benchi gurainda",
+   "arti": "gerinda duduk",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-209",
+   "kata": "ドリル",
+   "kana": "どりる",
+   "romaji": "doriru",
+   "arti": "bor",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Dipasang pada bor listrik/bor meja untuk melubangi logam."
+  },
+  {
+   "id": "am-210",
+   "kata": "タップ",
+   "kana": "たっぷ",
+   "romaji": "tappu",
+   "arti": "tap",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Dipakai membuat ulir dalam."
+  },
+  {
+   "id": "am-211",
+   "kata": "タップ・レンチ",
+   "kana": "たっぷれんち",
+   "romaji": "tappu renchi",
+   "arti": "tangkai tap",
+   "cat": "Perkakas dasar",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Dipakai memutar tap."
+  },
+  {
+   "id": "am-212",
+   "kata": "ダイス",
+   "kana": "だいす",
+   "romaji": "daisu",
+   "arti": "dies",
+   "cat": "Alat ukur",
+   "bab": "bab2",
+   "src": [
+    "b2s2"
+   ],
+   "sumber": "JICA",
+   "catatan": "Dipakai membuat ulir luar."
+  },
+  {
+   "id": "am-213",
+   "kata": "スケール",
+   "kana": "すけーる",
+   "romaji": "sukeeru",
+   "arti": "penggaris",
+   "cat": "Alat ukur",
+   "bab": "bab2",
+   "src": [
+    "b2s2"
+   ],
+   "sumber": "JICA",
+   "alias": "ものさし"
+  },
+  {
+   "id": "am-214",
+   "kata": "ノギス",
+   "kana": "のぎす",
+   "romaji": "nogisu",
+   "arti": "jangka sorong",
+   "cat": "Alat ukur",
+   "bab": "bab2",
+   "src": [
+    "b2s2"
+   ],
+   "sumber": "JICA",
+   "alias": "デジタル型とダイヤル型"
+  },
+  {
+   "id": "am-215",
+   "kata": "マイクロメータ",
+   "kana": "まいくろめーた",
+   "romaji": "maikuromeeta",
+   "arti": "mikrometer",
+   "cat": "Alat ukur",
+   "bab": "bab2",
+   "src": [
+    "b2s2"
+   ],
+   "sumber": "JICA",
+   "catatan": "Dipakai mengukur diameter luar piston dan sebagainya."
+  },
+  {
+   "id": "am-216",
+   "kata": "ダイヤル・ゲージ",
+   "kana": "だいやるげーじ",
+   "romaji": "daiyaru geeji",
+   "arti": "dial gauge",
+   "cat": "Alat ukur",
+   "bab": "bab2",
+   "src": [
+    "b2s2"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mengukur olengan flywheel, poros, dan bengkoknya poros engkol."
+  },
+  {
+   "id": "am-217",
+   "kata": "シックネス・ゲージ",
+   "kana": "しっくねすげーじ",
+   "romaji": "shikkunesu geeji",
+   "arti": "feeler gauge (pengukur celah)",
+   "cat": "Alat ukur",
+   "bab": "bab2",
+   "src": [
+    "b2s2"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mengukur celah antar benda, misalnya celah katup."
+  },
+  {
+   "id": "am-218",
+   "kata": "コンプレッション・ゲージ",
+   "kana": "こんぷれっしょんげーじ",
+   "romaji": "konpuresshon geeji",
+   "arti": "pengukur kompresi",
+   "cat": "Alat pemeriksaan mesin, ban, aki",
+   "bab": "bab2",
+   "src": [
+    "b2s3"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mengukur tekanan kompresi mesin."
+  },
+  {
+   "id": "am-219",
+   "kata": "サーキット・テスタ",
+   "kana": "さーきっとてすた",
+   "romaji": "saakitto tesuta",
+   "arti": "multimeter",
+   "cat": "Alat pemeriksaan mesin, ban, aki",
+   "bab": "bab2",
+   "src": [
+    "b2s3"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mengukur arus, tegangan, dan hambatan."
+  },
+  {
+   "id": "am-220",
+   "kata": "バッテリ・クーラント・テスタ",
+   "kana": "ばってりくーらんとてすた",
+   "romaji": "batteri kuuranto tesuta",
+   "arti": "penguji aki dan coolant",
+   "cat": "Alat pemeriksaan mesin, ban, aki",
+   "bab": "bab2",
+   "src": [
+    "b2s3"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mengukur berat jenis, konsentrasi, dan titik beku cairan aki/coolant."
+  },
+  {
+   "id": "am-221",
+   "kata": "バッテリ・テスタ",
+   "kana": "ばってりてすた",
+   "romaji": "batteri tesuta",
+   "arti": "penguji aki",
+   "cat": "Alat pemeriksaan mesin, ban, aki",
+   "bab": "bab2",
+   "src": [
+    "b2s3"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mengukur tegangan dan penurunan kondisi aki."
+  },
+  {
+   "id": "am-222",
+   "kata": "COHCテスタ",
+   "kana": "しーおーえいちしーてすた",
+   "romaji": "shiioo eichishiitesuta",
+   "arti": "penguji gas buang CO/HC",
+   "cat": "Alat pemeriksaan mesin, ban, aki",
+   "bab": "bab2",
+   "src": [
+    "b2s3"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mengukur CO dan HC dalam gas buang."
+  },
+  {
+   "id": "am-223",
+   "kata": "オパシ・メータ",
+   "kana": "おぱしめーた",
+   "romaji": "opashi meeta",
+   "arti": "opasimeter",
+   "cat": "Alat pemeriksaan mesin, ban, aki",
+   "bab": "bab2",
+   "src": [
+    "b2s3"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mengukur partikel (PM) pada gas buang; hanya mobil diesel."
+  },
+  {
+   "id": "am-224",
+   "kata": "スキャンツール",
+   "kana": "すきゃんつーる",
+   "romaji": "sukyantsuuru",
+   "arti": "alat scan",
+   "cat": "Alat pemeriksaan mesin, ban, aki",
+   "bab": "bab2",
+   "src": [
+    "b2s3"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mendiagnosis kerusakan mobil (OBD)."
+  },
+  {
+   "id": "am-225",
+   "kata": "エア・ゲージ",
+   "kana": "えあげーじ",
+   "romaji": "ea geeji",
+   "arti": "pengukur tekanan udara ban",
+   "cat": "Alat pemeriksaan mesin, ban, aki",
+   "bab": "bab2",
+   "src": [
+    "b2s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-226",
+   "kata": "デプス・ゲージ",
+   "kana": "でぷすげーじ",
+   "romaji": "depusu geeji",
+   "arti": "pengukur kedalaman alur ban",
+   "cat": "Alat pemeriksaan mesin, ban, aki",
+   "bab": "bab2",
+   "src": [
+    "b2s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-227",
+   "kata": "バッテリー充電器",
+   "kana": "ばってりーじゅうでんき",
+   "romaji": "batteriijuudenki",
+   "arti": "pengisi aki (charger)",
+   "cat": "Alat pemeriksaan mesin, ban, aki",
+   "bab": "bab2",
+   "src": [
+    "b2s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-228",
+   "kata": "エア・ガン",
+   "kana": "えあがん",
+   "romaji": "ea gan",
+   "arti": "pistol udara",
+   "cat": "Alat pemeriksaan mesin, ban, aki",
+   "bab": "bab2",
+   "src": [
+    "b2s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-229",
+   "kata": "洗車機",
+   "kana": "せんしゃき",
+   "romaji": "senshaki",
+   "arti": "mesin cuci mobil",
+   "cat": "Alat pemeriksaan mesin, ban, aki",
+   "bab": "bab2",
+   "src": [
+    "b2s3"
+   ],
+   "sumber": "JICA",
+   "alias": "洗浄機"
+  },
+  {
+   "id": "am-230",
+   "kata": "グリースガン",
+   "kana": "ぐりーすがん",
+   "romaji": "guriisugan",
+   "arti": "pistol gemuk",
+   "cat": "Alat pelumasan dan pengangkat",
+   "bab": "bab2",
+   "src": [
+    "b2s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-231",
+   "kata": "ルブリケータ",
+   "kana": "るぶりけーた",
+   "romaji": "ruburikeeta",
+   "arti": "lubricator (alat pelumas)",
+   "cat": "Alat pelumasan dan pengangkat",
+   "bab": "bab2",
+   "src": [
+    "b2s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-232",
+   "kata": "ジャッキ",
+   "kana": "じゃっき",
+   "romaji": "jakki",
+   "arti": "dongkrak",
+   "cat": "Alat pelumasan dan pengangkat",
+   "bab": "bab2",
+   "src": [
+    "b2s4"
+   ],
+   "sumber": "JICA",
+   "alias": "ガレージジャッキ"
+  },
+  {
+   "id": "am-233",
+   "kata": "リフト",
+   "kana": "りふと",
+   "romaji": "rifuto",
+   "arti": "lift mobil",
+   "cat": "Alat pelumasan dan pengangkat",
+   "bab": "bab2",
+   "src": [
+    "b2s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-234",
+   "kata": "チェーン・ブロック",
+   "kana": "ちぇーんぶろっく",
+   "romaji": "chiぇぇn burokku",
+   "arti": "katrol rantai",
+   "cat": "Alat pelumasan dan pengangkat",
+   "bab": "bab2",
+   "src": [
+    "b2s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-235",
+   "kata": "うま",
+   "kana": "うま",
+   "romaji": "uma",
+   "arti": "jack stand (penyangga)",
+   "cat": "Alat pelumasan dan pengangkat",
+   "bab": "bab2",
+   "src": [
+    "b2s4"
+   ],
+   "sumber": "JICA",
+   "alias": "リジット・ラック"
+  },
+  {
+   "id": "am-236",
+   "kata": "ラジエータ・キャップ・テスタ",
+   "kana": "らじえーたきゃっぷてすた",
+   "romaji": "rajieeta kyappu tesuta",
+   "arti": "penguji tutup radiator",
+   "cat": "Alat uji kendaraan dan mesin bengkel",
+   "bab": "bab2",
+   "src": [
+    "b2s5"
+   ],
+   "sumber": "JICA",
+   "alias": "冷却系統の点検に使う工具"
+  },
+  {
+   "id": "am-237",
+   "kata": "ブレーキ・スピード複合機",
+   "kana": "ぶれーきすぴーどふくごうき",
+   "romaji": "bureeki supiido fukugouki",
+   "arti": "alat uji gabungan rem dan spidometer",
+   "cat": "Alat uji kendaraan dan mesin bengkel",
+   "bab": "bab2",
+   "src": [
+    "b2s5"
+   ],
+   "sumber": "JICA",
+   "alias": "ブレーキ・テスタとスピードメーター・テスタがいっしょになって検査できるもの"
+  },
+  {
+   "id": "am-238",
+   "kata": "サイドスリップ・ブレーキ・スピード複合試験機",
+   "kana": "さいどすりっぷぶれーきすぴーどふくごうしけんき",
+   "romaji": "saidosurippu bureeki supiido fukugoushikenki",
+   "arti": "alat uji gabungan selip samping, rem, dan spidometer",
+   "cat": "Alat uji kendaraan dan mesin bengkel",
+   "bab": "bab2",
+   "src": [
+    "b2s5"
+   ],
+   "sumber": "JICA",
+   "alias": "サイドスリップ、ブレーキ、スピードメーターの3つがいっしょになったもの"
+  },
+  {
+   "id": "am-239",
+   "kata": "ブレーキ・テスタ",
+   "kana": "ぶれーきてすた",
+   "romaji": "bureeki tesuta",
+   "arti": "alat uji rem",
+   "cat": "Alat uji kendaraan dan mesin bengkel",
+   "bab": "bab2",
+   "src": [
+    "b2s5"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mengukur daya kerja rem."
+  },
+  {
+   "id": "am-240",
+   "kata": "スピードメーター・テスタ",
+   "kana": "すぴーどめーたーてすた",
+   "romaji": "supiidomeetaa tesuta",
+   "arti": "alat uji spidometer",
+   "cat": "Alat uji kendaraan dan mesin bengkel",
+   "bab": "bab2",
+   "src": [
+    "b2s5"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mengukur kesalahan penunjukan spidometer."
+  },
+  {
+   "id": "am-241",
+   "kata": "サイドスリップ・テスタ",
+   "kana": "さいどすりっぷてすた",
+   "romaji": "saidosurippu tesuta",
+   "arti": "alat uji selip samping",
+   "cat": "Alat uji kendaraan dan mesin bengkel",
+   "bab": "bab2",
+   "src": [
+    "b2s5"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mengukur besar selip samping ban."
+  },
+  {
+   "id": "am-242",
+   "kata": "騒音計",
+   "kana": "そうおんけい",
+   "romaji": "souonkei",
+   "arti": "alat ukur kebisingan",
+   "cat": "Alat uji kendaraan dan mesin bengkel",
+   "bab": "bab2",
+   "src": [
+    "b2s5"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mengukur volume klakson dan tingkat kebisingan."
+  },
+  {
+   "id": "am-243",
+   "kata": "ヘッドライト・テスタ",
+   "kana": "へっどらいとてすた",
+   "romaji": "heddoraito tesuta",
+   "arti": "penguji lampu depan",
+   "cat": "Alat uji kendaraan dan mesin bengkel",
+   "bab": "bab2",
+   "src": [
+    "b2s5"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mengukur intensitas dan arah sinar utama lampu depan."
+  },
+  {
+   "id": "am-244",
+   "kata": "ホイール・バランサ",
+   "kana": "ほいーるばらんさ",
+   "romaji": "hoiiru baransa",
+   "arti": "alat balancing roda",
+   "cat": "Alat uji kendaraan dan mesin bengkel",
+   "bab": "bab2",
+   "src": [
+    "b2s5"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mengukur dan menyetel ketidakseimbangan roda."
+  },
+  {
+   "id": "am-245",
+   "kata": "タイヤ・チェンジャ",
+   "kana": "たいやちぇんじゃ",
+   "romaji": "taiya chiぇnja",
+   "arti": "mesin pasang-lepas ban",
+   "cat": "Alat uji kendaraan dan mesin bengkel",
+   "bab": "bab2",
+   "src": [
+    "b2s5"
+   ],
+   "sumber": "JICA",
+   "catatan": "Memasang dan melepas ban dari pelek."
+  },
+  {
+   "id": "am-246",
+   "kata": "ガス溶接器",
+   "kana": "がすようせつき",
+   "romaji": "gasuyousetsuki",
+   "arti": "alat las gas",
+   "cat": "Alat uji kendaraan dan mesin bengkel",
+   "bab": "bab2",
+   "src": [
+    "b2s5"
+   ],
+   "sumber": "JICA",
+   "catatan": "Mengelas, memotong, dan memproses logam dengan gas asetilen."
+  },
+  {
+   "id": "am-247",
+   "kata": "アーク溶接機",
+   "kana": "あーくようせつき",
+   "romaji": "aakuyousetsuki",
+   "arti": "mesin las busur (arc)",
+   "cat": "Alat uji kendaraan dan mesin bengkel",
+   "bab": "bab2",
+   "src": [
+    "b2s5"
+   ],
+   "sumber": "JICA",
+   "catatan": "Dipakai mengelas logam dengan busur listrik."
+  },
+  {
+   "id": "am-248",
+   "kata": "半自動溶接機",
+   "kana": "はんじどうようせつき",
+   "romaji": "hanjidouyousetsuki",
+   "arti": "mesin las semi-otomatis",
+   "cat": "Alat uji kendaraan dan mesin bengkel",
+   "bab": "bab2",
+   "src": [
+    "b2s5"
+   ],
+   "sumber": "JICA",
+   "catatan": "Las busur dengan gas pelindung seperti CO2."
+  },
+  {
+   "id": "am-249",
+   "kata": "レギュラー",
+   "kana": "れぎゅらー",
+   "romaji": "regyuraa",
+   "arti": "bensin reguler",
+   "cat": "Alat uji kendaraan dan mesin bengkel",
+   "bab": "bab2",
+   "src": [
+    "b2s5"
+   ],
+   "sumber": "JICA",
+   "alias": "赤色"
+  },
+  {
+   "id": "am-250",
+   "kata": "ハイオク",
+   "kana": "はいおく",
+   "romaji": "haioku",
+   "arti": "bensin oktan tinggi",
+   "cat": "Alat uji kendaraan dan mesin bengkel",
+   "bab": "bab2",
+   "src": [
+    "b2s5"
+   ],
+   "sumber": "JICA",
+   "alias": "黄色"
+  },
+  {
+   "id": "am-251",
+   "kata": "軽油",
+   "kana": "けいゆ",
+   "romaji": "keiyu",
+   "arti": "solar (diesel)",
+   "cat": "Alat uji kendaraan dan mesin bengkel",
+   "bab": "bab2",
+   "src": [
+    "b2s5"
+   ],
+   "sumber": "JICA",
+   "alias": "緑色。ディーゼル車の燃料"
+  },
+  {
+   "id": "am-252",
+   "kata": "気を付ける",
+   "kana": "きをつける",
+   "romaji": "kiotsukeru",
+   "arti": "berhati-hati",
+   "cat": "Kata kerja: keselamatan & kebersihan",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "sumber": "JICA",
+   "alias": "気付けや（Kansai)",
+   "contoh": "重たい部品や大型車のタイヤをもちあげるとき、リフトをあげるとき、気を付けて。",
+   "arti_contoh": "Hati-hati saat mengangkat komponen berat/ban kendaraan besar atau menaikkan lift."
+  },
+  {
+   "id": "am-253",
+   "kata": "戻す",
+   "kana": "もどす",
+   "romaji": "modosu",
+   "arti": "mengembalikan",
+   "cat": "Kata kerja: keselamatan & kebersihan",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "sumber": "JICA",
+   "alias": "片す、直す",
+   "contoh": "ジャッキ、もどしといて。",
+   "arti_contoh": "Tolong kembalikan dongkrak."
+  },
+  {
+   "id": "am-254",
+   "kata": "磨く",
+   "kana": "みがく",
+   "romaji": "migaku",
+   "arti": "menggosok, memoles",
+   "cat": "Kata kerja: keselamatan & kebersihan",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Tolong poles bodinya."
+  },
+  {
+   "id": "am-255",
+   "kata": "片づける",
+   "kana": "かたづける",
+   "romaji": "katazukeru",
+   "arti": "merapikan, membereskan",
+   "cat": "Kata kerja: keselamatan & kebersihan",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "sumber": "JICA",
+   "alias": "片す、戻す、直す",
+   "contoh": "バンパーを、片づけて。",
+   "arti_contoh": "Tolong bereskan bemper itu."
+  },
+  {
+   "id": "am-256",
+   "kata": "掃除する",
+   "kana": "そうじする",
+   "romaji": "soujisuru",
+   "arti": "membersihkan",
+   "cat": "Kata kerja: keselamatan & kebersihan",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "sumber": "JICA",
+   "alias": "さらう",
+   "contoh": "車内を掃除して。",
+   "arti_contoh": "Tolong bersihkan bagian dalam mobil."
+  },
+  {
+   "id": "am-257",
+   "kata": "ふく",
+   "kana": "ふく",
+   "romaji": "fuku",
+   "arti": "mengelap",
+   "cat": "Kata kerja: keselamatan & kebersihan",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "sumber": "JICA",
+   "alias": "拭く",
+   "contoh": "床をふいて。",
+   "arti_contoh": "Tolong lap lantainya."
+  },
+  {
+   "id": "am-258",
+   "kata": "掃く",
+   "kana": "はく",
+   "romaji": "haku",
+   "arti": "menyapu",
+   "cat": "Kata kerja: keselamatan & kebersihan",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "sumber": "JICA",
+   "alias": "さらう",
+   "contoh": "ほうきではいて。",
+   "arti_contoh": "Sapu dengan sapu."
+  },
+  {
+   "id": "am-259",
+   "kata": "洗う",
+   "kana": "あらう",
+   "romaji": "arau",
+   "arti": "mencuci",
+   "cat": "Kata kerja: keselamatan & kebersihan",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "sumber": "JICA",
+   "alias": "洗車する",
+   "contoh": "手を洗って。車洗って。",
+   "arti_contoh": "Cuci tangan. Cuci mobilnya."
+  },
+  {
+   "id": "am-260",
+   "kata": "きれいにする",
+   "kana": "きれいにする",
+   "romaji": "kireinisuru",
+   "arti": "membersihkan, merapikan",
+   "cat": "Kata kerja: keselamatan & kebersihan",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Tolong bersihkan keset lantainya."
+  },
+  {
+   "id": "am-261",
+   "kata": "かえる",
+   "kana": "かえる",
+   "romaji": "kaeru",
+   "arti": "mengganti",
+   "cat": "Kata kerja: ruang mesin",
+   "bab": "bab3",
+   "src": [
+    "b3s2"
+   ],
+   "sumber": "JICA",
+   "alias": "替える／取り替える、交換する",
+   "contoh": "ワイパーかえようか。オイルかえようか。エレメントもかえて。",
+   "arti_contoh": "Ganti wiper? Ganti oli? Elemen juga tolong diganti."
+  },
+  {
+   "id": "am-262",
+   "kata": "すてる",
+   "kana": "すてる",
+   "romaji": "suteru",
+   "arti": "membuang",
+   "cat": "Kata kerja: ruang mesin",
+   "bab": "bab3",
+   "src": [
+    "b3s2"
+   ],
+   "sumber": "JICA",
+   "alias": "捨てる、ほかす、なげる",
+   "contoh": "ゴミ、すてといて。",
+   "arti_contoh": "Tolong buang sampahnya."
+  },
+  {
+   "id": "am-263",
+   "kata": "さます",
+   "kana": "さます",
+   "romaji": "samasu",
+   "arti": "mendinginkan",
+   "cat": "Kata kerja: ruang mesin",
+   "bab": "bab3",
+   "src": [
+    "b3s2"
+   ],
+   "sumber": "JICA",
+   "alias": "冷ます、ひやす",
+   "contoh": "エンジンさまして。",
+   "arti_contoh": "Tolong dinginkan mesinnya."
+  },
+  {
+   "id": "am-264",
+   "kata": "張る",
+   "kana": "はる",
+   "romaji": "haru",
+   "arti": "mengencangkan (sabuk)",
+   "cat": "Kata kerja: ruang mesin",
+   "bab": "bab3",
+   "src": [
+    "b3s2"
+   ],
+   "sumber": "JICA",
+   "alias": "ひっぱる",
+   "contoh": "ベルトを張って。",
+   "arti_contoh": "Tolong kencangkan sabuknya."
+  },
+  {
+   "id": "am-265",
+   "kata": "オンにする",
+   "kana": "おんにする",
+   "romaji": "onnisuru",
+   "arti": "menghidupkan (ON)",
+   "cat": "Kata kerja: ruang mesin",
+   "bab": "bab3",
+   "src": [
+    "b3s2"
+   ],
+   "sumber": "JICA",
+   "alias": "オンして",
+   "contoh": "IG（イグニッション）オンして。",
+   "arti_contoh": "Hidupkan kunci kontak (ON)."
+  },
+  {
+   "id": "am-266",
+   "kata": "オフにする",
+   "kana": "おふにする",
+   "romaji": "ofunisuru",
+   "arti": "mematikan (OFF)",
+   "cat": "Kata kerja: ruang mesin",
+   "bab": "bab3",
+   "src": [
+    "b3s2"
+   ],
+   "sumber": "JICA",
+   "alias": "⇔オン",
+   "contoh": "IG（イグニッション）オフして。",
+   "arti_contoh": "Matikan kunci kontak (OFF)."
+  },
+  {
+   "id": "am-267",
+   "kata": "エンジンをかける",
+   "kana": "えんじんをかける",
+   "romaji": "enjinokakeru",
+   "arti": "menghidupkan mesin",
+   "cat": "Kata kerja: ruang mesin",
+   "bab": "bab3",
+   "src": [
+    "b3s2"
+   ],
+   "sumber": "JICA",
+   "catatan": "Hidupkan mesinnya."
+  },
+  {
+   "id": "am-268",
+   "kata": "調整する",
+   "kana": "ちょうせいする",
+   "romaji": "chouseisuru",
+   "arti": "menyetel",
+   "cat": "Kata kerja: ruang mesin",
+   "bab": "bab3",
+   "src": [
+    "b3s2"
+   ],
+   "sumber": "JICA",
+   "alias": "調節する、あわせる",
+   "contoh": "空気圧を調節して。",
+   "arti_contoh": "Tolong setel tekanan angin."
+  },
+  {
+   "id": "am-269",
+   "kata": "あける",
+   "kana": "あける",
+   "romaji": "akeru",
+   "arti": "membuka",
+   "cat": "Kata kerja: ruang mesin",
+   "bab": "bab3",
+   "src": [
+    "b3s2"
+   ],
+   "sumber": "JICA",
+   "alias": "開ける",
+   "contoh": "ボンネットをあけて。",
+   "arti_contoh": "Tolong buka kap mesin."
+  },
+  {
+   "id": "am-270",
+   "kata": "しめる",
+   "kana": "しめる",
+   "romaji": "shimeru",
+   "arti": "menutup",
+   "cat": "Kata kerja: ruang mesin",
+   "bab": "bab3",
+   "src": [
+    "b3s2",
+    "b3s3"
+   ],
+   "sumber": "JICA",
+   "alias": "閉める",
+   "contoh": "ボンネットをしめて。",
+   "arti_contoh": "Tolong tutup kap mesin."
+  },
+  {
+   "id": "am-271",
+   "kata": "止める",
+   "kana": "とめる",
+   "romaji": "tomeru",
+   "arti": "menghentikan, mematikan",
+   "cat": "Kata kerja: ruang mesin",
+   "bab": "bab3",
+   "src": [
+    "b3s2"
+   ],
+   "sumber": "JICA",
+   "catatan": "Matikan mesinnya."
+  },
+  {
+   "id": "am-272",
+   "kata": "とる",
+   "kana": "とる",
+   "romaji": "toru",
+   "arti": "mengambil",
+   "cat": "Kata kerja: ruang mesin",
+   "bab": "bab3",
+   "src": [
+    "b3s2"
+   ],
+   "sumber": "JICA",
+   "catatan": "Tolong ambilkan ratchet."
+  },
+  {
+   "id": "am-273",
+   "kata": "とりだす",
+   "kana": "とりだす",
+   "romaji": "toridasu",
+   "arti": "mengeluarkan",
+   "cat": "Kata kerja: ruang mesin",
+   "bab": "bab3",
+   "src": [
+    "b3s2"
+   ],
+   "sumber": "JICA",
+   "alias": "はずす、とりはずす",
+   "contoh": "エアコン・フィルターをとりだして。",
+   "arti_contoh": "Tolong keluarkan filter AC."
+  },
+  {
+   "id": "am-274",
+   "kata": "つなぐ",
+   "kana": "つなぐ",
+   "romaji": "tsunagu",
+   "arti": "menyambung",
+   "cat": "Kata kerja: ruang mesin",
+   "bab": "bab3",
+   "src": [
+    "b3s2"
+   ],
+   "sumber": "JICA",
+   "alias": "はめる",
+   "contoh": "エア・ホースをつないで。",
+   "arti_contoh": "Sambungkan selang udara."
+  },
+  {
+   "id": "am-275",
+   "kata": "はずす",
+   "kana": "はずす",
+   "romaji": "hazusu",
+   "arti": "melepas",
+   "cat": "Kata kerja: ruang mesin",
+   "bab": "bab3",
+   "src": [
+    "b3s2",
+    "b3s3",
+    "b3s4"
+   ],
+   "sumber": "JICA",
+   "alias": "とりはずす",
+   "contoh": "エア・クリーナーをはずして。バッテリーとりはずして。",
+   "arti_contoh": "Lepas saringan udara. Lepas aki."
+  },
+  {
+   "id": "am-276",
+   "kata": "点検する",
+   "kana": "てんけんする",
+   "romaji": "tenkensuru",
+   "arti": "memeriksa",
+   "cat": "Kata kerja: ruang mesin",
+   "bab": "bab3",
+   "src": [
+    "b3s2"
+   ],
+   "sumber": "JICA",
+   "alias": "みる",
+   "contoh": "エンジンルームを、点検して。",
+   "arti_contoh": "Periksa ruang mesin."
+  },
+  {
+   "id": "am-277",
+   "kata": "入れ替える",
+   "kana": "いれかえる",
+   "romaji": "irekaeru",
+   "arti": "menukar posisi",
+   "cat": "Kata kerja: kaki-kaki",
+   "bab": "bab3",
+   "src": [
+    "b3s3"
+   ],
+   "sumber": "JICA",
+   "alias": "ローテーションして",
+   "contoh": "タイヤ（の前と後ろ）を入れ替えて。",
+   "arti_contoh": "Tukar posisi ban depan dan belakang (rotasi ban)."
+  },
+  {
+   "id": "am-278",
+   "kata": "つける",
+   "kana": "つける",
+   "romaji": "tsukeru",
+   "arti": "memasang",
+   "cat": "Kata kerja: kaki-kaki",
+   "bab": "bab3",
+   "src": [
+    "b3s3"
+   ],
+   "sumber": "JICA",
+   "alias": "とりつける、組む、組みつける、はめる",
+   "contoh": "タイヤ、つけて。ブレーキ、ドラムを組んどいて。",
+   "arti_contoh": "Pasang bannya. Rakit tromol remnya."
+  },
+  {
+   "id": "am-279",
+   "kata": "分解する",
+   "kana": "ぶんかいする",
+   "romaji": "bunkaisuru",
+   "arti": "membongkar",
+   "cat": "Kata kerja: kaki-kaki",
+   "bab": "bab3",
+   "src": [
+    "b3s3"
+   ],
+   "sumber": "JICA",
+   "alias": "ばらす、あける",
+   "contoh": "ドラムブレーキを分解して。",
+   "arti_contoh": "Bongkar rem tromol."
+  },
+  {
+   "id": "am-280",
+   "kata": "ゆるめる",
+   "kana": "ゆるめる",
+   "romaji": "yurumeru",
+   "arti": "mengendurkan",
+   "cat": "Kata kerja: kaki-kaki",
+   "bab": "bab3",
+   "src": [
+    "b3s3"
+   ],
+   "sumber": "JICA",
+   "alias": "緩める",
+   "contoh": "ナットをゆるめて。ボルト緩めて。",
+   "arti_contoh": "Kendurkan murnya. Kendurkan bautnya."
+  },
+  {
+   "id": "am-281",
+   "kata": "動かす",
+   "kana": "うごかす",
+   "romaji": "ugokasu",
+   "arti": "menggerakkan, memindahkan",
+   "cat": "Kata kerja: kaki-kaki",
+   "bab": "bab3",
+   "src": [
+    "b3s3"
+   ],
+   "sumber": "JICA",
+   "alias": "どかす、ころがす",
+   "contoh": "オイル・ドレーナーを、動かして。",
+   "arti_contoh": "Pindahkan penampung oli."
+  },
+  {
+   "id": "am-282",
+   "kata": "もちあげる",
+   "kana": "もちあげる",
+   "romaji": "mochiageru",
+   "arti": "mengangkat",
+   "cat": "Kata kerja: kaki-kaki",
+   "bab": "bab3",
+   "src": [
+    "b3s3"
+   ],
+   "sumber": "JICA",
+   "alias": "あげる",
+   "contoh": "タイヤをもちあげて。",
+   "arti_contoh": "Angkat bannya."
+  },
+  {
+   "id": "am-283",
+   "kata": "削る",
+   "kana": "けずる",
+   "romaji": "kezuru",
+   "arti": "mengikis, menyerut",
+   "cat": "Kata kerja: kaki-kaki",
+   "bab": "bab3",
+   "src": [
+    "b3s3"
+   ],
+   "sumber": "JICA",
+   "catatan": "Kikis sepatu rem (saat berbunyi mencicit)."
+  },
+  {
+   "id": "am-284",
+   "kata": "もつ",
+   "kana": "もつ",
+   "romaji": "motsu",
+   "arti": "memegang",
+   "cat": "Kata kerja: bagian bawah",
+   "bab": "bab3",
+   "src": [
+    "b3s4"
+   ],
+   "sumber": "JICA",
+   "alias": "ささえる",
+   "contoh": "マフラーをもって。",
+   "arti_contoh": "Pegang knalpotnya."
+  },
+  {
+   "id": "am-285",
+   "kata": "上げる",
+   "kana": "あげる",
+   "romaji": "ageru",
+   "arti": "menaikkan",
+   "cat": "Kata kerja: bagian bawah",
+   "bab": "bab3",
+   "src": [
+    "b3s4"
+   ],
+   "sumber": "JICA",
+   "catatan": "Naikkan lift. Naikkan dongkrak."
+  },
+  {
+   "id": "am-286",
+   "kata": "おろす",
+   "kana": "おろす",
+   "romaji": "orosu",
+   "arti": "menurunkan",
+   "cat": "Kata kerja: bagian bawah",
+   "bab": "bab3",
+   "src": [
+    "b3s4"
+   ],
+   "sumber": "JICA",
+   "alias": "さげる（⇔上げる）",
+   "contoh": "リフトを、おろして。",
+   "arti_contoh": "Turunkan lift."
+  },
+  {
+   "id": "am-287",
+   "kata": "入れる",
+   "kana": "いれる",
+   "romaji": "ireru",
+   "arti": "memasukkan, mengisi",
+   "cat": "Kata kerja: bagian bawah",
+   "bab": "bab3",
+   "src": [
+    "b3s4"
+   ],
+   "sumber": "JICA",
+   "catatan": "Isi oli mesin."
+  },
+  {
+   "id": "am-288",
+   "kata": "抜く",
+   "kana": "ぬく",
+   "romaji": "nuku",
+   "arti": "mengeluarkan, menguras",
+   "cat": "Kata kerja: bagian bawah",
+   "bab": "bab3",
+   "src": [
+    "b3s4"
+   ],
+   "sumber": "JICA",
+   "alias": "（オイルを）出す（⇔入れる）",
+   "contoh": "エンジン・オイルを抜いて。",
+   "arti_contoh": "Kuras oli mesin."
+  },
+  {
+   "id": "am-289",
+   "kata": "押す",
+   "kana": "おす",
+   "romaji": "osu",
+   "arti": "mendorong",
+   "cat": "Kata kerja lain",
+   "bab": "bab3",
+   "src": [
+    "b3s5"
+   ],
+   "sumber": "JICA",
+   "catatan": "Dorong mobilnya."
+  },
+  {
+   "id": "am-290",
+   "kata": "回す",
+   "kana": "まわす",
+   "romaji": "mawasu",
+   "arti": "memutar",
+   "cat": "Kata kerja lain",
+   "bab": "bab3",
+   "src": [
+    "b3s5"
+   ],
+   "sumber": "JICA",
+   "alias": "（ハンドルを）きる",
+   "contoh": "ハンドルを回して。",
+   "arti_contoh": "Putar setirnya."
+  },
+  {
+   "id": "am-291",
+   "kata": "ロックする",
+   "kana": "ろっくする",
+   "romaji": "rokkusuru",
+   "arti": "mengunci",
+   "cat": "Kata kerja lain",
+   "bab": "bab3",
+   "src": [
+    "b3s5"
+   ],
+   "sumber": "JICA",
+   "alias": "ロックかけて",
+   "contoh": "ドア・ロックをロックして。",
+   "arti_contoh": "Kunci pintu."
+  },
+  {
+   "id": "am-292",
+   "kata": "解除する",
+   "kana": "かいじょする",
+   "romaji": "kaijosuru",
+   "arti": "membuka kunci",
+   "cat": "Kata kerja lain",
+   "bab": "bab3",
+   "src": [
+    "b3s5"
+   ],
+   "sumber": "JICA",
+   "alias": "ロックはずして（⇔ロックする）",
+   "contoh": "ドア・ロックを解除して。",
+   "arti_contoh": "Buka kunci pintu."
+  },
+  {
+   "id": "am-293",
+   "kata": "さわる",
+   "kana": "さわる",
+   "romaji": "sawaru",
+   "arti": "menyentuh",
+   "cat": "Kata kerja lain",
+   "bab": "bab3",
+   "src": [
+    "b3s5"
+   ],
+   "sumber": "JICA",
+   "catatan": "Pegang selang atas radiator (untuk memeriksa kehangatan mesin)."
+  },
+  {
+   "id": "am-294",
+   "kata": "あわせる",
+   "kana": "あわせる",
+   "romaji": "awaseru",
+   "arti": "menyesuaikan, mencocokkan",
+   "cat": "Kata kerja lain",
+   "bab": "bab3",
+   "src": [
+    "b3s5"
+   ],
+   "sumber": "JICA",
+   "alias": "そろえる",
+   "contoh": "位置をあわせて。（タイヤの取り付けでボルトとホイールの穴の位置をそろえる）",
+   "arti_contoh": "Cocokkan posisi lubang baut dan pelek saat memasang ban."
+  },
+  {
+   "id": "am-295",
+   "kata": "測る",
+   "kana": "はかる",
+   "romaji": "hakaru",
+   "arti": "mengukur",
+   "cat": "Kata kerja lain",
+   "bab": "bab3",
+   "src": [
+    "b3s5"
+   ],
+   "sumber": "JICA",
+   "alias": "みて、チェックして",
+   "contoh": "デプス・ゲージでタイヤの溝を測って。",
+   "arti_contoh": "Ukur alur ban dengan depth gauge."
+  },
+  {
+   "id": "am-296",
+   "kata": "固定する",
+   "kana": "こていする",
+   "romaji": "koteisuru",
+   "arti": "mengunci posisi, memfiksasi",
+   "cat": "Kata kerja lain",
+   "bab": "bab3",
+   "src": [
+    "b3s5"
+   ],
+   "sumber": "JICA",
+   "catatan": "Fiksasi aki di tempatnya."
+  },
+  {
+   "id": "am-297",
+   "kata": "おく",
+   "kana": "おく",
+   "romaji": "oku",
+   "arti": "meletakkan",
+   "cat": "Kata kerja lain",
+   "bab": "bab3",
+   "src": [
+    "b3s5"
+   ],
+   "sumber": "JICA",
+   "alias": "置く",
+   "contoh": "バンパー、ゆかにおかないで。",
+   "arti_contoh": "Jangan letakkan bemper di lantai."
+  },
+  {
+   "id": "am-298",
+   "kata": "急ぐ",
+   "kana": "いそぐ",
+   "romaji": "isogu",
+   "arti": "bergegas",
+   "cat": "Kata kerja lain",
+   "bab": "bab3",
+   "src": [
+    "b3s5"
+   ],
+   "sumber": "JICA",
+   "alias": "急ぎ",
+   "contoh": "この作業、急ぎだから、急いで。",
+   "arti_contoh": "Pekerjaan ini mendesak, tolong cepat."
+  },
+  {
+   "id": "am-299",
+   "kata": "のる",
+   "kana": "のる",
+   "romaji": "noru",
+   "arti": "naik (ke mobil)",
+   "cat": "Kata kerja lain",
+   "bab": "bab3",
+   "src": [
+    "b3s5"
+   ],
+   "sumber": "JICA",
+   "alias": "乗る",
+   "contoh": "車に乗って。（荷重をかけた上で点検するため）",
+   "arti_contoh": "Naik ke mobil (agar diperiksa dengan beban)."
+  },
+  {
+   "id": "am-300",
+   "kata": "ふむ",
+   "kana": "ふむ",
+   "romaji": "fumu",
+   "arti": "menginjak",
+   "cat": "Kata kerja lain",
+   "bab": "bab3",
+   "src": [
+    "b3s5"
+   ],
+   "sumber": "JICA",
+   "alias": "踏む",
+   "contoh": "ブレーキふんで。",
+   "arti_contoh": "Injak remnya."
+  },
+  {
+   "id": "am-301",
+   "kata": "確認する",
+   "kana": "かくにんする",
+   "romaji": "kakuninsuru",
+   "arti": "memastikan, mengecek",
+   "cat": "Kata kerja lain",
+   "bab": "bab3",
+   "src": [
+    "b3s5"
+   ],
+   "sumber": "JICA",
+   "alias": "チェックして、みて",
+   "contoh": "ブレーキ・ランプ、確認して。ヘッドライトみて。",
+   "arti_contoh": "Cek lampu rem. Lihat lampu depan (lampu mati/tidak)."
+  },
+  {
+   "id": "am-302",
+   "kata": "書く",
+   "kana": "かく",
+   "romaji": "kaku",
+   "arti": "menulis",
+   "cat": "Kata kerja lain",
+   "bab": "bab3",
+   "src": [
+    "b3s5"
+   ],
+   "sumber": "JICA",
+   "catatan": "Tulis sisa sepatu rem di lembar instruksi."
+  },
+  {
+   "id": "am-303",
+   "kata": "初心者マーク",
+   "kana": "しょしんしゃまーく",
+   "romaji": "shoshinshamaaku",
+   "arti": "tanda pengemudi pemula",
+   "cat": "Kata kerja lain",
+   "bab": "bab3",
+   "src": [
+    "b3s5"
+   ],
+   "sumber": "JICA",
+   "alias": "若葉マーク"
+  },
+  {
+   "id": "am-304",
+   "kata": "高齢者マーク",
+   "kana": "こうれいしゃまーく",
+   "romaji": "koureishamaaku",
+   "arti": "tanda pengemudi lansia",
+   "cat": "Kata kerja lain",
+   "bab": "bab3",
+   "src": [
+    "b3s5"
+   ],
+   "sumber": "JICA",
+   "alias": "70歳以上のシニア・ドライバー"
+  },
+  {
+   "id": "am-305",
+   "kata": "直列型エンジン",
+   "kana": "ちょくれつがたえんじん",
+   "romaji": "chokuretsugataenjin",
+   "arti": "mesin segaris (inline)",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Silinder disusun satu baris; jumlah silinder 3, 4, atau 6."
+  },
+  {
+   "id": "am-306",
+   "kata": "V型エンジン",
+   "kana": "ぶいがたえんじん",
+   "romaji": "buigataenjin",
+   "arti": "mesin tipe V",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Silinder diletakkan membentuk V di sekitar poros engkol."
+  },
+  {
+   "id": "am-307",
+   "kata": "ボクサーエンジン",
+   "kana": "ぼくさーえんじん",
+   "romaji": "bokusaaenjin",
+   "arti": "mesin boxer",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Silinder saling berhadapan mendatar kiri-kanan."
+  },
+  {
+   "id": "am-308",
+   "kata": "サイクル",
+   "kana": "さいくる",
+   "romaji": "saikuru",
+   "arti": "siklus",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Hisap → kompresi → pembakaran → buang."
+  },
+  {
+   "id": "am-309",
+   "kata": "ディーゼルエンジン",
+   "kana": "でぃーぜるえんじん",
+   "romaji": "deぃぃzeruenjin",
+   "arti": "mesin diesel",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA",
+   "catatan": "Bahan bakar solar."
+  },
+  {
+   "id": "am-310",
+   "kata": "燃焼室",
+   "kana": "ねんしょうしつ",
+   "romaji": "nenshoushitsu",
+   "arti": "ruang bakar",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-311",
+   "kata": "シリンダー",
+   "kana": "しりんだー",
+   "romaji": "shirindaa",
+   "arti": "silinder",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA",
+   "alias": "シリンダ"
+  },
+  {
+   "id": "am-312",
+   "kata": "インテーク・バルブ",
+   "kana": "いんてーくばるぶ",
+   "romaji": "inteeku barubu",
+   "arti": "katup hisap",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-313",
+   "kata": "エキゾースト・バルブ",
+   "kana": "えきぞーすとばるぶ",
+   "romaji": "ekizoosuto barubu",
+   "arti": "katup buang",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-314",
+   "kata": "カムシャフト",
+   "kana": "かむしゃふと",
+   "romaji": "kamushafuto",
+   "arti": "poros bubungan (camshaft)",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-315",
+   "kata": "プラグ",
+   "kana": "ぷらぐ",
+   "romaji": "puragu",
+   "arti": "busi",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA",
+   "alias": "スパークプラグ"
+  },
+  {
+   "id": "am-316",
+   "kata": "ピストン",
+   "kana": "ぴすとん",
+   "romaji": "pisuton",
+   "arti": "torak (piston)",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-317",
+   "kata": "ピストンリング",
+   "kana": "ぴすとんりんぐ",
+   "romaji": "pisutonringu",
+   "arti": "ring piston",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-318",
+   "kata": "コンロッド",
+   "kana": "こんろっど",
+   "romaji": "konroddo",
+   "arti": "batang penghubung (connecting rod)",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-319",
+   "kata": "クランクシャフト",
+   "kana": "くらんくしゃふと",
+   "romaji": "kurankushafuto",
+   "arti": "poros engkol",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-320",
+   "kata": "フライホイール",
+   "kana": "ふらいほいーる",
+   "romaji": "furaihoiiru",
+   "arti": "roda gila (flywheel)",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1",
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-321",
+   "kata": "クランクプーリー",
+   "kana": "くらんくぷーりー",
+   "romaji": "kurankupuurii",
+   "arti": "puli poros engkol",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-322",
+   "kata": "シリンダーヘッド",
+   "kana": "しりんだーへっど",
+   "romaji": "shirindaaheddo",
+   "arti": "kepala silinder",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-323",
+   "kata": "カムシャフトカバー",
+   "kana": "かむしゃふとかばー",
+   "romaji": "kamushafutokabaa",
+   "arti": "tutup poros bubungan",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-324",
+   "kata": "シリンダーヘッド本体",
+   "kana": "しりんだーへっどほんたい",
+   "romaji": "shirindaaheddohontai",
+   "arti": "bodi kepala silinder",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-325",
+   "kata": "シリンダーヘッドガスケット",
+   "kana": "しりんだーへっどがすけっと",
+   "romaji": "shirindaaheddogasuketto",
+   "arti": "paking kepala silinder",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-326",
+   "kata": "シリンダーブロック",
+   "kana": "しりんだーぶろっく",
+   "romaji": "shirindaaburokku",
+   "arti": "blok silinder",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-327",
+   "kata": "フューエルタンク",
+   "kana": "ふゅーえるたんく",
+   "romaji": "fyuuerutanku",
+   "arti": "tangki bahan bakar",
+   "cat": "Sistem bahan bakar",
+   "bab": "bab4",
+   "src": [
+    "b4s2"
+   ],
+   "sumber": "JICA",
+   "alias": "燃料タンク"
+  },
+  {
+   "id": "am-328",
+   "kata": "フューエルポンプ",
+   "kana": "ふゅーえるぽんぷ",
+   "romaji": "fyuueruponpu",
+   "arti": "pompa bahan bakar",
+   "cat": "Sistem bahan bakar",
+   "bab": "bab4",
+   "src": [
+    "b4s2"
+   ],
+   "sumber": "JICA",
+   "alias": "燃料ポンプ"
+  },
+  {
+   "id": "am-329",
+   "kata": "フューエルフィルター",
+   "kana": "ふゅーえるふぃるたー",
+   "romaji": "fyuuerufuぃrutaa",
+   "arti": "filter bahan bakar",
+   "cat": "Sistem bahan bakar",
+   "bab": "bab4",
+   "src": [
+    "b4s2"
+   ],
+   "sumber": "JICA",
+   "alias": "燃料フィルター"
+  },
+  {
+   "id": "am-330",
+   "kata": "インジェクター",
+   "kana": "いんじぇくたー",
+   "romaji": "injiぇkutaa",
+   "arti": "injektor",
+   "cat": "Sistem bahan bakar",
+   "bab": "bab4",
+   "src": [
+    "b4s2"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-331",
+   "kata": "エレメント",
+   "kana": "えれめんと",
+   "romaji": "eremento",
+   "arti": "elemen (filter udara)",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA",
+   "alias": "エア・フィルター、エア・クリーナー・エレメント"
+  },
+  {
+   "id": "am-332",
+   "kata": "エアクリ",
+   "kana": "えあくり",
+   "romaji": "eakuri",
+   "arti": "saringan udara (singkatan)",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA",
+   "alias": "エアクリーナー"
+  },
+  {
+   "id": "am-333",
+   "kata": "エアフローメーター",
+   "kana": "えあふろーめーたー",
+   "romaji": "eafuroomeetaa",
+   "arti": "pengukur aliran udara",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-334",
+   "kata": "スロットルボディ",
+   "kana": "すろっとるぼでぃ",
+   "romaji": "surottorubodeぃ",
+   "arti": "throttle body",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA",
+   "alias": "スロットル"
+  },
+  {
+   "id": "am-335",
+   "kata": "スパークプラグ",
+   "kana": "すぱーくぷらぐ",
+   "romaji": "supaakupuragu",
+   "arti": "busi",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA",
+   "alias": "プラグ"
+  },
+  {
+   "id": "am-336",
+   "kata": "イグニッションコイル",
+   "kana": "いぐにっしょんこいる",
+   "romaji": "igunisshonkoiru",
+   "arti": "koil pengapian",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA",
+   "alias": "点火コイル"
+  },
+  {
+   "id": "am-337",
+   "kata": "ECU",
+   "kana": "いーしーゆー",
+   "romaji": "iishiiyuu",
+   "arti": "unit kontrol elektronik",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA",
+   "alias": "Electronic Control Unit"
+  },
+  {
+   "id": "am-338",
+   "kata": "窒素",
+   "kana": "ちっそ",
+   "romaji": "chisso",
+   "arti": "nitrogen (N)",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-339",
+   "kata": "水",
+   "kana": "みず",
+   "romaji": "mizu",
+   "arti": "air (H₂O)",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-340",
+   "kata": "二酸化炭素",
+   "kana": "にさんかたんそ",
+   "romaji": "nisankatanso",
+   "arti": "karbon dioksida (CO₂)",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-341",
+   "kata": "一酸化炭素",
+   "kana": "いっさんかたんそ",
+   "romaji": "issankatanso",
+   "arti": "karbon monoksida (CO)",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-342",
+   "kata": "炭化水素",
+   "kana": "たんかすいそ",
+   "romaji": "tankasuiso",
+   "arti": "hidrokarbon (HC)",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-343",
+   "kata": "窒素酸化物",
+   "kana": "ちっそさんかぶつ",
+   "romaji": "chissosankabutsu",
+   "arti": "oksida nitrogen (NOx)",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-344",
+   "kata": "触媒コンバータ",
+   "kana": "しょくばいこんばーた",
+   "romaji": "shokubaikonbaata",
+   "arti": "konverter katalis",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3",
+    "b4s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-345",
+   "kata": "オイルポンプ",
+   "kana": "おいるぽんぷ",
+   "romaji": "oiruponpu",
+   "arti": "pompa oli",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-346",
+   "kata": "オイルフィルター",
+   "kana": "おいるふぃるたー",
+   "romaji": "oirufuぃrutaa",
+   "arti": "filter oli",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA",
+   "alias": "オイルエレメント"
+  },
+  {
+   "id": "am-347",
+   "kata": "ウォーターポンプ",
+   "kana": "うぉーたーぽんぷ",
+   "romaji": "uぉぉtaaponpu",
+   "arti": "pompa air",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-348",
+   "kata": "リザーバータンク",
+   "kana": "りざーばーたんく",
+   "romaji": "rizaabaatanku",
+   "arti": "tangki cadangan",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-349",
+   "kata": "ラジエーター",
+   "kana": "らじえーたー",
+   "romaji": "rajieetaa",
+   "arti": "radiator",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-350",
+   "kata": "サーモスタット",
+   "kana": "さーもすたっと",
+   "romaji": "saamosutatto",
+   "arti": "termostat",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-351",
+   "kata": "冬用タイヤ",
+   "kana": "ふゆようたいや",
+   "romaji": "fuyuyoutaiya",
+   "arti": "ban musim dingin",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-352",
+   "kata": "スタッドレスタイヤ",
+   "kana": "すたっどれすたいや",
+   "romaji": "sutaddoresutaiya",
+   "arti": "ban studless",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-353",
+   "kata": "FF",
+   "kana": "えふえふ",
+   "romaji": "efuefu",
+   "arti": "penggerak roda depan (mesin depan)",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA",
+   "alias": "フロントエンジン・フロントドライブ"
+  },
+  {
+   "id": "am-354",
+   "kata": "FR",
+   "kana": "えふあーる",
+   "romaji": "efuaaru",
+   "arti": "mesin depan penggerak roda belakang",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA",
+   "alias": "フロントエンジン・リアドライブ"
+  },
+  {
+   "id": "am-355",
+   "kata": "4WD",
+   "kana": "よんだぶりゅーでぃー",
+   "romaji": "yondaburyuudeぃぃ",
+   "arti": "penggerak empat roda",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA",
+   "alias": "四輪駆動、四駆、AWD"
+  },
+  {
+   "id": "am-356",
+   "kata": "クラッチ",
+   "kana": "くらっち",
+   "romaji": "kuracchi",
+   "arti": "kopling",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-357",
+   "kata": "クラッチディスク",
+   "kana": "くらっちでぃすく",
+   "romaji": "kuracchideぃsuku",
+   "arti": "cakram kopling",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-358",
+   "kata": "クラッチペダル",
+   "kana": "くらっちぺだる",
+   "romaji": "kuracchipedaru",
+   "arti": "pedal kopling",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-359",
+   "kata": "メインドライブシャフト",
+   "kana": "めいんどらいぶしゃふと",
+   "romaji": "meindoraibushafuto",
+   "arti": "poros penggerak utama",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-360",
+   "kata": "マニュアルトランスミッション",
+   "kana": "まにゅあるとらんすみっしょん",
+   "romaji": "manyuarutoransumisshon",
+   "arti": "transmisi manual",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-361",
+   "kata": "AT",
+   "kana": "えーてぃー",
+   "romaji": "eeteぃぃ",
+   "arti": "transmisi otomatis",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA",
+   "alias": "オートマチックトランスミッション"
+  },
+  {
+   "id": "am-362",
+   "kata": "トルクコンバータ",
+   "kana": "とるくこんばーた",
+   "romaji": "torukukonbaata",
+   "arti": "konverter torsi",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-363",
+   "kata": "CVT",
+   "kana": "しーぶいてぃー",
+   "romaji": "shiibuiteぃぃ",
+   "arti": "transmisi variabel kontinu",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA",
+   "alias": "無段階変速機（Continuously Variable Transmission）"
+  },
+  {
+   "id": "am-364",
+   "kata": "プーリー",
+   "kana": "ぷーりー",
+   "romaji": "puurii",
+   "arti": "puli",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-365",
+   "kata": "プロペラシャフト",
+   "kana": "ぷろぺらしゃふと",
+   "romaji": "puroperashafuto",
+   "arti": "poros propeller",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-366",
+   "kata": "ユニバーサルジョイント",
+   "kana": "ゆにばーさるじょいんと",
+   "romaji": "yunibaasarujointo",
+   "arti": "sambungan universal",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-367",
+   "kata": "ファイナルギア",
+   "kana": "ふぁいなるぎあ",
+   "romaji": "fuぁinarugia",
+   "arti": "gigi akhir",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-368",
+   "kata": "内輪差",
+   "kana": "ないりんさ",
+   "romaji": "nairinsa",
+   "arti": "selisih lintasan roda dalam",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA",
+   "catatan": "Selisih lintasan ban depan dan belakang saat berbelok; sisi luar = 外輪差, sisi dalam = 内輪差."
+  },
+  {
+   "id": "am-369",
+   "kata": "サイドギア",
+   "kana": "さいどぎあ",
+   "romaji": "saidogia",
+   "arti": "gigi samping",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-370",
+   "kata": "ピニオン",
+   "kana": "ぴにおん",
+   "romaji": "pinion",
+   "arti": "pinion",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-371",
+   "kata": "リングギア",
+   "kana": "りんぐぎあ",
+   "romaji": "ringugia",
+   "arti": "gigi cincin (ring gear)",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-372",
+   "kata": "ディファレンシャルギア",
+   "kana": "でぃふぁれんしゃるぎあ",
+   "romaji": "deぃfuぁrensharugia",
+   "arti": "gigi diferensial",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-373",
+   "kata": "フロント・アクスル",
+   "kana": "ふろんとあくする",
+   "romaji": "furonto akusuru",
+   "arti": "as roda depan",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-374",
+   "kata": "ハブ",
+   "kana": "はぶ",
+   "romaji": "habu",
+   "arti": "hub (naf roda)",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-375",
+   "kata": "サスペンション",
+   "kana": "さすぺんしょん",
+   "romaji": "sasupenshon",
+   "arti": "suspensi",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-376",
+   "kata": "ストラット型フロント・サスペンション",
+   "kana": "すとらっとがたふろんとさすぺんしょん",
+   "romaji": "sutorattogatafuronto sasupenshon",
+   "arti": "suspensi depan tipe strut",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-377",
+   "kata": "ロアー・アーム",
+   "kana": "ろあーあーむ",
+   "romaji": "roaa aamu",
+   "arti": "lengan bawah",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-378",
+   "kata": "アッパー・アーム",
+   "kana": "あっぱーあーむ",
+   "romaji": "appaa aamu",
+   "arti": "lengan atas",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-379",
+   "kata": "ステアリング装置",
+   "kana": "すてありんぐそうち",
+   "romaji": "sutearingusouchi",
+   "arti": "sistem kemudi",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-380",
+   "kata": "ステアリング・ホイール",
+   "kana": "すてありんぐほいーる",
+   "romaji": "sutearingu hoiiru",
+   "arti": "roda kemudi (setir)",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA",
+   "alias": "ハンドル"
+  },
+  {
+   "id": "am-381",
+   "kata": "ブレーキ装置",
+   "kana": "ぶれーきそうち",
+   "romaji": "bureekisouchi",
+   "arti": "sistem rem",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA",
+   "alias": "制動装置"
+  },
+  {
+   "id": "am-382",
+   "kata": "マスター・シリンダ",
+   "kana": "ますたーしりんだ",
+   "romaji": "masutaa shirinda",
+   "arti": "master silinder",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA",
+   "alias": "ブレーキ・マスターシリンダ"
+  },
+  {
+   "id": "am-383",
+   "kata": "ドラム・ブレーキ",
+   "kana": "どらむぶれーき",
+   "romaji": "doramu bureeki",
+   "arti": "rem tromol",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-384",
+   "kata": "ブレーキ・ホイール・シリンダー",
+   "kana": "ぶれーきほいーるしりんだー",
+   "romaji": "bureeki hoiiru shirindaa",
+   "arti": "silinder roda rem",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-385",
+   "kata": "ディスクブレーキ",
+   "kana": "でぃすくぶれーき",
+   "romaji": "deぃsukubureeki",
+   "arti": "rem cakram",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-386",
+   "kata": "ブレーキパッド",
+   "kana": "ぶれーきぱっど",
+   "romaji": "bureekipaddo",
+   "arti": "kampas rem cakram",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-387",
+   "kata": "ブレーキ・キャリパー",
+   "kana": "ぶれーききゃりぱー",
+   "romaji": "bureeki kyaripaa",
+   "arti": "kaliper rem",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-388",
+   "kata": "ブレーキ・ピストン",
+   "kana": "ぶれーきぴすとん",
+   "romaji": "bureeki pisuton",
+   "arti": "piston rem",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-389",
+   "kata": "ワイヤーハーネス",
+   "kana": "わいやーはーねす",
+   "romaji": "waiyaahaanesu",
+   "arti": "rangkaian kabel (wire harness)",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-390",
+   "kata": "スターターモーター",
+   "kana": "すたーたーもーたー",
+   "romaji": "sutaataamootaa",
+   "arti": "motor starter",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-391",
+   "kata": "オルタネーター",
+   "kana": "おるたねーたー",
+   "romaji": "orutaneetaa",
+   "arti": "alternator",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA",
+   "alias": "オルタネータ"
+  },
+  {
+   "id": "am-392",
+   "kata": "バッテリー",
+   "kana": "ばってりー",
+   "romaji": "batterii",
+   "arti": "aki",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-393",
+   "kata": "ラダーフレーム",
+   "kana": "らだーふれーむ",
+   "romaji": "radaafureemu",
+   "arti": "rangka tangga",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA",
+   "catatan": "Kabin diletakkan di atas rangka; dipakai pada truk dan bus."
+  },
+  {
+   "id": "am-394",
+   "kata": "モノコックボディ",
+   "kana": "ものこっくぼでぃ",
+   "romaji": "monokokkubodeぃ",
+   "arti": "bodi monokok",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA",
+   "catatan": "Rangka dan kabin menyatu; lebih kuat dan ringan."
+  },
+  {
+   "id": "am-395",
+   "kata": "バンパー",
+   "kana": "ばんぱー",
+   "romaji": "banpaa",
+   "arti": "bemper",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-396",
+   "kata": "ドアミラー",
+   "kana": "どあみらー",
+   "romaji": "doamiraa",
+   "arti": "spion pintu",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-397",
+   "kata": "ワイパーブレード",
+   "kana": "わいぱーぶれーど",
+   "romaji": "waipaabureedo",
+   "arti": "bilah wiper",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-398",
+   "kata": "ワイパーアーム",
+   "kana": "わいぱーあーむ",
+   "romaji": "waipaaaamu",
+   "arti": "lengan wiper",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-399",
+   "kata": "ウィンドウォッシャー",
+   "kana": "うぃんどうぉっしゃー",
+   "romaji": "uぃndouぉsshaa",
+   "arti": "penyemprot kaca",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-400",
+   "kata": "シート",
+   "kana": "しーと",
+   "romaji": "shiito",
+   "arti": "jok",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-401",
+   "kata": "インパネ",
+   "kana": "いんぱね",
+   "romaji": "inpane",
+   "arti": "dasbor (singkatan)",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA",
+   "alias": "インストールメント・パネル"
+  },
+  {
+   "id": "am-402",
+   "kata": "サンバイザー",
+   "kana": "さんばいざー",
+   "romaji": "sanbaizaa",
+   "arti": "pelindung silau",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-403",
+   "kata": "ルーム・ミラー",
+   "kana": "るーむみらー",
+   "romaji": "ruumu miraa",
+   "arti": "spion tengah",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA",
+   "alias": "バック・ミラー"
+  },
+  {
+   "id": "am-404",
+   "kata": "分かりません",
+   "kana": "わかりません",
+   "romaji": "wakarimasen",
+   "arti": "saya tidak mengerti",
+   "cat": "Aplikasi dan pembuangan limbah",
+   "bab": "bab4",
+   "src": [
+    "b4s8"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-405",
+   "kata": "もういちど、せつめいおねがいします",
+   "kana": "もういちど、せつめいおねがいします",
+   "romaji": "mouichido、setsumeionegaishimasu",
+   "arti": "tolong jelaskan sekali lagi",
+   "cat": "Aplikasi dan pembuangan limbah",
+   "bab": "bab4",
+   "src": [
+    "b4s8"
+   ],
+   "sumber": "JICA"
+  },
+  {
+   "id": "am-406",
+   "kata": "書いてください",
+   "kana": "かいてください",
+   "romaji": "kaitekudasai",
+   "arti": "tolong tuliskan",
+   "cat": "Aplikasi dan pembuangan limbah",
+   "bab": "bab4",
+   "src": [
+    "b4s8"
+   ],
+   "sumber": "JICA"
+  }
+ ]
+}

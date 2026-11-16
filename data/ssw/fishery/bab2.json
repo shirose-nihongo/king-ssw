@@ -1,0 +1,856 @@
+{
+ "schema": 1,
+ "bidang": "fishery",
+ "source": "Teks dan gambar halaman: 特定技能 漁業技能測定試験 学習用テキスト (一般社団法人大日本水産会, 初版2019年12月, 一部改訂2025年9月) — 漁業一般・漁業安全・網漁業・釣漁業, versi Jepang dan versi bahasa Indonesia. Ringkasan, kosakata, dan soal latihan: Shirose Nihongo (bukan soal resmi).",
+ "markup": "Teks JP memakai {kanji|furigana} untuk ruby. Teks ID/JP memakai **tebal**.",
+ "bab": {
+  "id": "bab2",
+  "no": 2,
+  "title": {
+   "id": "Keselamatan Kerja Kapal",
+   "jp": "{漁業|ぎょぎょう}{安全|あんぜん}"
+  },
+  "intro": {
+   "id": "Keselamatan kerja di kapal ikan: pakaian, sikap, rambu, pencegahan kecelakaan.",
+   "jp": "{漁船|ぎょせん}の{安全|あんぜん}：{服装|ふくそう}、{行動|こうどう}、{標識|ひょうしき}、{事|じ}{故|こ}{防止|ぼうし}。"
+  },
+  "pages": [
+   48,
+   57
+  ],
+  "subs": [
+   {
+    "id": "b2s1",
+    "no": 1,
+    "title": {
+     "id": "Pakaian dan Alat Pelindung",
+     "jp": "{安全|あんぜん}な{服装|ふくそう}"
+    },
+    "pages": [
+     48,
+     51
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Pakaian yang aman"
+      },
+      {
+       "h": "(1) Alat pelindung keselamatan"
+      },
+      {
+       "p": "“Pemakaian alat pelindung\" adalah langkah keselamatan. “Memakai alat pelindung adalah cara untuk menjaga keselamatan."
+      },
+      {
+       "p": "Alat pelindung utama adalah sebagai berikut:"
+      },
+      {
+       "ul": [
+        "Kepala: Topi pelindung (Helm)",
+        "Mata: Kacamata, google",
+        "Telinga: Earplug (penutup telinga)",
+        "Wajah: Pelindung bagian wajah",
+        "Tangan: Sarung tangan karet",
+        "Kaki: Safety shoes, sepatu boot",
+        "Kulit: Pakaian kerja",
+        "Tubuh: Sabuk pengaman untuk tempat tinggi"
+       ]
+      },
+      {
+       "p": "Gambar1: Pakaian keselamatan (Kiri) dan pakaian berbahaya (kanan)"
+      },
+      {
+       "h": "(2) Pakaian Kerja"
+      },
+      {
+       "p": "Memakai pakaian kerja lengan panjang yang pas dengan ukuran tubuh. Saat beroperasi atau di geladak, masukkan bagian bawah jaket kedalam celana, pasang kancing pada lengan baju dengan baik untuk mencegah terlilit atau tertarik alat kerja. Selama bekerja atau di geladak, jangan gunakan sandal atau alas kaki yang setara yang tidak menutupi jari kaki. Hal ini karena alas kaki seperti itu mudah terpeleset dan tidak dapat melindungi kaki dari benda yang jatuh. (Gambar1)"
+      },
+      {
+       "h": "(3) Alat Pelindung seperti topi pelindung (helm), dll"
+      },
+      {
+       "p": "Selama beroperasi atau bekerja, gunakan topi pelindung untuk melindungi kepala dari benda yang terjatuh, atau terbentur pada balok kapal dan mesin kapal. Topi pelindung harus dikenakan lurus, dan tali dagu harus diikat dengan benar untuk menjaga keselamatan. Gunakan sarung tangan, safety shoes atau sepatu boot sesuai pekerjaan di dalam kapal. Saat bekerja di ketinggian seperti tiang atau saat bekerja badannya bersandar keluar dari kapal, gunakan sabuk pengaman dan tali pelindung."
+      },
+      {
+       "h": "(4) Jaket Penyelamat (rompi penyelamat)"
+      },
+      {
+       "p": "1. Jenis-jenis jaket penyelamat Tipe padat: Tipe ini menggunakan benda padat seperti plastik busa sebagai badan apung dan memiliki struktur sederhana. Contoh bentuk yang umum adalah tipe rompi."
+      },
+      {
+       "p": "Tipe tiup: Menggunakan gas seperti karbon dioksida sebagai media apung, biasanya sangat tipis dan padat. Jenis utamanya adalah jenis yang menggantung di leher dan jenis yang dikenakan di sabuk."
+      },
+      {
+       "p": "sabuk Gantung di Rompi leher 2. Mengenakan Jaket Penyelamat - Selama operasi dan di dek, jaket penyelamat atau jaket pelampung dikenakan. Saat mengenakan jaket pelampung, pastikan untuk mengencangkan resleting dan talinya dengan erat untuk mencegah jaket pelampung terlepas."
+      },
+      {
+       "p": "- Bila memakai pakaian kerja, kenakan di atas pakaian kerja. Contoh tipe tiup seperti yang ditunjukkan pada gambar."
+      },
+      {
+       "p": "Gambar 3, Mengenakan jaket penyelamat ① - Saat bekerja, jika mengenakan jas hujan atau perlengkapan cuaca dingin lainnya di atas pakaian kerja, harus mengenakan jaket pelampung di atasnya. Meskipun tipe tiup ringan dan tipis, sehingga dapat dikenakan di bawah jas hujan, tetapi ini adalah kesalahan. Gambar 4, Mengenakan jaket penyelamat ② Jika jaket penyelamat dikenakan di bawah jas hujan, hal itu dapat menyebabkan daya apung di laut menjadi sangat tinggi jika orang tersebut jatuh ke dalam air, yang dapat mengakibatkan sesak napas atau sesak di sekitar leher, sehingga sangat berbahaya. Jaket pelampung harus dikenakan di atas jas hujan untuk memastikan keselamatan. Gambar 5 Mengenakan jaket penyelamat ③"
+      },
+      {
+       "h": "(5) Jas hujan dan Sepatu Bot"
+      },
+      {
+       "p": "Selama operasi dan ketika bekerja dalam cuaca buruk, jas hujan dan sepatu bot harus dikenakan. Saat mengenakan sepatu bot, disarankan agar solnya terbuat dari bahan anti selip atau memiliki struktur yang mencegah tergelincir."
+      }
+     ],
+     "jp": [
+      {
+       "h": "１．{安全|あんぜん}な{服装|ふくそう}"
+      },
+      {
+       "p": "（１）{安全保|あんぜんほ}{護|ご}{具|ぐ}"
+      },
+      {
+       "p": "{安全対策|あんぜんたいさく}として、“{保|ほ}{護|ご}{具|ぐ}の{着用|ちゃくよう}”がある。{保|ほ}{護|ご}{具|ぐ}の{着用|ちゃくよう}は{安全|あんぜん}を{保|たも}つための{手段|しゅだん}である。"
+      },
+      {
+       "p": "{主|おも}な{保|ほ}{護|ご}{具|ぐ}は、{次|つぎ}の{通|とお}り。"
+      },
+      {
+       "ul": [
+        "{頭|あたま}：{安全帽|あんぜんぼう}（ヘルメット）",
+        "{目|め}：{眼鏡|めがね}、ゴーグル",
+        "{耳|みみ}：（{耳|みみ}せん、マフ）",
+        "{顔|かお}：{保護面|ほごめん}",
+        "{手|て}：ゴム{手袋|むてぶくろ}",
+        "{足|あし}：{安全靴|あんぜんぐつ}、{長靴|ながぐつ}",
+        "{皮|ひ}{膚|ふ}：{作業着|さぎょうぎ}（かっぱ）",
+        "{身体|からだ}：{高所用安全|こうしょようあんぜんべ}ベルト"
+       ]
+      },
+      {
+       "p": "（２）{作業着|さぎょうぎ}"
+      },
+      {
+       "p": "{身体|からだ}に{合|あ}った{長袖|ながそで}の{作業着|さぎょうぎ}を{着用|ちゃくよう}する。{操業中|そうぎょうちゅう}および{甲板|こうはん}では、{上着|うわぎ}のすそはズボンに{入|い}れ、{服|ふく}のそでのボタンをしっかりと{留|と}め、{機|き}{器|き}による{巻|ま}き{込|こ}みや、{引|ひ}っかかりを{防止|ぼうし}する。{操業中及|そうぎょうちゅうおよ}び{甲板|こうはん}では、スリッパやサンダルなどの{足先|あしさき}の{露出|ろしゅつ}が{多|おお}い{履物|はきもの}は、{滑|すべ}りやすく{落下物|らっかぶつ}に{対|たい}して{足|あし}を{保|ほ}{護|ご}できないので{使用|しよう}しない。（{図|ず}１）（３）{安全帽|あんぜんぼう}（ヘルメット）{等|など}の{保|ほ}{護|ご}{具|ぐ}"
+      },
+      {
+       "p": "{操業中及|そうぎょうちゅうおよ}び{作業中|さぎょうちゅう}は、{船内|せんない}のはりや{機械類|きかいるい}に{頭|あたま}をぶつけたり、{落下物|らっかぶつ}から{頭|あたま}を{保|ほ}{護|ご}するために{安全帽|あんぜんぼう}を{着用|ちゃくよう}する。{安全帽|あんぜんぼう}はまっすぐにかぶり、あごひもをしっかり{結|むす}ばないと{安全性|あんぜんせい}は{保|たも}てない。"
+      },
+      {
+       "p": "{船内作業|せんないさぎょう}に{応|おう}じて、{手袋|てぶくろ}、{安全靴及|あんぜんぐつおよ}び{長靴|ながぐつ}を{使用|しよう}する。マスト{等|となど}の{高所作業|こうしょさぎょう}や{船外|せんがい}より{体|からだ}を{乗|の}り{出|だ}して{作業|さぎょう}をする{場合|ばあい}は{安全|あんぜんべ}ベルト・{命綱|いのちづな}を{装着|そうちゃく}する。（４）ライフジャケット（{救命胴衣|きゅうめいどうい}）①ライフジャケット（{救命胴衣|きゅうめいどうい}）の{種類|しゅるい}"
+      },
+      {
+       "p": "{固型式|こけいしき}：{浮力体|ふりょくたい}に{発砲|はっぽうぷ}プラスチックなどの{固型物|こけいぶつ}を{使用|しよう}しており、シンプルな{構造|こうぞう}"
+      },
+      {
+       "p": "のもの{代表的|だいひょうてき}な{形状|けいじょう}ものにチョッキ{式|きしき}がある。"
+      },
+      {
+       "p": "{膨脹式|ぼうちょうしき}：{浮力体|ふりょくたい}として{炭酸|たんさん}ガスなどを{使用|しよう}するため、{通常|つうじょう}は、{非常|ひじょう}に{薄|うす}く"
+      },
+      {
+       "p": "コンパクト。{主|おも}な{形状|けいじょう}としては、{首掛|くびか}け{式|しき}、ベルト{式|としき}などがある。"
+      },
+      {
+       "p": "ベルト{式|しき}"
+      },
+      {
+       "p": "チョッキ{式|しき}{首掛|くびか}け{式|しき}"
+      },
+      {
+       "p": "{図|ず}２ライフジャケット（{救命胴衣|きゅうめいどうい}）の{種類|しゅるい}②ライフジャケットの{装着|そうちゃく}"
+      },
+      {
+       "ul": [
+        "{操業中及|そうぎょうちゅうおよ}び{甲板|こうはん}（デッキ）では、{作業用救命衣|さぎょうようきゅうめいい}あるいは{救命胴着|きゅうめいどうぎ}を{装着|そうちゃく}する。"
+       ]
+      },
+      {
+       "p": "{装着|そうちゃく}の{際|さい}、チャックや{紐|ひも}は{確実|かくじつ}に{締|し}めて{救命胴衣|きゅうめいどうい}が{外|はず}れないようにする。"
+      },
+      {
+       "ul": [
+        "{作業着|さぎょうぎ}で{仕事|しごと}をする{場合|ばあい}は、{作業着|さぎょうぎ}の{上|うえ}に{装着|そうちゃく}する。{膨脹式|ぼうちょうしき}の{例|れい}は{図|ず}の{通|とお}り。"
+       ]
+      },
+      {
+       "p": "{図|ず}３ライフジャケットの{装着|そうちゃく}①"
+      },
+      {
+       "ul": [
+        "{作業|さぎょう}をする{時|とき}にカッパ、{防寒着|ぼうかんぎ}などを{作業着|さぎょうぎ}の{上|うえ}に{着|き}る{場合|ばあい}は、{一番上|いちばんうえ}に"
+       ]
+      },
+      {
+       "p": "ライフジャケットを{装着|そうちゃく}する。{膨脹式|ぼうちょうしき}は{軽|かる}くて{薄|うす}いのでカッパの{下|した}にも{装着|そうちゃく}できますが、{間違|まちが}いです。"
+      },
+      {
+       "p": "{図|ず}４ライフジャケットの{装着|そうちゃく}②"
+      },
+      {
+       "p": "ライフジャケットをカッパの{下|した}に{装着|そうちゃく}すると、{落水|らくすい}した{時|とき}に{海中|かいちゅう}で{異常|いじょう}な{浮力|ふりょく}{形状|けいじょう}になることがあり、{息|いき}ができなくなったり、{首|くび}が{締|し}められたりする{現象|げんしょう}が{発生|はっせい}して{危険|きけん}な{状態|じょうたい}になることがあります。ライフジャケットは{必|かなら}ずカッパの{上|うえ}に{装着|そうちゃく}しないと{安全|あんぜん}を{確保|かくほ}できません。"
+      },
+      {
+       "p": "図５ライフジャケットの装着③（５）{合羽|かっぱ}・{長靴|ながぐつ}"
+      },
+      {
+       "p": "{操業及|そうぎょうおよ}び{悪天候時|あくてんこうじ}の{作業|さぎょう}の{場合|ばあい}は、{合羽|かっぱ}と{長靴|ながぐつ}を{装着|そうちゃく}する。{長靴|ながぐつ}は、{靴底|くつぞこ}が{滑|すべ}りにくい{材質|ざいしつ}や{滑|すべ}り止め{構造|こうぞう}があるものを{着用|ちゃくよう}する。"
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Keselamatan dimulai dari pakaian: helm, kacamata, penutup telinga, sarung tangan, sepatu, sabuk pengaman, dan jaket pelampung.",
+      "points": [
+       "Pakaian lengan panjang pas ukuran; masukkan ujung baju ke celana.",
+       "Jangan pakai sandal di geladak.",
+       "Bekerja di ketinggian → sabuk pengaman."
+      ],
+      "avoid": [
+       "Bekerja dengan alas kaki terbuka."
+      ],
+      "exam": [
+       "Alat pelindung tiap bagian tubuh."
+      ]
+     },
+     "jp": {
+      "core": "{安全|あんぜん}は{服装|ふくそう}から。ヘルメット、{手袋|むてぶくろ}、くつ、ライフジャケットなどを{着|き}る。",
+      "points": [
+       "{体|からだ}に{合|あ}った{長|なが}そでの{作業着|さぎょうぎ}を{着|き}る。",
+       "{甲板|こうはん}ではサンダルをはかない。",
+       "{高|たか}いところでは{安全帯|あんぜんたい}を{使|つか}う。"
+      ],
+      "avoid": [
+       "つま{先|さき}が{出|だ}るはきものではたらくこと。"
+      ],
+      "exam": [
+       "{体|からだ}の{部分|ぶぶん}と{保|ほ}{護|ご}{具|ぐ}。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2s2",
+    "no": 2,
+    "title": {
+     "id": "Sikap di Kapal dan Rambu Keselamatan",
+     "jp": "{乗船活動|じょうせんかつどう}・{船内行動|せんないこうどう}・{安全標識|あんぜんひょうしき}"
+    },
+    "pages": [
+     51,
+     55
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Sikap yang Aman Saat Naik Kapal"
+      },
+      {
+       "ul": [
+        "Pastikan peralatan penangkap ikan dan alat lainnya yang ada di kapal disimpan di tempat"
+       ]
+      },
+      {
+       "p": "yang telah ditentukan, dan kencangkan agar tidak roboh dan berserakan akibat guncangan kapal. Mengatur dan menyusun tali, benang jaring, dan jaringnya."
+      },
+      {
+       "ul": [
+        "Pastikan menutup hatch (pintu lubang di geladak kapal) agar tidak terbuka, dan tidak naik"
+       ]
+      },
+      {
+       "p": "di atas penutupnya."
+      },
+      {
+       "ul": [
+        "Mengatur dan menyusun sepatu boot, jas hujan, dan ember agar dapat digunakan sesuai"
+       ]
+      },
+      {
+       "p": "kebutuhan."
+      },
+      {
+       "ul": [
+        "Di tempat kerja yang bersih, seseorang dapat bergerak dengan aman, dan lingkungan"
+       ]
+      },
+      {
+       "p": "menjadi teratur dan tersusun. Untuk itu, usahakan membersihkan bagian dalam kapal dan geladak selalu bersih."
+      },
+      {
+       "h": "Sikap di dalam Kapal"
+      },
+      {
+       "ul": [
+        "Untuk mencegah kecelakaan di dalam kapal, senantiasa memastikan rambu dan tampilan"
+       ]
+      },
+      {
+       "p": "keselamatan, dan mematuhinya."
+      },
+      {
+       "ul": [
+        "Selain saat beroperasi atau bekerja, pergi ke geladak setelah matahari terbenam"
+       ]
+      },
+      {
+       "p": "menimbulkan resiko terjatuh ke laut lebih tinggi. Oleh karena itu, hindari pergi keluar sendirian. Jika keluar ke geladak pada malam hari, beritahukan awak kapal lainnya."
+      },
+      {
+       "ul": [
+        "Hindari menyandar atau memanjat bulwark (pagar pengaman kapal) agar terhindar dari"
+       ]
+      },
+      {
+       "p": "resiko terjatuh ke laut."
+      },
+      {
+       "h": "Rambu Keselamatan"
+      },
+      {
+       "p": "Ada berbagai rambu keselamatan untuk mencegah kecelakaan. Secara umum, ada rambu larangan, rambu instruksi, rambu peringatan, rambu umum, rambu panduan dan sebagainya. Selain itu juga, ada yang langsung ditampilkan di pipa dan lain-lain. (Gambar 3, 4) Rambu larangan: Dilarang masuk, Dilarang menyalakan api, Dilarang merokok, Dilarang menyentuh, dll Rambu instruksi: Wajib memakai pelindung kepala, Gunakan penutup telinga, Pastikan keselamatan, dan lain-lain."
+      },
+      {
+       "p": "Tanda peringatan: Awas zat berbahaya, Hati-hati kepala terbentur, Hati-hati melangkah, dan lain-lain."
+      },
+      {
+       "p": "Tampilan langsung: Warna yang ditampilkan pada pipa menunjukkan air tawar, minyak, dan air laut. Dan juga, tali yang diwarnai dengan warna kuning dan hitam disebut tora rope, dan direntangkan tempat-tempat berbahaya."
+      },
+      {
+       "p": "Dilarang masuk Dilarang Wajib memakai pelindung kepala menyalakan api Wajib memakai Hati-hati Hati-hati kepala penutup telinga melangkah terbentur Gambar 6, Contoh rambu larangan, instruksi, dan peringatan Air tawar Air minum Gambar 7-1 Contoh rambu langsung C minyak mentah Air minum Warna silver Uap air Air laut Gambar 7-2, Contoh tampilan langsung （２）Rambu keselamatan kapal ikan Berbagai rambu keselamatan digunakan di kapal penangkap ikan untuk memperingatkan awak kapal tentang bahaya. Simbol grafis, yang melengkapi rambu, merupakan kombinasi warna dan bentuk yang memudahkan pemahaman informasi keselamatan. Beberapa simbol bergambar untuk rambu bahaya tinggi ditunjukkan di bawah ini (warna diatur, tetapi di sini warna hitam digunakan untuk mewakili bentuknya). ① Simbol Simbol yang menunjukkan hal terlarang. Dikombinasikan dengan berbagai simbol, melambangkan larangan."
+      },
+      {
+       "p": "Gambar ８ Simbol ① ② Simbol grafis"
+      },
+      {
+       "ul": [
+        "Simbol yang melambangkan bahaya bahan kimia"
+       ]
+      },
+      {
+       "p": "Beracun Gas beracun Gambar ９ Simbol ②"
+      },
+      {
+       "ul": [
+        "Simbol yang menunjukkan bahaya listrik. Semuanya menunjukkan resiko sengatan listrik."
+       ]
+      },
+      {
+       "p": "Gambar 10 Simbol ③"
+      },
+      {
+       "ul": [
+        "Simbol yang menunjukkan terjatuh dan terpeleset"
+       ]
+      },
+      {
+       "p": "Terjatuh dari ketinggian Terpeleset Gambar 11 Simbol ④"
+      },
+      {
+       "ul": [
+        "Simbol yang menunjukkan bahaya mekanis"
+       ]
+      },
+      {
+       "p": "Benda berputar umum Gambar 12 Simbol ⑤ Sabuk berputar"
+      },
+      {
+       "ul": [
+        "Simbol yang menunjukkan bahaya panas"
+       ]
+      },
+      {
+       "p": "Dilarang minum Dilarang menyalakan api Dilarang masuk Gambar 13 Simbol ⑥"
+      }
+     ],
+     "jp": [
+      {
+       "h": "２．{安全|あんぜん}な{乗船活動|じょうせんかつどう}"
+      },
+      {
+       "ul": [
+        "{積|つ}んでいる{漁具|ぎょぐ}や{道具|どうぐ}は{決|き}められた{場所|ばしょ}に{確実|かくじつ}に{収納|しゅうのう}し、{船|ふね}の{動揺|どうよう}で{崩|くず}れたり、"
+       ]
+      },
+      {
+       "p": "{散在|さんざい}しないように{固定|こてい}する。ロープ{類|い}、{網糸|あみいと}、{網地類|あみじるい}も{整理|せいり}・{整頓|せいとん}しておく。"
+      },
+      {
+       "ul": [
+        "ハッチのふたは{確実|かくじつ}に{閉|し}め、{開|ひら}きかけのふたの{上|うえ}には{乗|の}らない。",
+        "{長靴|ながぐつ}、{合羽|かっぱ}、バケツ{等|つなど}も{整理|せいり}・{整頓|せいとん}して、{必要|ひつよう}に{応|おう}じて{使|つか}えるようにする。",
+        "{清潔|せいけつ}な{作業場|さぎょうば}では、{人|ひと}は{安全|あんぜん}な{行動|こうどう}を{取|と}ることができるし、{整理|せいり}・{整頓|せいとん}が{機能|きのう}する。"
+       ]
+      },
+      {
+       "p": "そのために{船内|せんない}や{操業|そうぎょう}する{甲板|こうはん}は{常|つね}に{清潔|せいけつ}に{清掃|せいそう}することを{心|こころ}がける。"
+      },
+      {
+       "h": "３．{船内行動|せんないこうどう}"
+      },
+      {
+       "ul": [
+        "{船内|せんない}の{事|じ}{故|こ}{防止|ぼうし}の{安全標識|あんぜんひょうしき}、{表示等|ひょうじなど}を{日頃|ひごろ}から{確認|かくにん}しておき、{厳守|げんしゅ}する。",
+        "{操業|そうぎょう}や{作業|さぎょう}を{除|のぞ}き、{日没後|にちぼつご}に{甲板|こうはん}に{出|で}ると{海中転落|かいちゅうてんらく}の{危険|きけん}が{増|ふ}えるので、むやみ"
+       ]
+      },
+      {
+       "p": "に{一人|ひとり}で{出|で}ることは{避|さ}ける。{夜間|やかん}、{甲板|こうはん}に{出|で}る{時|とき}には{必|かなら}ず{他|ほか}の{乗組員|のりくみいん}に{伝|つた}える。"
+      },
+      {
+       "ul": [
+        "{海中転落|かいちゅうてんらく}を{防|ふせ}ぐために{舷側|げんがわ}（ブルワーク）に{腰|こし}かけたり、{登|のぼ}ることは{避|さ}ける。"
+       ]
+      },
+      {
+       "h": "４．{安全標識|あんぜんひょうしき}"
+      },
+      {
+       "p": "{事|じ}{故|こ}{防止|ぼうし}するための{安全標識|あんぜんひょうしき}は{様々|さまざま}である。{一般的|いっぱんてき}に{標識|ひょうしき}には、{禁止標識|きんしひょうしき}、{指|し}{示|じ}{標識|ひょうしき}、{注意標識|ちゅういひょうしき}、{一般標識|いっぱんひょうしき}、{案内標識等|あんないひょうしきなど}がある。また、パイプ{等|ぷなど}へ{直接表示|ちょくせつひょうじ}されるものもある。（{図|ず}６、７-１、７-２）"
+      },
+      {
+       "p": "{禁止標識|きんしひょうしき}：{立|た}ち{入|い}り{禁止|きんし}、{火|か}{気厳禁|きげんきん}、{禁煙|きんえん}、さわるな{等|など}"
+      },
+      {
+       "p": "{指|し}{示標識|じひょうしき}：{保護帽着用|ほごぼうちゃくよう}、{耳栓着用|みみせんちゃくよう}、{安全確認等|あんぜんかくにんなど}"
+      },
+      {
+       "p": "{注意標識|ちゅういひょうしき}：{有害物注意|ゆうがいぶつちゅうい}、{頭上注意|ずじょうちゅうい}、{足元注意等|あしもとちゅういなど}"
+      },
+      {
+       "p": "{直接表示|ちょくせつひょうじ}：{配管|はいかん}に{表示|ひょうじ}されている{色|いろ}により、{真水|まみず}、{油類|あぶらるい}、{海水|かいすい}を{通|とお}していること"
+      },
+      {
+       "p": "がわかる。また、{黄色|きいろ}と{黒|くろ}にぬられたロープは、トラロープと{呼|よ}ばれ"
+      },
+      {
+       "p": "{危険|きけん}な{場所|ばしょ}に{張|は}られる。"
+      },
+      {
+       "p": "{図|ず}６{禁止標識|きんしひょうしき}、{指|し}{示標識及|じひょうしきおよ}び{注意標識|ちゅういひょうしき}の{例|れい}"
+      },
+      {
+       "p": "いんりょうすい"
+      },
+      {
+       "p": "まみず"
+      },
+      {
+       "p": "{図|ず}７-１{直接表示|ちょくせつひょうじ}の{例|れい}"
+      },
+      {
+       "p": "{潤滑油|じゅんかつゆ}C{重油|じゅうゆ}"
+      },
+      {
+       "p": "ぎんいろ"
+      },
+      {
+       "p": "かいすい"
+      },
+      {
+       "p": "{蒸気|じょうき}"
+      },
+      {
+       "p": "{図|ず}７-２{直接表示|ちょくせつひょうじ}の{例|れい}（２）{漁船|ぎょせん}の{安全標識|あんぜんひょうしき}"
+      },
+      {
+       "p": "{漁船|ぎょせん}では{危険|きけん}について{船員|せんいん}に{警告|けいこく}するために{各種|かくしゅ}の{安全標識|あんぜんひょうしき}が{使|つか}われている。{標識|ひょうしき}を{補足|ほそく}する{図|ず}{記号|きごう}は、{色|いろ}、{形状|けいじょう}の{組|く}み合わせにより{安全上|あんぜんじょう}の{伝達内容|でんたつないよう}の{理解|りかい}を{容易|ようい}にする。{危険性|きけんせい}の{高|たか}い{標識|ひょうしき}の{図|ず}{記号|きごう}の{一部|いちぶ}を{次|つぎ}に{示|しめ}す（{色|いろ}は{規定|きてい}されているが、ここでは{黒|くろ}で{形状|けいじょう}を{表|あらわ}す）。①{記号|きごう}{禁止事項|きんしじこう}を{意|い}{味|み}する{記号|きごう}。{各種|かくしゅ}の{図|ず}と{組|く}み{合|あ}わせて{禁止|きんし}を{表|あらわ}す。"
+      },
+      {
+       "p": "{図|ず}８{記号|きごう}①②{図|ず}{記号|きごう}"
+      },
+      {
+       "ul": [
+        "{化学的危険|かがくてききけん}を{意|い}{味|み}する{図|ず}{記号|きごう}"
+       ]
+      },
+      {
+       "p": "{毒性|どくせい}を{意|い}{味|み}する{有毒|ゆうどく}ガスを{意|い}{味|み}する"
+      },
+      {
+       "p": "{図|ず}９{記号|きごう}②"
+      },
+      {
+       "ul": [
+        "{電気的危険|でんきてききけん}を{意|い}{味|み}する{図|ず}{記号|きごう}いずれも{感電|かんでん}おそれを{意|い}{味|み}する。"
+       ]
+      },
+      {
+       "p": "{図|ず}１０{記号|きごう}③"
+      },
+      {
+       "ul": [
+        "{転落|てんらく}、スリップを{意|い}{味|み}する{図|ず}{記号|きごう}"
+       ]
+      },
+      {
+       "p": "{高所|こうしょ}からの{転落|てんらく}スリップ"
+      },
+      {
+       "p": "{図|ず}１１{記号|きごう}④"
+      },
+      {
+       "ul": [
+        "{機械的危険|きかいてききけん}を{意|い}{味|み}する{図|ず}{記号|きごう}"
+       ]
+      },
+      {
+       "p": "{回転物一般|かいてんぶついっぱん}{回転|かいてんべ}ベルト"
+      },
+      {
+       "p": "{図|ず}１２{記号|きごう}⑤"
+      },
+      {
+       "ul": [
+        "{熱的危険|ねつてききけん}を{意|い}{味|み}する{図|ず}{記号|きごう}"
+       ]
+      },
+      {
+       "p": "{飲用禁止|いんようきんし}{火|か}{気厳禁|きげんきん}{立入禁止|たちいりきんし}"
+      },
+      {
+       "p": "{図|ず}１３{記号|きごう}⑥"
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Sikap aman di kapal: simpan alat di tempatnya, tutup palka, jaga kebersihan, patuhi rambu, jangan sendirian di geladak saat malam.",
+      "points": [
+       "Jangan duduk di atau memanjat pagar kapal (舷側/bulwark).",
+       "Rambu: larangan, instruksi, peringatan, umum, panduan.",
+       "Malam ke geladak → beri tahu awak lain."
+      ],
+      "avoid": [
+       "Naik ke atas penutup palka."
+      ],
+      "exam": [
+       "Jenis rambu keselamatan."
+      ]
+     },
+     "jp": {
+      "core": "{道具|どうぐ}は{決|き}まった{場所|ばしょ}に{置|ち}き、ハッチを{閉|と}め、{標識|ひょうしき}を{守|まも}る。{夜|よ}に{一人|ひとり}で{甲板|こうはん}に{出|だ}ない。",
+      "points": [
+       "{舷側|げんがわ}(ブルワーク)に{腰|こし}かけたり、のぼったりしない。",
+       "{標識|ひょうしき}は{禁止|きんし}、{指|さ}{示|しめ}、{注意|ちゅうい}、{一般|いっぱん}、{案内|あんない}など。",
+       "{夜|よ}に{甲板|こうはん}に{出|だ}るときは、ほかの{人|ひと}に{伝|つた}える。"
+      ],
+      "avoid": [
+       "ハッチのふたの{上|あ}にのること。"
+      ],
+      "exam": [
+       "{安全標識|あんぜんひょうしき}の{種類|しゅるい}。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2s3",
+    "no": 3,
+    "title": {
+     "id": "Pencegahan Kecelakaan dan Jatuh ke Laut",
+     "jp": "{事|じ}{故|こ}{防止対策|ぼうしたいさく}と{海中転落|かいちゅうてんらく}"
+    },
+    "pages": [
+     55,
+     57
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Langkah-langkah pencegahan kecelakaan"
+      },
+      {
+       "p": "Untuk memastikan keselamatan dan mencegah kecelakaan dalam pekerjaan di industri perikanan, senantiasa perlu asumsikan kecelakaan dapat terjadi akibat tindakan sendiri dan memastikan keselamatan. Selain itu, seorang ahli pun penting untuk tidak melakukan pekerjaan berbahaya seorang diri. Kecelakaan utama yang mungkin terjadi adalah banyaknya cedera dan kecelakaan terjatuh akibat alat penangkapan ikan, alat kapal dll saat beroperasi pengangkapan ikan berlangsung, kecelakaan terjatuh dari crane atau derek, kecelakaan terlilit oleh peralatan penangkapan ikan, terutama jenis-jenis winch mudah menyebabkan terjadinya kecelakaan besar. Oleh karena itu, sangat penting untuk berhati-hati saat menangani mesin yang sedang beroperasi. Dan juga, banyak cedera oleh hasil penangkapan terjadi pada pemula. Untuk itu perlu memastikan keselamatan seperti berikut sebelum memulai pekerjaan."
+      },
+      {
+       "ul": [
+        "Saat melakukan pekerjaan, memperhatikan baik-baik kondisi sekitar, dan menjalankan"
+       ]
+      },
+      {
+       "p": "dengan pekerja lain."
+      },
+      {
+       "ul": [
+        "Jangan memasukkan kaki atau badan Anda ke dalam lingkaran gulungan tali.",
+        "Mengangkut beban berat yang melebihi kemampuan sendiri dalam kondisi ayunan kapal,"
+       ]
+      },
+      {
+       "p": "dibantu oleh beberapa pekerja."
+      },
+      {
+       "ul": [
+        "Saat mengangkut beban berat, gunakan sepatu yang tidak mudah tergelincir seperti"
+       ]
+      },
+      {
+       "p": "sepatu boot"
+      },
+      {
+       "ul": [
+        "Berhati-hati saat bekerja di sekitar bagian terbuka kapal untuk mengangkat hasil"
+       ]
+      },
+      {
+       "p": "penangkapan dan alat penangkapan ikan, karena ada resiko terjatuh ke laut. Jangan bekerja dengan membelakangi bagian terbuka kapal."
+      },
+      {
+       "ul": [
+        "Jika tidak perlu, jangan mendekati tali dan wire yang sedang beroperasi, bekerja sambil"
+       ]
+      },
+      {
+       "p": "menghindari jangkauan pergerakan tali saat terputus."
+      },
+      {
+       "ul": [
+        "Jangan berada di bawah jaring penangkap ikan yang terangkat dan derek, crane yang"
+       ]
+      },
+      {
+       "p": "sedang beroperasi."
+      },
+      {
+       "ul": [
+        "Pengoperasian peralatan penangkap ikan diserahkan kepada pekerja terampil. Jika Anda"
+       ]
+      },
+      {
+       "p": "diperintahkan untuk mengoperasikannya, menjaga kondisi yang senantiasa dapat menghentikan pengoperasiannya."
+      },
+      {
+       "ul": [
+        "Saat menangani hasil penangkapan, berhati-hatilah dengan jenis ikan yang berbahaya."
+       ]
+      },
+      {
+       "p": "Untuk ikan yang tidak Anda ketahui, tanyakan awak kapal di sekitar Anda sebelum menanganinya."
+      },
+      {
+       "ul": [
+        "Saat mengolah hasil penangkapan, berhati-hatilah agar tidak melukai diri sendiri dan"
+       ]
+      },
+      {
+       "p": "orang lain dengan peralatan tajam."
+      },
+      {
+       "ul": [
+        "Setelah mengolah hasil penangkapan, segera bersihkan geladak karena mudah terpreset"
+       ]
+      },
+      {
+       "p": "dengan darah, minyak, lendir, dll."
+      },
+      {
+       "ul": [
+        "Hati-hati jangan sampai ikan yang tumpah di geladak tersangkut di Scupper (lubang"
+       ]
+      },
+      {
+       "p": "pembuangan air)"
+      },
+      {
+       "h": "Penanganan terhadap bahaya jatuh ke laut"
+      },
+      {
+       "p": "Tidak terbatas saat beroperasi, kecelakaan terjatuh ke laut paling mudah terjadi di antara kecelakaan kapal penangkapan ikan, maka harus berhati-hati. Pada dasarnya, tubuh manusia akan mengapung di air, namun dalam keadaan memakai pakaian dan jas hujan, tubuh akan lebih mudah mengapung. Maka jika tidak memaksakan untuk menolong diri sendiri dengan berenang, tetapi dengan tetap memakai pakaian, menjaga pernafasan dengan terlentang tubuhnya, mempertahankan posisi mengapung, dan menunggu pertolongan, maka lebih tinggi kemungkinan nyawanya terselamatkan. Lalu, ketika melihat ada seseorang terjatuh ke laut, penting untuk segera memberitahukan sekitarnya dengan suara keras, dan melemparkan pelampung di sekitarnya."
+      },
+      {
+       "ul": [
+        "Jika terjatuh ke dalam air, jangan bersusah payah untuk menolong diri sendiri, namun"
+       ]
+      },
+      {
+       "p": "menunggu dengan posisi mengapung sampai pertolongan datang."
+      },
+      {
+       "ul": [
+        "Gerakkan kaki dengan tenang di dalam air. Jangan keluarkan tubuh Anda dari permukaan"
+       ]
+      },
+      {
+       "p": "air dengan gaya berenang seperti tendangan flutter dan gaya bebas."
+      },
+      {
+       "ul": [
+        "Karena saat beroperasi pekerja memakai jas hujan dan sepatu boot, saat jatuh ke dalam"
+       ]
+      },
+      {
+       "p": "air lepaskan sepatu boot, kemudian gunakan itu sebagai pelampung dengan membalikkannya dan membiarkan udara masuk (Gambar 14) Gambar 5: Menggunakan sepatu boot sebagai pelampung, menunggu pertolongan"
+      },
+      {
+       "ul": [
+        "Jika di sekitar Anda terdapat kantung plastik atau botol plastik, gunakan sebagai"
+       ]
+      },
+      {
+       "p": "pelampung (alat penyelamat). (Biarkan udara masuk ke kantung plastik dan botol plastik, dan pegang erat ke dada, maka Anda akan mengapung)"
+      },
+      {
+       "ul": [
+        "Jika dilemparkan tali untuk penyelamatan, lilitkan tali pada tubuh (pinggang), buat"
+       ]
+      },
+      {
+       "p": "simpul dengan Bowline knot, pastikan loop tidak macet, dan minta untuk ditarik."
+      },
+      {
+       "ul": [
+        "Jika dilemparkan pelampung penyelamatan, kenakan pelampung, kencangkan di posisi"
+       ]
+      },
+      {
+       "p": "pinggang, pegang tarikannya dan minta ditarik."
+      }
+     ],
+     "jp": [
+      {
+       "h": "５．{事|じ}{故|こ}{防止対策|ぼうしたいさく}"
+      },
+      {
+       "p": "{漁業|ぎょぎょう}の{労働作業|ろうどうさぎょう}における{安全|あんぜん}を{確保|かくほ}し、{事|じ}{故|こ}を{防止|ぼうし}するためには、{常|つね}に{各自|かくじ}の{行動|こうどう}について{事|じ}{故|こ}を{想定|そうてい}して{安全確認|あんぜんかくにん}をおこたらず、また、{熟練者|じゅくれんしゃ}でも{危険|きけん}な{作業|さぎょう}は{一人|ひとり}で{行|おこな}わないように{取|と}り{組|く}むことが{必要|ひつよう}である。{想定|そうてい}される{主|おも}な{事|じ}{故|こ}としては、{漁労|ぎょろう}{作業中|さぎょうちゅう}の{作動中|さどうちゅう}の{漁具|ぎょぐ}、{船具等|せんぐなど}による{負傷|ふしょう}や{転倒事|てんとうじ}{故|こ}が{多|おお}く、デリックやクレーン{操作中|そうさちゅう}の{落下|らっか}{事|じ}{故|こ}や{漁労機|ぎょろうき}{器|き}、{特|とく}にウインチ{類|い}による{巻|ま}き{込|こ}み{事|じ}{故|こ}は{大事故|だいじこ}につながりやすい。そのため、{作動中|さどうちゅう}の{機械|きかい}を扱う{際|さい}には{十分注意|じゅうぶんちゅうい}することが{重要|じゅうよう}である。また、{漁獲物|ぎょかくぶつ}による{怪|け}{我|が}は、{初心者|しょしんしゃ}に{多|おお}い。{次|つぎ}のような{安全確認|あんぜんかくにん}に{取|と}り{組|く}み、{作業|さぎょう}にあたる。"
+      },
+      {
+       "ul": [
+        "{作業|さぎょう}を{行|おこな}う{時|とき}は、{周囲|しゅうい}の{状況|じょうきょう}に{充分気|じゅうぶんき}を{配|くばり}り、{連絡|れんらく}を{取|と}り{合|あ}いながら{進|すす}める。",
+        "コイルされたロープの{輪|わ}の{中|なか}に{足|あし}、{体|からだ}を{入|い}れない。",
+        "{船|ふね}のゆれに{自分|じぶん}を{保|ほ}{持|じ}できる{範囲|はんい}の{重|おも}さを{超|こ}える{重量物|じゅうりょうぶつ}の{運搬|うんぱん}は{複数|ふくすう}の{人員|じんいん}で"
+       ]
+      },
+      {
+       "p": "{行|おこな}う。"
+      },
+      {
+       "ul": [
+        "{重|おも}いものを{持|も}つ{場合|ばあい}は{長靴等|ながぐつなど}の{滑|すべ}りにくい{靴|くつ}を{履|は}く。",
+        "{漁獲物|ぎょかくぶつ}や{漁具|ぎょぐ}を{引揚|ひきあ}げるためにもうけられた{船|ふね}の{開口部付近|かいこうぶふきん}の{作業|さぎょう}では、{海中転落|かいちゅうてんらく}"
+       ]
+      },
+      {
+       "p": "の{危険|きけん}があることを{注意|ちゅうい}する。{開口部|かいこうぶ}に{背中|せなか}を{向|む}けて{作業|さぎょう}は{行|おこな}わない。"
+      },
+      {
+       "ul": [
+        "{作動中|さどうちゅう}のロープやワープ（ワイヤー）には、{不用意|ふようい}に{近|ちか}づかない。{破断|はだん}した{場合|ばあい}の"
+       ]
+      },
+      {
+       "p": "ロープ{類|い}の動く{範囲内|はんいない}を{避|さ}けて{作業|さぎょう}に{当|あ}たる。"
+      },
+      {
+       "ul": [
+        "{吊|つ}り{上|あ}げられた{網漁具|あみぎょぐ}、{作動中|さどうちゅう}のデリック、クレーン{等|んなど}の{真下|ました}に{入|はい}らない。",
+        "{漁労機|ぎょろうき}{器等|きなど}の{操作|そうさ}は、{熟練者|じゅくれんしゃ}に{任|まか}せる。{操作|そうさ}を{任|まか}される{場合|ばあい}は、{常|つね}に{停止|ていし}できる"
+       ]
+      },
+      {
+       "p": "{状態|じょうたい}を{保|たも}つ。"
+      },
+      {
+       "ul": [
+        "{漁獲物|ぎょかくぶつ}の{扱|あつか}いでは、{有害魚介類|ゆうがいぎょかいるい}の{扱|あつか}いに{充分注意|じゅうぶんちゅうい}する。{知|し}らない{魚介類|ぎょかいるい}について"
+       ]
+      },
+      {
+       "p": "は{周囲|しゅうい}の{乗組員|のりくみいん}に{聞|き}いてから{扱|あつか}う。"
+      },
+      {
+       "ul": [
+        "{漁獲物処理|ぎょかくぶつしょり}のときは、{刃物類|はものるい}の{扱|あつか}いは、{自分|じぶん}や{他|ほか}の{人|ひと}を{傷|きず}つけないように{注意|ちゅうい}する。",
+        "{漁獲物処理後|ぎょかくぶつしょりご}の{甲板|こうはん}は{魚|さかな}の{血|ち}、{油|あぶら}、ぬめり{等|など}で{滑|すべ}りやすいので、すぐに{洗|あら}い{落|おと}す。",
+        "{甲板|こうはん}にこぼれた{魚|さかな}がスカッパーに{詰|つ}まらないように{気|き}を{付|つ}ける。"
+       ]
+      },
+      {
+       "h": "６．{海中転落|かいちゅうてんらく}の{危|き}{機対応|きたいおう}"
+      },
+      {
+       "p": "{海中転落事|かいちゅうてんらくじ}{故|こ}は{操業中|そうぎょうちゅう}に{限|かぎ}らず、{漁船事|ぎょせんじ}{故|こ}の{中|なか}でも{一番起|いちばんお}こりやすいので{注意|ちゅうい}が{必要|ひつよう}である。{基本的|きほんてき}に{人間|にんげん}の{体|からだ}は{水|みず}に浮き、{着衣及|ちゃくいおよ}び{合羽|かっぱ}を{装着|そうちゃく}した状態ではさらに{浮|う}きやすくなっている。{自力|じりき}で{助|たす}かろうと{無|む}{理|り}に{泳|およ}いだりせず、{衣服|いふく}を{身|み}に{着|つ}けたまま、{体|からだ}を{仰向|あおむ}けにして{呼吸|こきゅう}を{確保|かくほ}し、{浮|う}いた{状態|じょうたい}を{維|い}{持|じ}し、{救助|きゅうじょ}を{待|ま}つことで、{命|いのち}の{助|たす}かる{可能性|かのうせい}が{高|たか}くなる。また、{人|ひと}が{海|うみ}に落ちたのを{見|み}たら{即座|そくざ}に{周囲|しゅうい}に{大声|おおごえ}で{知|し}らせ、{近|ちか}くにある{浮|う}き{輪|わ}（ライフブイ）などを{海|うみ}に{投|な}げ{入|い}れることが{重要|じゅうよう}である。"
+      },
+      {
+       "ul": [
+        "{水中|すいちゅう}に{落|お}ちてしまった{場合|ばあい}、{自分自身|じぶんじしん}の{力|ちから}で{助|たす}かろうともがくのではなく、{助|たす}け"
+       ]
+      },
+      {
+       "p": "が{来|く}るまで{浮|う}いた{状態|じょうたい}で{待|ま}つ。"
+      },
+      {
+       "ul": [
+        "{水中|すいちゅう}で{静|しず}かに{足|あし}を{動|うご}かす。バタ{足|たあし}、クロールといった{水|みず}の{上|うえ}に{手足|てあし}を{出|だ}し{入|い}れする"
+       ]
+      },
+      {
+       "p": "{動作|どうさ}はせず、{空中|くうちゅう}に{身体|からだ}を{出|だ}さない。"
+      },
+      {
+       "ul": [
+        "{操業中|そうぎょうちゅう}は、{合羽|かっぱ}と{長靴|ながぐつ}を{装着|そうちゃく}しているので、{落水|らくすい}したら{長靴|ながぐつ}を{脱|ぬ}いで、{逆|さか}さまに"
+       ]
+      },
+      {
+       "p": "して{内部|ないぶ}に{空気|くうき}を{入|い}れ、{浮|うき}として{使|つか}う。（{図|ず}１４）"
+      },
+      {
+       "ul": [
+        "ビニール{袋|るぶくろ}、ペットボトルなどが{近|ちか}くにあれば、{浮|う}くもの（{救命用具|きゅうめいようぐ}）として{利用|りよう}"
+       ]
+      },
+      {
+       "p": "する。（ペットボトルやビニール{袋|るぶくろ}に{空気|くうき}を{入|い}れ、{胸|むね}にかかえてあおむけになると"
+      },
+      {
+       "p": "{浮|う}く。）"
+      },
+      {
+       "ul": [
+        "{救助|きゅうじょろ}ロープを{投|な}げられた{場合|ばあい}、ロープを{体|からだ}（{腰|こし}）にまわして、もやい{結|むす}び（Bowline"
+       ]
+      },
+      {
+       "p": "knot）で{輪|わ}を{作|つく}り、{輪|わ}がしまらないようにして、ひきあげてもらう。"
+      },
+      {
+       "ul": [
+        "{救助浮輪|きゅうじょうきわ}を{投|な}げられた{場合|ばあい}、{浮輪|うきわ}をかぶり、{腰|こし}の{位|い}{置|ち}に止め、{曳|ひ}き{綱|つな}を{握|にぎ}り{曳|ひ}きあ"
+       ]
+      },
+      {
+       "p": "げてもらう。"
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Kecelakaan utama: terlilit winch/tali, terjatuh dari derek, jatuh ke laut. Jangan kerja sendirian dan jangan masuk ke lingkaran tali.",
+      "points": [
+       "Jangan masukkan kaki/badan ke dalam lingkaran gulungan tali.",
+       "Beban berat → dibantu beberapa orang, pakai sepatu anti-selip.",
+       "Jangan bekerja membelakangi bukaan kapal."
+      ],
+      "avoid": [
+       "Mendekati tali/kawat yang sedang bekerja tanpa perlu."
+      ],
+      "exam": [
+       "Penyebab kecelakaan di kapal.",
+       "Tindakan jika jatuh ke laut."
+      ]
+     },
+     "jp": {
+      "core": "{事|じ}{故|こ}は{巻|ま}きこまれ、{転倒|てんとう}、{海中転落|かいちゅうてんらく}が{多|おお}い。{一人|ひとり}で{危険|きけん}な{作業|さぎょう}をしない。",
+      "points": [
+       "ロープのわの{中|なか}に{足|あし}や{体|からだ}を{入|い}れない。",
+       "{重|おも}い{物|もの}は{何|いず}{人|ひと}かで{運|はこ}ぶ。すべりにくいくつをはく。",
+       "{船|ふね}のあいたところにせなかを{向|む}けない。"
+      ],
+      "avoid": [
+       "{動|うご}いているロープやワイヤーにむやみに{近|ちか}づくこと。"
+      ],
+      "exam": [
+       "{船|ふね}の{事|じ}{故|こ}の{原因|げんいん}。",
+       "{海|うみ}に{落|お}ちたときの{行動|こうどう}。"
+      ]
+     }
+    }
+   }
+  ]
+ }
+}

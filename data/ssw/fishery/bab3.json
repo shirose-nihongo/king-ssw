@@ -1,0 +1,620 @@
+{
+ "schema": 1,
+ "bidang": "fishery",
+ "source": "Teks dan gambar halaman: 特定技能 漁業技能測定試験 学習用テキスト (一般社団法人大日本水産会, 初版2019年12月, 一部改訂2025年9月) — 漁業一般・漁業安全・網漁業・釣漁業, versi Jepang dan versi bahasa Indonesia. Ringkasan, kosakata, dan soal latihan: Shirose Nihongo (bukan soal resmi).",
+ "markup": "Teks JP memakai {kanji|furigana} untuk ruby. Teks ID/JP memakai **tebal**.",
+ "bab": {
+  "id": "bab3",
+  "no": 3,
+  "title": {
+   "id": "Pukat Cincin (まき網)",
+   "jp": "まき{網漁業|あみぎょぎょう}"
+  },
+  "intro": {
+   "id": "Perikanan pukat cincin: gambaran, mesin, prosedur.",
+   "jp": "まき{網漁業|あみぎょぎょう}：{概要|がいよう}、{機械|きかい}、{手順|てじゅん}。"
+  },
+  "pages": [
+   62,
+   74
+  ],
+  "subs": [
+   {
+    "id": "b3s1",
+    "no": 1,
+    "title": {
+     "id": "Gambaran, Ikan Sasaran, Kapal",
+     "jp": "{概要|がいよう}・{対象魚種|たいしょうぎょしゅ}・{網船|あみぶね}"
+    },
+    "pages": [
+     62,
+     64
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Ikhtisar Perikanan Pukat Cincin"
+      },
+      {
+       "p": "Perikanan pukat Cincin, adalah cara penangkapan menggunakan satu atau dua buah kapal jaring untuk mengurung sekumpulan ikan yang telah ditemukan melalui teknik perikanan menggunakan jaring berbentuk obi (ikat pinggang), kaki jaring dikencangkan agar ikan tidak lepas, kemudian ikan yang terkurung di dalamnya ditangkap. Berdasarkan perbedaan waktunya, pengoperasiannya dibagi menjadi dua, siang hari yang penangkapannya dilakukan dengan langsung menuju tempat gerombolan ikan atau dengan mencari gerombolan ikan yang mengikuti hanyutan kayu, terumbu atau rakit buatan dll., dan pada malam hari yang dilakukan dengan mengumpulkan ikan menggunakan lampu dan menangkapnya. Berdasarkan metode pengoperasiannya secara garis besar dibagi menjadi dua, metode kapal tunggal yang menggunakan sekoci2 yang berpusat pada kapal jaring, dan metode kapal armada dengan pukat cincin tunggal maupun ganda."
+      },
+      {
+       "h": "Jenis Ikan Yang Menjadi Sasaran"
+      },
+      {
+       "p": "Perikanan pukat cincin dioperasikan untuk ikan apung berkapasitas besar di perairan sekitar Jepang.Target utama jenis ikannya adalah ikan teri, sarden, jack mackerel/selar (Aji ), mackerel / kembung (Saba) , bonito / cakalang (Katsuo ), Albakora (Binnaga), Tuna sirip kuning (Kihadamaguro), tuna sirip biru (Kuromaguro), dan ikan ekor kuning (Buri)."
+      },
+      {
+       "h": "Metode Operasional, Kapal Jaring"
+      },
+      {
+       "h": "(1) Metode Operasional"
+      },
+      {
+       "p": "Metode operasional pukat cincin dibagi menjadi metode kapal tunggal yang menggunakan sekoci dan metode kapal armada yang terdiri dari kapal pengiring yang berpusat pada kapal jaring. Metode yang disebut pertama ditemukan di perikanan pukat cincin di luar negeri Jepang, dan yang terakhir ditemukan di perikanan pukat cincin menengah ke atas dan menengah ke bawah. Komposisi standar metode-metode operasional tersebut ditunjukkan pada gambar 1 dan 2."
+      },
+      {
+       "p": "Kapal jaring 1 unit Kapal jaring 1 unit Kapal pencari ikan 1 Unit Skiff (Perahu kecil) 1 Unit Perahu Operasional 2 Unit Kapal lampu 1~2 Unit Gambar 1: Komposisi kapal yang dioperasikan dengan metode kapal pukat cincin tunggal Kapal Pengangkut 2~3 Unit (Skiff & perahu operasional adalah sekoci pada kapal) Gambar 2: komposisi kapal dengan metode operasional kapal armada pukat cincin"
+      },
+      {
+       "h": "(2) Kapal pukat"
+      },
+      {
+       "p": "Baik operasi penangkapan ikan dengan pukat cincin tunggal maupun pukat cincin ganda, keduanya dilakukan terutama dari kapal jaring, dan semua peralatan penangkapan ikan yang diperlukan untuk operasi tersebut dipasang di kapal jaring. Gambar 3-1 memperlihatkan perahu penangkap ikan pukat cincin standar yang sudah ada sejak lama, dan Gambar 3-2 memperlihatkan perahu penangkap ikan pukat cincin yang dibuat beberapa tahun belakangan."
+      },
+      {
+       "p": "Power block（mesin sortir jaring） Mesin sortir Derek Penggulung pelampung cincin Net hauler Reel penggulung （mesin pengangkat cincin jaring） Putaran jangkar （berbagai macam derek） Side roller Davit cincin jaring Ball roller Derek penggulung besar Gambar 3-1. Peralatan penangkap ikan perahu pukat Penggulung cincin Sekoci kerja Power block （Winch Pukat Cincin） Perahu kecil Screw way Mesin pengangkat jaring (triplex) Davit cincin jaring Gambar 3-2. Perahu pukat modern"
+      }
+     ],
+     "jp": [
+      {
+       "h": "１．まき{網漁業|あみぎょぎょう}の{概要|がいよう}"
+      },
+      {
+       "p": "まき{網漁業|あみぎょぎょう}は、{漁法的|ぎょほうてき}に{発見|はっけん}した{魚群|ぎょぐん}を{一隻或|いっせきある}いは{二隻|にせき}の{網船|あみせん}を{使|つか}い、{帯状|おびじょう}の{網|あみ}で{囲|かこ}み、{魚群|ぎょぐん}が{逃|に}げられないように{網裾|あみすそ}を{締|し}めてから、{中|なか}の{魚|さかな}を{捕獲|ほかく}する。まき{網操業|あみそうぎょう}は、{操業時間|そうぎょうじかん}の{違|ちが}いから{昼間|ひるま}、{素|す}{群|む}れを{直接或|ちょくせつある}いは、{流木|りゅうぼく}、パヤオ{及|およ}び{人工筏等|じんこういかだなど}の{流|なが}れ{物|もの}に{付|つ}く{魚群|ぎょぐん}を{探索|たんさく}・{発見|はっけん}して{漁獲|ぎょかく}する{場合|ばあい}と{夜間|やかん}、{灯火|とうか}を{用|もち}い{魚群|ぎょぐん}を{集魚|しゅうぎょ}して{漁獲|ぎょかく}する{操業|そうぎょう}に{分|わ}かれる。また、{操業|そうぎょう}の{方式|ほうしき}から、{網船|あみせん}を{中心|ちゅうしん}にした{搭載艇|とうさいてい}を{使用|しよう}した{単船一艘|たんせんいっそう}まき{網方式|あみほうしき}と、{船団方式|せんだんほうしき}による{単船一艘|たんせんいっそう}まき{網或|もうある}いは{二艘|にそう}まき{網|あみ}に{大|おお}きく{分|わ}かれる。"
+      },
+      {
+       "h": "２．{対象魚種|たいしょうぎょしゅ}"
+      },
+      {
+       "p": "まき{網漁業|あみぎょぎょう}は{日本|にほん}の{周辺水域|しゅうへんすいいき}の{多|た}{獲性浮魚|かくせいうきうお}を{対象|たいしょう}として{操業|そうぎょう}されている。{主|おも}な{漁獲|ぎょかく}{対象魚種|たいしょうぎょしゅ}は、カタクチイワシ、マイワシ、マアジ、マサバ・ゴマサバ、カツオ、ビンナガ、キハダ、クロマグロおよびブリである。"
+      },
+      {
+       "h": "３．{操業方式|そうぎょうほうしき}、{網船|あみぶね}"
+      },
+      {
+       "p": "（１）{操業方式|そうぎょうほうしき}"
+      },
+      {
+       "p": "まき{網|あみ}の{操業方式|そうぎょうほうしき}は、{搭載艇|とうさいてい}を{使|つか}う{単船|たんせん}まき{網方式|あみほうしき}と{網船|あみぶね}を{中心|ちゅうしん}とした{付属船|ふぞくせん}で{構成|こうせい}された{船団方式|せんだんほうしき}に{分|わ}けられる。{前者|ぜんしゃ}は{海外|かいがい}まき{網漁業|もうぎょぎょう}、{後者|こうしゃ}は{大中|だいちゅう}まき{網及|あみおよ}び{中小|ちゅうしょう}まき{網漁業|あみぎょぎょう}に見られるもので、これらの{操業方式|そうぎょうほうしき}の{構成|こうせい}は{標準的|ひょうじゅんてき}に{図|ず}１、２に{示|しめ}すとおりである。(（２）{網船|あみぶね}"
+      },
+      {
+       "p": "まき{網|あみ}の{操業|そうぎょう}は、{一艘|いっそう}まき{網|あみ}、{二艘|にそう}まき{網共|あみとも}に{網船|あみぶね}が{主体|しゅたい}であり、{操業|そうぎょう}に{必要|ひつよう}な{漁労|ぎょろう}{機|き}{器|き}は{総|すべ}て{網船|あみぶね}に{装備|そうび}されている。{従来|じゅうらい}からある{標準的|ひょうじゅんてき}な{網船|あみぶね}を{図|ず}３-１、{近年建造|きんねんけんぞう}されてきたまき{網漁船|あみぎょせん}を{図|ず}３-２に{示|しめ}す。"
+      },
+      {
+       "p": "パワーブロック（{網捌機|あみさばきき}）"
+      },
+      {
+       "p": "{環巻|かんまき}（パース）"
+      },
+      {
+       "p": "{浮子捌機|あばさばきき}"
+      },
+      {
+       "p": "ウインチネットホーラー{環巻|かんまき}リール（{揚網機|ようもうき}）キャプスタン（{各種|かくしゅう}ウインチ"
+      },
+      {
+       "p": "{兼用|けんよう}）"
+      },
+      {
+       "p": "サイドローラー"
+      },
+      {
+       "p": "{環綱|かんづなだ}ダビッド"
+      },
+      {
+       "p": "ボールローラー"
+      },
+      {
+       "p": "{大手巻|おおてまき}ウインチ"
+      },
+      {
+       "p": "{図|ず}３－１{網船|あみぶね}の{漁労装置|ぎょろうそうち}"
+      },
+      {
+       "p": "{環巻|かんま}きウインチ"
+      },
+      {
+       "p": "パワーブロック{作業艇|さぎょうてい}（パースウインチ）"
+      },
+      {
+       "p": "スキフボート"
+      },
+      {
+       "p": "スリップウエイ"
+      },
+      {
+       "p": "{揚網機|ようもうき}（トリプレックス）"
+      },
+      {
+       "p": "{環綱|かんづなだ}ダビット"
+      },
+      {
+       "p": "{図|ず}３－２{近年|きんねん}の{網船|あみぶね}"
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Pukat cincin (まき網) mengurung gerombolan ikan dengan jaring panjang lalu menarik tali cincin agar ikan tidak lolos. Ada cara siang dan malam; kapal tunggal atau armada.",
+      "points": [
+       "Ikan sasaran: teri, sarden, aji, saba, katsuo, tuna, buri.",
+       "Malam: kumpulkan ikan dengan lampu.",
+       "Dua cara: kapal tunggal (sekoci) dan armada (kapal pengiring)."
+      ],
+      "avoid": [
+       "Menyamakan pukat cincin dengan jaring insang."
+      ],
+      "exam": [
+       "Definisi pukat cincin.",
+       "Ikan sasaran."
+      ]
+     },
+     "jp": {
+      "core": "まき{網|あみ}は{魚|さかな}の{群|む}れを{網|あみ}で{囲|かこ}み、{環綱|かんづな}をしめてとる{漁法|ぎょほう}。{昼|ひる}と{夜|よ}、{単船|たんせん}と{船団|せんだん}の{方式|ほうしき}がある。",
+      "points": [
+       "{対象魚|たいしょうぎょ}はいわし、あじ、さば、かつお、まぐろ、ぶりなど。",
+       "{夜|よ}は{集魚灯|しゅうぎょとう}で{魚|さかな}を{集|あつ}める。",
+       "{方式|ほうしき}は{単船|たんせん}と{船団|せんだん}。"
+      ],
+      "avoid": [
+       "まき{網|あみ}と{刺|さ}し{網|あみ}を{同|おな}じと{思|おも}うこと。"
+      ],
+      "exam": [
+       "まき{網|あみ}の{定義|ていぎ}。",
+       "{対象魚|たいしょうぎょ}。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b3s2",
+    "no": 2,
+    "title": {
+     "id": "Mesin, Alat, Anjungan",
+     "jp": "{漁労機|ぎょろうき}{器|き}・{漁具|ぎょぐ}・ブリッジ{機|き}{器|き}"
+    },
+    "pages": [
+     64,
+     69
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Peralatan penangkap"
+      },
+      {
+       "h": "(1) Mesin penarik jaring (net hauler)"
+      },
+      {
+       "p": "Penarik jaring konvensional pada dasarnya merupakan mesin penangkap ikan bergerak yang dipasang di buritan kapal penangkap ikan, namun belakangan ini, penarik jaring tipe tripleks yang dipasang di sisi dekat buritan kapal juga mulai digunakan. Pada penarik jaring konvensional, jaring diikat menjadi satu dalam bentuk seperti batang dari sisi pelampung jaring hingga ke sisi dasar jaring, lalu dijepit ke dalam alur berbentuk V yang berputar pada penarik jaring, lalu ditarik ke atas (Gambar 4-1). Model terbaru mesin penarik jaring (Triplex) menggunakan tiga rol berputar untuk menjepit dan menarik kain jaring yang dibundel menjadi satu (Gambar 4-2)."
+      },
+      {
+       "p": "Gambar 4-1 Mesin penarik jaring (net hauler) Gambar 4-2 Mesin penarik jaring (Triplex)"
+      },
+      {
+       "h": "(2) Side roller"
+      },
+      {
+       "p": "Dipasang di sisi kanan kapal jaring. Jaring tertekan di atas Side Roller yang berputar menggunakan penggerak hidrolik, dan dengan memanfaatkan gaya gesekan, jaring tertarik keatas kapal.( Gambar 5) Gambar 5. Side roller"
+      },
+      {
+       "h": "(3) Jenis Power Block (Mesin angkut jaring)"
+      },
+      {
+       "p": "Perangkat drum berputar dengan bagian yang berputar berbentuk baji yang dipasang di crane atau derek. Mengangkat bundelan jaring pukat cincin berbentuk batang yang diangkat di atas kapal dengan Net Hauler ke posisi tinggi, dan menurunkan di posisi yang telah ditentukan sebagai tempat penyimpanan jaring untuk merapikan jaring (Gambar: 6). Adapun peralatan tangkap ikan serupa antara lain mesin pembawa jaring dan mesin angkut apung yang ditunjuk pada Gambar: 7."
+      },
+      {
+       "p": "Gambar 7 Mesin pengirim jaring Gambar 6 Power Block"
+      },
+      {
+       "h": "(4) Pursue Winch ( Kerekan pukat)"
+      },
+      {
+       "p": "Kerekan berliku yang dipasang di sisi kiri geladak haluan untuk menggulung kawat kolor (Purse wire) yang mengerutkan kaki jaring setelah melempar jaring cincin (Gambar: 8). Ada single winch dan double winch, untuk single winch dipasang roller tegak dan Reel Penggulung sebagai satu paket."
+      },
+      {
+       "h": "(5) Ball Roller (Bola Penggulung)"
+      },
+      {
+       "p": "Alat yang memutar dua buah karet bulat untuk mengangkat atau merapikan jaring di sisi penangkapan ikan, menjepit dan menggulung jaring tersebut. Biasanya, itu dipasang pada lengan yang dapat digerakkan dan digunakan 2 hingga 3 unit (Gambar: 9)."
+      },
+      {
+       "p": "Gambar 8: Pursue Winch Gambar 9: Ball Roller (Kerekan pukat) (Bola Penggulung)"
+      },
+      {
+       "h": "(6) Pompa Penyedot Ikan"
+      },
+      {
+       "p": "Pompa Penyedot ikan digunakan untuk memindahkan hasil tangkapan yang dikelilingi jaring ke kapal pengangkut saat operasi dan digunakan juga pada saat kapal pengangkut mendaratkan hasil tangkapannya di pasar (Gambar: 10)."
+      },
+      {
+       "p": "Gambar 10: Pompa Penyedot Ikan (Kiri: Waktu Operasional. Kanan: Waktu Pendaratan)."
+      },
+      {
+       "h": "(7) Sekoci (Recko Boat)"
+      },
+      {
+       "p": "Perahu kecil yang digunakan untuk mendukung operasi penangkapan ikan. Ketika beroperasi, perahu jaring menurunkan sekoci dari landasan luncur di buritan, dan ketika melempar jaring, ujung- ujung jaring diikatkan pada sekoci, perahu jaring melempar jaringnya secara melingkar, melingkari gerombolan ikan (Gambar 11). Saat menarik jaring, sekoci juga berperan dalam menopang dan membagi jaring agar tetap dalam bentuknya."
+      },
+      {
+       "p": "Gambar 11 Sekoci (recko boat)"
+      },
+      {
+       "h": "Alat pancing pelampung"
+      },
+      {
+       "p": "Tali pelampung Kain jaring pemberat Tali batu Tali cincin cincin kawat baja (kawat) Gambar 12 Struktur jaring pukat cincin dan nama masing-masing bagiannya"
+      },
+      {
+       "h": "(1) Tali pelampung"
+      },
+      {
+       "p": "Tali yang dilengkapi pelampung pada bagian dasar jaring untuk menjaga agar jaring tetap mengapung."
+      },
+      {
+       "h": "(2) Pemberat"
+      },
+      {
+       "p": "Seutas tali yang diberi pemberat diikatkan pada bagian belakang jaring untuk menenggelamkan jaring."
+      },
+      {
+       "h": "(3) Kawat"
+      },
+      {
+       "p": "Kawat yang mengencangkan bagian bawah jaring melewati bagian dalam ring."
+      },
+      {
+       "h": "(4) Tali ring"
+      },
+      {
+       "p": "Tali pendek yang digunakan untuk menghubungkan ring ke pemberat atau tali."
+      },
+      {
+       "h": "Peralatan mekanis yang terpasang pada bridge"
+      },
+      {
+       "h": "(1) Detektor kawanan ikan"
+      },
+      {
+       "p": "Mesin untuk mencari kawanan ikan di bawah kapal."
+      },
+      {
+       "h": "(2) Net Zonde ( Jaring Zonde )"
+      },
+      {
+       "p": "Mesin untuk mengukur kedalaman pukat cincin, kecepatan tenggelam, suhu air laut, dll."
+      },
+      {
+       "h": "(3) Sonar"
+      },
+      {
+       "p": "Mesin yang mendeteksi kawanan ikan yang berenang di laut."
+      },
+      {
+       "h": "(4) GPS"
+      },
+      {
+       "p": "Mesin yang menandai posisi kapal secara akurat."
+      }
+     ],
+     "jp": [
+      {
+       "h": "４．{漁労機|ぎょろうき}{器|き}"
+      },
+      {
+       "p": "（１）{揚網機|ようもうき}（ネットホーラー・トリプレックス）"
+      },
+      {
+       "p": "{従来|じゅうらい}の{揚網機|ようもうき}（ネットホーラー）は、{網船|あみぶね}の{艫|とも}に{設置|せっち}されている{可動式|かどうしき}の{漁労機|ぎょろうき}が{主流|しゅりゅう}であったが、{近年|きんねん}は{船|ふね}の{艫|とも}に{近|ちか}い{舷側|げんそく}に{設置|せっち}されている{揚網機|ようもうき}（トリプレックス）{類|るい}も{使|つか}われている。{従来|じゅうらい}の{揚網機|ようもうき}(ネットホーラー)は、まき{網|あみ}の{浮|あ}{子|ば}{側|がわ}から{沈子側|ちんしがわ}まで{網地|あみじ}をまとめた{棒状|ぼうじょう}の{状態|じょうたい}で{揚網機|ようもうき}の{回転|かいてん}するV{字|じ}{形状|けいじょう}の{溝|みぞ}に{挟|はさ}んで{引|ひ}き{揚|あ}げる（{図|ず}４-１）。{近年|きんねん}の{揚網機|ようもうき}（トリプレックス）は{棒状|ぼうじょう}に{纏|まと}めた{網地|あみじ}を{回転|かいてん}する3{本|ほん}のローラーで{挟|はさ}んで{引|ひ}き{揚|あ}げる（{図|ず}４-２）。"
+      },
+      {
+       "p": "{図|ず}４-１{揚網機|ようもうき}（ネットホーラー）"
+      },
+      {
+       "p": "図４-２{揚網機|ようもうき}（トリプレックス）（２）サイドローラー"
+      },
+      {
+       "p": "{網船|あみぶね}の{右|う}{舷側|げんがわ}に{設置|せっち}されている。"
+      },
+      {
+       "p": "{油圧駆動|ゆあつくどう}によって{回転|かいてん}するサイドローラーの{上|うえ}に{網|あみ}を{押|お}し{付|つ}けて、{摩擦力|まさつりょく}を{利用|りよう}して{網|あみ}を{船上|せんじょう}に{取|と}り{込|こ}んでいく（{図|ず}５）。"
+      },
+      {
+       "p": "{図|ず}５サイドローラー（３）パワーブロック{類|るい}"
+      },
+      {
+       "p": "クレーンもしくはデリックに{取|と}り{付|つ}けられた{楔型構造|くさびがたこうぞう}の{回転部分|かいてんぶぶん}を{持|も}つ{回転|かいてん}ドラム{装置|そうち}。ネットホーラーにより{船上|せんじょう}に{揚網|ようもう}された{棒状|ぼうじょう}のまき{網|あみ}の{網地束|あみじたば}を{高|たか}い{位|い}{置|ち}へ{吊|つ}り{上|あ}げ、{網|あみ}{置|お}き{場|ば}の{所定|しょてい}の{位|い}{置|ち}に{下|おろ}して{整反作業|せいたんさぎょう}を行う（{図|ず}６）。また、{整反作業|せいたんさぎょう}に{使|つか}われる{類似|るいじ}の{漁労機|ぎょろうき}に{図|ず}７の{網送|あみおくり}（{捌|さばき}）{機|き}{及|およ}び{浮|あ}{子|ば}{捌機等|さばききなど}がある。"
+      },
+      {
+       "p": "{図|ず}７{網送|あみおくり}（{捌|さばき}）{機|き}"
+      },
+      {
+       "p": "{図|ず}６パワーブロック（４）パース（{環巻|かんま}き）ウインチ"
+      },
+      {
+       "p": "まき{網|あみ}の{投網終了後|とうもうしゅうりょうご}、{網裾|あみすそ}を{締|し}める{環綱|かんづな}（パースワイヤー）を{巻|ま}き{込|こ}む{船首側甲板|せんしゅがわこうはん}の{左|さ}{舷側|げんがわ}に{設置|せっち}されている{直巻|ちょくまきう}ウインチ（{図|ず}８）。{一連|いちれん}と{二連|にれん}のウインチがあり、{一連|いちれん}ウインチの{場合|ばあい}は、{別|べつ}に{立|たて}ローラーと{環巻|かんま}きリールの{一組|ひとくみ}が{装備|そうび}される。（５）ボールローラー"
+      },
+      {
+       "p": "{魚捕|うおと}り{側|がわ}の{網|あみ}を{揚網|ようもう}あるいは{捌|さば}くために2{個|こ}の{球形|きゅうけいご}ゴムを{回転|かいてん}させて、{網|あみ}を{挟|はさ}み{繰|く}り{上|あ}げる{装置|そうち}。{通常|つうじょう}、{可動式|かどうしき}のアームに{取|と}り{付|つ}けられ2～3{台|だい}が{使用|しよう}される（{図|ず}９）。"
+      },
+      {
+       "p": "{図|ず}８パース（{環巻|かんま}き）ウインチ{図|ず}９ボールローラー（６）フィッシュポンプ"
+      },
+      {
+       "p": "フィッシュポンプは{操業時|そうぎょうじ}に{網|あみ}で{囲|かこ}まれた{漁獲物|ぎょかくぶつ}を{運搬船|うんぱんせん}に{移|うつ}すために、また、{運搬|うんぱん}{船|せん}が{市場|いちば}で{漁獲物|ぎょかくぶつ}を{水揚|みずあ}げするときに{使用|しよう}される（{図|ず}１０）。"
+      },
+      {
+       "p": "{図|ず}１０フィッシュポンプ（{左|ひだり}：{操業時|そうぎょうじ}、{右|みぎ}：{水揚|みずあ}げ{時|じ}）（７）スキフ・ボート（レッコボート）"
+      },
+      {
+       "p": "{操業|そうぎょう}を{補助|ほじょ}する{小型|こがた}ボート。{操業時|そうぎょうじ}、{網船|あみせん}は{艫|とも}のスリップウエイから{搭載|とうさい}しているスキフ・ボートを{下|おろ}しで{投網|とうもう}の{時|とき}に{網|あみ}の{端|はし}をスキフ・ボートに{繋|つな}ぎ{網船|あみぶね}が{円|えん}を{描|か}くように{魚群|ぎょぐん}を{囲|かこ}いながら{投網|とうもう}していく（{図|ず}１１）。{揚網|ようもう}の{時|とき}は{網|あみ}の{形状|けいじょう}を{保|たも}つために{網|あみ}を{支|ささ}える{役割|やくわり}も{行|おこな}う。"
+      },
+      {
+       "p": "{図|ず}１１スキフ・ボート（レッコボート）"
+      },
+      {
+       "p": "あば（うき）"
+      },
+      {
+       "h": "５.{漁具|ぎょぐ}あばづな"
+      },
+      {
+       "p": "あみじ"
+      },
+      {
+       "p": "いわ（おもり）"
+      },
+      {
+       "p": "いわづな"
+      },
+      {
+       "p": "かんづな（かんつりづな）"
+      },
+      {
+       "p": "かん"
+      },
+      {
+       "p": "パースワイヤー（ワイヤー）"
+      },
+      {
+       "p": "{図|ず}１２まき{網|網}の{構造|こうぞう}と{各部|かくぶ}の{名称|めいしょう}（１）{浮|あ}{子|ば}{綱|つな}"
+      },
+      {
+       "p": "{網|あみ}の{上方|じょうほう}にある、{網|あみ}を{浮|う}かすための{浮|あ}{子|ば}のついた{綱|つな}（２）{沈|い}{子|わ}{綱|つな}"
+      },
+      {
+       "p": "{網|あみ}の{下方|かほう}にある{網|あみ}を{沈|しず}めるための{沈|い}{子|わ}のついた{綱|つな}（３）ワイヤー"
+      },
+      {
+       "p": "{網|あみ}の{底|そこ}を{締|し}めるためのワイヤーで、{環|かん}の{中|なか}を{通|とお}してある（４）{環綱|かんづな}"
+      },
+      {
+       "p": "{環|かん}を{沈|い}{子|わ}{綱|づな}に{結|むす}ぶ{短|みじか}いロープ"
+      },
+      {
+       "h": "６.ブリッジに{搭載|とうさい}されている{機械|きかい}"
+      },
+      {
+       "p": "（１）{魚群|ぎょぐんた}探知{機|き}"
+      },
+      {
+       "p": "{船|ふね}の{下|した}にいる{魚|さかな}の{群|む}れを{探|さが}す{機械|きかい}（２）ネットゾンデ"
+      },
+      {
+       "p": "まき{網|あみ}の{深|ふか}さ、{沈|しず}む{速|はや}さ、{海水|かいすい}の{温度等|おんどなど}を{測|はか}る{機械|きかい}（３）ソナー"
+      },
+      {
+       "p": "{海上|かいじょう}で{泳|およ}ぐ{魚群|ぎょぐん}を{探知|たんち}する{機械|きかい}（４）GPS"
+      },
+      {
+       "p": "{船|ふね}の{位|い}{置|ち}を{正確|せいかく}に{記|しる}す{機械|きかい}"
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Mesin pukat cincin: net hauler, side roller, power block, winch (pursing), dan peralatan anjungan (sonar, fish finder).",
+      "points": [
+       "Power block mengangkat bundel jaring ke posisi tinggi untuk dirapikan.",
+       "Side roller di sisi kanan; jaring ditarik dengan gesekan.",
+       "Pursue winch menarik tali cincin."
+      ],
+      "avoid": [
+       "Tangan/kaki dekat mesin yang sedang berputar."
+      ],
+      "exam": [
+       "Fungsi tiap mesin."
+      ]
+     },
+     "jp": {
+      "core": "まき{網|あみ}の{機械|きかい}：ネットホーラー、サイドローラー、パワーブロック、ウインチなど。",
+      "points": [
+       "パワーブロックは{網|あみ}をたかい{位|い}{置|ち}にあげて{整理|せいり}する。",
+       "サイドローラーは{右側|みぎがわ}にあり、まさつで{網|あみ}をひきあげる。",
+       "{環巻|かんま}ウインチは{環綱|かんづな}をまく。"
+      ],
+      "avoid": [
+       "{回転|かいてん}している{機械|きかい}の{近|ちか}くに{手足|てあし}を{入|い}れること。"
+      ],
+      "exam": [
+       "{機械|きかい}のはたらき。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b3s3",
+    "no": 3,
+    "title": {
+     "id": "Metode dan Prosedur Operasi",
+     "jp": "{操業方法|そうぎょうほうほう}・{操業手順|そうぎょうてじゅん}"
+    },
+    "pages": [
+     69,
+     74
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Metode Operasional"
+      },
+      {
+       "p": "Penangkapan ikan dengan pukat cincin dilakukan pada malam hari dengan menggunakan fish lamp, pelaksanaannya dilakukan dengan urutan sebagai berikut, setelah sampai di tempat penangkapan, (1) mencari kawanan ikan, (2) mengumpulkan ikan, (3) melakukan penebaran jaring , (4) mengencangkan cincin jaring dan mengangkat jaring, (5) Penangkapan ikan (pengambilan ikan ). Armada yang beroperasi pulang hari, berangkat dari pelabuhan pada sore hari berlayar menuju tempat penangkapan ikan, dan kembali ke pelabuhan keesokan paginya lalu mendaratkan hasil tangkapannya di pasar."
+      },
+      {
+       "h": "(1) Mencari Kawanan Ikan"
+      },
+      {
+       "p": "Bersamaan dengan armada menuju ke tempat penangkapan ikan, dan setelah tiba, sonar atau detektor kawanan ikan digunakan untuk mencari kawanan ikan."
+      },
+      {
+       "h": "(2) Mengumpulkan Ikan"
+      },
+      {
+       "p": "Setelah menemukan kawanan ikan, nyalakan fish lampsetelah kapal fish lamp diposisikan berada di atas lokasi kawanan ikan. Di area dimana lampu bawah air digunakan, nyalakan lampu bawah air dan letakkan di dalam laut."
+      },
+      {
+       "h": "(3) Menebarkan jaring"
+      },
+      {
+       "p": "Kapal pukat mulai melemparkan jaringnya sambil memeriksa kecepatan, arah, dan lokasi gerombolan ikan saat itu. Atas perintah nahkoda kapal, salah satu perahu pengintai atau perahu ringan mengambil ujung penangkap ikan dari jaring pukat cincin dari buritan kapal pukat dan mulai melemparkan."
+      },
+      {
+       "p": "Kapal pukat melemparkan jaring pukat cincinnya dari buritan dan berlayar dalam gerakan memutar mengelilingi kapal lampu yang terus mengumpulkan ikan, sambil mengembangkan jaringnya untuk menutupi gerombolan ikan. Saat melempar jaring, berhati-hatilah agar kaki tidak terlilit jaring atau tali."
+      },
+      {
+       "h": "(4) Melingkarkan jaring"
+      },
+      {
+       "p": "Setelah jaring pukat cincin dilempar, perahu pengintai menerima salah satu ujung jaring yang menjadi umpan untuk menangkap ikan. Nakhoda perahu jaring memeriksa keadaan jaring yang tenggelam sambil memeriksa pembacaan pengukur kedalaman, mengencangkan tali pengikat, menutup bagian bawah jaring, dan memulai pekerjaan penarikan. Ketika tiba saatnya untuk menarik jaring, beberapa kru di dek di buritan perahu jaring melipat jaring yang dikirim melalui power block dan menumpuknya di dek. Ketika sedang menangani jaring yang basah dan berat, pastikan untuk memperhatikan langkah kaki untuk menghindari terjerat, dan juga berhati-hati untuk tidak terjerat dalam mesin penangkap ikan saat sedang beroperasi."
+      },
+      {
+       "h": "(5) Penangkapan ikan"
+      },
+      {
+       "p": "Saat pekerjaan menarik jaring pukat cincin berlangsung dan hanya bagian penangkap ikan yang tersisa di laut, kapal pengangkut untuk sementara menerima salah satu ujung bagian umpan penangkap ikan. Ketika hasil tangkapan dibawa ke kapal pengangkut, hasil tangkapan tersebut disendok dengan jaring segitiga atau jaring celup, atau dipompa menggunakan pompa Gambar 13 Pekerjaan ikan (Gambar 13). penangkapan ikan"
+      },
+      {
+       "h": "Prosedur operasi"
+      },
+      {
+       "p": "(1) Sebuah lampu mendekati dari arah buritan perahu jaring dan mengambil ujung penangkap ikan. (2) Perahu jaring segera menaikkan kecepatan, mengitari perahu lampu, dan menebarkan jaring."
+      },
+      {
+       "h": "(1)"
+      },
+      {
+       "h": "(2)"
+      },
+      {
+       "p": "Kapal jaring Kapal jaring kapal lampu Kapal lampu kapal lampu Gambar 14 Prosedur operasi penangkapan ikan dengan pukat cincin ① (3) ～ (4) Setelah berputar mengelilingi perahu lampu sambil melemparkan jaring, menerima salah satu ujung penangkap ikan dari perahu lampu, yang berfungsi sebagai recko boat."
+      },
+      {
+       "h": "(3) (4)"
+      },
+      {
+       "p": "Kapal Kapal Kapal lampu jaring lampu Kapal lampu Kapal jaring Gambar 15 Prosedur operasi penangkapan ikan dengan pukat cincin ② (5) Untuk proses penarikan jaring, pertama-tama gulung kabel cincin yang terpasang di sisi pemberat. Periksa keadaan tenggelamnya jaring dengan alat pengukur kedalaman yang terpasang pada jaring, dan ketika kaki jaring sudah mencapai bagian bawah target kawanan ikan, gunakan purse winch yang dipasang di geladak di sisi haluan kapal jaring untuk menggulung kawat cincin. Untuk mencegah kapal jaring bergerak dan mengubah bentuk jaring selama jaring penarikan jaring, perahu lampu yang diikat dengan tali ke kapal jaring berperan sebagai barisan belakang untuk menarik kapal jaring. Ketika proses penarikan jaring terus berlanjut dan jaring menjadi lebih kecil, kapal pengangkut mendekati sisi kapal jaring yang berlawanan dan mengambil sebagian dari jaring untuk mengatur kondisi jaring agar hasil tangkapan lebih mudah diambil."
+      },
+      {
+       "h": "(5)"
+      },
+      {
+       "p": "Kapal Kapal penarik jaring Kapal pengangkut Gambar16 Prosedur operasi penangkapan ikan dengan pukat cincin ③ Perikanan Jaring Insang"
+      }
+     ],
+     "jp": [
+      {
+       "h": "７．{操業方法|そうぎょうほうほう}"
+      },
+      {
+       "p": "{集魚灯|しゅうぎょとう}を{用|もち}いて{夜間操業|やかんそうぎょう}をするまき{網漁業|あみぎょぎょう}では、{漁場|ぎょじょう}に{到着|とうちゃく}した{後|あと}、(1){魚群探索|ぎょぐんたんさく}、(2){集魚|しゅうぎょ}、(3){投網|とうもう}、(4){環締|かんじ}め・{揚網|ようもう}、(5){漁獲|ぎょかく}（{魚汲|うおく}み）の{順|じゅん}で{操業|そうぎょう}が{行|おこな}われ、{日帰|ひがえ}り{操業|そうぎょう}を{行|おこ}なっている{船団|せんだん}では、{夕方|ゆうがた}に{港|みなと}を{出発|しゅっぱつ}して{漁場|ぎょじょう}へ{向|む}かい、{翌朝|よくあさ}に{港|みなと}に{戻|もど}ってきて{市場|いちば}に{水揚|みずあ}げする。（１）{魚群探索|ぎょぐんたんさく}"
+      },
+      {
+       "p": "{船団|せんだん}がまとまって{漁場|ぎょじょう}へ{向|む}かい、{到着後|とうちゃくご}、ソナーや{魚群|ぎょぐんた}探知{機|き}を{用|もち}いて{魚群|ぎょぐん}の{探索|たんさく}が{行|おこ}なわれる。（２）{集魚|しゅうぎょ}"
+      },
+      {
+       "p": "{魚群|ぎょぐん}を{発見|はっけん}した{後|あと}、{灯|ひ}{船|ぶね}が{魚群|ぎょぐん}のいる{場所|ばしょ}の{上方|じょうほう}に{位|い}{置|ち}するようにして{集魚灯|しゅうぎょとう}を{点灯|てんとう}させる。{水中灯|すいちゅうとう}を{用|もち}いる{地域|ちいき}では、{水中灯|すいちゅうとう}も{点灯|てんとう}させて{海中|かいちゅう}に{入|い}れる。（３）{投網|とうもう}"
+      },
+      {
+       "p": "{網船|あみぶね}は{潮流|ちょうりゅう}の{流速|りゅうそく}、{流向|りゅうこう}、{魚群|ぎょぐん}の{位|い}{置|ち}などを{確認|かくにん}しながら{投網|とうもう}を{開始|かいし}する。{漁労長|ぎょろうちょう}の{指|し}{示|じ}によって、レッコボート{或|ある}いは{灯|ひ}{船|ぶね}（または{運搬船|うんぱんせん}）の1{隻|せき}が{網船|あみぶね}の{船尾|せんび}から、まき{網|あみ}の{魚捕側|うおとりがわ}の{端|はし}を{受|う}け{取|と}り{投網|とうもう}が{開始|かいし}される。{網船|あみぶね}は{船|せんび}尾部{分|ん}からまき{網|あみ}を{投網|とうもう}しながら{円形|えんけい}を{描|えが}くように、{集魚|しゅうぎょ}を{続|つづ}けている{灯|ひ}{船|ぶね}の{周|まわ}りを{航走|こうそう}することで、{魚群|ぎょぐん}を{囲|かこ}い{込|こ}むように{網|あみ}を{展開|てんかい}させる。{投網|とうもう}の{際|さい}は{足|あし}に{網|あみ}やロープが{絡|から}まないよう{注意|ちゅうい}する。（４）{環締|かんじ}め・{揚網|ようもう}"
+      },
+      {
+       "p": "まき{網|あみ}を{投網|とうもう}した{後|あと}、レッコボートから{網|あみ}の{魚捕側|うおとりがわ}の{一端|いったん}を{受|う}け{取|と}る。{網船|あみぶね}の{船長|せんちょう}は、{深度計|しんどけい}の{測定値|そくていち}を{見|み}ながらまき{網|あみ}の{沈降状態|ちんこうじょうたい}を{確認|かくにん}し、{環綱|かんづな}の{締|し}め{上|あ}げを{行|おこな}い、{網裾|あみすそ}を{閉|と}じて{揚網作業|ようもうさぎょう}を{開始|かいし}する。{揚網時|ようもうじ}には、{網船|あみぶね}の{船尾側|せんびがわ}の{甲板|こうはん}で{数名|すうめい}の{漁業者|ぎょぎょうしゃ}が、パワーブロックを{通|つう}じて送られてくる{網|あみ}を{畳|たた}みながら{甲板上|こうはんじょう}に{積|つ}み{上|あ}げていく。この{時|とき}、{濡|ぬ}れた{重|おも}い{網|あみ}を{扱|あつか}うので{絡|から}まないように{足元|あしもと}に{注意|ちゅうい}し、また、{作動中|さどうちゅう}の{漁撈機械|ぎょろうきかい}に{巻|ま}き{込|こ}まれないように{注意|ちゅうい}して{作業|さぎょう}する。（５）{漁獲|ぎょかく}（{魚汲|うおく}み）"
+      },
+      {
+       "p": "まき{網|あみ}の{揚網作業|ようもうさぎょう}が{進|すす}み、{魚捕部|うおとりぶ}のみが{海中|かいちゅう}に残された{状態|じょうたい}になると、{運搬船|うんぱんせん}が{魚捕部|うおとりぶ}の{一端|いったん}を{受|う}け{取|と}る。{漁獲物|ぎょかくぶつ}を{運搬船|うんぱんせん}に{取|と}り{込|こ}む{時|とき}には、{三角網|さんかくあみ}やタモ{網|あみ}で{掬|すく}い{取|と}ったり、フィッシュポンプを{使用|しよう}して{汲|く}み{上|あ}げる（{図|ず}１３）。"
+      },
+      {
+       "p": "{図|ず}１３{魚汲|うおく}み{作業|さぎょう}"
+      },
+      {
+       "h": "８.{操業手順|そうぎょうてじゅん}"
+      },
+      {
+       "p": "(1){灯|ひ}{船|ぶね}（または{運搬船|うんぱんせん}）が{網船|あみぶね}の{船尾方向|せんびほうこう}から{近|ちか}づき、{魚捕側|うおとりがわ}の{一端|いったん}を{受|う}け{取|と}る。(2){網船|あみぶね}は{速度|そくど}を{上|あ}げて{灯|ひ}{船|ぶね}の{周|まわ}りを{航走|こうそう}し{投網|とうもう}を{行|おこな}う。(1)(2)"
+      },
+      {
+       "p": "{図|ず}１４まき{網操業手順|あみそうぎょうてじゅん}①(3)～(4){投網|とうもう}しながら{灯|ひ}{船|ぶね}のまわりを{一周|いっしゅう}したら、レッコボードの{役割|やくわり}をしている{灯|ひ}{船|ぶね}（または{運搬船|うんぱんせん}）から{魚捕|うおとり}の{一端|いったん}を{受|う}け{取|と}る。(3)(4)"
+      },
+      {
+       "p": "{図|ず}１５まき{網操業手順|あみそうぎょうてじゅん}②(5){揚網作業|ようもうさぎょう}では、{初|はじ}めに{沈|い}子{側|わ}につけてある{環|かん}ワイヤーを{巻|ま}き{上|あ}げる。{網|あみ}に{取|と}り{付|つ}けた{深|ふか}さ{計|けい}で{網|あみ}の{沈降状態|ちんこうじょうたい}を{確認|かくにん}し、{網裾|あみすそ}が{対象魚|たいしょうぎょ}の{魚群|ぎょぐん}の{下層部分|かそうぶぶん}に{達|たっ}したら、{網船|あみぶね}の{船首側|せんしゅがわ}の{甲板上|こうはんじょう}に{設置|せっち}されたパースウィンチで{環|かん}ワイヤーの{巻|ま}き{上|あ}げを{開始|かいし}する。{揚|よう}{網中|もうちゅう}、{網船|あみぶね}が{移動|いどう}して{網|あみ}なりが{変形|へんけい}するのを{防|ふせ}ぐために、{網船|あみぶね}とロープでつながれた{灯|ひ}{船|ぶね}は{網船|あみぶね}を{引|ひ}っ{張|ぱ}る{裏|うら}{漕|こ}ぎの{役割|やくわり}をする。{揚網|ようもう}が{進|すす}み、{網|あみ}が{小|ちい}さくなってきたら、{運搬船|うんぱんせん}が{網船|あみぶね}と{反対側|はんたいがわ}に{近|ちか}づき、{網|あみ}の{一部|いちぶ}を{取|と}り{込|こ}むことで、{漁獲物|ぎょかくぶつ}を{取|と}り{込|こ}みしやすいように{網|あみ}なりを{整|ととの}える。(5)"
+      },
+      {
+       "p": "ひぶねあみぶねうんぱんせん"
+      },
+      {
+       "p": "{図|ず}１６まき{網操業手順|あみそうぎょうてじゅん}③"
+      },
+      {
+       "p": "さあみぎょぎょう"
+      },
+      {
+       "p": "刺し網漁業"
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Urutan operasi: cari ikan → kumpulkan dengan lampu → tebar jaring → kencangkan cincin & tarik jaring → ambil ikan.",
+      "points": [
+       "Kapal harian: berangkat sore, pulang pagi, mendarat di pasar.",
+       "Saat tebar jaring, hati-hati kaki terlilit tali/jaring.",
+       "Pakai sonar / fish finder untuk mencari ikan."
+      ],
+      "avoid": [
+       "Berdiri di dalam gulungan tali saat jaring ditebar."
+      ],
+      "exam": [
+       "Urutan 5 langkah operasi."
+      ]
+     },
+     "jp": {
+      "core": "{手順|てじゅん}：{魚群探索|ぎょぐんたんさく}、{集魚|しゅうぎょ}、{投網|とうもう}、{環締|かんじ}め・{揚網|ようもう}、{漁獲|ぎょかく}。",
+      "points": [
+       "{日帰|ひがえ}りで、{夕方|ゆうがた}{出|だ}て、{朝|あさ}{帰|かえ}り、{市場|いちば}に{水揚|みずあ}げする。",
+       "{投網|とうもう}のときは{足|あし}をロープや{網|あみ}にからませない。",
+       "ソナーや{魚群探知機|ぎょぐんたんちき}で{魚|さかな}を{探|さが}す。"
+      ],
+      "avoid": [
+       "{投網|とうもう}のときにロープのわの{中|なか}に{立|た}つこと。"
+      ],
+      "exam": [
+       "{操業|そうぎょう}の5つの{順番|じゅんばん}。"
+      ]
+     }
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,999 @@
+{
+ "schema": 1,
+ "bidang": "auto-maintenance",
+ "source": "JICA「みてまなぶ！自動車整備の日本語」(2023年12月30日第1版) https://www.jica.go.jp/activities/issues/transport/mechanic/health_safety_text/index.html",
+ "markup": "Teks JP memakai {kanji|furigana}; **tebal**.",
+ "bab": {
+  "id": "bab4",
+  "no": 4,
+  "title": {
+   "id": "Komponen mobil",
+   "jp": "{自動車|じどうしゃ}の{部品|ぶひん}"
+  },
+  "intro": {
+   "id": "Nama komponen mesin, bahan bakar, hisap-buang, pelumasan, pendingin, penerus tenaga, kemudi, rem, listrik, dan bodi.",
+   "jp": "エンジン・{燃料|ねんりょう}・{冷却|れいきゃく}・{動力伝達|どうりょくでんたつ}・ブレーキ・{電気|でんき}・ボデーの{部品|ぶひん}をおぼえます。"
+  },
+  "pages": [
+   45,
+   66
+  ],
+  "subs": [
+   {
+    "id": "b4s1",
+    "no": 1,
+    "title": {
+     "id": "Sekitar mesin",
+     "jp": "エンジンまわり"
+    },
+    "pages": [
+     45,
+     50
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 45 — Pendahuluan bab 4 (video JAPIA)"
+      },
+      {
+       "p": "Bab 4 mengacu pada video \"Belajar dengan Video – Dasar Otomotif\" dari JAPIA (Asosiasi Industri Komponen Otomotif Jepang) yang memiliki subtitle Indonesia, Khmer, Vietnam, Myanmar, dan Jepang."
+      },
+      {
+       "h": "Hal. 46 — Sekitar mesin (1)"
+      },
+      {
+       "ul": [
+        "① **エンジン** (えんじん · enjin) — mesin",
+        "② **直列型エンジン** (ちょくれつがたえんじん · chokuretsugataenjin) — mesin segaris (inline). Keterangan: Silinder disusun satu baris; jumlah silinder 3, 4, atau 6.",
+        "③ **V型エンジン** (ぶいがたえんじん · buigataenjin) — mesin tipe V. Keterangan: Silinder diletakkan membentuk V di sekitar poros engkol.",
+        "④ **ボクサーエンジン** (ぼくさーえんじん · bokusaaenjin) — mesin boxer. Keterangan: Silinder saling berhadapan mendatar kiri-kanan."
+       ]
+      },
+      {
+       "h": "Hal. 47 — Sekitar mesin (2)"
+      },
+      {
+       "ul": [
+        "⑤ **サイクル** (さいくる · saikuru) — siklus. Keterangan: Hisap → kompresi → pembakaran → buang.",
+        "⑥ **ディーゼルエンジン** (でぃーぜるえんじん · deぃぃzeruenjin) — mesin diesel. Keterangan: Bahan bakar solar.",
+        "⑦ **燃焼室** (ねんしょうしつ · nenshoushitsu) — ruang bakar",
+        "⑧ **シリンダー** (しりんだー · shirindaa) — silinder; alias/keterangan: シリンダ",
+        "⑨ **インテーク・バルブ** (いんてーくばるぶ · inteeku barubu) — katup hisap",
+        "⑩ **エキゾースト・バルブ** (えきぞーすとばるぶ · ekizoosuto barubu) — katup buang"
+       ]
+      },
+      {
+       "h": "Hal. 48 — Sekitar mesin (3)"
+      },
+      {
+       "ul": [
+        "⑪ **カムシャフト** (かむしゃふと · kamushafuto) — poros bubungan (camshaft)",
+        "⑫ **プラグ** (ぷらぐ · puragu) — busi; alias/keterangan: スパークプラグ",
+        "⑬ **ピストン** (ぴすとん · pisuton) — torak (piston)",
+        "⑭ **ピストンリング** (ぴすとんりんぐ · pisutonringu) — ring piston",
+        "⑮ **コンロッド** (こんろっど · konroddo) — batang penghubung (connecting rod)",
+        "⑯ **クランクシャフト** (くらんくしゃふと · kurankushafuto) — poros engkol"
+       ]
+      },
+      {
+       "h": "Hal. 49 — Sekitar mesin (4)"
+      },
+      {
+       "ul": [
+        "⑰ **フライホイール** (ふらいほいーる · furaihoiiru) — roda gila (flywheel)",
+        "⑱ **クランクプーリー** (くらんくぷーりー · kurankupuurii) — puli poros engkol",
+        "⑲ **シリンダーヘッド** (しりんだーへっど · shirindaaheddo) — kepala silinder",
+        "⑳ **カムシャフトカバー** (かむしゃふとかばー · kamushafutokabaa) — tutup poros bubungan",
+        "21. **シリンダーヘッド本体** (しりんだーへっどほんたい · shirindaaheddohontai) — bodi kepala silinder",
+        "22. **シリンダーヘッドガスケット** (しりんだーへっどがすけっと · shirindaaheddogasuketto) — paking kepala silinder",
+        "23. **ピストン** (ぴすとん · pisuton) — torak (piston)",
+        "24. **ピストンリング** (ぴすとんりんぐ · pisutonringu) — ring piston"
+       ]
+      },
+      {
+       "h": "Hal. 50 — Sekitar mesin (5)"
+      },
+      {
+       "ul": [
+        "25. **シリンダーブロック** (しりんだーぶろっく · shirindaaburokku) — blok silinder"
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 45"
+      },
+      {
+       "h": "ページ 46"
+      },
+      {
+       "ul": [
+        "① **エンジン**",
+        "② **{直列型エンジン|ちょくれつがたえんじん}**：シリンダを一列にならべたもの。シリンダの数は３、４、６。",
+        "③ **{V型エンジン|ぶいがたえんじん}**：クランクシャフトを中心にシリンダをV型においたもの。",
+        "④ **ボクサーエンジン**：水平対向エンジン：クランクシャフトを中心にシリンダを左右水平にむきあって置いたもの。"
+       ]
+      },
+      {
+       "h": "ページ 47"
+      },
+      {
+       "ul": [
+        "⑤ **サイクル**：吸入→圧縮→燃焼→排気",
+        "⑥ **ディーゼルエンジン**：燃料が軽油。ジーゼルエンジンともいう。",
+        "⑦ **{燃焼室|ねんしょうしつ}**",
+        "⑧ **シリンダー** (シリンダ)",
+        "⑨ **インテーク・バルブ**",
+        "⑩ **エキゾースト・バルブ**"
+       ]
+      },
+      {
+       "h": "ページ 48"
+      },
+      {
+       "ul": [
+        "⑪ **カムシャフト**",
+        "⑫ **プラグ** (スパークプラグ)",
+        "⑬ **ピストン**",
+        "⑭ **ピストンリング**",
+        "⑮ **コンロッド**",
+        "⑯ **クランクシャフト**"
+       ]
+      },
+      {
+       "h": "ページ 49"
+      },
+      {
+       "ul": [
+        "⑰ **フライホイール**",
+        "⑱ **クランクプーリー**",
+        "⑲ **シリンダーヘッド**",
+        "⑳ **カムシャフトカバー**",
+        "21. **{シリンダーヘッド本体|しりんだーへっどほんたい}**",
+        "22. **シリンダーヘッドガスケット**",
+        "23. **ピストン**",
+        "24. **ピストンリング**"
+       ]
+      },
+      {
+       "h": "ページ 50"
+      },
+      {
+       "ul": [
+        "25. **シリンダーブロック**"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 25 istilah Jepang dari buku JICA (hal. 45–50).",
+      "points": [
+       "**エンジン** = mesin",
+       "**直列型エンジン** = mesin segaris (inline)",
+       "**V型エンジン** = mesin tipe V",
+       "**ボクサーエンジン** = mesin boxer",
+       "**サイクル** = siklus"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを25こおぼえます。",
+      "points": [
+       "**エンジン**",
+       "**{直列型エンジン|ちょくれつがたえんじん}**",
+       "**{V型エンジン|ぶいがたえんじん}**",
+       "**ボクサーエンジン**",
+       "**サイクル**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b4s2",
+    "no": 2,
+    "title": {
+     "id": "Sistem bahan bakar",
+     "jp": "{燃料装置|ねんりょうそうち}"
+    },
+    "pages": [
+     50,
+     50
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 50 — Sistem bahan bakar"
+      },
+      {
+       "ul": [
+        "① **フューエルタンク** (ふゅーえるたんく · fyuuerutanku) — tangki bahan bakar; alias/keterangan: 燃料タンク",
+        "② **フューエルポンプ** (ふゅーえるぽんぷ · fyuueruponpu) — pompa bahan bakar; alias/keterangan: 燃料ポンプ",
+        "③ **フューエルフィルター** (ふゅーえるふぃるたー · fyuuerufuぃrutaa) — filter bahan bakar; alias/keterangan: 燃料フィルター",
+        "④ **インジェクター** (いんじぇくたー · injiぇkutaa) — injektor"
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 50"
+      },
+      {
+       "ul": [
+        "① **フューエルタンク** (燃料タンク)",
+        "② **フューエルポンプ** (燃料ポンプ)",
+        "③ **フューエルフィルター** (燃料フィルター)",
+        "④ **インジェクター**"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 4 istilah Jepang dari buku JICA (hal. 50–50).",
+      "points": [
+       "**フューエルタンク** = tangki bahan bakar",
+       "**フューエルポンプ** = pompa bahan bakar",
+       "**フューエルフィルター** = filter bahan bakar",
+       "**インジェクター** = injektor"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを4こおぼえます。",
+      "points": [
+       "**フューエルタンク**",
+       "**フューエルポンプ**",
+       "**フューエルフィルター**",
+       "**インジェクター**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b4s3",
+    "no": 3,
+    "title": {
+     "id": "Sistem hisap dan buang",
+     "jp": "{吸気装置|きゅうきそうち}・{排気装置|はいきそうち}"
+    },
+    "pages": [
+     51,
+     52
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 51 — Sistem hisap dan buang (1)"
+      },
+      {
+       "ul": [
+        "① **エレメント** (えれめんと · eremento) — elemen (filter udara); alias/keterangan: エア・フィルター、エア・クリーナー・エレメント",
+        "② **エアクリ** (えあくり · eakuri) — saringan udara (singkatan); alias/keterangan: エアクリーナー",
+        "③ **エアフローメーター** (えあふろーめーたー · eafuroomeetaa) — pengukur aliran udara",
+        "④ **スロットルボディ** (すろっとるぼでぃ · surottorubodeぃ) — throttle body; alias/keterangan: スロットル",
+        "⑤ **インマニ** (いんまに · inmani) — manifold hisap (singkatan); alias/keterangan: インテークマニホールド",
+        "⑥ **スパークプラグ** (すぱーくぷらぐ · supaakupuragu) — busi; alias/keterangan: プラグ",
+        "⑦ **イグニッションコイル** (いぐにっしょんこいる · igunisshonkoiru) — koil pengapian; alias/keterangan: 点火コイル",
+        "⑧ **ECU** (いーしーゆー · iishiiyuu) — unit kontrol elektronik; alias/keterangan: Electronic Control Unit"
+       ]
+      },
+      {
+       "h": "Hal. 52 — Sistem hisap dan buang (2)"
+      },
+      {
+       "ul": [
+        "⑨ **エキマニ** (えきまに · ekimani) — manifold buang (singkatan); alias/keterangan: エキゾーストマニホールド",
+        "⑩ **エキゾースト・パイプ** (えきぞーすとぱいぷ · ekizoosuto paipu) — pipa gas buang",
+        "⑪ **マフラー** (まふらー · mafuraa) — knalpot",
+        "⑫ **窒素** (ちっそ · chisso) — nitrogen (N)",
+        "⑬ **水** (みず · mizu) — air (H₂O)",
+        "⑭ **二酸化炭素** (にさんかたんそ · nisankatanso) — karbon dioksida (CO₂)",
+        "⑮ **一酸化炭素** (いっさんかたんそ · issankatanso) — karbon monoksida (CO)",
+        "⑯ **炭化水素** (たんかすいそ · tankasuiso) — hidrokarbon (HC)",
+        "⑰ **窒素酸化物** (ちっそさんかぶつ · chissosankabutsu) — oksida nitrogen (NOx)",
+        "⑱ **触媒コンバータ** (しょくばいこんばーた · shokubaikonbaata) — konverter katalis"
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 51"
+      },
+      {
+       "ul": [
+        "① **エレメント** (エア・フィルター、エア・クリーナー・エレメント)",
+        "② **エアクリ** (エアクリーナー)",
+        "③ **エアフローメーター**",
+        "④ **スロットルボディ** (スロットル)",
+        "⑤ **インマニ** (インテークマニホールド)",
+        "⑥ **スパークプラグ** (プラグ)",
+        "⑦ **イグニッションコイル** (点火コイル)",
+        "⑧ **ECU** (Electronic Control Unit)"
+       ]
+      },
+      {
+       "h": "ページ 52"
+      },
+      {
+       "ul": [
+        "⑨ **エキマニ** (エキゾーストマニホールド)",
+        "⑩ **エキゾースト・パイプ**",
+        "⑪ **マフラー**",
+        "⑫ **{窒素|ちっそ}**",
+        "⑬ **{水|みず}**",
+        "⑭ **{二酸化炭素|にさんかたんそ}**",
+        "⑮ **{一酸化炭素|いっさんかたんそ}**",
+        "⑯ **{炭化水素|たんかすいそ}**",
+        "⑰ **{窒素酸化物|ちっそさんかぶつ}**",
+        "⑱ **{触媒コンバータ|しょくばいこんばーた}**"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 18 istilah Jepang dari buku JICA (hal. 51–52).",
+      "points": [
+       "**エレメント** = elemen (filter udara)",
+       "**エアクリ** = saringan udara (singkatan)",
+       "**エアフローメーター** = pengukur aliran udara",
+       "**スロットルボディ** = throttle body",
+       "**インマニ** = manifold hisap (singkatan)"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを18こおぼえます。",
+      "points": [
+       "**エレメント**",
+       "**エアクリ**",
+       "**エアフローメーター**",
+       "**スロットルボディ**",
+       "**インマニ**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b4s4",
+    "no": 4,
+    "title": {
+     "id": "Pelumasan dan pendinginan",
+     "jp": "{潤滑装置|じゅんかつそうち}・{冷却装置|れいきゃくそうち}"
+    },
+    "pages": [
+     53,
+     55
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 53 — Sistem pelumasan dan pendingin"
+      },
+      {
+       "ul": [
+        "① **オイルパン** (おいるぱん · oirupan) — karter oli",
+        "② **オイルポンプ** (おいるぽんぷ · oiruponpu) — pompa oli",
+        "③ **オイルフィルター** (おいるふぃるたー · oirufuぃrutaa) — filter oli; alias/keterangan: オイルエレメント",
+        "④ **クーラント** (くーらんと · kuuranto) — cairan pendingin; alias/keterangan: 冷却水",
+        "⑤ **ウォーターポンプ** (うぉーたーぽんぷ · uぉぉtaaponpu) — pompa air",
+        "⑥ **リザーバータンク** (りざーばーたんく · rizaabaatanku) — tangki cadangan",
+        "⑦ **ラジエーター** (らじえーたー · rajieetaa) — radiator",
+        "⑧ **冷却ファン** (れいきゃくふぁん · reikyakufuぁn) — kipas pendingin",
+        "⑨ **サーモスタット** (さーもすたっと · saamosutatto) — termostat"
+       ]
+      },
+      {
+       "h": "Hal. 54 — Kolom 9: ban musim dingin"
+      },
+      {
+       "p": "Di Jepang ada kota yang bersalju. Sebelum salju turun ban diganti dengan ban musim dingin; ada スタッドレスタイヤ (ban studless) dan kadang rantai ban dipasang."
+      },
+      {
+       "ul": [
+        "**冬用タイヤ** (ふゆようたいや · fuyuyoutaiya) — ban musim dingin",
+        "**スタッドレスタイヤ** (すたっどれすたいや · sutaddoresutaiya) — ban studless"
+       ]
+      },
+      {
+       "h": "Hal. 55 — Kolom 10: mobil bagi orang Jepang"
+      },
+      {
+       "p": "Mobil termasuk tiga belanjaan termahal orang Jepang dan dianggap harta berharga seperti permata. Goresan kecil pada bemper, pintu, atau noda pada jok sangat dihindari. Mobil pelanggan lebih diutamakan daripada mobil sendiri."
+      },
+      {
+       "p": "Saat bekerja: bemper atau pintu yang dilepas tidak boleh diletakkan langsung di tanah — alasi dulu atau taruh di tempat aman. Jangan duduk di jok mobil pelanggan dengan pakaian kotor; pakai pelindung jok. Jangan duduk di mobil pelanggan saat istirahat. Rapikan penampilan."
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 53"
+      },
+      {
+       "ul": [
+        "① **オイルパン**",
+        "② **オイルポンプ**",
+        "③ **オイルフィルター** (オイルエレメント)",
+        "④ **クーラント** (冷却水)",
+        "⑤ **ウォーターポンプ**",
+        "⑥ **リザーバータンク**",
+        "⑦ **ラジエーター**",
+        "⑧ **{冷却ファン|れいきゃくふぁん}**",
+        "⑨ **サーモスタット**"
+       ]
+      },
+      {
+       "h": "ページ 54"
+      },
+      {
+       "ul": [
+        "**{冬用タイヤ|ふゆようたいや}**",
+        "**スタッドレスタイヤ**"
+       ]
+      },
+      {
+       "h": "ページ 55"
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 11 istilah Jepang dari buku JICA (hal. 53–55).",
+      "points": [
+       "**オイルパン** = karter oli",
+       "**オイルポンプ** = pompa oli",
+       "**オイルフィルター** = filter oli",
+       "**クーラント** = cairan pendingin",
+       "**ウォーターポンプ** = pompa air"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを11こおぼえます。",
+      "points": [
+       "**オイルパン**",
+       "**オイルポンプ**",
+       "**オイルフィルター**",
+       "**クーラント**",
+       "**ウォーターポンプ**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b4s5",
+    "no": 5,
+    "title": {
+     "id": "Penerus tenaga dan suspensi",
+     "jp": "{動力伝達装置|どうりょくでんたつそうち}"
+    },
+    "pages": [
+     56,
+     58
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 56 — Penerus tenaga (1)"
+      },
+      {
+       "ul": [
+        "① **FF** (えふえふ · efuefu) — penggerak roda depan (mesin depan); alias/keterangan: フロントエンジン・フロントドライブ",
+        "② **FR** (えふあーる · efuaaru) — mesin depan penggerak roda belakang; alias/keterangan: フロントエンジン・リアドライブ",
+        "③ **4WD** (よんだぶりゅーでぃー · yondaburyuudeぃぃ) — penggerak empat roda; alias/keterangan: 四輪駆動、四駆、AWD",
+        "④ **クラッチ** (くらっち · kuracchi) — kopling",
+        "⑤ **クラッチディスク** (くらっちでぃすく · kuracchideぃsuku) — cakram kopling",
+        "⑥ **クラッチペダル** (くらっちぺだる · kuracchipedaru) — pedal kopling",
+        "⑦ **フライホイール** (ふらいほいーる · furaihoiiru) — roda gila (flywheel)",
+        "⑧ **メインドライブシャフト** (めいんどらいぶしゃふと · meindoraibushafuto) — poros penggerak utama",
+        "⑨ **トランスミッション** (とらんすみっしょん · toransumisshon) — transmisi",
+        "⑩ **マニュアルトランスミッション** (まにゅあるとらんすみっしょん · manyuarutoransumisshon) — transmisi manual",
+        "⑪ **AT** (えーてぃー · eeteぃぃ) — transmisi otomatis; alias/keterangan: オートマチックトランスミッション"
+       ]
+      },
+      {
+       "h": "Hal. 57 — Penerus tenaga (2)"
+      },
+      {
+       "ul": [
+        "⑬ **トルクコンバータ** (とるくこんばーた · torukukonbaata) — konverter torsi",
+        "⑭ **CVT** (しーぶいてぃー · shiibuiteぃぃ) — transmisi variabel kontinu; alias/keterangan: 無段階変速機（Continuously Variable Transmission）",
+        "⑮ **プーリー** (ぷーりー · puurii) — puli",
+        "⑯ **プロペラシャフト** (ぷろぺらしゃふと · puroperashafuto) — poros propeller",
+        "⑰ **ユニバーサルジョイント** (ゆにばーさるじょいんと · yunibaasarujointo) — sambungan universal",
+        "⑱ **ファイナルギア** (ふぁいなるぎあ · fuぁinarugia) — gigi akhir",
+        "⑲ **内輪差** (ないりんさ · nairinsa) — selisih lintasan roda dalam. Keterangan: Selisih lintasan ban depan dan belakang saat berbelok; sisi luar = 外輪差, sisi dalam = 内輪差.",
+        "⑳ **サイドギア** (さいどぎあ · saidogia) — gigi samping",
+        "21. **ピニオン** (ぴにおん · pinion) — pinion",
+        "22. **リングギア** (りんぐぎあ · ringugia) — gigi cincin (ring gear)"
+       ]
+      },
+      {
+       "h": "Hal. 58 — Penerus tenaga (3) dan suspensi"
+      },
+      {
+       "ul": [
+        "26. **ディファレンシャルギア** (でぃふぁれんしゃるぎあ · deぃfuぁrensharugia) — gigi diferensial",
+        "27. **ドライブ・シャフト** (どらいぶしゃふと · doraibu shafuto) — poros penggerak",
+        "28. **フロント・アクスル** (ふろんとあくする · furonto akusuru) — as roda depan",
+        "29. **ハブ** (はぶ · habu) — hub (naf roda)",
+        "30. **ホイール** (ほいーる · hoiiru) — pelek",
+        "31. **タイヤ** (たいや · taiya) — ban",
+        "32. **サスペンション** (さすぺんしょん · sasupenshon) — suspensi",
+        "33. **ストラット型フロント・サスペンション** (すとらっとがたふろんとさすぺんしょん · sutorattogatafuronto sasupenshon) — suspensi depan tipe strut",
+        "34. **ショック・アブソーバー** (しょっくあぶそーばー · shokku abusoobaa) — peredam kejut; alias/keterangan: ショック",
+        "35. **コイル・スプリング** (こいるすぷりんぐ · koiru supuringu) — pegas keong",
+        "36. **ロアー・アーム** (ろあーあーむ · roaa aamu) — lengan bawah",
+        "37. **アッパー・アーム** (あっぱーあーむ · appaa aamu) — lengan atas"
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 56"
+      },
+      {
+       "ul": [
+        "① **FF** (フロントエンジン・フロントドライブ)",
+        "② **FR** (フロントエンジン・リアドライブ)",
+        "③ **4WD** (四輪駆動、四駆、AWD)",
+        "④ **クラッチ**",
+        "⑤ **クラッチディスク**",
+        "⑥ **クラッチペダル**",
+        "⑦ **フライホイール**",
+        "⑧ **メインドライブシャフト**",
+        "⑨ **トランスミッション**",
+        "⑩ **マニュアルトランスミッション**",
+        "⑪ **AT** (オートマチックトランスミッション)"
+       ]
+      },
+      {
+       "h": "ページ 57"
+      },
+      {
+       "ul": [
+        "⑬ **トルクコンバータ**",
+        "⑭ **CVT** (無段階変速機（Continuously Variable Transmission）)",
+        "⑮ **プーリー**",
+        "⑯ **プロペラシャフト**",
+        "⑰ **ユニバーサルジョイント**",
+        "⑱ **ファイナルギア**",
+        "⑲ **{内輪差|ないりんさ}**：外輪差：車で右や左にまがるとき、前のタイヤと後ろのタイヤが通る道のずれ。",
+        "⑳ **サイドギア**",
+        "21. **ピニオン**",
+        "22. **リングギア**"
+       ]
+      },
+      {
+       "h": "ページ 58"
+      },
+      {
+       "ul": [
+        "26. **ディファレンシャルギア**",
+        "27. **ドライブ・シャフト**",
+        "28. **フロント・アクスル**",
+        "29. **ハブ**",
+        "30. **ホイール**",
+        "31. **タイヤ**",
+        "32. **サスペンション**",
+        "33. **{ストラット型フロント・サスペンション|すとらっとがたふろんとさすぺんしょん}**",
+        "34. **ショック・アブソーバー** (ショック)",
+        "35. **コイル・スプリング**",
+        "36. **ロアー・アーム**",
+        "37. **アッパー・アーム**"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 33 istilah Jepang dari buku JICA (hal. 56–58).",
+      "points": [
+       "**FF** = penggerak roda depan (mesin depan)",
+       "**FR** = mesin depan penggerak roda belakang",
+       "**4WD** = penggerak empat roda",
+       "**クラッチ** = kopling",
+       "**クラッチディスク** = cakram kopling"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを33こおぼえます。",
+      "points": [
+       "**FF**",
+       "**FR**",
+       "**4WD**",
+       "**クラッチ**",
+       "**クラッチディスク**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b4s6",
+    "no": 6,
+    "title": {
+     "id": "Kemudi dan rem",
+     "jp": "ステアリング{装置|そうち}・ブレーキ{装置|そうち}"
+    },
+    "pages": [
+     59,
+     60
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 59 — Kemudi"
+      },
+      {
+       "ul": [
+        "① **ステアリング装置** (すてありんぐそうち · sutearingusouchi) — sistem kemudi",
+        "② **ステアリング・ホイール** (すてありんぐほいーる · sutearingu hoiiru) — roda kemudi (setir); alias/keterangan: ハンドル",
+        "③ **パワステ** (ぱわすて · pawasute) — power steering; alias/keterangan: パワーステアリング・システム"
+       ]
+      },
+      {
+       "h": "Hal. 60 — Rem"
+      },
+      {
+       "ul": [
+        "① **ブレーキ装置** (ぶれーきそうち · bureekisouchi) — sistem rem; alias/keterangan: 制動装置",
+        "② **ブレーキ・ペダル** (ぶれーきぺだる · bureeki pedaru) — pedal rem; alias/keterangan: フット・ペダル",
+        "③ **マスター・シリンダ** (ますたーしりんだ · masutaa shirinda) — master silinder; alias/keterangan: ブレーキ・マスターシリンダ",
+        "④ **ブレーキ・ホース** (ぶれーきほーす · bureeki hoosu) — selang rem",
+        "⑤ **ドラム・ブレーキ** (どらむぶれーき · doramu bureeki) — rem tromol",
+        "⑥ **ブレーキ・ホイール・シリンダー** (ぶれーきほいーるしりんだー · bureeki hoiiru shirindaa) — silinder roda rem",
+        "⑦ **ブレーキ・シュー** (ぶれーきしゅー · bureeki shuu) — sepatu rem; alias/keterangan: ブレーキ・ライニング",
+        "⑧ **ブレーキ・ドラム** (ぶれーきどらむ · bureeki doramu) — tromol rem",
+        "⑨ **ディスクブレーキ** (でぃすくぶれーき · deぃsukubureeki) — rem cakram",
+        "⑩ **ブレーキパッド** (ぶれーきぱっど · bureekipaddo) — kampas rem cakram",
+        "⑪ **ブレーキ・キャリパー** (ぶれーききゃりぱー · bureeki kyaripaa) — kaliper rem",
+        "⑫ **ブレーキ・ピストン** (ぶれーきぴすとん · bureeki pisuton) — piston rem"
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 59"
+      },
+      {
+       "ul": [
+        "① **{ステアリング装置|すてありんぐそうち}**",
+        "② **ステアリング・ホイール** (ハンドル)",
+        "③ **パワステ** (パワーステアリング・システム)"
+       ]
+      },
+      {
+       "h": "ページ 60"
+      },
+      {
+       "ul": [
+        "① **{ブレーキ装置|ぶれーきそうち}** (制動装置)",
+        "② **ブレーキ・ペダル** (フット・ペダル)",
+        "③ **マスター・シリンダ** (ブレーキ・マスターシリンダ)",
+        "④ **ブレーキ・ホース**",
+        "⑤ **ドラム・ブレーキ**",
+        "⑥ **ブレーキ・ホイール・シリンダー**",
+        "⑦ **ブレーキ・シュー** (ブレーキ・ライニング)",
+        "⑧ **ブレーキ・ドラム**",
+        "⑨ **ディスクブレーキ**",
+        "⑩ **ブレーキパッド**",
+        "⑪ **ブレーキ・キャリパー**",
+        "⑫ **ブレーキ・ピストン**"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 15 istilah Jepang dari buku JICA (hal. 59–60).",
+      "points": [
+       "**ステアリング装置** = sistem kemudi",
+       "**ステアリング・ホイール** = roda kemudi (setir)",
+       "**パワステ** = power steering",
+       "**ブレーキ装置** = sistem rem",
+       "**ブレーキ・ペダル** = pedal rem"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを15こおぼえます。",
+      "points": [
+       "**{ステアリング装置|すてありんぐそうち}**",
+       "**ステアリング・ホイール**",
+       "**パワステ**",
+       "**{ブレーキ装置|ぶれーきそうち}**",
+       "**ブレーキ・ペダル**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b4s7",
+    "no": 7,
+    "title": {
+     "id": "Kelistrikan, rangka, dan bodi",
+     "jp": "{電気装置|でんきそうち}・フレーム・ボディ"
+    },
+    "pages": [
+     61,
+     63
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 61 — Kelistrikan"
+      },
+      {
+       "ul": [
+        "① **ワイヤーハーネス** (わいやーはーねす · waiyaahaanesu) — rangkaian kabel (wire harness)",
+        "② **O2センサー** (おーつーせんさー · ootsuusensaa) — sensor oksigen (O2). Keterangan: Dipasang di manifold buang untuk mengukur oksigen.",
+        "③ **触媒コンバータ** (しょくばいこんばーた · shokubaikonbaata) — konverter katalis. Keterangan: Menghilangkan NOx, HC, dan CO yang beracun.",
+        "④ **スターターモーター** (すたーたーもーたー · sutaataamootaa) — motor starter",
+        "⑤ **オルタネーター** (おるたねーたー · orutaneetaa) — alternator; alias/keterangan: オルタネータ",
+        "⑥ **バッテリー** (ばってりー · batterii) — aki"
+       ]
+      },
+      {
+       "h": "Hal. 62 — Rangka dan bodi (1)"
+      },
+      {
+       "ul": [
+        "① **ラダーフレーム** (らだーふれーむ · radaafureemu) — rangka tangga. Keterangan: Kabin diletakkan di atas rangka; dipakai pada truk dan bus.",
+        "② **モノコックボディ** (ものこっくぼでぃ · monokokkubodeぃ) — bodi monokok. Keterangan: Rangka dan kabin menyatu; lebih kuat dan ringan.",
+        "③ **バンパー** (ばんぱー · banpaa) — bemper",
+        "④ **ドアミラー** (どあみらー · doamiraa) — spion pintu",
+        "⑤ **ワイパー** (わいぱー · waipaa) — wiper; alias/keterangan: ウィンド・シールド・ワイパ",
+        "⑥ **ワイパーブレード** (わいぱーぶれーど · waipaabureedo) — bilah wiper",
+        "⑦ **ワイパーアーム** (わいぱーあーむ · waipaaaamu) — lengan wiper",
+        "⑧ **ウィンドウォッシャー** (うぃんどうぉっしゃー · uぃndouぉsshaa) — penyemprot kaca"
+       ]
+      },
+      {
+       "h": "Hal. 63 — Rangka dan bodi (2)"
+      },
+      {
+       "ul": [
+        "⑨ **シート** (しーと · shiito) — jok",
+        "⑩ **メーター** (めーたー · meetaa) — panel instrumen",
+        "⑪ **インパネ** (いんぱね · inpane) — dasbor (singkatan); alias/keterangan: インストールメント・パネル",
+        "⑫ **サンバイザー** (さんばいざー · sanbaizaa) — pelindung silau",
+        "⑬ **ルーム・ミラー** (るーむみらー · ruumu miraa) — spion tengah; alias/keterangan: バック・ミラー",
+        "⑭ **エアバッグ** (えあばっぐ · eabaggu) — kantong udara",
+        "⑮ **シートベルト** (しーとべると · shiitoberuto) — sabuk pengaman"
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 61"
+      },
+      {
+       "ul": [
+        "① **ワイヤーハーネス**",
+        "② **O2センサー**：エキゾーストマニホールドにとりつけられ、さんそをはかります。",
+        "③ **{触媒コンバータ|しょくばいこんばーた}**：有毒なNOx、HC、COをとりのぞく",
+        "④ **スターターモーター**",
+        "⑤ **オルタネーター** (オルタネータ)",
+        "⑥ **バッテリー**"
+       ]
+      },
+      {
+       "h": "ページ 62"
+      },
+      {
+       "ul": [
+        "① **ラダーフレーム**：キャビン（人や荷物をのせる場所）をのせる。トラックやバスに使う。",
+        "② **モノコックボディ**：フレームとキャビンをくっつけた形で、より強く、より軽い。",
+        "③ **バンパー**",
+        "④ **ドアミラー**",
+        "⑤ **ワイパー** (ウィンド・シールド・ワイパ)",
+        "⑥ **ワイパーブレード**",
+        "⑦ **ワイパーアーム**",
+        "⑧ **ウィンドウォッシャー**"
+       ]
+      },
+      {
+       "h": "ページ 63"
+      },
+      {
+       "ul": [
+        "⑨ **シート**",
+        "⑩ **メーター**",
+        "⑪ **インパネ** (インストールメント・パネル)",
+        "⑫ **サンバイザー**",
+        "⑬ **ルーム・ミラー** (バック・ミラー)",
+        "⑭ **エアバッグ**",
+        "⑮ **シートベルト**"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 21 istilah Jepang dari buku JICA (hal. 61–63).",
+      "points": [
+       "**ワイヤーハーネス** = rangkaian kabel (wire harness)",
+       "**O2センサー** = sensor oksigen (O2)",
+       "**触媒コンバータ** = konverter katalis",
+       "**スターターモーター** = motor starter",
+       "**オルタネーター** = alternator"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを21こおぼえます。",
+      "points": [
+       "**ワイヤーハーネス**",
+       "**O2センサー**",
+       "**{触媒コンバータ|しょくばいこんばーた}**",
+       "**スターターモーター**",
+       "**オルタネーター**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b4s8",
+    "no": 8,
+    "title": {
+     "id": "Aplikasi dan pembuangan limbah",
+     "jp": "{応用編|おうようへん}・ゴミのすてかた"
+    },
+    "pages": [
+     65,
+     66
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 65 — Aplikasi: kendaraan ramah lingkungan"
+      },
+      {
+       "p": "Bagian lanjutan: video \"Belajar dengan Video – Kendaraan Berteknologi Maju dan Ramah Lingkungan\" (dengan subtitle Indonesia)."
+      },
+      {
+       "h": "Hal. 66 — Kolom 11: cara membuang sampah di bengkel"
+      },
+      {
+       "p": "Di bengkel Jepang sampah dipisah rinci menurut hukum: oli, coolant, plastik, besi bekas, logam langka, ban, aki, sampah bakar, sampah tak terbakar, dan lainnya. Coolant mengandung zat beracun (etilen glikol); pernah terjadi ledakan pabrik karena oli dicampur bahan bakar."
+      },
+      {
+       "p": "Dengarkan petunjuk senior dan pembimbing. Jika tidak mengerti, katakan 分かりません dan minta: もういちど、せつめいおねがいします / 書いてください. Jangan menjawab 分かりました jika belum paham — salah membuang bisa menyebabkan kecelakaan besar."
+      },
+      {
+       "ul": [
+        "**分かりません** (わかりません · wakarimasen) — saya tidak mengerti",
+        "**もういちど、せつめいおねがいします** (もういちど、せつめいおねがいします · mouichido、setsumeionegaishimasu) — tolong jelaskan sekali lagi",
+        "**書いてください** (かいてください · kaitekudasai) — tolong tuliskan"
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 65"
+      },
+      {
+       "h": "ページ 66"
+      },
+      {
+       "ul": [
+        "**{分かりません|わかりません}**",
+        "**もういちど、せつめいおねがいします**",
+        "**{書いてください|かいてください}**"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 3 istilah Jepang dari buku JICA (hal. 65–66).",
+      "points": [
+       "**分かりません** = saya tidak mengerti",
+       "**もういちど、せつめいおねがいします** = tolong jelaskan sekali lagi",
+       "**書いてください** = tolong tuliskan"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを3こおぼえます。",
+      "points": [
+       "**{分かりません|わかりません}**",
+       "**もういちど、せつめいおねがいします**",
+       "**{書いてください|かいてください}**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,622 @@
+{
+ "schema": 1,
+ "bidang": "auto-maintenance",
+ "source": "JICA「みてまなぶ！自動車整備の日本語」(2023年12月30日第1版) https://www.jica.go.jp/activities/issues/transport/mechanic/health_safety_text/index.html",
+ "markup": "Teks JP memakai {kanji|furigana}; **tebal**.",
+ "bab": {
+  "id": "bab2",
+  "no": 2,
+  "title": {
+   "id": "Perkakas dan alat pemeriksaan",
+   "jp": "{自動車整備|じどうしゃせいび}に{使|つか}う{道具|どうぐ}"
+  },
+  "intro": {
+   "id": "Nama perkakas, alat ukur, alat uji, dan mesin bengkel beserta fungsinya.",
+   "jp": "{工具|こうぐ}・{測|はか}る{道具|どうぐ}・{検査装置|けんさそうち}の{名前|なまえ}と{使|つか}いかたをおぼえます。"
+  },
+  "pages": [
+   26,
+   37
+  ],
+  "subs": [
+   {
+    "id": "b2s1",
+    "no": 1,
+    "title": {
+     "id": "Perkakas dasar",
+     "jp": "{工具|こうぐ}"
+    },
+    "pages": [
+     26,
+     30
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 26 — Perkakas dasar (1)"
+      },
+      {
+       "ul": [
+        "① **スパナ** (すぱな · supana) — kunci pas",
+        "② **モンキーレンチ** (もんきーれんち · monkiirenchi) — kunci inggris; alias/keterangan: モンキー（正式にはモンキ・レンチ）",
+        "③ **眼鏡レンチ** (めがねれんち · meganerenchi) — kunci ring; alias/keterangan: めがね（正式にはオフセット・レンチ）",
+        "④ **スピンナ・ハンドル** (すぴんなはんどる · supinna handoru) — tangkai putar socket; alias/keterangan: スピンナ、ヒンジハンドル",
+        "⑤ **ソケットレンチ** (そけっとれんち · sokettorenchi) — kunci socket; alias/keterangan: ソケット",
+        "⑥ **ディープ・ソケット** (でぃーぷそけっと · deぃぃpu soketto) — socket panjang (deep socket); alias/keterangan: ディープ",
+        "⑦ **ラチェット・ハンドル** (らちぇっとはんどる · rachiぇtto handoru) — tangkai ratchet; alias/keterangan: ラチェット",
+        "⑧ **Tレンチ** (てぃーれんち · teぃぃrenchi) — kunci T (slide handle); alias/keterangan: Tレン、T型スライドハンドル",
+        "⑨ **エア・インパクト・レンチ** (えあいんぱくとれんち · ea inpakuto renchi) — kunci impak angin; alias/keterangan: インパクト"
+       ]
+      },
+      {
+       "h": "Hal. 27 — Perkakas dasar (2)"
+      },
+      {
+       "ul": [
+        "⑩ **電動インパクト・レンチ** (でんどういんぱくとれんち · dendouinpakuto renchi) — kunci impak listrik; alias/keterangan: 電パク",
+        "⑪ **六角レンチ** (ろっかくれんち · rokkakurenchi) — kunci L (heksagon); alias/keterangan: 六角棒スパナ、ヘキサゴン・レンチ",
+        "⑫ **パイプレンチ** (ぱいぷれんち · paipurenchi) — kunci pipa; alias/keterangan: パイレン",
+        "⑬ **プラス・ドライバ** (ぷらすどらいば · purasu doraiba) — obeng plus",
+        "⑭ **マイナス・ドライバ** (まいなすどらいば · mainasu doraiba) — obeng minus",
+        "⑮ **普通型ドライバ** (ふつうがたどらいば · futsuugatadoraiba) — obeng biasa. Keterangan: Poros hanya sampai tengah gagang; tidak boleh dipukul.",
+        "⑯ **貫通型ドライバ** (かんつうがたどらいば · kantsuugatadoraiba) — obeng tembus. Keterangan: Poros menembus gagang; lebih kuat dan boleh dipukul.",
+        "⑰ **スタッビ・ドライバ** (すたっびどらいば · sutabbi doraiba) — obeng pendek. Keterangan: Gagang pendek; dipakai di tempat sempit.",
+        "⑱ **ショック・ドライバ** (しょっくどらいば · shokku doraiba) — obeng kejut. Keterangan: Dipukul untuk melonggarkan sekrup yang terpasang kuat."
+       ]
+      },
+      {
+       "h": "Hal. 28 — Perkakas dasar (3): palu dan tang"
+      },
+      {
+       "ul": [
+        "⑲ **ハンマ** (はんま · hanma) — palu; alias/keterangan: 片手ハンマ",
+        "⑳ **木ハンマ** (きはんま · kihanma) — palu kayu; alias/keterangan: モクハン",
+        "21. **ゴムハンマ** (ごむはんま · gomuhanma) — palu karet; alias/keterangan: ゴムハン",
+        "22. **銅ハンマ** (どうはんま · douhanma) — palu tembaga; alias/keterangan: ドウハン",
+        "23. **プラスチック・ハンマ** (ぷらすちっくはんま · purasuchikku hanma) — palu plastik; alias/keterangan: プラハン",
+        "24. **テスト・ハンマ** (てすとはんま · tesuto hanma) — palu uji. Keterangan: Dipakai mengecek kekendoran baut dan mur.",
+        "25. **プライヤ** (ぷらいや · puraiya) — tang",
+        "26. **コンビネーション・プライヤ** (こんびねーしょんぷらいや · konbineeshon puraiya) — tang kombinasi. Keterangan: Bukaan rahang bisa dua tingkat dengan mengganti lubang titik tumpu.",
+        "27. **ペンチ** (ぺんち · penchi) — tang potong. Keterangan: Dipakai memotong kawat tembaga/besi."
+       ]
+      },
+      {
+       "h": "Hal. 29 — Perkakas dasar (4)"
+      },
+      {
+       "ul": [
+        "28. **ラジオ・ペンチ** (らじおぺんち · rajio penchi) — tang lancip. Keterangan: Ujung rahang sangat ramping, ada mata potong di sisi; dipakai di tempat sempit.",
+        "29. **ニッパ** (にっぱ · nippa) — tang pemotong (nipper). Keterangan: Dipakai memotong kawat tipis dan mengupas kabel.",
+        "30. **スナップ・リング・プライヤ** (すなっぷりんぐぷらいや · sunappu ringu puraiya) — tang cincin snap",
+        "31. **ウォーターポンプ・プライヤ** (うぉーたーぽんぷぷらいや · uぉぉtaaponpu puraiya) — tang pompa air",
+        "32. **スライド・ハンマ** (すらいどはんま · suraido hanma) — palu geser (slide hammer)",
+        "33. **たがね** (たがね · tagane) — pahat besi",
+        "34. **油圧プレス** (ゆあつぷれす · yuatsupuresu) — pres hidrolik. Keterangan: Dipakai memasang/melepas bearing dan bushing.",
+        "35. **バイス** (ばいす · baisu) — ragum; alias/keterangan: 万力"
+       ]
+      },
+      {
+       "h": "Hal. 30 — Perkakas dasar (5): kikir, bor, tap"
+      },
+      {
+       "ul": [
+        "36. **やすり** (やすり · yasuri) — kikir. Keterangan: Ada berbagai bentuk: datar, setengah bulat, bulat, persegi, segitiga.",
+        "37. **弓のこ** (ゆみのこ · yuminoko) — gergaji busur",
+        "38. **リーマ** (りーま · riima) — reamer. Keterangan: Dipakai menghaluskan lubang hasil bor (finishing bagian dalam).",
+        "39. **ベンチ・グラインダ** (べんちぐらいんだ · benchi gurainda) — gerinda duduk",
+        "40. **ドリル** (どりる · doriru) — bor. Keterangan: Dipasang pada bor listrik/bor meja untuk melubangi logam.",
+        "41. **タップ** (たっぷ · tappu) — tap. Keterangan: Dipakai membuat ulir dalam.",
+        "42. **タップ・レンチ** (たっぷれんち · tappu renchi) — tangkai tap. Keterangan: Dipakai memutar tap."
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 26"
+      },
+      {
+       "ul": [
+        "① **スパナ**",
+        "② **モンキーレンチ** (モンキー（正式にはモンキ・レンチ）)",
+        "③ **{眼鏡レンチ|めがねれんち}** (めがね（正式にはオフセット・レンチ）)",
+        "④ **スピンナ・ハンドル** (スピンナ、ヒンジハンドル)",
+        "⑤ **ソケットレンチ** (ソケット)",
+        "⑥ **ディープ・ソケット** (ディープ)",
+        "⑦ **ラチェット・ハンドル** (ラチェット)",
+        "⑧ **Tレンチ** (Tレン、T型スライドハンドル)",
+        "⑨ **エア・インパクト・レンチ** (インパクト)"
+       ]
+      },
+      {
+       "h": "ページ 27"
+      },
+      {
+       "ul": [
+        "⑩ **{電動インパクト・レンチ|でんどういんぱくとれんち}** (電パク)",
+        "⑪ **{六角レンチ|ろっかくれんち}** (六角棒スパナ、ヘキサゴン・レンチ)",
+        "⑫ **パイプレンチ** (パイレン)",
+        "⑬ **プラス・ドライバ**",
+        "⑭ **マイナス・ドライバ**",
+        "⑮ **{普通型ドライバ|ふつうがたどらいば}**：軸が柄の途中まで入っている。たたいて使えない。",
+        "⑯ **{貫通型ドライバ|かんつうがたどらいば}**：軸が柄の中を通っている。より強い。たたいて使える。",
+        "⑰ **スタッビ・ドライバ**：柄が短い。せまいところで使える。",
+        "⑱ **ショック・ドライバ**：強く締められたねじなどをたたきながらゆるめるときに使う。"
+       ]
+      },
+      {
+       "h": "ページ 28"
+      },
+      {
+       "ul": [
+        "⑲ **ハンマ** (片手ハンマ)",
+        "⑳ **{木ハンマ|きはんま}** (モクハン)",
+        "21. **ゴムハンマ** (ゴムハン)",
+        "22. **{銅ハンマ|どうはんま}** (ドウハン)",
+        "23. **プラスチック・ハンマ** (プラハン)",
+        "24. **テスト・ハンマ**：点検ハンマ：ボルト・ナットのゆるみをたしかめます。",
+        "25. **プライヤ**",
+        "26. **コンビネーション・プライヤ**：支点の穴をかえることによって、口の開きを大きくと小さくの２つにかえることができます。",
+        "27. **ペンチ**：カッティング・プライヤ：銅線や鉄線を切るときに使います。"
+       ]
+      },
+      {
+       "h": "ページ 29"
+      },
+      {
+       "ul": [
+        "28. **ラジオ・ペンチ**：ラジペン：口の先がとても細く、口の側面に刃があります。せまいところで使います。",
+        "29. **ニッパ**：刃がななめで先がとがっている。細い針金を切るときや電線の膜をむくときに使います。",
+        "30. **スナップ・リング・プライヤ**",
+        "31. **ウォーターポンプ・プライヤ**",
+        "32. **スライド・ハンマ**",
+        "33. **たがね**",
+        "34. **{油圧プレス|ゆあつぷれす}**：プレス：ベアリング、ブッシュなどをつけたり、とったりするときに使います。",
+        "35. **バイス** (万力)"
+       ]
+      },
+      {
+       "h": "ページ 30"
+      },
+      {
+       "ul": [
+        "36. **やすり**：平、半丸、丸、角、三角などいろいろなかたちがあります。",
+        "37. **{弓のこ|ゆみのこ}**",
+        "38. **リーマ**：ドリルであけた穴を仕上げるときに使います。内面仕上げで使います。",
+        "39. **ベンチ・グラインダ**",
+        "40. **ドリル**：電気ドリルや卓上ボール盤にとりつけ、金属に穴をあけます。",
+        "41. **タップ**：めねじをたてるときに使います。",
+        "42. **タップ・レンチ**：タップをまわすときに使います。"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 42 istilah Jepang dari buku JICA (hal. 26–30).",
+      "points": [
+       "**スパナ** = kunci pas",
+       "**モンキーレンチ** = kunci inggris",
+       "**眼鏡レンチ** = kunci ring",
+       "**スピンナ・ハンドル** = tangkai putar socket",
+       "**ソケットレンチ** = kunci socket"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを42こおぼえます。",
+      "points": [
+       "**スパナ**",
+       "**モンキーレンチ**",
+       "**{眼鏡レンチ|めがねれんち}**",
+       "**スピンナ・ハンドル**",
+       "**ソケットレンチ**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2s2",
+    "no": 2,
+    "title": {
+     "id": "Alat ukur",
+     "jp": "{測|はか}る{道具|どうぐ}"
+    },
+    "pages": [
+     31,
+     31
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 31 — Alat ukur"
+      },
+      {
+       "ul": [
+        "43. **ダイス** (だいす · daisu) — dies. Keterangan: Dipakai membuat ulir luar.",
+        "44. **スケール** (すけーる · sukeeru) — penggaris; alias/keterangan: ものさし",
+        "45. **ノギス** (のぎす · nogisu) — jangka sorong; alias/keterangan: デジタル型とダイヤル型",
+        "46. **マイクロメータ** (まいくろめーた · maikuromeeta) — mikrometer. Keterangan: Dipakai mengukur diameter luar piston dan sebagainya.",
+        "47. **ダイヤル・ゲージ** (だいやるげーじ · daiyaru geeji) — dial gauge. Keterangan: Mengukur olengan flywheel, poros, dan bengkoknya poros engkol.",
+        "48. **シックネス・ゲージ** (しっくねすげーじ · shikkunesu geeji) — feeler gauge (pengukur celah). Keterangan: Mengukur celah antar benda, misalnya celah katup."
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 31"
+      },
+      {
+       "ul": [
+        "43. **ダイス**：おねじをたてるときに使います。",
+        "44. **スケール** (ものさし)",
+        "45. **ノギス** (デジタル型とダイヤル型)",
+        "46. **マイクロメータ**：ピストンの外径などをはかるときに使います。",
+        "47. **ダイヤル・ゲージ**：フライホイールの面揺れ、シャフトの振れ、クランクシャフトの曲がりをはかるときに使います。",
+        "48. **シックネス・ゲージ**：ものとものの間（すきま）をはかる。バルブ・クリアランスの測定で使います。"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 6 istilah Jepang dari buku JICA (hal. 31–31).",
+      "points": [
+       "**ダイス** = dies",
+       "**スケール** = penggaris",
+       "**ノギス** = jangka sorong",
+       "**マイクロメータ** = mikrometer",
+       "**ダイヤル・ゲージ** = dial gauge"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを6こおぼえます。",
+      "points": [
+       "**ダイス**",
+       "**スケール**",
+       "**ノギス**",
+       "**マイクロメータ**",
+       "**ダイヤル・ゲージ**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2s3",
+    "no": 3,
+    "title": {
+     "id": "Alat pemeriksaan mesin, ban, aki",
+     "jp": "{点検|てんけん}に{使|つか}う{道具|どうぐ}"
+    },
+    "pages": [
+     32,
+     33
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 32 — Alat pemeriksaan mesin"
+      },
+      {
+       "ul": [
+        "① **コンプレッション・ゲージ** (こんぷれっしょんげーじ · konpuresshon geeji) — pengukur kompresi. Keterangan: Mengukur tekanan kompresi mesin.",
+        "② **サーキット・テスタ** (さーきっとてすた · saakitto tesuta) — multimeter. Keterangan: Mengukur arus, tegangan, dan hambatan.",
+        "③ **バッテリ・クーラント・テスタ** (ばってりくーらんとてすた · batteri kuuranto tesuta) — penguji aki dan coolant. Keterangan: Mengukur berat jenis, konsentrasi, dan titik beku cairan aki/coolant.",
+        "④ **バッテリ・テスタ** (ばってりてすた · batteri tesuta) — penguji aki. Keterangan: Mengukur tegangan dan penurunan kondisi aki.",
+        "⑤ **COHCテスタ** (しーおーえいちしーてすた · shiioo eichishiitesuta) — penguji gas buang CO/HC. Keterangan: Mengukur CO dan HC dalam gas buang.",
+        "⑥ **オパシ・メータ** (おぱしめーた · opashi meeta) — opasimeter. Keterangan: Mengukur partikel (PM) pada gas buang; hanya mobil diesel.",
+        "⑦ **スキャンツール** (すきゃんつーる · sukyantsuuru) — alat scan. Keterangan: Mendiagnosis kerusakan mobil (OBD)."
+       ]
+      },
+      {
+       "h": "Hal. 33 — Alat ban, aki, dan pembersihan"
+      },
+      {
+       "ul": [
+        "① **エア・ゲージ** (えあげーじ · ea geeji) — pengukur tekanan udara ban",
+        "② **デプス・ゲージ** (でぷすげーじ · depusu geeji) — pengukur kedalaman alur ban",
+        "③ **バッテリー充電器** (ばってりーじゅうでんき · batteriijuudenki) — pengisi aki (charger)",
+        "④ **エア・ガン** (えあがん · ea gan) — pistol udara",
+        "⑤ **洗車機** (せんしゃき · senshaki) — mesin cuci mobil; alias/keterangan: 洗浄機"
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 32"
+      },
+      {
+       "ul": [
+        "① **コンプレッション・ゲージ**：エンジンの圧縮圧力をはかるときに使います。",
+        "② **サーキット・テスタ**：電流や電圧、抵抗をはかるときに使います。",
+        "③ **バッテリ・クーラント・テスタ**：バッテリ液やクーラントの比重や濃度、凍結温度をはかります。",
+        "④ **バッテリ・テスタ**：バッテリの電圧や劣化をはかります。",
+        "⑤ **COHCテスタ**：一酸化炭素・炭化水素測定器：排気ガスの中のCOやHCをはかります。",
+        "⑥ **オパシ・メータ**：排気ガスの中のPM（粒子状物質）をはかり、空気の汚染度をはかります。ディーゼル車のみ。",
+        "⑦ **スキャンツール**：OBDテスタ：車の故障を診断します。"
+       ]
+      },
+      {
+       "h": "ページ 33"
+      },
+      {
+       "ul": [
+        "① **エア・ゲージ**",
+        "② **デプス・ゲージ**",
+        "③ **{バッテリー充電器|ばってりーじゅうでんき}**",
+        "④ **エア・ガン**",
+        "⑤ **{洗車機|せんしゃき}** (洗浄機)"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 12 istilah Jepang dari buku JICA (hal. 32–33).",
+      "points": [
+       "**コンプレッション・ゲージ** = pengukur kompresi",
+       "**サーキット・テスタ** = multimeter",
+       "**バッテリ・クーラント・テスタ** = penguji aki dan coolant",
+       "**バッテリ・テスタ** = penguji aki",
+       "**COHCテスタ** = penguji gas buang CO/HC"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを12こおぼえます。",
+      "points": [
+       "**コンプレッション・ゲージ**",
+       "**サーキット・テスタ**",
+       "**バッテリ・クーラント・テスタ**",
+       "**バッテリ・テスタ**",
+       "**COHCテスタ**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2s4",
+    "no": 4,
+    "title": {
+     "id": "Alat pelumasan dan pengangkat",
+     "jp": "{給油|きゅうゆ}・{持|も}ち{上|あ}げる{道具|どうぐ}"
+    },
+    "pages": [
+     34,
+     34
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 34 — Alat pelumasan dan pengangkat"
+      },
+      {
+       "ul": [
+        "① **グリースガン** (ぐりーすがん · guriisugan) — pistol gemuk",
+        "② **ルブリケータ** (るぶりけーた · ruburikeeta) — lubricator (alat pelumas)",
+        "③ **ジャッキ** (じゃっき · jakki) — dongkrak; alias/keterangan: ガレージジャッキ",
+        "④ **リフト** (りふと · rifuto) — lift mobil",
+        "⑤ **チェーン・ブロック** (ちぇーんぶろっく · chiぇぇn burokku) — katrol rantai",
+        "⑥ **うま** (うま · uma) — jack stand (penyangga); alias/keterangan: リジット・ラック"
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 34"
+      },
+      {
+       "ul": [
+        "① **グリースガン**",
+        "② **ルブリケータ**",
+        "③ **ジャッキ** (ガレージジャッキ)",
+        "④ **リフト**",
+        "⑤ **チェーン・ブロック**",
+        "⑥ **うま** (リジット・ラック)"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 6 istilah Jepang dari buku JICA (hal. 34–34).",
+      "points": [
+       "**グリースガン** = pistol gemuk",
+       "**ルブリケータ** = lubricator (alat pelumas)",
+       "**ジャッキ** = dongkrak",
+       "**リフト** = lift mobil",
+       "**チェーン・ブロック** = katrol rantai"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを6こおぼえます。",
+      "points": [
+       "**グリースガン**",
+       "**ルブリケータ**",
+       "**ジャッキ**",
+       "**リフト**",
+       "**チェーン・ブロック**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2s5",
+    "no": 5,
+    "title": {
+     "id": "Alat uji kendaraan dan mesin bengkel",
+     "jp": "{検査用|けんさよう}{機械|きかい}"
+    },
+    "pages": [
+     35,
+     37
+    ],
+    "full": {
+     "id": [
+      {
+       "h": "Hal. 35 — Alat uji kendaraan (1)"
+      },
+      {
+       "ul": [
+        "① **ラジエータ・キャップ・テスタ** (らじえーたきゃっぷてすた · rajieeta kyappu tesuta) — penguji tutup radiator; alias/keterangan: 冷却系統の点検に使う工具",
+        "② **ブレーキ・スピード複合機** (ぶれーきすぴーどふくごうき · bureeki supiido fukugouki) — alat uji gabungan rem dan spidometer; alias/keterangan: ブレーキ・テスタとスピードメーター・テスタがいっしょになって検査できるもの",
+        "③ **サイドスリップ・ブレーキ・スピード複合試験機** (さいどすりっぷぶれーきすぴーどふくごうしけんき · saidosurippu bureeki supiido fukugoushikenki) — alat uji gabungan selip samping, rem, dan spidometer; alias/keterangan: サイドスリップ、ブレーキ、スピードメーターの3つがいっしょになったもの",
+        "④ **ブレーキ・テスタ** (ぶれーきてすた · bureeki tesuta) — alat uji rem. Keterangan: Mengukur daya kerja rem.",
+        "⑤ **スピードメーター・テスタ** (すぴーどめーたーてすた · supiidomeetaa tesuta) — alat uji spidometer. Keterangan: Mengukur kesalahan penunjukan spidometer.",
+        "⑥ **サイドスリップ・テスタ** (さいどすりっぷてすた · saidosurippu tesuta) — alat uji selip samping. Keterangan: Mengukur besar selip samping ban."
+       ]
+      },
+      {
+       "h": "Hal. 36 — Alat uji kendaraan (2) dan alat bengkel"
+      },
+      {
+       "ul": [
+        "③ **騒音計** (そうおんけい · souonkei) — alat ukur kebisingan. Keterangan: Mengukur volume klakson dan tingkat kebisingan.",
+        "④ **ヘッドライト・テスタ** (へっどらいとてすた · heddoraito tesuta) — penguji lampu depan. Keterangan: Mengukur intensitas dan arah sinar utama lampu depan.",
+        "⑤ **ホイール・バランサ** (ほいーるばらんさ · hoiiru baransa) — alat balancing roda. Keterangan: Mengukur dan menyetel ketidakseimbangan roda.",
+        "⑥ **タイヤ・チェンジャ** (たいやちぇんじゃ · taiya chiぇnja) — mesin pasang-lepas ban. Keterangan: Memasang dan melepas ban dari pelek.",
+        "⑦ **ガス溶接器** (がすようせつき · gasuyousetsuki) — alat las gas. Keterangan: Mengelas, memotong, dan memproses logam dengan gas asetilen.",
+        "⑧ **アーク溶接機** (あーくようせつき · aakuyousetsuki) — mesin las busur (arc). Keterangan: Dipakai mengelas logam dengan busur listrik.",
+        "⑨ **半自動溶接機** (はんじどうようせつき · hanjidouyousetsuki) — mesin las semi-otomatis. Keterangan: Las busur dengan gas pelindung seperti CO2."
+       ]
+      },
+      {
+       "h": "Hal. 37 — Kolom 5–6: pelat nomor dan bahan bakar"
+      },
+      {
+       "p": "Kolom 5 (warna pelat nomor): hijau dengan huruf putih = kendaraan perusahaan/usaha; putih dengan huruf hijau = kendaraan pribadi; kuning dengan huruf hitam = kei car (mobil kecil) pribadi; hitam dengan huruf kuning = kei car untuk usaha."
+      },
+      {
+       "p": "Kolom 6 (jenis bahan bakar): merah = レギュラー (bensin reguler); kuning = ハイオク (bensin oktan tinggi); hijau = 軽油 (solar untuk mobil diesel). Jangan mengisi kei car/mobil bensin dengan solar — mesin bisa rusak!"
+      },
+      {
+       "ul": [
+        "**レギュラー** (れぎゅらー · regyuraa) — bensin reguler; alias/keterangan: 赤色",
+        "**ハイオク** (はいおく · haioku) — bensin oktan tinggi; alias/keterangan: 黄色",
+        "**軽油** (けいゆ · keiyu) — solar (diesel); alias/keterangan: 緑色。ディーゼル車の燃料"
+       ]
+      }
+     ],
+     "jp": [
+      {
+       "h": "ページ 35"
+      },
+      {
+       "ul": [
+        "① **ラジエータ・キャップ・テスタ** (冷却系統の点検に使う工具)",
+        "② **{ブレーキ・スピード複合機|ぶれーきすぴーどふくごうき}** (ブレーキ・テスタとスピードメーター・テスタがいっしょになって検査できるもの)",
+        "③ **{サイドスリップ・ブレーキ・スピード複合試験機|さいどすりっぷぶれーきすぴーどふくごうしけんき}** (サイドスリップ、ブレーキ、スピードメーターの3つがいっしょになったもの)",
+        "④ **ブレーキ・テスタ**：ブレーキのききかたをはかるときに使います。",
+        "⑤ **スピードメーター・テスタ**：スピードメーターの指示誤差をはかるときに使います。",
+        "⑥ **サイドスリップ・テスタ**：タイヤの横滑りの量をはかるときに使います。"
+       ]
+      },
+      {
+       "h": "ページ 36"
+      },
+      {
+       "ul": [
+        "③ **{騒音計|そうおんけい}**：音量計：ホーン（警音器）の音量や騒音量をはかります。",
+        "④ **ヘッドライト・テスタ**：ヘッドランプの光度と主光軸の照射方向をはかります。",
+        "⑤ **ホイール・バランサ**：ホイールのアンバランスをはかる、調整するときに使います。",
+        "⑥ **タイヤ・チェンジャ**：ホイールへタイヤをつける、外すときに使います。",
+        "⑦ **{ガス溶接器|がすようせつき}**：アセチレン・ガスで金属を溶接する、切る、加工するときに使います。",
+        "⑧ **{アーク溶接機|あーくようせつき}**：アークによる金属の溶接などに使います。",
+        "⑨ **{半自動溶接機|はんじどうようせつき}**：不活性ガス電気溶接機：炭酸ガスなどの不活性ガスを使い、アークによる金属の溶接などに使います。"
+       ]
+      },
+      {
+       "h": "ページ 37"
+      },
+      {
+       "ul": [
+        "**レギュラー** (赤色)",
+        "**ハイオク** (黄色)",
+        "**{軽油|けいゆ}** (緑色。ディーゼル車の燃料)"
+       ]
+      }
+     ]
+    },
+    "summary": {
+     "id": {
+      "core": "Subbab ini memuat 16 istilah Jepang dari buku JICA (hal. 35–37).",
+      "points": [
+       "**ラジエータ・キャップ・テスタ** = penguji tutup radiator",
+       "**ブレーキ・スピード複合機** = alat uji gabungan rem dan spidometer",
+       "**サイドスリップ・ブレーキ・スピード複合試験機** = alat uji gabungan selip samping, rem, dan spidometer",
+       "**ブレーキ・テスタ** = alat uji rem",
+       "**スピードメーター・テスタ** = alat uji spidometer"
+      ],
+      "avoid": [
+       "Nama bisa berbeda di tiap bengkel/daerah — tanyakan juga ke rekan kerja."
+      ],
+      "exam": [
+       "Menyebutkan nama Jepang dari bagian/alat/pekerjaan yang ditunjukkan."
+      ]
+     },
+     "jp": {
+      "core": "このところのことばを16こおぼえます。",
+      "points": [
+       "**ラジエータ・キャップ・テスタ**",
+       "**{ブレーキ・スピード複合機|ぶれーきすぴーどふくごうき}**",
+       "**{サイドスリップ・ブレーキ・スピード複合試験機|さいどすりっぷぶれーきすぴーどふくごうしけんき}**",
+       "**ブレーキ・テスタ**",
+       "**スピードメーター・テスタ**"
+      ],
+      "avoid": [
+       "{工場|こうじょう}によって{言|い}い{方|かた}がちがうことがあります。"
+      ],
+      "exam": [
+       "{名前|なまえ}を{日本語|にほんご}で{言|い}います。"
+      ]
+     }
+    }
+   }
+  ]
+ }
+}

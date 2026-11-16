@@ -1,0 +1,8960 @@
+{
+ "bab": {
+  "bab1": [
+   {
+    "id": "bab1-q1",
+    "title": {
+     "id": "Latihan bab 1 (1)",
+     "jp": "{練習|れんしゅう}1"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Benar atau salah: “ハンドル artinya setir.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ハンドル (はんどる) = setir."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「C」?",
+       "jp": "「C」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "alat uji selip samping"
+       },
+       {
+        "id": "tutup kepala silinder"
+       },
+       {
+        "id": "C = dibersihkan (清掃した)"
+       },
+       {
+        "id": "jangka sorong"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "C (しー) = C = dibersihkan (清掃した)."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ホーシング artinya menyentuh.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ホーシング (ほーしんぐ) = rumah gardan."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「リア・ゲート」?",
+       "jp": "「リア・ゲート」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "kunci impak angin"
+       },
+       {
+        "id": "penguji tutup radiator"
+       },
+       {
+        "id": "pintu bagasi belakang"
+       },
+       {
+        "id": "mendinginkan"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "リア・ゲート (りあげーと) = pintu bagasi belakang."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ダッシュボード artinya lampu depan.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ダッシュボード (だっしゅぼーど) = dasbor."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “右ハンドル artinya setir kanan.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "右ハンドル (みぎはんどる) = setir kanan."
+      },
+      "mb": true
+     }
+    ]
+   },
+   {
+    "id": "bab1-q2",
+    "title": {
+     "id": "Latihan bab 1 (2)",
+     "jp": "{練習|れんしゅう}2"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Benar atau salah: “ウィンカー・レバー artinya tuas lampu sein.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ウィンカー・レバー (うぃんかーればー) = tuas lampu sein."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「オイル・フィルター」?",
+       "jp": "「オイル・フィルター」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "rem parkir"
+       },
+       {
+        "id": "spion tengah"
+       },
+       {
+        "id": "filter oli"
+       },
+       {
+        "id": "piston rem"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "オイル・フィルター (おいるふぃるたー) = filter oli."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「lampu kabut」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "ドア・ハンドル"
+       },
+       {
+        "id": "書く"
+       },
+       {
+        "id": "ピストン"
+       },
+       {
+        "id": "フォグ・ランプ"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "フォグ・ランプ (ふぉぐらんぷ) = lampu kabut."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “バス artinya bus.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "バス (ばす) = bus."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「スパーク・プラグ」?",
+       "jp": "「スパーク・プラグ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "solar (diesel)"
+       },
+       {
+        "id": "busi"
+       },
+       {
+        "id": "filter oli"
+       },
+       {
+        "id": "rangka bantu (subframe)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "スパーク・プラグ (すぱーくぷらぐ) = busi."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「フロント・バンパー」?",
+       "jp": "「フロント・バンパー」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "unit kontrol elektronik"
+       },
+       {
+        "id": "pengukur aliran udara"
+       },
+       {
+        "id": "bemper depan"
+       },
+       {
+        "id": "kursi anak"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "フロント・バンパー (ふろんとばんぱー) = bemper depan."
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab1-q3",
+    "title": {
+     "id": "Latihan bab 1 (3)",
+     "jp": "{練習|れんしゅう}3"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Apa arti 「遮熱板」?",
+       "jp": "「{遮熱板|しゃねつばん}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "jok"
+       },
+       {
+        "id": "konverter katalis"
+       },
+       {
+        "id": "mesin cuci mobil"
+       },
+       {
+        "id": "pelindung panas"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "遮熱板 (しゃねつばん) = pelindung panas."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “カーナビ artinya navigasi mobil.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "カーナビ (かーなび) = navigasi mobil."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “T artinya jack stand (penyangga).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "T (てぃー) = T = dikencangkan (締付けた)."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「パワー・ステアリング・ベルト」?",
+       "jp": "「パワー・ステアリング・ベルト」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "tang cincin snap"
+       },
+       {
+        "id": "sabuk power steering"
+       },
+       {
+        "id": "kompresor AC"
+       },
+       {
+        "id": "palu uji"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "パワー・ステアリング・ベルト (ぱわーすてありんぐべると) = sabuk power steering."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「senam radio」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "ラジオ体操"
+       },
+       {
+        "id": "おろす"
+       },
+       {
+        "id": "ディープ・ソケット"
+       },
+       {
+        "id": "シリンダーヘッドガスケット"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ラジオ体操 (らじおたいそう) = senam radio."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「konsol tengah」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "ディスクブレーキ"
+       },
+       {
+        "id": "空気圧"
+       },
+       {
+        "id": "一酸化炭素"
+       },
+       {
+        "id": "センター・コンソール"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "センター・コンソール (せんたーこんそーる) = konsol tengah."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b1s1-q",
+    "sub": "b1s1",
+    "title": {
+     "id": "Latihan: Di dalam mobil",
+     "jp": "{練習|れんしゅう}：{車|くるま}の{中|なか}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Apa arti 「エンジン・チェック・ランプ」?",
+       "jp": "「エンジン・チェック・ランプ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "manifold hisap (singkatan)"
+       },
+       {
+        "id": "lampu peringatan mesin"
+       },
+       {
+        "id": "peredam kejut"
+       },
+       {
+        "id": "tuas lampu sein"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "エンジン・チェック・ランプ (えんじんちぇっくらんぷ) = lampu peringatan mesin."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「後部座席」?",
+       "jp": "「{後部座席|こうぶざせき}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "power steering (singkatan)"
+       },
+       {
+        "id": "setir"
+       },
+       {
+        "id": "kursi penumpang belakang"
+       },
+       {
+        "id": "lampu mundur"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "後部座席 (こうぶざせき) = kursi penumpang belakang."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「カーナビ」?",
+       "jp": "「カーナビ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "knalpot"
+       },
+       {
+        "id": "rem parkir"
+       },
+       {
+        "id": "dasbor"
+       },
+       {
+        "id": "navigasi mobil"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "カーナビ (かーなび) = navigasi mobil."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “バッテリー・ウォーニング・ランプ artinya panel tengah.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "バッテリー・ウォーニング・ランプ (ばってりーうぉーにんぐらんぷ) = lampu peringatan aki."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ダッシュボード」?",
+       "jp": "「ダッシュボード」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "selang rem"
+       },
+       {
+        "id": "senam radio"
+       },
+       {
+        "id": "selang bawah radiator"
+       },
+       {
+        "id": "dasbor"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ダッシュボード (だっしゅぼーど) = dasbor."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “助手席 artinya kursi penumpang depan.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "助手席 (じょしゅせき) = kursi penumpang depan."
+      },
+      "mb": true
+     }
+    ]
+   },
+   {
+    "id": "b1s2-q",
+    "sub": "b1s2",
+    "title": {
+     "id": "Latihan: Luar mobil: depan",
+     "jp": "{練習|れんしゅう}：{車|くるま}の{外|そと}：フロント"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「lampu kabut」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "ディストリビュータのキャップ"
+       },
+       {
+        "id": "フォグ・ランプ"
+       },
+       {
+        "id": "左サイド・ミラー"
+       },
+       {
+        "id": "バッテリ"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "フォグ・ランプ (ふぉぐらんぷ) = lampu kabut."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「wiper」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "ファン・ベルト"
+       },
+       {
+        "id": "免許証"
+       },
+       {
+        "id": "ワイパー"
+       },
+       {
+        "id": "マスター・バック"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ワイパー (わいぱー) = wiper."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「フロント・バンパー」?",
+       "jp": "「フロント・バンパー」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "panel tengah"
+       },
+       {
+        "id": "tangki cadangan radiator"
+       },
+       {
+        "id": "bemper depan"
+       },
+       {
+        "id": "gril depan"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "フロント・バンパー (ふろんとばんぱー) = bemper depan."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ナンバー・プレート」?",
+       "jp": "「ナンバー・プレート」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "pelat nomor"
+       },
+       {
+        "id": "pelek"
+       },
+       {
+        "id": "lampu sein di spion pintu"
+       },
+       {
+        "id": "cairan aki"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ナンバー・プレート (なんばーぷれーと) = pelat nomor."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ボンネット artinya lampu rem.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ボンネット (ぼんねっと) = kap mesin."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「lampu depan」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "プロペラ・シャフト"
+       },
+       {
+        "id": "SRSエアバッグ・ウォーニング・ランプ"
+       },
+       {
+        "id": "前照灯"
+       },
+       {
+        "id": "下回り"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "前照灯 (ぜんしょうとう) = lampu depan."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b1s3-q",
+    "sub": "b1s3",
+    "title": {
+     "id": "Latihan: Luar mobil: samping",
+     "jp": "{練習|れんしゅう}：{車|くるま}の{外|そと}：サイド"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Benar atau salah: “フェンダー artinya spatbor.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "フェンダー (ふぇんだー) = spatbor."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “キー・シリンダー artinya lubang kunci.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "キー・シリンダー (きーしりんだー) = lubang kunci."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ドア・ミラー・ウィンカー」?",
+       "jp": "「ドア・ミラー・ウィンカー」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "transmisi"
+       },
+       {
+        "id": "peredam kejut"
+       },
+       {
+        "id": "diferensial (gardan)"
+       },
+       {
+        "id": "lampu sein di spion pintu"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ドア・ミラー・ウィンカー (どあみらーうぃんかー) = lampu sein di spion pintu."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「tiang depan (pilar A)」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "バス"
+       },
+       {
+        "id": "ブレーキ・ホイール・シリンダ"
+       },
+       {
+        "id": "インテーク・マニホールド"
+       },
+       {
+        "id": "フロント・ピラー"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "フロント・ピラー (ふろんとぴらー) = tiang depan (pilar A)."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “給油口 artinya manifold buang (singkatan).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "給油口 (きゅうゆこう) = lubang pengisian bahan bakar."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ドア・ハンドル artinya pegangan pintu.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ドア・ハンドル (どあはんどる) = pegangan pintu."
+      },
+      "mb": true
+     }
+    ]
+   },
+   {
+    "id": "b1s4-q",
+    "sub": "b1s4",
+    "title": {
+     "id": "Latihan: Luar mobil: belakang",
+     "jp": "{練習|れんしゅう}：{車|くるま}の{外|そと}：リア"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Apa arti 「インマニ」?",
+       "jp": "「インマニ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "manifold hisap (singkatan)"
+       },
+       {
+        "id": "tutup radiator"
+       },
+       {
+        "id": "diferensial (gardan)"
+       },
+       {
+        "id": "lampu peringatan pintu belum rapat"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "インマニ (いんまに) = manifold hisap (singkatan)."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “パワステ artinya master silinder rem.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "パワステ (ぱわすて) = power steering (singkatan)."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「atap」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "プロペラ・シャフト"
+       },
+       {
+        "id": "パワー・ステアリング・ベルト"
+       },
+       {
+        "id": "ルーフ"
+       },
+       {
+        "id": "バック・ミラー"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ルーフ (るーふ) = atap."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「リア・ゲート」?",
+       "jp": "「リア・ゲート」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "panel samping belakang"
+       },
+       {
+        "id": "gril depan"
+       },
+       {
+        "id": "tekanan udara ban"
+       },
+       {
+        "id": "pintu bagasi belakang"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "リア・ゲート (りあげーと) = pintu bagasi belakang."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「setir kiri」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "エンジンECU"
+       },
+       {
+        "id": "L"
+       },
+       {
+        "id": "左ハンドル"
+       },
+       {
+        "id": "触媒"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "左ハンドル (ひだりはんどる) = setir kiri."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “後退灯 artinya lampu mundur.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "後退灯 (こうたいとう) = lampu mundur."
+      },
+      "mb": true
+     }
+    ]
+   },
+   {
+    "id": "b1s5-q",
+    "sub": "b1s5",
+    "title": {
+     "id": "Latihan: Di dalam ruang mesin",
+     "jp": "{練習|れんしゅう}：エンジンルームの{中|なか}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Apa arti 「クーラントのリザーバ・タンク」?",
+       "jp": "「クーラントのリザーバ・タンク」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "tangki cadangan coolant"
+       },
+       {
+        "id": "batang celup oli (dipstick)"
+       },
+       {
+        "id": "pegas keong"
+       },
+       {
+        "id": "lampu kabut"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "クーラントのリザーバ・タンク (くーらんとのりざーばたんく) = tangki cadangan coolant."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「エンジンECU」?",
+       "jp": "「エンジンECU」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "unit kontrol mesin (ECU)"
+       },
+       {
+        "id": "lampu mundur"
+       },
+       {
+        "id": "pemeriksaan berkala"
+       },
+       {
+        "id": "kantong udara (airbag)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "エンジンECU (えんじんいーしーゆー) = unit kontrol mesin (ECU)."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「エンジン・オイル」?",
+       "jp": "「エンジン・オイル」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "oli mesin"
+       },
+       {
+        "id": "kunci mobil"
+       },
+       {
+        "id": "selang atas radiator"
+       },
+       {
+        "id": "lampu pelat nomor"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "エンジン・オイル (えんじんおいる) = oli mesin."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「エンジン・マウント」?",
+       "jp": "「エンジン・マウント」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "dudukan mesin"
+       },
+       {
+        "id": "lampu mundur"
+       },
+       {
+        "id": "kait sabuk pengaman"
+       },
+       {
+        "id": "bagian terminal aki"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "エンジン・マウント (えんじんまうんと) = dudukan mesin."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ブレーキ・マスタ・シリンダ artinya master silinder rem.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ブレーキ・マスタ・シリンダ (ぶれーきますたしりんだ) = master silinder rem."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “インテーク・マニホールド artinya mesin.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "インテーク・マニホールド (いんてーくまにほーるど) = manifold hisap."
+      },
+      "mb": true
+     }
+    ]
+   },
+   {
+    "id": "b1s6-q",
+    "sub": "b1s6",
+    "title": {
+     "id": "Latihan: Kaki-kaki",
+     "jp": "{練習|れんしゅう}：{足回|あしまわ}り"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Benar atau salah: “エアー・バルブ artinya alternator (dinamo pengisi).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "エアー・バルブ (えあーばるぶ) = pentil ban."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ホイール・ナット」?",
+       "jp": "「ホイール・ナット」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "minyak rem"
+       },
+       {
+        "id": "mur roda"
+       },
+       {
+        "id": "tutup radiator"
+       },
+       {
+        "id": "lampu peringatan pintu belum rapat"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ホイール・ナット (ほいーるなっと) = mur roda."
+      }
+     },
+     {
+      "q": {
+       "id": "Cara baca 「空気圧」 yang benar adalah…"
+      },
+      "opts": [
+       {
+        "id": "うんてんせき"
+       },
+       {
+        "id": "くうきあつ"
+       },
+       {
+        "id": "れいきゃくふぁん"
+       },
+       {
+        "id": "みぎさいどみらー"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "空気圧 (くうきあつ) = tekanan udara ban."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ブレーキ・パッド artinya lampu posisi (lebar kendaraan).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ブレーキ・パッド (ぶれーきぱっど) = kampas rem cakram."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ブレーキ・ドラム」?",
+       "jp": "「ブレーキ・ドラム」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "tromol rem"
+       },
+       {
+        "id": "kipas pendingin"
+       },
+       {
+        "id": "lubang kunci"
+       },
+       {
+        "id": "sepatu rem (kampas rem tromol)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ブレーキ・ドラム (ぶれーきどらむ) = tromol rem."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ブレーキ・ディスク」?",
+       "jp": "「ブレーキ・ディスク」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "cakram rem"
+       },
+       {
+        "id": "lampu posisi (lebar kendaraan)"
+       },
+       {
+        "id": "pelek"
+       },
+       {
+        "id": "minyak rem"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ブレーキ・ディスク (ぶれーきでぃすく) = cakram rem."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b1s7-q",
+    "sub": "b1s7",
+    "title": {
+     "id": "Latihan: Bagian bawah mobil",
+     "jp": "{練習|れんしゅう}：{下回|したまわ}り"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Apa arti 「ナックル」?",
+       "jp": "「ナックル」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "saklar lampu"
+       },
+       {
+        "id": "lampu rem"
+       },
+       {
+        "id": "lubang pengisian bahan bakar"
+       },
+       {
+        "id": "knuckle (penyangga roda)"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ナックル (なっくる) = knuckle (penyangga roda)."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “オイル・フィルター artinya dasbor.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "オイル・フィルター (おいるふぃるたー) = filter oli."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「触媒」?",
+       "jp": "「{触媒|しょくばい}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "pegas keong"
+       },
+       {
+        "id": "tie rod (batang kemudi)"
+       },
+       {
+        "id": "katalis (converter gas buang)"
+       },
+       {
+        "id": "lampu peringatan aki"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "触媒 (しょくばい) = katalis (converter gas buang)."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「lengan bawah」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "免許証"
+       },
+       {
+        "id": "ロア・アーム"
+       },
+       {
+        "id": "リア・ガラス"
+       },
+       {
+        "id": "ウォッシャー・スイッチ"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ロア・アーム (ろああーむ) = lengan bawah."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ホーシング」?",
+       "jp": "「ホーシング」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "konsol tengah"
+       },
+       {
+        "id": "rumah gardan"
+       },
+       {
+        "id": "lubang hembusan AC"
+       },
+       {
+        "id": "rangka bantu (subframe)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ホーシング (ほーしんぐ) = rumah gardan."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「O2センサー」?",
+       "jp": "「O2センサー」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "sensor oksigen (O2)"
+       },
+       {
+        "id": "senam radio"
+       },
+       {
+        "id": "power steering (singkatan)"
+       },
+       {
+        "id": "master silinder rem"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "O2センサー (おーつーせんさー) = sensor oksigen (O2)."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b1s8-q",
+    "sub": "b1s8",
+    "title": {
+     "id": "Latihan: Jenis kendaraan",
+     "jp": "{練習|れんしゅう}：{車種|しゃしゅ}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Benar atau salah: “車検 artinya uji kendaraan (shaken).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "車検 (しゃけん) = uji kendaraan (shaken)."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “免許証 artinya baut pembuang oli.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "免許証 (めんきょしょう) = surat izin mengemudi (SIM)."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ステーションワゴン」?",
+       "jp": "「ステーションワゴン」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "transmisi"
+       },
+       {
+        "id": "pemeriksaan berkala"
+       },
+       {
+        "id": "station wagon"
+       },
+       {
+        "id": "sensor oksigen (O2)"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ステーションワゴン (すてーしょんわごん) = station wagon."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ワンボックス artinya navigasi mobil.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ワンボックス (わんぼっくす) = mobil satu boks (van)."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「bus」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "エンジン・オイル"
+       },
+       {
+        "id": "下回り"
+       },
+       {
+        "id": "バス"
+       },
+       {
+        "id": "シフト・レバー"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "バス (ばす) = bus."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「truk」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "トラック"
+       },
+       {
+        "id": "ワンボックス"
+       },
+       {
+        "id": "ラジオ体操"
+       },
+       {
+        "id": "ブレーキ・シュー"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "トラック (とらっく) = truk."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b1s9-q",
+    "sub": "b1s9",
+    "title": {
+     "id": "Latihan: Istilah lain di bengkel",
+     "jp": "{練習|れんしゅう}：そのほかのことば"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Benar atau salah: “チャイルドシート artinya tutup pengisian oli.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "チャイルドシート (ちゃいるどしーと) = kursi anak."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Cara baca 「朝礼」 yang benar adalah…"
+      },
+      "opts": [
+       {
+        "id": "しょくばい"
+       },
+       {
+        "id": "ちょうれい"
+       },
+       {
+        "id": "めんきょしょう"
+       },
+       {
+        "id": "こうぶざせき"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "朝礼 (ちょうれい) = apel pagi."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “L artinya lampu peringatan aki.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "L (える) = L = diberi pelumas/cairan ditambah (給油)."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「pemeriksaan berkala」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "ヘッド・カバー"
+       },
+       {
+        "id": "ウィンド・ウォッシャ液のリザーバ・タンク"
+       },
+       {
+        "id": "定期点検"
+       },
+       {
+        "id": "ハンドル"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "定期点検 (ていきてんけん) = pemeriksaan berkala."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「C」?",
+       "jp": "「C」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "setir kanan"
+       },
+       {
+        "id": "C = dibersihkan (清掃した)"
+       },
+       {
+        "id": "klakson"
+       },
+       {
+        "id": "tangki cairan penyemprot kaca"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "C (しー) = C = dibersihkan (清掃した)."
+      }
+     },
+     {
+      "q": {
+       "id": "Cara baca 「定期点検整備記録簿」 yang benar adalah…"
+      },
+      "opts": [
+       {
+        "id": "ばってりえき"
+       },
+       {
+        "id": "しゃはばとう"
+       },
+       {
+        "id": "ていきてんけんせいびきろくぼ"
+       },
+       {
+        "id": "こうたいとう"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "定期点検整備記録簿 (ていきてんけんせいびきろくぼ) = buku catatan pemeriksaan berkala."
+      }
+     }
+    ]
+   }
+  ],
+  "bab2": [
+   {
+    "id": "bab2-q1",
+    "title": {
+     "id": "Latihan bab 2 (1)",
+     "jp": "{練習|れんしゅう}1"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「penggaris」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "スケール"
+       },
+       {
+        "id": "さわる"
+       },
+       {
+        "id": "ラジエーター"
+       },
+       {
+        "id": "ピニオン"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "スケール (すけーる) = penggaris."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “グリースガン artinya tangki cadangan radiator.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "グリースガン (ぐりーすがん) = pistol gemuk."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ペンチ」?",
+       "jp": "「ペンチ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "lampu sein"
+       },
+       {
+        "id": "tang potong"
+       },
+       {
+        "id": "kikir"
+       },
+       {
+        "id": "palu plastik"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ペンチ (ぺんち) = tang potong."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “スパナ artinya kunci pas.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "スパナ (すぱな) = kunci pas."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ダイヤル・ゲージ artinya dial gauge.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ダイヤル・ゲージ (だいやるげーじ) = dial gauge."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「バイス」?",
+       "jp": "「バイス」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "palu uji"
+       },
+       {
+        "id": "tanda pengemudi lansia"
+       },
+       {
+        "id": "ragum"
+       },
+       {
+        "id": "panel instrumen (meteran)"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "バイス (ばいす) = ragum."
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab2-q2",
+    "title": {
+     "id": "Latihan bab 2 (2)",
+     "jp": "{練習|れんしゅう}2"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Cara baca 「アーク溶接機」 yang benar adalah…"
+      },
+      "opts": [
+       {
+        "id": "ていきてんけんせいびきろくぼ"
+       },
+       {
+        "id": "こうぶざせき"
+       },
+       {
+        "id": "もどす"
+       },
+       {
+        "id": "あーくようせつき"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "アーク溶接機 (あーくようせつき) = mesin las busur (arc)."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “パイプレンチ artinya kunci pipa.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "パイプレンチ (ぱいぷれんち) = kunci pipa."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「電動インパクト・レンチ」?",
+       "jp": "「{電動インパクト・レンチ|でんどういんぱくとれんち}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "tangki cadangan"
+       },
+       {
+        "id": "menyetel"
+       },
+       {
+        "id": "kunci impak listrik"
+       },
+       {
+        "id": "transmisi otomatis"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "電動インパクト・レンチ (でんどういんぱくとれんち) = kunci impak listrik."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「レギュラー」?",
+       "jp": "「レギュラー」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "menghentikan, mematikan"
+       },
+       {
+        "id": "bensin reguler"
+       },
+       {
+        "id": "pegangan pintu"
+       },
+       {
+        "id": "koil pengapian"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "レギュラー (れぎゅらー) = bensin reguler."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「リフト」?",
+       "jp": "「リフト」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "kikir"
+       },
+       {
+        "id": "lift mobil"
+       },
+       {
+        "id": "penguji aki dan coolant"
+       },
+       {
+        "id": "menghidupkan mesin"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "リフト (りふと) = lift mobil."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “マイナス・ドライバ artinya obeng minus.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "マイナス・ドライバ (まいなすどらいば) = obeng minus."
+      },
+      "mb": true
+     }
+    ]
+   },
+   {
+    "id": "bab2-q3",
+    "title": {
+     "id": "Latihan bab 2 (3)",
+     "jp": "{練習|れんしゅう}3"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Benar atau salah: “ハイオク artinya bensin oktan tinggi.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ハイオク (はいおく) = bensin oktan tinggi."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ペンチ」?",
+       "jp": "「ペンチ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "penggerak empat roda"
+       },
+       {
+        "id": "spion samping kiri"
+       },
+       {
+        "id": "tang potong"
+       },
+       {
+        "id": "pompa oli"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ペンチ (ぺんち) = tang potong."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “バッテリ・クーラント・テスタ artinya penguji aki dan coolant.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "バッテリ・クーラント・テスタ (ばってりくーらんとてすた) = penguji aki dan coolant."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ノギス」?",
+       "jp": "「ノギス」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "obeng pendek"
+       },
+       {
+        "id": "pelek"
+       },
+       {
+        "id": "bodi monokok"
+       },
+       {
+        "id": "jangka sorong"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ノギス (のぎす) = jangka sorong."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「mikrometer」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "タイヤ"
+       },
+       {
+        "id": "ウォッシャー・スイッチ"
+       },
+       {
+        "id": "オルタネーター"
+       },
+       {
+        "id": "マイクロメータ"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "マイクロメータ (まいくろめーた) = mikrometer."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ルブリケータ artinya lubricator (alat pelumas).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ルブリケータ (るぶりけーた) = lubricator (alat pelumas)."
+      },
+      "mb": true
+     }
+    ]
+   },
+   {
+    "id": "b2s1-q",
+    "sub": "b2s1",
+    "title": {
+     "id": "Latihan: Perkakas dasar",
+     "jp": "{練習|れんしゅう}：{工具|こうぐ}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Benar atau salah: “眼鏡レンチ artinya palu karet.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "眼鏡レンチ (めがねれんち) = kunci ring."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “リーマ artinya reamer.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "リーマ (りーま) = reamer."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「tangkai ratchet」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "スパナ"
+       },
+       {
+        "id": "ブレーキ・スピード複合機"
+       },
+       {
+        "id": "ラチェット・ハンドル"
+       },
+       {
+        "id": "木ハンマ"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ラチェット・ハンドル (らちぇっとはんどる) = tangkai ratchet."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ディープ・ソケット」?",
+       "jp": "「ディープ・ソケット」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "pengukur tekanan udara ban"
+       },
+       {
+        "id": "obeng minus"
+       },
+       {
+        "id": "alat uji spidometer"
+       },
+       {
+        "id": "socket panjang (deep socket)"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ディープ・ソケット (でぃーぷそけっと) = socket panjang (deep socket)."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「プラスチック・ハンマ」?",
+       "jp": "「プラスチック・ハンマ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "penguji aki dan coolant"
+       },
+       {
+        "id": "palu plastik"
+       },
+       {
+        "id": "mikrometer"
+       },
+       {
+        "id": "palu tembaga"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "プラスチック・ハンマ (ぷらすちっくはんま) = palu plastik."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「エア・インパクト・レンチ」?",
+       "jp": "「エア・インパクト・レンチ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "mesin pasang-lepas ban"
+       },
+       {
+        "id": "tang pompa air"
+       },
+       {
+        "id": "ragum"
+       },
+       {
+        "id": "kunci impak angin"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "エア・インパクト・レンチ (えあいんぱくとれんち) = kunci impak angin."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b2s2-q",
+    "sub": "b2s2",
+    "title": {
+     "id": "Latihan: Alat ukur",
+     "jp": "{練習|れんしゅう}：{測|はか}る{道具|どうぐ}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「mikrometer」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "コンプレッション・ゲージ"
+       },
+       {
+        "id": "スキャンツール"
+       },
+       {
+        "id": "マイクロメータ"
+       },
+       {
+        "id": "スナップ・リング・プライヤ"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "マイクロメータ (まいくろめーた) = mikrometer."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「penggaris」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "スケール"
+       },
+       {
+        "id": "ラジエータ・キャップ・テスタ"
+       },
+       {
+        "id": "ディープ・ソケット"
+       },
+       {
+        "id": "スライド・ハンマ"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "スケール (すけーる) = penggaris."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「シックネス・ゲージ」?",
+       "jp": "「シックネス・ゲージ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "palu tembaga"
+       },
+       {
+        "id": "kikir"
+       },
+       {
+        "id": "feeler gauge (pengukur celah)"
+       },
+       {
+        "id": "alat uji selip samping"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "シックネス・ゲージ (しっくねすげーじ) = feeler gauge (pengukur celah)."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「dies」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "パイプレンチ"
+       },
+       {
+        "id": "エア・ゲージ"
+       },
+       {
+        "id": "スケール"
+       },
+       {
+        "id": "ダイス"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ダイス (だいす) = dies."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「dial gauge」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "コンビネーション・プライヤ"
+       },
+       {
+        "id": "バッテリー充電器"
+       },
+       {
+        "id": "ニッパ"
+       },
+       {
+        "id": "ダイヤル・ゲージ"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ダイヤル・ゲージ (だいやるげーじ) = dial gauge."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ノギス」?",
+       "jp": "「ノギス」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "pres hidrolik"
+       },
+       {
+        "id": "jangka sorong"
+       },
+       {
+        "id": "tang lancip"
+       },
+       {
+        "id": "penguji lampu depan"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ノギス (のぎす) = jangka sorong."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b2s3-q",
+    "sub": "b2s3",
+    "title": {
+     "id": "Latihan: Alat pemeriksaan mesin, ban, aki",
+     "jp": "{練習|れんしゅう}：{点検|てんけん}に{使|つか}う{道具|どうぐ}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Apa arti 「バッテリ・クーラント・テスタ」?",
+       "jp": "「バッテリ・クーラント・テスタ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "palu karet"
+       },
+       {
+        "id": "penguji aki dan coolant"
+       },
+       {
+        "id": "pengukur kompresi"
+       },
+       {
+        "id": "tang pemotong (nipper)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "バッテリ・クーラント・テスタ (ばってりくーらんとてすた) = penguji aki dan coolant."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「オパシ・メータ」?",
+       "jp": "「オパシ・メータ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "palu tembaga"
+       },
+       {
+        "id": "opasimeter"
+       },
+       {
+        "id": "feeler gauge (pengukur celah)"
+       },
+       {
+        "id": "alat uji gabungan rem dan spidometer"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "オパシ・メータ (おぱしめーた) = opasimeter."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「pengukur kompresi」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "ベンチ・グラインダ"
+       },
+       {
+        "id": "コンプレッション・ゲージ"
+       },
+       {
+        "id": "マイクロメータ"
+       },
+       {
+        "id": "ディープ・ソケット"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "コンプレッション・ゲージ (こんぷれっしょんげーじ) = pengukur kompresi."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “エア・ガン artinya pistol udara.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "エア・ガン (えあがん) = pistol udara."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「エア・ゲージ」?",
+       "jp": "「エア・ゲージ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "pengukur tekanan udara ban"
+       },
+       {
+        "id": "pengukur kedalaman alur ban"
+       },
+       {
+        "id": "opasimeter"
+       },
+       {
+        "id": "mesin las busur (arc)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "エア・ゲージ (えあげーじ) = pengukur tekanan udara ban."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「mesin cuci mobil」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "サーキット・テスタ"
+       },
+       {
+        "id": "弓のこ"
+       },
+       {
+        "id": "銅ハンマ"
+       },
+       {
+        "id": "洗車機"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "洗車機 (せんしゃき) = mesin cuci mobil."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b2s4-q",
+    "sub": "b2s4",
+    "title": {
+     "id": "Latihan: Alat pelumasan dan pengangkat",
+     "jp": "{練習|れんしゅう}：{給油|きゅうゆ}・{持|も}ち{上|あ}げる{道具|どうぐ}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Apa arti 「ジャッキ」?",
+       "jp": "「ジャッキ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "tangkai putar socket"
+       },
+       {
+        "id": "reamer"
+       },
+       {
+        "id": "dongkrak"
+       },
+       {
+        "id": "tang"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ジャッキ (じゃっき) = dongkrak."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ルブリケータ」?",
+       "jp": "「ルブリケータ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "penggaris"
+       },
+       {
+        "id": "tang lancip"
+       },
+       {
+        "id": "lubricator (alat pelumas)"
+       },
+       {
+        "id": "penguji gas buang CO/HC"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ルブリケータ (るぶりけーた) = lubricator (alat pelumas)."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「リフト」?",
+       "jp": "「リフト」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "palu kayu"
+       },
+       {
+        "id": "pengukur tekanan udara ban"
+       },
+       {
+        "id": "mesin pasang-lepas ban"
+       },
+       {
+        "id": "lift mobil"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "リフト (りふと) = lift mobil."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “うま artinya jack stand (penyangga).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "うま (うま) = jack stand (penyangga)."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “チェーン・ブロック artinya tang kombinasi.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "チェーン・ブロック (ちぇーんぶろっく) = katrol rantai."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「グリースガン」?",
+       "jp": "「グリースガン」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "kunci impak listrik"
+       },
+       {
+        "id": "solar (diesel)"
+       },
+       {
+        "id": "alat uji rem"
+       },
+       {
+        "id": "pistol gemuk"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "グリースガン (ぐりーすがん) = pistol gemuk."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b2s5-q",
+    "sub": "b2s5",
+    "title": {
+     "id": "Latihan: Alat uji kendaraan dan mesin bengkel",
+     "jp": "{練習|れんしゅう}：{検査用|けんさよう}{機械|きかい}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Benar atau salah: “ガス溶接器 artinya pistol udara.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ガス溶接器 (がすようせつき) = alat las gas."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ホイール・バランサ」?",
+       "jp": "「ホイール・バランサ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "palu kayu"
+       },
+       {
+        "id": "bor"
+       },
+       {
+        "id": "pahat besi"
+       },
+       {
+        "id": "alat balancing roda"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ホイール・バランサ (ほいーるばらんさ) = alat balancing roda."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “アーク溶接機 artinya mesin las busur (arc).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "アーク溶接機 (あーくようせつき) = mesin las busur (arc)."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “レギュラー artinya tap.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "レギュラー (れぎゅらー) = bensin reguler."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「スピードメーター・テスタ」?",
+       "jp": "「スピードメーター・テスタ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "pengukur kompresi"
+       },
+       {
+        "id": "kunci socket"
+       },
+       {
+        "id": "alat uji spidometer"
+       },
+       {
+        "id": "mesin las busur (arc)"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "スピードメーター・テスタ (すぴーどめーたーてすた) = alat uji spidometer."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「solar (diesel)」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "ソケットレンチ"
+       },
+       {
+        "id": "コンプレッション・ゲージ"
+       },
+       {
+        "id": "うま"
+       },
+       {
+        "id": "軽油"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "軽油 (けいゆ) = solar (diesel)."
+      }
+     }
+    ]
+   }
+  ],
+  "bab3": [
+   {
+    "id": "bab3-q1",
+    "title": {
+     "id": "Latihan bab 3 (1)",
+     "jp": "{練習|れんしゅう}1"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Apa arti 「もちあげる」?",
+       "jp": "「もちあげる」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "tang cincin snap"
+       },
+       {
+        "id": "mengangkat"
+       },
+       {
+        "id": "penguji aki dan coolant"
+       },
+       {
+        "id": "saklar lampu hazard"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "もちあげる (もちあげる) = mengangkat."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “おく artinya meletakkan.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "おく (おく) = meletakkan."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「さます」?",
+       "jp": "「さます」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "jack stand (penyangga)"
+       },
+       {
+        "id": "katrol rantai"
+       },
+       {
+        "id": "jok"
+       },
+       {
+        "id": "mendinginkan"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "さます (さます) = mendinginkan."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「membuang」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "つなぐ"
+       },
+       {
+        "id": "すてる"
+       },
+       {
+        "id": "ハザード・スイッチ"
+       },
+       {
+        "id": "水"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "すてる (すてる) = membuang."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “解除する artinya membuka kunci.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "解除する (かいじょする) = membuka kunci."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「membongkar」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "サイクル"
+       },
+       {
+        "id": "ブレーキ・ディスク・キャリパ"
+       },
+       {
+        "id": "ラジエータ・リザーバ・タンク"
+       },
+       {
+        "id": "分解する"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "分解する (ぶんかいする) = membongkar."
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab3-q2",
+    "title": {
+     "id": "Latihan bab 3 (2)",
+     "jp": "{練習|れんしゅう}2"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「naik (ke mobil)」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "のる"
+       },
+       {
+        "id": "エアコンの吹き出し口"
+       },
+       {
+        "id": "オパシ・メータ"
+       },
+       {
+        "id": "チャイルドシート"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "のる (のる) = naik (ke mobil)."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「動かす」?",
+       "jp": "「{動かす|うごかす}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "mikrometer"
+       },
+       {
+        "id": "membuka"
+       },
+       {
+        "id": "obeng plus"
+       },
+       {
+        "id": "menggerakkan, memindahkan"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "動かす (うごかす) = menggerakkan, memindahkan."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「さます」?",
+       "jp": "「さます」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "mendinginkan"
+       },
+       {
+        "id": "saklar penyemprot kaca"
+       },
+       {
+        "id": "gigi samping"
+       },
+       {
+        "id": "tangki bahan bakar"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "さます (さます) = mendinginkan."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “張る artinya mengencangkan (sabuk).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "張る (はる) = mengencangkan (sabuk)."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「menyentuh」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "AT"
+       },
+       {
+        "id": "スライド・ハンマ"
+       },
+       {
+        "id": "インマニ"
+       },
+       {
+        "id": "さわる"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "さわる (さわる) = menyentuh."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「オンにする」?",
+       "jp": "「オンにする」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "bemper depan"
+       },
+       {
+        "id": "tutup kepala silinder"
+       },
+       {
+        "id": "tie rod (batang kemudi)"
+       },
+       {
+        "id": "menghidupkan (ON)"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "オンにする (おんにする) = menghidupkan (ON)."
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab3-q3",
+    "title": {
+     "id": "Latihan bab 3 (3)",
+     "jp": "{練習|れんしゅう}3"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Apa arti 「あける」?",
+       "jp": "「あける」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "kap mesin"
+       },
+       {
+        "id": "membuka"
+       },
+       {
+        "id": "memasang"
+       },
+       {
+        "id": "membersihkan, merapikan"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "あける (あける) = membuka."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「抜く」?",
+       "jp": "「{抜く|ぬく}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "mengeluarkan, menguras"
+       },
+       {
+        "id": "alternator (dinamo pengisi)"
+       },
+       {
+        "id": "jangka sorong"
+       },
+       {
+        "id": "menutup"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "抜く (ぬく) = mengeluarkan, menguras."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「menghidupkan (ON)」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "窒素"
+       },
+       {
+        "id": "バッテリのターミナル部"
+       },
+       {
+        "id": "もういちど、せつめいおねがいします"
+       },
+       {
+        "id": "オンにする"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "オンにする (おんにする) = menghidupkan (ON)."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「menggerakkan, memindahkan」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "フューエルタンク"
+       },
+       {
+        "id": "プライヤ"
+       },
+       {
+        "id": "動かす"
+       },
+       {
+        "id": "フューエル・タンク"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "動かす (うごかす) = menggerakkan, memindahkan."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「mendinginkan」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "炭化水素"
+       },
+       {
+        "id": "クランクシャフト"
+       },
+       {
+        "id": "ドリル"
+       },
+       {
+        "id": "さます"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "さます (さます) = mendinginkan."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「mengeluarkan」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "フューエルフィルター"
+       },
+       {
+        "id": "4WD"
+       },
+       {
+        "id": "スピンナ・ハンドル"
+       },
+       {
+        "id": "とりだす"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "とりだす (とりだす) = mengeluarkan."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b3s1-q",
+    "sub": "b3s1",
+    "title": {
+     "id": "Latihan: Kata kerja: keselamatan & kebersihan",
+     "jp": "{練習|れんしゅう}：{安全衛生|あんぜんえいせい}・{清掃|せいそう}の{動詞|どうし}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「menggosok, memoles」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "磨く"
+       },
+       {
+        "id": "回す"
+       },
+       {
+        "id": "入れ替える"
+       },
+       {
+        "id": "とりだす"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "磨く (みがく) = menggosok, memoles."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「menyapu」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "ふむ"
+       },
+       {
+        "id": "測る"
+       },
+       {
+        "id": "掃く"
+       },
+       {
+        "id": "上げる"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "掃く (はく) = menyapu."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ふく artinya mengencangkan (sabuk).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ふく (ふく) = mengelap."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「洗う」?",
+       "jp": "「{洗う|あらう}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "memutar"
+       },
+       {
+        "id": "mencuci"
+       },
+       {
+        "id": "mengunci posisi, memfiksasi"
+       },
+       {
+        "id": "merapikan, membereskan"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "洗う (あらう) = mencuci."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「片づける」?",
+       "jp": "「{片づける|かたづける}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "merapikan, membereskan"
+       },
+       {
+        "id": "memasukkan, mengisi"
+       },
+       {
+        "id": "mengganti"
+       },
+       {
+        "id": "mengikis, menyerut"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "片づける (かたづける) = merapikan, membereskan."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「掃除する」?",
+       "jp": "「{掃除する|そうじする}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "membersihkan, merapikan"
+       },
+       {
+        "id": "mengganti"
+       },
+       {
+        "id": "mendorong"
+       },
+       {
+        "id": "membersihkan"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "掃除する (そうじする) = membersihkan."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b3s2-q",
+    "sub": "b3s2",
+    "title": {
+     "id": "Latihan: Kata kerja: ruang mesin",
+     "jp": "{練習|れんしゅう}：エンジンルーム{点検|てんけん}の{動詞|どうし}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Apa arti 「とりだす」?",
+       "jp": "「とりだす」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "menukar posisi"
+       },
+       {
+        "id": "mengeluarkan"
+       },
+       {
+        "id": "mengangkat"
+       },
+       {
+        "id": "membongkar"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "とりだす (とりだす) = mengeluarkan."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「つなぐ」?",
+       "jp": "「つなぐ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "menyambung"
+       },
+       {
+        "id": "memasukkan, mengisi"
+       },
+       {
+        "id": "mematikan (OFF)"
+       },
+       {
+        "id": "mengendurkan"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "つなぐ (つなぐ) = menyambung."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「membuang」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "つなぐ"
+       },
+       {
+        "id": "分解する"
+       },
+       {
+        "id": "すてる"
+       },
+       {
+        "id": "確認する"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "すてる (すてる) = membuang."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「mendinginkan」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "すてる"
+       },
+       {
+        "id": "オフにする"
+       },
+       {
+        "id": "確認する"
+       },
+       {
+        "id": "さます"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "さます (さます) = mendinginkan."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「mematikan (OFF)」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "ふむ"
+       },
+       {
+        "id": "オフにする"
+       },
+       {
+        "id": "押す"
+       },
+       {
+        "id": "つける"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "オフにする (おふにする) = mematikan (OFF)."
+      }
+     },
+     {
+      "q": {
+       "id": "Cara baca 「止める」 yang benar adalah…"
+      },
+      "opts": [
+       {
+        "id": "とめる"
+       },
+       {
+        "id": "ぶんかいする"
+       },
+       {
+        "id": "まわす"
+       },
+       {
+        "id": "けずる"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "止める (とめる) = menghentikan, mematikan."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b3s3-q",
+    "sub": "b3s3",
+    "title": {
+     "id": "Latihan: Kata kerja: kaki-kaki",
+     "jp": "{練習|れんしゅう}：{足|あし}まわり{点検|てんけん}の{動詞|どうし}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Apa arti 「はずす」?",
+       "jp": "「はずす」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "menyambung"
+       },
+       {
+        "id": "menukar posisi"
+       },
+       {
+        "id": "melepas"
+       },
+       {
+        "id": "mengambil"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "はずす (はずす) = melepas."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「menutup」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "上げる"
+       },
+       {
+        "id": "かえる"
+       },
+       {
+        "id": "とる"
+       },
+       {
+        "id": "しめる"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "しめる (しめる) = menutup."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「もちあげる」?",
+       "jp": "「もちあげる」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "mengendurkan"
+       },
+       {
+        "id": "mengangkat"
+       },
+       {
+        "id": "membongkar"
+       },
+       {
+        "id": "menukar posisi"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "もちあげる (もちあげる) = mengangkat."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「menukar posisi」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "おろす"
+       },
+       {
+        "id": "張る"
+       },
+       {
+        "id": "分解する"
+       },
+       {
+        "id": "入れ替える"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "入れ替える (いれかえる) = menukar posisi."
+      }
+     },
+     {
+      "q": {
+       "id": "Cara baca 「動かす」 yang benar adalah…"
+      },
+      "opts": [
+       {
+        "id": "いれかえる"
+       },
+       {
+        "id": "そうじする"
+       },
+       {
+        "id": "ぬく"
+       },
+       {
+        "id": "うごかす"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "動かす (うごかす) = menggerakkan, memindahkan."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ゆるめる」?",
+       "jp": "「ゆるめる」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "mengendurkan"
+       },
+       {
+        "id": "mengganti"
+       },
+       {
+        "id": "mengunci posisi, memfiksasi"
+       },
+       {
+        "id": "menyapu"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ゆるめる (ゆるめる) = mengendurkan."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b3s4-q",
+    "sub": "b3s4",
+    "title": {
+     "id": "Latihan: Kata kerja: bagian bawah",
+     "jp": "{練習|れんしゅう}：{下|した}まわり{点検|てんけん}の{動詞|どうし}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Apa arti 「もつ」?",
+       "jp": "「もつ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "menghentikan, mematikan"
+       },
+       {
+        "id": "memeriksa"
+       },
+       {
+        "id": "memegang"
+       },
+       {
+        "id": "mematikan (OFF)"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "もつ (もつ) = memegang."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「はずす」?",
+       "jp": "「はずす」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "menghentikan, mematikan"
+       },
+       {
+        "id": "membuang"
+       },
+       {
+        "id": "melepas"
+       },
+       {
+        "id": "mematikan (OFF)"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "はずす (はずす) = melepas."
+      }
+     },
+     {
+      "q": {
+       "id": "Cara baca 「抜く」 yang benar adalah…"
+      },
+      "opts": [
+       {
+        "id": "みがく"
+       },
+       {
+        "id": "ちょうせいする"
+       },
+       {
+        "id": "はく"
+       },
+       {
+        "id": "ぬく"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "抜く (ぬく) = mengeluarkan, menguras."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「menaikkan」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "もつ"
+       },
+       {
+        "id": "つなぐ"
+       },
+       {
+        "id": "片づける"
+       },
+       {
+        "id": "上げる"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "上げる (あげる) = menaikkan."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「入れる」?",
+       "jp": "「{入れる|いれる}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "mengendurkan"
+       },
+       {
+        "id": "menyesuaikan, mencocokkan"
+       },
+       {
+        "id": "memasukkan, mengisi"
+       },
+       {
+        "id": "mematikan (OFF)"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "入れる (いれる) = memasukkan, mengisi."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「menurunkan」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "おろす"
+       },
+       {
+        "id": "ふく"
+       },
+       {
+        "id": "測る"
+       },
+       {
+        "id": "とりだす"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "おろす (おろす) = menurunkan."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b3s5-q",
+    "sub": "b3s5",
+    "title": {
+     "id": "Latihan: Kata kerja lain",
+     "jp": "{練習|れんしゅう}：そのほかの{動詞|どうし}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Apa arti 「高齢者マーク」?",
+       "jp": "「{高齢者マーク|こうれいしゃまーく}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "tanda pengemudi lansia"
+       },
+       {
+        "id": "membersihkan"
+       },
+       {
+        "id": "membersihkan, merapikan"
+       },
+       {
+        "id": "membongkar"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "高齢者マーク (こうれいしゃまーく) = tanda pengemudi lansia."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「測る」?",
+       "jp": "「{測る|はかる}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "mengukur"
+       },
+       {
+        "id": "mengangkat"
+       },
+       {
+        "id": "menyentuh"
+       },
+       {
+        "id": "merapikan, membereskan"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "測る (はかる) = mengukur."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ロックする」?",
+       "jp": "「ロックする」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "berhati-hati"
+       },
+       {
+        "id": "membuka kunci"
+       },
+       {
+        "id": "memegang"
+       },
+       {
+        "id": "mengunci"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ロックする (ろっくする) = mengunci."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「固定する」?",
+       "jp": "「{固定する|こていする}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "mengikis, menyerut"
+       },
+       {
+        "id": "menghentikan, mematikan"
+       },
+       {
+        "id": "menggosok, memoles"
+       },
+       {
+        "id": "mengunci posisi, memfiksasi"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "固定する (こていする) = mengunci posisi, memfiksasi."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「menulis」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "もちあげる"
+       },
+       {
+        "id": "とる"
+       },
+       {
+        "id": "確認する"
+       },
+       {
+        "id": "書く"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "書く (かく) = menulis."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “解除する artinya mengambil.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "解除する (かいじょする) = membuka kunci."
+      },
+      "mb": true
+     }
+    ]
+   }
+  ],
+  "bab4": [
+   {
+    "id": "bab4-q1",
+    "title": {
+     "id": "Latihan bab 4 (1)",
+     "jp": "{練習|れんしゅう}1"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Benar atau salah: “FF artinya tiang depan (pilar A).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "FF (えふえふ) = penggerak roda depan (mesin depan)."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「フライホイール」?",
+       "jp": "「フライホイール」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "alternator"
+       },
+       {
+        "id": "roda gila (flywheel)"
+       },
+       {
+        "id": "peredam kejut"
+       },
+       {
+        "id": "opasimeter"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "フライホイール (ふらいほいーる) = roda gila (flywheel)."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「フューエルフィルター」?",
+       "jp": "「フューエルフィルター」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "mobil satu boks (van)"
+       },
+       {
+        "id": "spion tengah"
+       },
+       {
+        "id": "filter bahan bakar"
+       },
+       {
+        "id": "gerinda duduk"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "フューエルフィルター (ふゅーえるふぃるたー) = filter bahan bakar."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ユニバーサルジョイント artinya penguji gas buang CO/HC.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ユニバーサルジョイント (ゆにばーさるじょいんと) = sambungan universal."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “触媒コンバータ artinya mikrometer.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "触媒コンバータ (しょくばいこんばーた) = konverter katalis."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「throttle body」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "フィラー・キャップ"
+       },
+       {
+        "id": "×"
+       },
+       {
+        "id": "スロットルボディ"
+       },
+       {
+        "id": "インマニ"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "スロットルボディ (すろっとるぼでぃ) = throttle body."
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-q2",
+    "title": {
+     "id": "Latihan bab 4 (2)",
+     "jp": "{練習|れんしゅう}2"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「unit kontrol elektronik」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "ピニオン"
+       },
+       {
+        "id": "T"
+       },
+       {
+        "id": "バイス"
+       },
+       {
+        "id": "ECU"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ECU (いーしーゆー) = unit kontrol elektronik."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ウィンドウォッシャー artinya penyemprot kaca.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ウィンドウォッシャー (うぃんどうぉっしゃー) = penyemprot kaca."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ステアリング装置」?",
+       "jp": "「{ステアリング装置|すてありんぐそうち}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "sistem kemudi"
+       },
+       {
+        "id": "spion samping kiri"
+       },
+       {
+        "id": "klakson"
+       },
+       {
+        "id": "lampu peringatan rem"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ステアリング装置 (すてありんぐそうち) = sistem kemudi."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “水 artinya senam radio.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "水 (みず) = air (H₂O)."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ブレーキパッド」?",
+       "jp": "「ブレーキパッド」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "elemen (filter udara)"
+       },
+       {
+        "id": "kampas rem cakram"
+       },
+       {
+        "id": "lubang pengisian bahan bakar"
+       },
+       {
+        "id": "knuckle (penyangga roda)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ブレーキパッド (ぶれーきぱっど) = kampas rem cakram."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「エキゾースト・バルブ」?",
+       "jp": "「エキゾースト・バルブ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "ban"
+       },
+       {
+        "id": "mesin pasang-lepas ban"
+       },
+       {
+        "id": "katup buang"
+       },
+       {
+        "id": "spatbor"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "エキゾースト・バルブ (えきぞーすとばるぶ) = katup buang."
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-q3",
+    "title": {
+     "id": "Latihan bab 4 (3)",
+     "jp": "{練習|れんしゅう}3"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Benar atau salah: “シリンダーヘッド artinya kepala silinder.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "シリンダーヘッド (しりんだーへっど) = kepala silinder."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “オイルフィルター artinya rangka bantu (subframe).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "オイルフィルター (おいるふぃるたー) = filter oli."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「bodi kepala silinder」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "シリンダーヘッド本体"
+       },
+       {
+        "id": "ニッパ"
+       },
+       {
+        "id": "モンキーレンチ"
+       },
+       {
+        "id": "サイドスリップ・テスタ"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "シリンダーヘッド本体 (しりんだーへっどほんたい) = bodi kepala silinder."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「unit kontrol elektronik」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "ブレーキ・ホイール・シリンダ"
+       },
+       {
+        "id": "オルタネーター"
+       },
+       {
+        "id": "ECU"
+       },
+       {
+        "id": "コンプレッション・ゲージ"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ECU (いーしーゆー) = unit kontrol elektronik."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「シリンダーブロック」?",
+       "jp": "「シリンダーブロック」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "△ = diperbaiki (修理した)"
+       },
+       {
+        "id": "bemper belakang"
+       },
+       {
+        "id": "konverter katalis"
+       },
+       {
+        "id": "blok silinder"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "シリンダーブロック (しりんだーぶろっく) = blok silinder."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「hub (naf roda)」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "マフラー"
+       },
+       {
+        "id": "張る"
+       },
+       {
+        "id": "ハブ"
+       },
+       {
+        "id": "リザーバータンク"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ハブ (はぶ) = hub (naf roda)."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b4s1-q",
+    "sub": "b4s1",
+    "title": {
+     "id": "Latihan: Sekitar mesin",
+     "jp": "{練習|れんしゅう}：エンジンまわり"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Benar atau salah: “カムシャフトカバー artinya rem tromol.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "カムシャフトカバー (かむしゃふとかばー) = tutup poros bubungan."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「クランクシャフト」?",
+       "jp": "「クランクシャフト」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "silinder"
+       },
+       {
+        "id": "tolong tuliskan"
+       },
+       {
+        "id": "poros engkol"
+       },
+       {
+        "id": "kampas rem cakram"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "クランクシャフト (くらんくしゃふと) = poros engkol."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「コンロッド」?",
+       "jp": "「コンロッド」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "selisih lintasan roda dalam"
+       },
+       {
+        "id": "roda kemudi (setir)"
+       },
+       {
+        "id": "mesin depan penggerak roda belakang"
+       },
+       {
+        "id": "batang penghubung (connecting rod)"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "コンロッド (こんろっど) = batang penghubung (connecting rod)."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「エンジン」?",
+       "jp": "「エンジン」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "mesin"
+       },
+       {
+        "id": "katup hisap"
+       },
+       {
+        "id": "filter bahan bakar"
+       },
+       {
+        "id": "pelindung silau"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "エンジン (えんじん) = mesin."
+      }
+     },
+     {
+      "q": {
+       "id": "Cara baca 「シリンダーヘッド本体」 yang benar adalah…"
+      },
+      "opts": [
+       {
+        "id": "しりんだーへっどほんたい"
+       },
+       {
+        "id": "ぶれーきそうち"
+       },
+       {
+        "id": "みず"
+       },
+       {
+        "id": "ふゆようたいや"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "シリンダーヘッド本体 (しりんだーへっどほんたい) = bodi kepala silinder."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “プラグ artinya busi.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "プラグ (ぷらぐ) = busi."
+      },
+      "mb": true
+     }
+    ]
+   },
+   {
+    "id": "b4s2-q",
+    "sub": "b4s2",
+    "title": {
+     "id": "Latihan: Sistem bahan bakar",
+     "jp": "{練習|れんしゅう}：{燃料装置|ねんりょうそうち}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Benar atau salah: “フューエルフィルター artinya rem tromol.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "フューエルフィルター (ふゅーえるふぃるたー) = filter bahan bakar."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「フューエルタンク」?",
+       "jp": "「フューエルタンク」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "dasbor (singkatan)"
+       },
+       {
+        "id": "saringan udara (singkatan)"
+       },
+       {
+        "id": "tangki bahan bakar"
+       },
+       {
+        "id": "ban studless"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "フューエルタンク (ふゅーえるたんく) = tangki bahan bakar."
+      }
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「injektor」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "ピニオン"
+       },
+       {
+        "id": "インジェクター"
+       },
+       {
+        "id": "FR"
+       },
+       {
+        "id": "シリンダーヘッド"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "インジェクター (いんじぇくたー) = injektor."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「フューエルポンプ」?",
+       "jp": "「フューエルポンプ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "koil pengapian"
+       },
+       {
+        "id": "injektor"
+       },
+       {
+        "id": "master silinder"
+       },
+       {
+        "id": "pompa bahan bakar"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "フューエルポンプ (ふゅーえるぽんぷ) = pompa bahan bakar."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b4s3-q",
+    "sub": "b4s3",
+    "title": {
+     "id": "Latihan: Sistem hisap dan buang",
+     "jp": "{練習|れんしゅう}：{吸気装置|きゅうきそうち}・{排気装置|はいきそうち}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Benar atau salah: “エアクリ artinya saringan udara (singkatan).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "エアクリ (えあくり) = saringan udara (singkatan)."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「unit kontrol elektronik」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "ECU"
+       },
+       {
+        "id": "ステアリング装置"
+       },
+       {
+        "id": "サイドギア"
+       },
+       {
+        "id": "AT"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ECU (いーしーゆー) = unit kontrol elektronik."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「イグニッションコイル」?",
+       "jp": "「イグニッションコイル」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "ruang bakar"
+       },
+       {
+        "id": "termostat"
+       },
+       {
+        "id": "koil pengapian"
+       },
+       {
+        "id": "mesin segaris (inline)"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "イグニッションコイル (いぐにっしょんこいる) = koil pengapian."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “炭化水素 artinya hidrokarbon (HC).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "炭化水素 (たんかすいそ) = hidrokarbon (HC)."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「触媒コンバータ」?",
+       "jp": "「{触媒コンバータ|しょくばいこんばーた}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "kepala silinder"
+       },
+       {
+        "id": "kaliper rem"
+       },
+       {
+        "id": "konverter katalis"
+       },
+       {
+        "id": "transmisi variabel kontinu"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "触媒コンバータ (しょくばいこんばーた) = konverter katalis."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「窒素」?",
+       "jp": "「{窒素|ちっそ}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "roda gila (flywheel)"
+       },
+       {
+        "id": "kaliper rem"
+       },
+       {
+        "id": "nitrogen (N)"
+       },
+       {
+        "id": "konverter katalis"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "窒素 (ちっそ) = nitrogen (N)."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b4s4-q",
+    "sub": "b4s4",
+    "title": {
+     "id": "Latihan: Pelumasan dan pendinginan",
+     "jp": "{練習|れんしゅう}：{潤滑装置|じゅんかつそうち}・{冷却装置|れいきゃくそうち}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「cairan pendingin」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "ブレーキ装置"
+       },
+       {
+        "id": "4WD"
+       },
+       {
+        "id": "クーラント"
+       },
+       {
+        "id": "マニュアルトランスミッション"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "クーラント (くーらんと) = cairan pendingin."
+      }
+     },
+     {
+      "q": {
+       "id": "Cara baca 「冷却ファン」 yang benar adalah…"
+      },
+      "opts": [
+       {
+        "id": "れいきゃくふぁん"
+       },
+       {
+        "id": "すてありんぐそうち"
+       },
+       {
+        "id": "みず"
+       },
+       {
+        "id": "ぶれーきそうち"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "冷却ファン (れいきゃくふぁん) = kipas pendingin."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「冬用タイヤ」?",
+       "jp": "「{冬用タイヤ|ふゆようたいや}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "bilah wiper"
+       },
+       {
+        "id": "ban musim dingin"
+       },
+       {
+        "id": "filter bahan bakar"
+       },
+       {
+        "id": "termostat"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "冬用タイヤ (ふゆようたいや) = ban musim dingin."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「スタッドレスタイヤ」?",
+       "jp": "「スタッドレスタイヤ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "mesin depan penggerak roda belakang"
+       },
+       {
+        "id": "spion tengah"
+       },
+       {
+        "id": "termostat"
+       },
+       {
+        "id": "ban studless"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "スタッドレスタイヤ (すたっどれすたいや) = ban studless."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「オイルフィルター」?",
+       "jp": "「オイルフィルター」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "filter oli"
+       },
+       {
+        "id": "gigi cincin (ring gear)"
+       },
+       {
+        "id": "bodi monokok"
+       },
+       {
+        "id": "mesin depan penggerak roda belakang"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "オイルフィルター (おいるふぃるたー) = filter oli."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「リザーバータンク」?",
+       "jp": "「リザーバータンク」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "tangki cadangan"
+       },
+       {
+        "id": "roda kemudi (setir)"
+       },
+       {
+        "id": "ring piston"
+       },
+       {
+        "id": "oksida nitrogen (NOx)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "リザーバータンク (りざーばーたんく) = tangki cadangan."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b4s5-q",
+    "sub": "b4s5",
+    "title": {
+     "id": "Latihan: Penerus tenaga dan suspensi",
+     "jp": "{練習|れんしゅう}：{動力伝達装置|どうりょくでんたつそうち}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Apa arti 「フロント・アクスル」?",
+       "jp": "「フロント・アクスル」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "as roda depan"
+       },
+       {
+        "id": "bodi kepala silinder"
+       },
+       {
+        "id": "gigi cincin (ring gear)"
+       },
+       {
+        "id": "piston rem"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "フロント・アクスル (ふろんとあくする) = as roda depan."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「コイル・スプリング」?",
+       "jp": "「コイル・スプリング」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "pegas keong"
+       },
+       {
+        "id": "penggerak empat roda"
+       },
+       {
+        "id": "konverter torsi"
+       },
+       {
+        "id": "siklus"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "コイル・スプリング (こいるすぷりんぐ) = pegas keong."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “メインドライブシャフト artinya roda kemudi (setir).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "メインドライブシャフト (めいんどらいぶしゃふと) = poros penggerak utama."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ディファレンシャルギア artinya gigi diferensial.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ディファレンシャルギア (でぃふぁれんしゃるぎあ) = gigi diferensial."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ショック・アブソーバー」?",
+       "jp": "「ショック・アブソーバー」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "pedal kopling"
+       },
+       {
+        "id": "bilah wiper"
+       },
+       {
+        "id": "peredam kejut"
+       },
+       {
+        "id": "lengan atas"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ショック・アブソーバー (しょっくあぶそーばー) = peredam kejut."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ロアー・アーム artinya oksida nitrogen (NOx).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ロアー・アーム (ろあーあーむ) = lengan bawah."
+      },
+      "mb": true
+     }
+    ]
+   },
+   {
+    "id": "b4s6-q",
+    "sub": "b4s6",
+    "title": {
+     "id": "Latihan: Kemudi dan rem",
+     "jp": "{練習|れんしゅう}：ステアリング{装置|そうち}・ブレーキ{装置|そうち}"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Apa arti 「パワステ」?",
+       "jp": "「パワステ」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "tolong tuliskan"
+       },
+       {
+        "id": "termostat"
+       },
+       {
+        "id": "tutup poros bubungan"
+       },
+       {
+        "id": "power steering (singkatan)"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "パワステ (ぱわすて) = power steering (singkatan)."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ブレーキ・ドラム artinya tromol rem.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ブレーキ・ドラム (ぶれーきどらむ) = tromol rem."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ブレーキパッド」?",
+       "jp": "「ブレーキパッド」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "hidrokarbon (HC)"
+       },
+       {
+        "id": "bodi kepala silinder"
+       },
+       {
+        "id": "transmisi otomatis"
+       },
+       {
+        "id": "kampas rem cakram"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ブレーキパッド (ぶれーきぱっど) = kampas rem cakram."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「ブレーキ・ピストン」?",
+       "jp": "「ブレーキ・ピストン」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "sistem kemudi"
+       },
+       {
+        "id": "blok silinder"
+       },
+       {
+        "id": "karbon monoksida (CO)"
+       },
+       {
+        "id": "piston rem"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ブレーキ・ピストン (ぶれーきぴすとん) = piston rem."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ステアリング装置 artinya pompa bahan bakar.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ステアリング装置 (すてありんぐそうち) = sistem kemudi."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ブレーキ・シュー artinya kopling.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ブレーキ・シュー (ぶれーきしゅー) = sepatu rem (kampas rem tromol)."
+      },
+      "mb": true
+     }
+    ]
+   },
+   {
+    "id": "b4s7-q",
+    "sub": "b4s7",
+    "title": {
+     "id": "Latihan: Kelistrikan, rangka, dan bodi",
+     "jp": "{練習|れんしゅう}：{電気装置|でんきそうち}・フレーム・ボディ"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Apa arti 「ワイパーアーム」?",
+       "jp": "「ワイパーアーム」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "spion pintu"
+       },
+       {
+        "id": "puli"
+       },
+       {
+        "id": "lengan wiper"
+       },
+       {
+        "id": "cakram kopling"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ワイパーアーム (わいぱーあーむ) = lengan wiper."
+      }
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “インパネ artinya elemen (filter udara).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "インパネ (いんぱね) = dasbor (singkatan)."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “メーター artinya elemen (filter udara).”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "メーター (めーたー) = panel instrumen (meteran)."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Benar atau salah: “ラダーフレーム artinya pompa air.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ラダーフレーム (らだーふれーむ) = rangka tangga."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Bahasa Jepang untuk 「bodi monokok」 adalah…"
+      },
+      "opts": [
+       {
+        "id": "モノコックボディ"
+       },
+       {
+        "id": "ファイナルギア"
+       },
+       {
+        "id": "シリンダーヘッド本体"
+       },
+       {
+        "id": "窒素酸化物"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "モノコックボディ (ものこっくぼでぃ) = bodi monokok."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「バッテリー」?",
+       "jp": "「バッテリー」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "sistem rem"
+       },
+       {
+        "id": "torak (piston)"
+       },
+       {
+        "id": "roda kemudi (setir)"
+       },
+       {
+        "id": "aki"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "バッテリー (ばってりー) = aki."
+      }
+     }
+    ]
+   },
+   {
+    "id": "b4s8-q",
+    "sub": "b4s8",
+    "title": {
+     "id": "Latihan: Aplikasi dan pembuangan limbah",
+     "jp": "{練習|れんしゅう}：{応用編|おうようへん}・ゴミのすてかた"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Benar atau salah: “分かりません artinya konverter torsi.”"
+      },
+      "opts": [
+       {
+        "id": "Benar (○)"
+       },
+       {
+        "id": "Salah (×)"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "分かりません (わかりません) = saya tidak mengerti."
+      },
+      "mb": true
+     },
+     {
+      "q": {
+       "id": "Apa arti 「書いてください」?",
+       "jp": "「{書いてください|かいてください}」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "tolong tuliskan"
+       },
+       {
+        "id": "roda kemudi (setir)"
+       },
+       {
+        "id": "ban musim dingin"
+       },
+       {
+        "id": "bodi monokok"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "書いてください (かいてください) = tolong tuliskan."
+      }
+     },
+     {
+      "q": {
+       "id": "Apa arti 「もういちど、せつめいおねがいします」?",
+       "jp": "「もういちど、せつめいおねがいします」の{意味|いみ}は？"
+      },
+      "opts": [
+       {
+        "id": "sistem kemudi"
+       },
+       {
+        "id": "tolong jelaskan sekali lagi"
+       },
+       {
+        "id": "ban studless"
+       },
+       {
+        "id": "spion tengah"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "もういちど、せつめいおねがいします (もういちど、せつめいおねがいします) = tolong jelaskan sekali lagi."
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-02",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 2 — Langkah hisap mesin"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 2 (Langkah hisap mesin), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "cakram"
+       },
+       {
+        "id": "mekanisme gigi kemudi"
+       },
+       {
+        "id": "katup hisap"
+       },
+       {
+        "id": "roda dan ban"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "インテーク・バルブ = katup hisap. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig02.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 2 (Langkah hisap mesin), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "suspensi"
+       },
+       {
+        "id": "sistem lampu"
+       },
+       {
+        "id": "pegas keong"
+       },
+       {
+        "id": "katup buang"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "エキゾースト・バルブ = katup buang. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig02.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 2 (Langkah hisap mesin), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "karter oli"
+       },
+       {
+        "id": "lengan bawah suspensi"
+       },
+       {
+        "id": "campuran udara-bahan bakar"
+       },
+       {
+        "id": "saringan udara"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "混合気 = campuran udara-bahan bakar. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig02.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 2 (Langkah hisap mesin), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "pipa bahan bakar"
+       },
+       {
+        "id": "saluran oli (oil gallery)"
+       },
+       {
+        "id": "torak"
+       },
+       {
+        "id": "katup buang"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ピストン = torak. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig02.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 2 (Langkah hisap mesin), bagian bernomor 5 adalah…"
+      },
+      "opts": [
+       {
+        "id": "motor starter"
+       },
+       {
+        "id": "silinder"
+       },
+       {
+        "id": "sakelar tekanan oli"
+       },
+       {
+        "id": "motor kipas"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "シリンダ = silinder. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig02.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 2 (Langkah hisap mesin), bagian bernomor 6 adalah…"
+      },
+      "opts": [
+       {
+        "id": "poros engkol"
+       },
+       {
+        "id": "mekanisme operasi kemudi"
+       },
+       {
+        "id": "rem hidrolik tromol"
+       },
+       {
+        "id": "konverter katalis"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "クランクシャフト = poros engkol. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig02.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-06",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 6 — Mesin DOHC 4 silinder"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 6 (Mesin DOHC 4 silinder), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "kepala silinder"
+       },
+       {
+        "id": "pegas"
+       },
+       {
+        "id": "pipa gas buang"
+       },
+       {
+        "id": "selang bawah radiator"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "シリンダ・ヘッド = kepala silinder. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig06.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 6 (Mesin DOHC 4 silinder), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "suspensi"
+       },
+       {
+        "id": "rem hidrolik tromol"
+       },
+       {
+        "id": "poros bubungan"
+       },
+       {
+        "id": "lengan rocker"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "カムシャフト = poros bubungan. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig06.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 6 (Mesin DOHC 4 silinder), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "termostat"
+       },
+       {
+        "id": "pegas"
+       },
+       {
+        "id": "blok silinder"
+       },
+       {
+        "id": "katup buang"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "シリンダ・ブロック = blok silinder. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig06.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 6 (Mesin DOHC 4 silinder), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "katup"
+       },
+       {
+        "id": "lengan rocker"
+       },
+       {
+        "id": "pelat belakang"
+       },
+       {
+        "id": "filter oli"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "バルブ = katup. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig06.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 6 (Mesin DOHC 4 silinder), bagian bernomor 5 adalah…"
+      },
+      "opts": [
+       {
+        "id": "pipa rem"
+       },
+       {
+        "id": "sensor sudut poros engkol"
+       },
+       {
+        "id": "torak"
+       },
+       {
+        "id": "injektor"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ピストン = torak. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig06.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 6 (Mesin DOHC 4 silinder), bagian bernomor 6 adalah…"
+      },
+      "opts": [
+       {
+        "id": "lengan rocker"
+       },
+       {
+        "id": "pedal rem"
+       },
+       {
+        "id": "silinder"
+       },
+       {
+        "id": "selang atas radiator"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "シリンダ = silinder. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig06.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 6 (Mesin DOHC 4 silinder), bagian bernomor 7 adalah…"
+      },
+      "opts": [
+       {
+        "id": "nosel semprot oli"
+       },
+       {
+        "id": "batang penghubung"
+       },
+       {
+        "id": "poros penggerak"
+       },
+       {
+        "id": "tangki bahan bakar"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "コンロッド = batang penghubung. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig06.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 6 (Mesin DOHC 4 silinder), bagian bernomor 8 adalah…"
+      },
+      "opts": [
+       {
+        "id": "katup hisap"
+       },
+       {
+        "id": "poros engkol"
+       },
+       {
+        "id": "koil pengapian"
+       },
+       {
+        "id": "penegang"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "クランクシャフト = poros engkol. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig06.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-08",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 8 — Mekanisme katup tipe OHC (sabuk)"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 8 (Mekanisme katup tipe OHC (sabuk)), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "kampas rem"
+       },
+       {
+        "id": "transmisi"
+       },
+       {
+        "id": "pipa penyalur oli"
+       },
+       {
+        "id": "sabuk timing"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "タイミング・ベルト = sabuk timing. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig08.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 8 (Mekanisme katup tipe OHC (sabuk)), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "poros bubungan"
+       },
+       {
+        "id": "mekanisme gigi kemudi"
+       },
+       {
+        "id": "manifold buang"
+       },
+       {
+        "id": "master silinder"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "カムシャフト = poros bubungan. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig08.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 8 (Mekanisme katup tipe OHC (sabuk)), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "lengan rocker"
+       },
+       {
+        "id": "perangkat EGR"
+       },
+       {
+        "id": "sensor sudut cam"
+       },
+       {
+        "id": "poros propeller"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ロッカ・アーム = lengan rocker. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig08.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 8 (Mekanisme katup tipe OHC (sabuk)), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "kopling"
+       },
+       {
+        "id": "poros engkol"
+       },
+       {
+        "id": "saringan udara"
+       },
+       {
+        "id": "kunci kontak"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "クランクシャフト = poros engkol. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig08.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 8 (Mekanisme katup tipe OHC (sabuk)), bagian bernomor 5 adalah…"
+      },
+      "opts": [
+       {
+        "id": "penegang sabuk"
+       },
+       {
+        "id": "kepala silinder"
+       },
+       {
+        "id": "kunci kontak (saklar starter)"
+       },
+       {
+        "id": "poros propeller"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "テンショナ = penegang sabuk. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig08.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-09",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 9 — Mekanisme katup tipe DOHC (rantai)"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 9 (Mekanisme katup tipe DOHC (rantai)), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "bodi"
+       },
+       {
+        "id": "sensor sudut poros engkol"
+       },
+       {
+        "id": "rantai timing"
+       },
+       {
+        "id": "as roda depan"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "タイミング・チェーン = rantai timing. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig09.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 9 (Mekanisme katup tipe DOHC (rantai)), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "poros bubungan"
+       },
+       {
+        "id": "konverter katalis"
+       },
+       {
+        "id": "peredam kejut"
+       },
+       {
+        "id": "mekanisme gigi kemudi"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "カムシャフト = poros bubungan. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig09.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 9 (Mekanisme katup tipe DOHC (rantai)), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "mekanisme sambungan kemudi"
+       },
+       {
+        "id": "pemandu rantai"
+       },
+       {
+        "id": "katup buang"
+       },
+       {
+        "id": "batang penghubung"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "チェーン・ガイド = pemandu rantai. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig09.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 9 (Mekanisme katup tipe DOHC (rantai)), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "seal piston"
+       },
+       {
+        "id": "poros engkol"
+       },
+       {
+        "id": "manifold buang"
+       },
+       {
+        "id": "injektor"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "クランクシャフト = poros engkol. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig09.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 9 (Mekanisme katup tipe DOHC (rantai)), bagian bernomor 5 adalah…"
+      },
+      "opts": [
+       {
+        "id": "lengan penegang"
+       },
+       {
+        "id": "busi"
+       },
+       {
+        "id": "katup"
+       },
+       {
+        "id": "pipa bahan bakar"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "テンショナ・アーム = lengan penegang. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig09.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 9 (Mekanisme katup tipe DOHC (rantai)), bagian bernomor 6 adalah…"
+      },
+      "opts": [
+       {
+        "id": "lengan penegang"
+       },
+       {
+        "id": "penegang"
+       },
+       {
+        "id": "katup"
+       },
+       {
+        "id": "katup hisap"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "テンショナ = penegang. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig09.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-10",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 10 — Sirkulasi oli"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 10 (Sirkulasi oli), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "katup hisap"
+       },
+       {
+        "id": "bodi"
+       },
+       {
+        "id": "sakelar tekanan oli"
+       },
+       {
+        "id": "peredam kejut"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "オイル・プレッシャ・スイッチ = sakelar tekanan oli. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig10.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 10 (Sirkulasi oli), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "selang rem"
+       },
+       {
+        "id": "motor starter"
+       },
+       {
+        "id": "kunci kontak"
+       },
+       {
+        "id": "pipa penyalur oli"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "オイル・デリバリ・パイプ = pipa penyalur oli. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig10.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 10 (Sirkulasi oli), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "nosel semprot oli"
+       },
+       {
+        "id": "saluran oli (oil gallery)"
+       },
+       {
+        "id": "selang bawah radiator"
+       },
+       {
+        "id": "penerus tenaga"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "オイル・ギャラリ = saluran oli (oil gallery). (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig10.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 10 (Sirkulasi oli), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "suspensi"
+       },
+       {
+        "id": "termostat"
+       },
+       {
+        "id": "kanister arang"
+       },
+       {
+        "id": "nosel semprot oli"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "オイル・ジェット = nosel semprot oli. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig10.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 10 (Sirkulasi oli), bagian bernomor 5 adalah…"
+      },
+      "opts": [
+       {
+        "id": "lengan rocker"
+       },
+       {
+        "id": "saringan oli (strainer)"
+       },
+       {
+        "id": "katup"
+       },
+       {
+        "id": "kunci kontak"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "オイル・ストレーナ = saringan oli (strainer). (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig10.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 10 (Sirkulasi oli), bagian bernomor 6 adalah…"
+      },
+      "opts": [
+       {
+        "id": "saluran oli (oil gallery)"
+       },
+       {
+        "id": "poros propeller"
+       },
+       {
+        "id": "sensor sudut poros engkol"
+       },
+       {
+        "id": "karter oli"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "オイル・パン = karter oli. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig10.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 10 (Sirkulasi oli), bagian bernomor 7 adalah…"
+      },
+      "opts": [
+       {
+        "id": "filter oli"
+       },
+       {
+        "id": "mesin"
+       },
+       {
+        "id": "mekanisme sambungan kemudi"
+       },
+       {
+        "id": "sistem kemudi"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "オイル・フィルタ = filter oli. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig10.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 10 (Sirkulasi oli), bagian bernomor 8 adalah…"
+      },
+      "opts": [
+       {
+        "id": "pompa oli"
+       },
+       {
+        "id": "poros engkol"
+       },
+       {
+        "id": "pegas"
+       },
+       {
+        "id": "sabuk timing"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "オイル・ポンプ = pompa oli. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig10.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-11",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 11 — Sistem pendingin air"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 11 (Sistem pendingin air), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "pelat belakang"
+       },
+       {
+        "id": "pompa air"
+       },
+       {
+        "id": "selang atas radiator"
+       },
+       {
+        "id": "pipa bahan bakar"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ラジエータ・アッパ・ホース = selang atas radiator. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig11.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 11 (Sistem pendingin air), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "seal piston"
+       },
+       {
+        "id": "sensor sudut poros engkol"
+       },
+       {
+        "id": "selang atas radiator"
+       },
+       {
+        "id": "pompa air"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ウォータ・ポンプ = pompa air. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig11.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 11 (Sistem pendingin air), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "penerus tenaga"
+       },
+       {
+        "id": "mesin"
+       },
+       {
+        "id": "termostat"
+       },
+       {
+        "id": "selang atas radiator"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "サーモスタット = termostat. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig11.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 11 (Sistem pendingin air), bagian bernomor 5 adalah…"
+      },
+      "opts": [
+       {
+        "id": "termostat"
+       },
+       {
+        "id": "kaliper"
+       },
+       {
+        "id": "selang bawah radiator"
+       },
+       {
+        "id": "konverter katalis"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ラジエータ・ロアー・ホース = selang bawah radiator. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig11.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 11 (Sistem pendingin air), bagian bernomor 6 adalah…"
+      },
+      "opts": [
+       {
+        "id": "silinder"
+       },
+       {
+        "id": "blok silinder"
+       },
+       {
+        "id": "motor kipas"
+       },
+       {
+        "id": "knalpot utama"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ファン・モータ = motor kipas. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig11.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 11 (Sistem pendingin air), bagian bernomor 7 adalah…"
+      },
+      "opts": [
+       {
+        "id": "saluran bypass"
+       },
+       {
+        "id": "roda dan ban"
+       },
+       {
+        "id": "mekanisme sambungan kemudi"
+       },
+       {
+        "id": "perangkat EGR"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "バイパス通路 = saluran bypass. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig11.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 11 (Sistem pendingin air), bagian bernomor 8 adalah…"
+      },
+      "opts": [
+       {
+        "id": "karter oli"
+       },
+       {
+        "id": "radiator"
+       },
+       {
+        "id": "pompa oli"
+       },
+       {
+        "id": "tangki surja"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ラジエータ = radiator. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig11.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-13",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 13 — Injeksi bahan bakar elektronik"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 13 (Injeksi bahan bakar elektronik), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "rem hidrolik tromol"
+       },
+       {
+        "id": "selang atas radiator"
+       },
+       {
+        "id": "pin geser"
+       },
+       {
+        "id": "pompa bahan bakar"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "フューエル・ポンプ = pompa bahan bakar. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig13.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 13 (Injeksi bahan bakar elektronik), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "tangki bahan bakar"
+       },
+       {
+        "id": "sistem lampu"
+       },
+       {
+        "id": "selang rem"
+       },
+       {
+        "id": "manifold buang"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "フューエル・タンク = tangki bahan bakar. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig13.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 13 (Injeksi bahan bakar elektronik), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "pemandu rantai"
+       },
+       {
+        "id": "pipa pernapasan tangki"
+       },
+       {
+        "id": "campuran udara-bahan bakar"
+       },
+       {
+        "id": "mekanisme operasi kemudi"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "フューエル・ブリーザ・パイプ = pipa pernapasan tangki. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig13.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 13 (Injeksi bahan bakar elektronik), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "kanister arang"
+       },
+       {
+        "id": "sistem rem"
+       },
+       {
+        "id": "pedal rem"
+       },
+       {
+        "id": "rem hidrolik cakram"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "チャコール・キャニスタ = kanister arang. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig13.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 13 (Injeksi bahan bakar elektronik), bagian bernomor 5 adalah…"
+      },
+      "opts": [
+       {
+        "id": "konverter katalis"
+       },
+       {
+        "id": "as roda depan"
+       },
+       {
+        "id": "mekanisme gigi kemudi"
+       },
+       {
+        "id": "pipa bahan bakar"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "フューエル・パイプ = pipa bahan bakar. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig13.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 13 (Injeksi bahan bakar elektronik), bagian bernomor 6 adalah…"
+      },
+      "opts": [
+       {
+        "id": "injektor"
+       },
+       {
+        "id": "pedal rem"
+       },
+       {
+        "id": "pompa air"
+       },
+       {
+        "id": "as roda depan"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "インジェクタ = injektor. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig13.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-14",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 14 — Sistem hisap dan buang"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 14 (Sistem hisap dan buang), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "saringan udara"
+       },
+       {
+        "id": "nosel semprot oli"
+       },
+       {
+        "id": "poros propeller"
+       },
+       {
+        "id": "pipa pernapasan tangki"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "エア・クリーナ = saringan udara. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 14 (Sistem hisap dan buang), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "kopling"
+       },
+       {
+        "id": "pipa pernapasan tangki"
+       },
+       {
+        "id": "sambungan universal"
+       },
+       {
+        "id": "selang hisap udara"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "エア・インテーク・ホース = selang hisap udara. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 14 (Sistem hisap dan buang), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "cakram"
+       },
+       {
+        "id": "kanister arang"
+       },
+       {
+        "id": "kunci kontak (saklar starter)"
+       },
+       {
+        "id": "throttle body"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "スロットル・ボデー = throttle body. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 14 (Sistem hisap dan buang), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "pompa oli"
+       },
+       {
+        "id": "tangki surja"
+       },
+       {
+        "id": "penerus tenaga"
+       },
+       {
+        "id": "silinder"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "サージ・タンク = tangki surja. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 14 (Sistem hisap dan buang), bagian bernomor 5 adalah…"
+      },
+      "opts": [
+       {
+        "id": "manifold hisap"
+       },
+       {
+        "id": "sensor sudut cam"
+       },
+       {
+        "id": "kanister arang"
+       },
+       {
+        "id": "pipa bahan bakar"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "インテーク・マニホールド = manifold hisap. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 14 (Sistem hisap dan buang), bagian bernomor 6 adalah…"
+      },
+      "opts": [
+       {
+        "id": "knalpot utama"
+       },
+       {
+        "id": "poros propeller"
+       },
+       {
+        "id": "stabilizer"
+       },
+       {
+        "id": "katup"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "メイン・マフラ = knalpot utama. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 14 (Sistem hisap dan buang), bagian bernomor 7 adalah…"
+      },
+      "opts": [
+       {
+        "id": "knalpot tambahan"
+       },
+       {
+        "id": "rantai timing"
+       },
+       {
+        "id": "pedal rem"
+       },
+       {
+        "id": "rem hidrolik tromol"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "サブ・マフラ = knalpot tambahan. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 14 (Sistem hisap dan buang), bagian bernomor 8 adalah…"
+      },
+      "opts": [
+       {
+        "id": "poros penggerak"
+       },
+       {
+        "id": "pipa gas buang"
+       },
+       {
+        "id": "aki"
+       },
+       {
+        "id": "bodi"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "エキゾースト・パイプ = pipa gas buang. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 14 (Sistem hisap dan buang), bagian bernomor 9 adalah…"
+      },
+      "opts": [
+       {
+        "id": "transmisi"
+       },
+       {
+        "id": "konverter katalis"
+       },
+       {
+        "id": "pedal rem"
+       },
+       {
+        "id": "radiator"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "触媒コンバータ = konverter katalis. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 14 (Sistem hisap dan buang), bagian bernomor 10 adalah…"
+      },
+      "opts": [
+       {
+        "id": "manifold buang"
+       },
+       {
+        "id": "nosel semprot oli"
+       },
+       {
+        "id": "pegas keong"
+       },
+       {
+        "id": "roda dan ban"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "エキゾースト・マニホールド = manifold buang. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 14 (Sistem hisap dan buang), bagian bernomor 11 adalah…"
+      },
+      "opts": [
+       {
+        "id": "kepala silinder"
+       },
+       {
+        "id": "perangkat EGR"
+       },
+       {
+        "id": "bodi"
+       },
+       {
+        "id": "sistem kemudi"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "EGR装置 = perangkat EGR. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-15",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 15 — Sistem starter"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 15 (Sistem starter), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "selang bawah radiator"
+       },
+       {
+        "id": "selang rem"
+       },
+       {
+        "id": "kunci kontak (saklar starter)"
+       },
+       {
+        "id": "kopling"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "イグニッション・スイッチ = kunci kontak (saklar starter). (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig15.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 15 (Sistem starter), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "perangkat EGR"
+       },
+       {
+        "id": "pegas"
+       },
+       {
+        "id": "pompa air"
+       },
+       {
+        "id": "aki"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "バッテリ = aki. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig15.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 15 (Sistem starter), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "mekanisme sambungan kemudi"
+       },
+       {
+        "id": "pompa bahan bakar"
+       },
+       {
+        "id": "motor starter"
+       },
+       {
+        "id": "pegas"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "スタータ = motor starter. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig15.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-16",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 16 — Sistem pengisian"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 16 (Sistem pengisian), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "sistem lampu"
+       },
+       {
+        "id": "kunci kontak"
+       },
+       {
+        "id": "nosel semprot oli"
+       },
+       {
+        "id": "poros penggerak"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "イグニッション・スイッチ = kunci kontak. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig16.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 16 (Sistem pengisian), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "aki"
+       },
+       {
+        "id": "pompa air"
+       },
+       {
+        "id": "kunci kontak (saklar starter)"
+       },
+       {
+        "id": "sensor sudut cam"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "バッテリ = aki. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig16.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 16 (Sistem pengisian), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "mekanisme sambungan kemudi"
+       },
+       {
+        "id": "rantai timing"
+       },
+       {
+        "id": "saringan udara"
+       },
+       {
+        "id": "alternator"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "オルタネータ = alternator. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig16.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-17",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 17 — Sistem pengapian"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 17 (Sistem pengapian), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "katup"
+       },
+       {
+        "id": "saringan oli (strainer)"
+       },
+       {
+        "id": "rantai timing"
+       },
+       {
+        "id": "koil pengapian"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "イグニッション・コイル = koil pengapian. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig17.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 17 (Sistem pengapian), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "mekanisme gigi kemudi"
+       },
+       {
+        "id": "poros engkol"
+       },
+       {
+        "id": "tangki bahan bakar"
+       },
+       {
+        "id": "busi"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "スパーク・プラグ = busi. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig17.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 17 (Sistem pengapian), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "pin geser"
+       },
+       {
+        "id": "kunci kontak"
+       },
+       {
+        "id": "sistem kemudi"
+       },
+       {
+        "id": "nosel semprot oli"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "イグニッション・スイッチ = kunci kontak. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig17.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 17 (Sistem pengapian), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "unit kontrol elektronik (ECU)"
+       },
+       {
+        "id": "kunci kontak (saklar starter)"
+       },
+       {
+        "id": "mesin"
+       },
+       {
+        "id": "katup"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ECU = unit kontrol elektronik (ECU). (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig17.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 17 (Sistem pengapian), bagian bernomor 5 adalah…"
+      },
+      "opts": [
+       {
+        "id": "kampas rem"
+       },
+       {
+        "id": "suspensi"
+       },
+       {
+        "id": "aki"
+       },
+       {
+        "id": "pemandu rantai"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "バッテリ = aki. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig17.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 17 (Sistem pengapian), bagian bernomor 6 adalah…"
+      },
+      "opts": [
+       {
+        "id": "sensor sudut cam"
+       },
+       {
+        "id": "pin geser"
+       },
+       {
+        "id": "unit kontrol elektronik (ECU)"
+       },
+       {
+        "id": "koil pengapian"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "カム角センサ = sensor sudut cam. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig17.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 17 (Sistem pengapian), bagian bernomor 7 adalah…"
+      },
+      "opts": [
+       {
+        "id": "stabilizer"
+       },
+       {
+        "id": "pipa penyalur oli"
+       },
+       {
+        "id": "selang bawah radiator"
+       },
+       {
+        "id": "sensor sudut poros engkol"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "クランク角センサ = sensor sudut poros engkol. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig17.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-20",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 20 — Susunan mobil"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 20 (Susunan mobil), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "sistem kemudi"
+       },
+       {
+        "id": "manifold buang"
+       },
+       {
+        "id": "mekanisme operasi kemudi"
+       },
+       {
+        "id": "karter oli"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ステアリング装置 = sistem kemudi. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig20.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 20 (Susunan mobil), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "roda dan ban"
+       },
+       {
+        "id": "bodi"
+       },
+       {
+        "id": "gigi akhir dan diferensial"
+       },
+       {
+        "id": "sistem lampu"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ボデー = bodi. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig20.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 20 (Susunan mobil), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "bodi"
+       },
+       {
+        "id": "roda dan ban"
+       },
+       {
+        "id": "poros engkol"
+       },
+       {
+        "id": "katup"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ホイール及びタイヤ = roda dan ban. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig20.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 20 (Susunan mobil), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "seal piston"
+       },
+       {
+        "id": "suspensi"
+       },
+       {
+        "id": "pipa penyalur oli"
+       },
+       {
+        "id": "kopling"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "サスペンション = suspensi. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig20.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 20 (Susunan mobil), bagian bernomor 5 adalah…"
+      },
+      "opts": [
+       {
+        "id": "sistem rem"
+       },
+       {
+        "id": "silinder"
+       },
+       {
+        "id": "sistem lampu"
+       },
+       {
+        "id": "saringan udara"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ブレーキ装置 = sistem rem. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig20.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 20 (Susunan mobil), bagian bernomor 6 adalah…"
+      },
+      "opts": [
+       {
+        "id": "as roda belakang"
+       },
+       {
+        "id": "saluran oli (oil gallery)"
+       },
+       {
+        "id": "kunci kontak"
+       },
+       {
+        "id": "penerus tenaga"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "動力伝達装置 = penerus tenaga. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig20.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 20 (Susunan mobil), bagian bernomor 7 adalah…"
+      },
+      "opts": [
+       {
+        "id": "katup hisap"
+       },
+       {
+        "id": "sistem lampu"
+       },
+       {
+        "id": "bodi"
+       },
+       {
+        "id": "selang rem"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "灯火装置 = sistem lampu. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig20.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 20 (Susunan mobil), bagian bernomor 8 adalah…"
+      },
+      "opts": [
+       {
+        "id": "torak"
+       },
+       {
+        "id": "pipa rem"
+       },
+       {
+        "id": "mesin"
+       },
+       {
+        "id": "sistem lampu"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "エンジン = mesin. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig20.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-21",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 21 — Mesin depan penggerak belakang (FR)"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 21 (Mesin depan penggerak belakang (FR)), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "manifold buang"
+       },
+       {
+        "id": "sepatu rem"
+       },
+       {
+        "id": "pin geser"
+       },
+       {
+        "id": "mesin"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "エンジン = mesin. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig21.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 21 (Mesin depan penggerak belakang (FR)), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "nosel semprot oli"
+       },
+       {
+        "id": "penerus tenaga"
+       },
+       {
+        "id": "unit kontrol elektronik (ECU)"
+       },
+       {
+        "id": "gigi akhir dan diferensial"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ファイナル・ギヤ及びディファレンシャル = gigi akhir dan diferensial. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig21.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 21 (Mesin depan penggerak belakang (FR)), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "sistem rem"
+       },
+       {
+        "id": "manifold hisap"
+       },
+       {
+        "id": "poros propeller"
+       },
+       {
+        "id": "pemandu rantai"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "プロペラ・シャフト = poros propeller. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig21.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 21 (Mesin depan penggerak belakang (FR)), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "pipa gas buang"
+       },
+       {
+        "id": "sambungan universal"
+       },
+       {
+        "id": "alternator"
+       },
+       {
+        "id": "pegas"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ユニバーサル・ジョイント = sambungan universal. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig21.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 21 (Mesin depan penggerak belakang (FR)), bagian bernomor 5 adalah…"
+      },
+      "opts": [
+       {
+        "id": "mekanisme gigi kemudi"
+       },
+       {
+        "id": "pompa bahan bakar"
+       },
+       {
+        "id": "pipa rem"
+       },
+       {
+        "id": "transmisi"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "トランスミッション = transmisi. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig21.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 21 (Mesin depan penggerak belakang (FR)), bagian bernomor 6 adalah…"
+      },
+      "opts": [
+       {
+        "id": "karter oli"
+       },
+       {
+        "id": "seal piston"
+       },
+       {
+        "id": "mesin"
+       },
+       {
+        "id": "kopling"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "クラッチ = kopling. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig21.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-22",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 22 — Mesin depan penggerak depan (FF)"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 22 (Mesin depan penggerak depan (FF)), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "gigi akhir dan diferensial"
+       },
+       {
+        "id": "motor kipas"
+       },
+       {
+        "id": "saringan oli (strainer)"
+       },
+       {
+        "id": "injektor"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ファイナル・ギヤ及びディファレンシャル = gigi akhir dan diferensial. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig22.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 22 (Mesin depan penggerak depan (FF)), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "bodi"
+       },
+       {
+        "id": "mesin"
+       },
+       {
+        "id": "katup hisap"
+       },
+       {
+        "id": "poros penggerak"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ドライブ・シャフト = poros penggerak. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig22.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 22 (Mesin depan penggerak depan (FF)), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "transmisi"
+       },
+       {
+        "id": "kunci kontak (saklar starter)"
+       },
+       {
+        "id": "batang penghubung"
+       },
+       {
+        "id": "throttle body"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "トランスミッション = transmisi. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig22.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 22 (Mesin depan penggerak depan (FF)), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "as roda belakang"
+       },
+       {
+        "id": "kopling"
+       },
+       {
+        "id": "sabuk timing"
+       },
+       {
+        "id": "mekanisme sambungan kemudi"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "クラッチ = kopling. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig22.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 22 (Mesin depan penggerak depan (FF)), bagian bernomor 5 adalah…"
+      },
+      "opts": [
+       {
+        "id": "pedal rem"
+       },
+       {
+        "id": "poros propeller"
+       },
+       {
+        "id": "mesin"
+       },
+       {
+        "id": "cakram"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "エンジン = mesin. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig22.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-23",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 23 — Axle dan suspensi tipe gandar"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 23 (Axle dan suspensi tipe gandar), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "pipa bahan bakar"
+       },
+       {
+        "id": "peredam kejut"
+       },
+       {
+        "id": "cakram"
+       },
+       {
+        "id": "saluran bypass"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ショック・アブソーバ = peredam kejut. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig23.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 23 (Axle dan suspensi tipe gandar), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "as roda belakang"
+       },
+       {
+        "id": "transmisi"
+       },
+       {
+        "id": "kampas rem"
+       },
+       {
+        "id": "penerus tenaga"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "リヤ・アクスル = as roda belakang. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig23.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 23 (Axle dan suspensi tipe gandar), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "katup buang"
+       },
+       {
+        "id": "pin geser"
+       },
+       {
+        "id": "busi"
+       },
+       {
+        "id": "pegas"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "スプリング = pegas. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig23.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 23 (Axle dan suspensi tipe gandar), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "as roda depan"
+       },
+       {
+        "id": "throttle body"
+       },
+       {
+        "id": "selang hisap udara"
+       },
+       {
+        "id": "torak"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "フロント・アクスル = as roda depan. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig23.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-24",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 24 — Suspensi independen"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 24 (Suspensi independen), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "pipa penyalur oli"
+       },
+       {
+        "id": "knalpot tambahan"
+       },
+       {
+        "id": "kunci kontak"
+       },
+       {
+        "id": "pegas keong"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "コイル・スプリング = pegas keong. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig24.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 24 (Suspensi independen), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "suspensi"
+       },
+       {
+        "id": "peredam kejut"
+       },
+       {
+        "id": "kopling"
+       },
+       {
+        "id": "batang penghubung"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ショック・アブソーバ = peredam kejut. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig24.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 24 (Suspensi independen), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "stabilizer"
+       },
+       {
+        "id": "kaliper"
+       },
+       {
+        "id": "selang atas radiator"
+       },
+       {
+        "id": "kampas rem"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "スタビライザ = stabilizer. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig24.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 24 (Suspensi independen), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "kaliper"
+       },
+       {
+        "id": "kampas rem"
+       },
+       {
+        "id": "lengan bawah suspensi"
+       },
+       {
+        "id": "tangki surja"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ロアー・サスペンション・アーム = lengan bawah suspensi. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig24.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-27",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 27 — Kemudi rack & pinion"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 27 (Kemudi rack & pinion), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "injektor"
+       },
+       {
+        "id": "transmisi"
+       },
+       {
+        "id": "suspensi"
+       },
+       {
+        "id": "mekanisme operasi kemudi"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ステアリング操作機構 = mekanisme operasi kemudi. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig27.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 27 (Kemudi rack & pinion), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "saluran bypass"
+       },
+       {
+        "id": "tangki bahan bakar"
+       },
+       {
+        "id": "mekanisme gigi kemudi"
+       },
+       {
+        "id": "selang bawah radiator"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ステアリング・ギヤ機構 = mekanisme gigi kemudi. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig27.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 27 (Kemudi rack & pinion), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "mekanisme sambungan kemudi"
+       },
+       {
+        "id": "mekanisme operasi kemudi"
+       },
+       {
+        "id": "poros penggerak"
+       },
+       {
+        "id": "pedal rem"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ステアリング・リンク機構 = mekanisme sambungan kemudi. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig27.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-33",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 33 — Struktur rem hidrolik"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 33 (Struktur rem hidrolik), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "master silinder"
+       },
+       {
+        "id": "manifold hisap"
+       },
+       {
+        "id": "pegas"
+       },
+       {
+        "id": "alternator"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "マスタ・シリンダ = master silinder. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig33.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 33 (Struktur rem hidrolik), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "sistem rem"
+       },
+       {
+        "id": "sensor sudut cam"
+       },
+       {
+        "id": "pedal rem"
+       },
+       {
+        "id": "selang rem"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "ブレーキ・ペダル = pedal rem. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig33.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 33 (Struktur rem hidrolik), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "termostat"
+       },
+       {
+        "id": "selang rem"
+       },
+       {
+        "id": "sakelar tekanan oli"
+       },
+       {
+        "id": "knalpot utama"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ブレーキ・ホース = selang rem. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig33.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 33 (Struktur rem hidrolik), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "sistem kemudi"
+       },
+       {
+        "id": "pipa pernapasan tangki"
+       },
+       {
+        "id": "sensor sudut poros engkol"
+       },
+       {
+        "id": "rem hidrolik cakram"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ディスク式油圧ブレーキ = rem hidrolik cakram. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig33.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 33 (Struktur rem hidrolik), bagian bernomor 5 adalah…"
+      },
+      "opts": [
+       {
+        "id": "konverter katalis"
+       },
+       {
+        "id": "pipa rem"
+       },
+       {
+        "id": "as roda belakang"
+       },
+       {
+        "id": "busi"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ブレーキ・パイプ = pipa rem. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig33.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 33 (Struktur rem hidrolik), bagian bernomor 6 adalah…"
+      },
+      "opts": [
+       {
+        "id": "throttle body"
+       },
+       {
+        "id": "sistem lampu"
+       },
+       {
+        "id": "mekanisme operasi kemudi"
+       },
+       {
+        "id": "rem hidrolik tromol"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "ドラム式油圧ブレーキ = rem hidrolik tromol. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig33.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-35",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 35 — Rem tromol (2)"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 35 (Rem tromol (2)), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "saluran bypass"
+       },
+       {
+        "id": "sepatu rem"
+       },
+       {
+        "id": "master silinder"
+       },
+       {
+        "id": "koil pengapian"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ブレーキ・シュー = sepatu rem. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig35.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 35 (Rem tromol (2)), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "silinder roda"
+       },
+       {
+        "id": "selang hisap udara"
+       },
+       {
+        "id": "mesin"
+       },
+       {
+        "id": "lengan bawah suspensi"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ホイール・シリンダ = silinder roda. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig35.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 35 (Rem tromol (2)), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "tromol rem"
+       },
+       {
+        "id": "mekanisme operasi kemudi"
+       },
+       {
+        "id": "selang atas radiator"
+       },
+       {
+        "id": "katup hisap"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ブレーキ・ドラム = tromol rem. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig35.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 35 (Rem tromol (2)), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "saluran oli (oil gallery)"
+       },
+       {
+        "id": "lengan rocker"
+       },
+       {
+        "id": "selang rem"
+       },
+       {
+        "id": "pelat belakang"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "バック・プレート = pelat belakang. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig35.webp"
+      }
+     }
+    ]
+   },
+   {
+    "id": "bab4-qimg-36",
+    "rev": true,
+    "title": {
+     "id": "Soal bergambar: Gambar 36 — Kaliper rem cakram mengambang"
+    },
+    "items": [
+     {
+      "q": {
+       "id": "Pada Gambar 36 (Kaliper rem cakram mengambang), bagian bernomor 1 adalah…"
+      },
+      "opts": [
+       {
+        "id": "cakram"
+       },
+       {
+        "id": "konverter katalis"
+       },
+       {
+        "id": "bodi"
+       },
+       {
+        "id": "pipa bahan bakar"
+       }
+      ],
+      "a": 0,
+      "exp": {
+       "id": "ディスク = cakram. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig36.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 36 (Kaliper rem cakram mengambang), bagian bernomor 2 adalah…"
+      },
+      "opts": [
+       {
+        "id": "kampas rem"
+       },
+       {
+        "id": "pin geser"
+       },
+       {
+        "id": "selang atas radiator"
+       },
+       {
+        "id": "sakelar tekanan oli"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "スライド・ピン = pin geser. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig36.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 36 (Kaliper rem cakram mengambang), bagian bernomor 3 adalah…"
+      },
+      "opts": [
+       {
+        "id": "sistem rem"
+       },
+       {
+        "id": "torak"
+       },
+       {
+        "id": "saluran bypass"
+       },
+       {
+        "id": "termostat"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ピストン = torak. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig36.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 36 (Kaliper rem cakram mengambang), bagian bernomor 4 adalah…"
+      },
+      "opts": [
+       {
+        "id": "rantai timing"
+       },
+       {
+        "id": "lengan rocker"
+       },
+       {
+        "id": "silinder"
+       },
+       {
+        "id": "sambungan universal"
+       }
+      ],
+      "a": 2,
+      "exp": {
+       "id": "シリンダ = silinder. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig36.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 36 (Kaliper rem cakram mengambang), bagian bernomor 5 adalah…"
+      },
+      "opts": [
+       {
+        "id": "sepatu rem"
+       },
+       {
+        "id": "seal piston"
+       },
+       {
+        "id": "saringan udara"
+       },
+       {
+        "id": "kopling"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "ピストン・シール = seal piston. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig36.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 36 (Kaliper rem cakram mengambang), bagian bernomor 6 adalah…"
+      },
+      "opts": [
+       {
+        "id": "kunci kontak"
+       },
+       {
+        "id": "kaliper"
+       },
+       {
+        "id": "rantai timing"
+       },
+       {
+        "id": "pegas"
+       }
+      ],
+      "a": 1,
+      "exp": {
+       "id": "キャリパ = kaliper. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig36.webp"
+      }
+     },
+     {
+      "q": {
+       "id": "Pada Gambar 36 (Kaliper rem cakram mengambang), bagian bernomor 7 adalah…"
+      },
+      "opts": [
+       {
+        "id": "sistem lampu"
+       },
+       {
+        "id": "kepala silinder"
+       },
+       {
+        "id": "sistem rem"
+       },
+       {
+        "id": "kampas rem"
+       }
+      ],
+      "a": 3,
+      "exp": {
+       "id": "パッド = kampas rem. (Gambar: JICA, イラスト集)"
+      },
+      "img": {
+       "src": "./assets/ssw/auto-maintenance/fig/jica-fig36.webp"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "tema": [
+  {
+   "id": "tema-mesin",
+   "tema": true,
+   "title": {
+    "id": "Tema: Mesin",
+    "jp": "テーマ：エンジン"
+   },
+   "items": [
+    {
+     "q": {
+      "id": "Benar atau salah: “Mesin bensin menyala dengan busi.”",
+      "jp": "○か×か。「ガソリンエンジンは、{点火|てんか}プラグで{火|ひ}をつけます。」"
+     },
+     "opts": [
+      {
+       "id": "Benar (○)",
+       "jp": "○ {正|ただ}しい"
+      },
+      {
+       "id": "Salah (×)",
+       "jp": "× {間違|まちが}い"
+      }
+     ],
+     "a": 0,
+     "exp": {
+      "id": "Benar.",
+      "jp": "{点火|てんか}プラグです。"
+     },
+     "mb": true
+    },
+    {
+     "q": {
+      "id": "Bagian yang menyaring udara masuk adalah…",
+      "jp": "{入|はい}る{空気|くうき}のほこりをとる{部品|ぶひん}はどれですか。"
+     },
+     "opts": [
+      {
+       "id": "エアクリーナ",
+       "jp": "エアクリーナ"
+      },
+      {
+       "id": "マフラ",
+       "jp": "マフラ"
+      },
+      {
+       "id": "ラジエータ",
+       "jp": "ラジエータ"
+      },
+      {
+       "id": "フライホイール",
+       "jp": "フライホイール"
+      }
+     ],
+     "a": 0,
+     "exp": {
+      "id": "エアクリーナ.",
+      "jp": "エアクリーナです。"
+     }
+    },
+    {
+     "q": {
+      "id": "Benar atau salah: “Oli mesin sedikit tidak masalah selama lampu tidak menyala.”",
+      "jp": "○か×か。「オイルは、{警告|けいこく}{灯|ひ}がつくまで{少|すく}なくても{問題|もんだい}ありません。」"
+     },
+     "opts": [
+      {
+       "id": "Benar (○)",
+       "jp": "○ {正|ただ}しい"
+      },
+      {
+       "id": "Salah (×)",
+       "jp": "× {間違|まちが}い"
+      }
+     ],
+     "a": 1,
+     "exp": {
+      "id": "Periksa berkala.",
+      "jp": "つくまえに{点検|てんけん}します。"
+     },
+     "mb": true
+    },
+    {
+     "q": {
+      "id": "Tutup radiator dibuka…",
+      "jp": "ラジエータキャップを{開|あ}けるのは、いつですか。"
+     },
+     "opts": [
+      {
+       "id": "Saat mesin sudah dingin",
+       "jp": "エンジンが{冷|ひ}えているとき"
+      },
+      {
+       "id": "Saat mesin sangat panas",
+       "jp": "エンジンが{熱|あつ}いとき"
+      },
+      {
+       "id": "Saat jalan",
+       "jp": "{走|はし}っているとき"
+      },
+      {
+       "id": "Kapan saja",
+       "jp": "いつでもよい"
+      }
+     ],
+     "a": 0,
+     "exp": {
+      "id": "Hanya saat dingin.",
+      "jp": "{冷|ひ}えているときだけです。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "tema-sasis",
+   "tema": true,
+   "title": {
+    "id": "Tema: Sasis",
+    "jp": "テーマ：シャシ"
+   },
+   "items": [
+    {
+     "q": {
+      "id": "Bagian rem cakram yang dijepit pad adalah…",
+      "jp": "ディスクブレーキで、パッドがはさむ{部品|ぶひん}はどれですか。"
+     },
+     "opts": [
+      {
+       "id": "ローター",
+       "jp": "ローター"
+      },
+      {
+       "id": "ドラム",
+       "jp": "ドラム"
+      },
+      {
+       "id": "ブーツ",
+       "jp": "ブーツ"
+      },
+      {
+       "id": "タイロッド",
+       "jp": "タイロッド"
+      }
+     ],
+     "a": 0,
+     "exp": {
+      "id": "ローター.",
+      "jp": "ローターです。"
+     }
+    },
+    {
+     "q": {
+      "id": "Benar atau salah: “Minyak rem menyerap air.”",
+      "jp": "○か×か。「ブレーキ{液|えき}は{水分|すいぶん}をすいます。」"
+     },
+     "opts": [
+      {
+       "id": "Benar (○)",
+       "jp": "○ {正|ただ}しい"
+      },
+      {
+       "id": "Salah (×)",
+       "jp": "× {間違|まちが}い"
+      }
+     ],
+     "a": 0,
+     "exp": {
+      "id": "Benar.",
+      "jp": "{水分|すいぶん}に{注意|ちゅうい}します。"
+     },
+     "mb": true
+    },
+    {
+     "q": {
+      "id": "Benar atau salah: “Batas alur ban menurut aturan adalah 1,6 mm.”",
+      "jp": "○か×か。「タイヤの{溝|みぞ}の{限度|げんど}は、1.6mmです。」"
+     },
+     "opts": [
+      {
+       "id": "Benar (○)",
+       "jp": "○ {正|ただ}しい"
+      },
+      {
+       "id": "Salah (×)",
+       "jp": "× {間違|まちが}い"
+      }
+     ],
+     "a": 0,
+     "exp": {
+      "id": "Benar.",
+      "jp": "スリップサインで{分|ぶん}かります。"
+     },
+     "mb": true
+    },
+    {
+     "q": {
+      "id": "Bagian yang menggerakkan roda ke kiri dan kanan pada kemudi adalah…",
+      "jp": "ステアリングで、{車輪|しゃりん}を{左右|さゆう}に{動|うご}かす{棒|ぼう}はどれですか。"
+     },
+     "opts": [
+      {
+       "id": "タイロッド",
+       "jp": "タイロッド"
+      },
+      {
+       "id": "スタビライザ",
+       "jp": "スタビライザ"
+      },
+      {
+       "id": "クラッチ",
+       "jp": "クラッチ"
+      },
+      {
+       "id": "マフラ",
+       "jp": "マフラ"
+      }
+     ],
+     "a": 0,
+     "exp": {
+      "id": "タイロッド.",
+      "jp": "タイロッドです。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "tema-keselamatan",
+   "tema": true,
+   "title": {
+    "id": "Tema: Keselamatan",
+    "jp": "テーマ：あんぜん"
+   },
+   "items": [
+    {
+     "q": {
+      "id": "Benar atau salah: “Orang yang belum dilatih tidak boleh menyentuh kabel oranye hybrid.”",
+      "jp": "○か×か。「{教育|きょういく}を{受|う}けていない{人|ひと}は、ハイブリッド{車|しゃ}のオレンジ{色|いろ}の{配線|はいせん}にさわってはいけません。」"
+     },
+     "opts": [
+      {
+       "id": "Benar (○)",
+       "jp": "○ {正|ただ}しい"
+      },
+      {
+       "id": "Salah (×)",
+       "jp": "× {間違|まちが}い"
+      }
+     ],
+     "a": 0,
+     "exp": {
+      "id": "Tegangan tinggi.",
+      "jp": "{命|いのち}にかかわります。"
+     },
+     "mb": true
+    },
+    {
+     "q": {
+      "id": "Benar atau salah: “Terminal aki: lepas minus lebih dulu.”",
+      "jp": "○か×か。「バッテリの{端子|たんし}は、マイナスから{先|さき}にはずします。」"
+     },
+     "opts": [
+      {
+       "id": "Benar (○)",
+       "jp": "○ {正|ただ}しい"
+      },
+      {
+       "id": "Salah (×)",
+       "jp": "× {間違|まちが}い"
+      }
+     ],
+     "a": 0,
+     "exp": {
+      "id": "Benar.",
+      "jp": "マイナスが{先|さき}です。"
+     },
+     "mb": true
+    },
+    {
+     "q": {
+      "id": "Mesin boleh dihidupkan di…",
+      "jp": "エンジンをかけてよい{場所|ばしょ}はどれですか。"
+     },
+     "opts": [
+      {
+       "id": "Tempat berventilasi baik",
+       "jp": "{風|かぜ}{通|とお}しのよい{所|ところ}"
+      },
+      {
+       "id": "Ruang tertutup",
+       "jp": "しめきった{部屋|へや}"
+      },
+      {
+       "id": "Gudang tanpa jendela",
+       "jp": "まどのない{倉庫|そうこ}"
+      },
+      {
+       "id": "Di bawah mobil",
+       "jp": "{車|くるま}の{下|した}"
+      }
+     ],
+     "a": 0,
+     "exp": {
+      "id": "Karena gas CO.",
+      "jp": "COガスのためです。"
+     }
+    },
+    {
+     "q": {
+      "id": "Benar atau salah: “Oli bekas dibuang sesuai aturan.”",
+      "jp": "○か×か。「{使|つか}ったオイルは、{決|き}まりどおりにすてます。」"
+     },
+     "opts": [
+      {
+       "id": "Benar (○)",
+       "jp": "○ {正|ただ}しい"
+      },
+      {
+       "id": "Salah (×)",
+       "jp": "× {間違|まちが}い"
+      }
+     ],
+     "a": 0,
+     "exp": {
+      "id": "Benar.",
+      "jp": "{環境|かんきょう}を{守|まも}ります。"
+     },
+     "mb": true
+    }
+   ]
+  }
+ ]
+}
