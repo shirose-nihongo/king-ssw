@@ -7,7 +7,7 @@
 // v12 — halaman hasil ujian rombak total: skor besar dengan %, breakdown
 // benar/salah/kosong, navigasi pembahasan per-soal dengan grid jump dan
 // tombol prev/next, tombol "Ulangi Ujian".
-const CACHE = "king-ssw-v239";
+const CACHE = "king-ssw-v245";
 const AUDIO = "shirose-audio-v1";   // voice pack offline (tidak dihapus saat update)
 const KVG = "shirose-kvg-v1";       // goresan KanjiVG yang pernah dibuka (offline; tidak dihapus saat update)
 const CORE = [
@@ -42,9 +42,6 @@ const CORE = [
   "./data/kana-strokes.json",
   "./js/ssw.js",
   "./js/jft.js",
-  "./js/gacha.js",
-  "./cloudflare/gacha-core.js",
-  "./cloudflare/gacha-items.js",
   "./css/jft.css",
   "./data/jft/tryout.json",
   "./data/jft/isi.json",
@@ -54,7 +51,7 @@ const CORE = [
   "./js/ssw-art.js",
   "./css/ssw.css",
   "./js/mensetsu.js",
-  "./js/mensetsu-engine.js", "./js/mensetsu-prep.js",
+  "./js/mensetsu-engine.js", "./js/mensetsu-prep.js", "./js/mensetsu-furi-skrip.js",
   "./css/mensetsu.css",
   "./data/mensetsu/index.json",
 ];

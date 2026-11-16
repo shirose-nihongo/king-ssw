@@ -2,7 +2,7 @@
 (function(){
   var KEY="shirose-theme";
   /* [id, ikon, nama, warna-bar, level-minimal]. Level = level karakter (XP). Guru/admin bebas. */
-  var TH=[["putih","🤍","Putih (bawaan)","#f4f0ff",1],["mono","⚫","Monokrom","#111111",1],["ungu","🟣","Ungu","#161b36",10],["cerah","☀️","Cerah","#12345f",15],["hujan","🌧️","Hujan","#1c2733",20],["salju","❄️","Salju / Dingin","#243a52",40],["panas","🌊","Musim Panas","#0b3b5c",50],["badai","⛈️","Badai","#1a1a24",50],["gugur","🍁","Gugur","#2d1a14",75],["semi","🌸","Semi","#2e1f4a",75]];
+  var TH=[["putih","🤍","Putih (bawaan)","#f4f0ff",1],["mono","⚫","Monokrom","#111111",1],["ungu","🟣","Ungu","#161b36",1],["cerah","☀️","Cerah","#12345f",15],["hujan","🌧️","Hujan","#1c2733",20],["salju","❄️","Salju / Dingin","#243a52",40],["panas","🌊","Musim Panas","#0b3b5c",50],["badai","⛈️","Badai","#1a1a24",50],["gugur","🍁","Gugur","#2d1a14",75],["semi","🌸","Semi","#2e1f4a",75]];
   var DEF="putih", OWNED={};  /* OWNED: tema dari gacha (id tanpa awalan theme_) → terbuka tanpa syarat level */
   function myLevel(){var s=window.__SHIROSE_STATE||{};if(window.SHIROSE_THEME_FREE)return 999;return (s.gami&&s.gami.level_karakter)||1}
   function locked(t){if(OWNED[t])return false;for(var i=0;i<TH.length;i++)if(TH[i][0]===t)return myLevel()<TH[i][4];return false}
@@ -62,7 +62,7 @@
     ["click","mousedown","touchstart","contextmenu"].forEach(function(ev){o.addEventListener(ev,function(e){e.preventDefault();e.stopPropagation()},true)});
     document.body.appendChild(o);document.documentElement.classList.add("th-previewing");
     var p=document.createElement("div");p.id="th-prev";
-    p.innerHTML='<span>👀 Pratinjau <b>'+x[2]+'</b> · 🔒 Lv '+x[4]+' atau dari 🎰 Gacha</span><button class="pv-x" onclick="SHIROSE_THEME.closePreview()">✕ Batalkan pratinjau</button>';
+    p.innerHTML='<span>👀 Pratinjau <b>'+x[2]+'</b> · 🔒 Lv '+x[4]+'</span><button class="pv-x" onclick="SHIROSE_THEME.closePreview()">✕ Batalkan pratinjau</button>';
     document.body.appendChild(p);
   }
   window.addEventListener("hashchange",function(){clearPrev();apply(get())});
