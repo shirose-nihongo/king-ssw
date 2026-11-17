@@ -14,11 +14,17 @@
 import {
   initSswCore, esc, rich, plain, spoken, shuffle, seeded, isGuru, loadBidang, bidangBySlug, loadPack, getProgress, touch, flush, logAct,
   babProgress, STATUS_LABEL, babStatus, siswaBolehBab, newCard, cardState, schedule, cardStats, buildQueue, fullQuizzes, EXAM_SPEC, readingQuiz, recordQuiz, sswAllowed, loadKelasAkses, points, syncRank, loadRank, uidNow, syncCards, vnum, DAY
-} from "./ssw-core.js?v=20261117t";
+} from "./ssw-core.js?v=20261117u";
 import { islandSVG, buildingSVG, bldFor } from "./ssw-art.js?v=20261113zl";
 
 /* Teks resmi (PDF) per bidang — file di assets/ssw/<slug>/pdf atau tautan situs resmi. */
 const PDF_SUMBER = {
+  "linen-supply": [
+    { t: "試験基準 初級・専門級 (resmi JLSA)", u: "assets/ssw/linen-supply/pdf/jlsa-kizyun181009.pdf" },
+    { t: "Soal contoh 学科 初級 (resmi)", u: "assets/ssw/linen-supply/pdf/jlsa-test2019.pdf" },
+    { t: "Soal contoh 学科 専門級 (resmi)", u: "assets/ssw/linen-supply/pdf/jlsa-test-senmon.pdf" },
+    { t: "Statistik pelaksanaan ujian (JLSA)", u: "assets/ssw/linen-supply/pdf/jlsa-jokyo-r01-r07.pdf" }
+  ],
   "aviation-gh": [
     { t: "Teks belajar resmi GH — Text 2 (JP, 52 hal., Rev. 2)", u: "assets/ssw/aviation-gh/pdf/jaea-gh-text2-gh-rev2-1.pdf" },
     { t: "Teks GH edisi 1 (arsip, 40 hal.)", u: "assets/ssw/aviation-gh/pdf/jaea-gh-text-1go.pdf" },
@@ -402,6 +408,7 @@ async function renderBaca([slug, subId, mode, lang]) {
         <button class="sw-chip" onclick="route('ssw-bab/${slug}/${c.id}')">☰ Daftar isi</button>
       </div>
     </div>
+    <div class="sw-split ${bookLayout() === "side" ? "side" : ""}" id="sw-split">
     <article class="sw-panel sw-lesson ${lang}">
       <div class="sw-lh"><small>BAB ${c.no} · Subbab ${s.no}/${c.subs.length}</small><h1>${rich(L(s.title, lang))}</h1><p class="sw-tsub ${lang === "jp" ? "" : "jp"}">${lang === "jp" ? esc(plain(L(s.title, "id"))) : rich(L(s.title, "jp"))}</p>
         <button class="sw-chip" onclick="SSW.sayTitle('${slug}','${s.id}','${lang}')">🔊</button></div>
@@ -411,9 +418,12 @@ async function renderBaca([slug, subId, mode, lang]) {
         ${mode === "lengkap" ? figsBar(fg.pick).replace("CUR_SLUG_PLACEHOLDER", `'${slug}'`) : ""}
       </div>
     </article>
-    ${pack.idx.nobook ? `<div class="sw-panel"><p class="sw-muted">Sumber: buku Jepang hal. ${p1 === p2 ? p1 : p1 + "–" + p2} (tampilan halaman buku tidak tersedia untuk bidang ini).</p></div>` : `<div class="sw-panel"><h2>📖 Halaman buku (${p1 === p2 ? "hal. " + p1 : `hal. ${p1}–${p2}`})</h2>
-      <div class="sw-thumbs">${thumbs.map(p => `<a onclick="route('ssw-buku/${slug}/${lang}/${p}')"><img loading="lazy" src="${pageFile(slug, lang, p + 1)}" alt="Halaman ${p}"><span>${p}</span></a>`).join("")}</div>
+    ${pack.idx.nobook ? `<div class="sw-panel"><p class="sw-muted">Sumber: buku Jepang hal. ${p1 === p2 ? p1 : p1 + "–" + p2} (tampilan halaman buku tidak tersedia untuk bidang ini).</p></div>` : `<div class="sw-panel sw-bookinline"><div class="sw-bi-head"><h2>📖 Halaman buku (${p1 === p2 ? "hal. " + p1 : `hal. ${p1}–${p2}`})</h2>
+      <div class="sw-seg sm" title="Posisi halaman buku"><button class="${bookLayout() === "side" ? "" : "on"}" onclick="SSW.bookLayout('below')">⬇ Di bawah</button><button class="${bookLayout() === "side" ? "on" : ""}" onclick="SSW.bookLayout('side')">◧ Di samping</button></div></div>
+      <div class="sw-bi-scroll">${thumbs.map(p => `<div class="bk-pgw"><img loading="lazy" decoding="async" src="${pageFile(slug, lang, p + 1)}" alt="Halaman ${p}" draggable="false" onclick="SSW.zoomPage(this.src)"><span class="bk-pgno">${p}</span></div>`).join("")}</div>
+      <div class="sw-actions left"><button class="btn ghost" onclick="route('ssw-buku/${slug}/${lang}/${p1}')">📖 Buka buku penuh dari hal. ${p1}</button></div>
     </div>`}
+    </div>
     ${words.length ? `<div class="sw-panel"><h2>📚 Kosakata subbab ini (${words.length})</h2>
       <details class="sw-vdet" open><summary>Ketuk kata untuk arti & bacaan</summary><div class="sw-vchips">${words.map(v => `<button class="sw-vc" onclick="SSW.vsheet('${slug}','${v.id}')"><span class="jp">${esc(v.kata)}</span><small>${esc(v.arti)}</small></button>`).join("")}</div></details>
       <div class="sw-actions left"><button class="btn" onclick="route('ssw-hafal/${slug}/${c.id}')">🃏 Hafalkan kosakata ini</button><button class="btn ghost" onclick="route('ssw-kosa/${slug}/${c.id}')">Buka bank kosakata</button></div></div>` : ""}
@@ -426,6 +436,7 @@ async function renderBaca([slug, subId, mode, lang]) {
 
 /* ============================== BUKU INTERAKTIF ============================== */
 const BOOK = { zoom: 1 };
+const bookLayout = () => { try { return localStorage.getItem("shirose-ssw-booklayout") === "side" ? "side" : "below"; } catch (e) { return "below"; } };
 const bookMode = () => { try { return localStorage.getItem("shirose-ssw-bookmode") === "page" ? "page" : "scroll"; } catch (e) { return "scroll"; } };
 async function renderBuku([slug, lang, page]) {
   const g = await gate(slug); if (g.err) return g.err;
@@ -663,6 +674,7 @@ async function dashCard() {
 
 /* ============================== HANDLER GLOBAL ============================== */
 const SSW = window.SSW = {
+  bookLayout(m) { try { localStorage.setItem("shirose-ssw-booklayout", m); } catch (e) {} const el = document.getElementById("sw-split"); if (el) el.classList.toggle("side", m === "side"); document.querySelectorAll(".sw-bookinline .sw-seg button").forEach((b, i) => b.classList.toggle("on", (i === 1) === (m === "side"))); },
   /* --- diagram interaktif --- */
   async dgInit() {
     const box = document.getElementById("dg-box"); if (!box || !DG.d) return;
