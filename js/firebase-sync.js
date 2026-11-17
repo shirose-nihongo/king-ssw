@@ -149,7 +149,14 @@ export async function setUnlimitedCoins(uid, enable) {
 const FULL_ACCESS_EMAILS = ["arumiganteng@gmail.com"];
 export function hasFullAccess(user = currentUser) {
   const em = (user && user.email || "").trim().toLowerCase();
-  return !!em && FULL_ACCESS_EMAILS.includes(em);
+  if (!!em && FULL_ACCESS_EMAILS.includes(em)) return true;
+  // Grup DEMO: siswa yang kelasnya bernama "demo" (diatur guru) atau punya permissions.full_access → akses penuh semua.
+  const d = (user && user === currentUser) ? currentSiswaDoc : null;
+  if (d) {
+    if (d.permissions && d.permissions.full_access === true) return true;
+    if (String(d.kelas || "").trim().toLowerCase() === "demo") return true;
+  }
+  return false;
 }
 export function hasUnlimitedCoins() {
   if (isDeveloper(currentUser)) return true;
@@ -165,24 +172,43 @@ export function getSiswaDoc() { return currentSiswaDoc; }
 export let lastAuthDenied = null;
 export function getLastAuthDenied(){ const r = lastAuthDenied; lastAuthDenied = null; return r; }
 
+
+const _CS = "shirose-siswa-cache-";
+function _bacaCacheSiswa(uid){ try { const j = localStorage.getItem(_CS + uid); return j ? JSON.parse(j) : null; } catch(_) { return null; } }
+function _simpanCacheSiswa(uid, d){ try { const c = { ...d }; delete c.created; delete c.aktif; localStorage.setItem(_CS + uid, JSON.stringify(c)); } catch(_) {} }
+function _siswaDitolak(){ return lastSiswaDocStatus === "not_registered" || lastSiswaDocStatus === "disabled"; }
+async function _tolakAkun(u){
+  lastAuthDenied = lastSiswaDocStatus;
+  try { localStorage.removeItem(_CS + u.uid); } catch(_) {}
+  currentUser = null; currentSiswaDoc = null;
+  try { await signOut(auth); } catch(_) {}
+}
 export function onAuth(cb) {
   if (!authListenerSet) {
     authListenerSet = true;
     onAuthStateChanged(auth, async (u) => {
       currentUser = u;
-      if (u) {
+      if (!u) { currentSiswaDoc = null; onReadyCallbacks.forEach(c => c(u, null)); return; }
+      // Cepat: kalau profil terakhir tersimpan di perangkat, tampilkan langsung (tanpa menunggu Firestore),
+      // lalu verifikasi ke server di latar belakang.
+      const cached = _bacaCacheSiswa(u.uid);
+      if (cached) {
+        currentSiswaDoc = cached;
+        lastSiswaDocStatus = "ok";
+        onReadyCallbacks.forEach(c => c(u, currentSiswaDoc));
+        const before = JSON.stringify([cached.aksesLevel, cached.role, cached.status]);
         await ensureSiswaDoc(u);
-        // Pendaftaran ditutup: akun yang tidak punya profil di Firestore
-        // (belum didaftarkan guru/moderator), akun tamu, dan akun yang
-        // dinonaktifkan langsung dikeluarkan. Firestore Rules juga menolak
-        // semua akses data untuk akun seperti ini (backend enforcement).
-        if (lastSiswaDocStatus === "not_registered" || lastSiswaDocStatus === "disabled") {
-          lastAuthDenied = lastSiswaDocStatus;
-          currentUser = null; currentSiswaDoc = null;
-          try { await signOut(auth); } catch(_) {}
-          return; // onAuthStateChanged akan terpanggil lagi dengan u = null
-        }
-      } else currentSiswaDoc = null;
+        if (_siswaDitolak()) return _tolakAkun(u);
+        if (currentSiswaDoc) _simpanCacheSiswa(u.uid, currentSiswaDoc);
+        const after = currentSiswaDoc ? JSON.stringify([currentSiswaDoc.aksesLevel, currentSiswaDoc.role, currentSiswaDoc.status]) : "";
+        if (after !== before) onReadyCallbacks.forEach(c => c(u, currentSiswaDoc));
+        return;
+      }
+      await ensureSiswaDoc(u);
+      // Pendaftaran ditutup: akun tanpa profil / dinonaktifkan langsung dikeluarkan
+      // (Firestore Rules juga menolak akses datanya).
+      if (_siswaDitolak()) return _tolakAkun(u);
+      if (currentSiswaDoc && lastSiswaDocStatus === "ok") _simpanCacheSiswa(u.uid, currentSiswaDoc);
       onReadyCallbacks.forEach(c => c(u, currentSiswaDoc));
     });
   }
@@ -470,6 +496,11 @@ function _gSave(o) { try { localStorage.setItem("shirose-gacha:" + currentUser.u
 function _gSpent() { return Number(_gLocal().spent) || 0; }
 export function gachaSpend(price) { const o = _gLocal(); o.spent = (Number(o.spent) || 0) + price; _gSave(o); }
 export function gachaRefund(price) { const o = _gLocal(); o.spent = Math.max(0, (Number(o.spent) || 0) - price); _gSave(o); }
+/* Saldo dasar dompet (sebelum dikurangi belanja gacha lokal) disimpan di perangkat → saat server tak terjangkau (kuota/offline) saldo tetap benar. */
+function _baseGet() { try { const v = JSON.parse(localStorage.getItem("shirose-walletbase:" + (currentUser && currentUser.uid)) || "null"); return v && typeof v.koin === "number" ? v.koin : null; } catch (e) { return null; } }
+function _baseSet(k) { try { if (currentUser && typeof k === "number") localStorage.setItem("shirose-walletbase:" + currentUser.uid, JSON.stringify({ koin: k, t: Date.now() })); } catch (e) {} }
+/* Saldo yang ditampilkan bila dompet tidak terbaca: cache saldo server − koin gacha; tanpa cache: koin per-level − koin gacha. */
+function _koinFallback(levelKoin) { const b = _baseGet(); return Math.max(0, (b !== null ? b : (Number(levelKoin) || 0)) - _gSpent()); }
 const WALLET_LVLS = ["n5","n4","n3","n2","n1","ir0","ir1","ir2"];
 let _walletOff = false, _walletErr = "";
 export function walletError() { return _walletErr; }
@@ -488,7 +519,8 @@ async function walletTx(delta, alasan, { allowNegative = false } = {}) {
     tx.set(wref, { koin: w.koin, migrasi: w.migrasi, uid, updated: serverTimestamp() }, { merge: true });
     return w.koin;
   });
-  const _eff = out - _gSpent();
+  _baseSet(out);
+  const _eff = Math.max(0, out - _gSpent());
   if (delta) { try { await addDoc(collection(db, "king_siswa", currentUser.uid, "wallet_log"), { t: serverTimestamp(), delta, alasan: String(alasan || ""), saldo: out }); } catch (e) {} }
   return _eff;
 }
@@ -518,6 +550,7 @@ async function _koinTulisSaja(delta, alasan) {
   const wref = doc(db, "king_siswa", currentUser.uid, "wallet", "main");
   await setDoc(wref, { koin: increment(delta), uid: currentUser.uid, updated: serverTimestamp() }, { merge: true });
   const baru = sekarang + delta; if (st && st.gami) st.gami.koin = baru;
+  { const b = _baseGet(); if (b !== null) _baseSet(b + delta); }
   try { await addDoc(collection(db, "king_siswa", currentUser.uid, "wallet_log"), { t: serverTimestamp(), delta, alasan: String(alasan || "") + " (mode tulis)", saldo: baru }); } catch (e) {}
   return baru;
 }
@@ -555,9 +588,9 @@ export async function getGami(level) {
       getWalletKoin().catch(() => null),
     ]);
     const g = snap.exists() ? snap.data() : { xp:0, koin:0, streak:0, level_karakter:1 };
-    if (k !== null) g.koin = k;
+    g.koin = k !== null ? k : _koinFallback(g.koin);
     return g;
-  } catch (e) { console.warn("getGami failed:", e.message); return { xp:0, koin:0, streak:0, level_karakter:1 }; }
+  } catch (e) { console.warn("getGami failed:", e.message); return { xp:0, koin:_koinFallback(0), streak:0, level_karakter:1 }; }
 }
 export async function tambahXP(level, dXP, dKoin = 0) {
   if (!currentUser) return;
@@ -577,7 +610,7 @@ export async function tambahXP(level, dXP, dKoin = 0) {
     if (dKoin) { try { saldo = await tambahKoin(dKoin, "hadiah belajar"); } catch (e) {} }
     if (dKoin && saldo === null) cur.koin = (cur.koin || 0) + dKoin;   // fallback lama
     await setDoc(ref, cur, { merge: true });
-    if (saldo !== null) cur.koin = saldo; else { const k = await getWalletKoin(); if (k !== null) cur.koin = k; }
+    if (saldo !== null) cur.koin = saldo; else { const k = await getWalletKoin(); cur.koin = k !== null ? k : _koinFallback(cur.koin); }
     return cur;
   } catch (e) { console.warn("tambahXP failed:", e.message); return null; }
 }
@@ -838,15 +871,25 @@ function _safeRangId(jp){
   return jp.replace(/[\.#\$\[\]\/]/g, "_").slice(0, 120);
 }
 
-export async function tambahRangkuman({ jp, kana, arti, sumber = null, kategori = null }) {
+/* Rangkuman dipisah per bidang: "jlpt" | "ssw" | "jft". Data lama tanpa bidang ditebak dari 'sumber'. */
+export function bidangRangkuman(v){
+  if (v && (v.bidang === "ssw" || v.bidang === "jft" || v.bidang === "jlpt")) return v.bidang;
+  const s = String((v && v.sumber) || "");
+  if (/ssw/i.test(s)) return "ssw";
+  if (/jft|·\s*IR\d/i.test(s)) return "jft";
+  return "jlpt";
+}
+
+export async function tambahRangkuman({ jp, kana, arti, sumber = null, kategori = null, bidang = "jlpt" }) {
   if (!currentUser) throw new Error("Harus login dulu");
   if (!jp) throw new Error("Kata kosong");
+  if (bidang !== "ssw" && bidang !== "jft") bidang = "jlpt";
   const uid = currentUser.uid;
-  const id = _safeRangId(jp);
+  const id = (bidang === "jlpt" ? "" : bidang + "__") + _safeRangId(jp);
   const now = Date.now();
   const payload = {
     jp, kana: kana || "", arti: arti || "",
-    sumber: sumber || "", kategori: kategori || "",
+    sumber: sumber || "", kategori: kategori || "", bidang,
     updatedMs: now,
   };
 
@@ -871,7 +914,7 @@ export async function tambahRangkuman({ jp, kana, arti, sumber = null, kategori 
   }
 }
 
-export async function listRangkuman() {
+export async function listRangkuman(bidang) {
   if (!currentUser) return [];
   const uid = currentUser.uid;
   // Local first — always available.
@@ -891,7 +934,7 @@ export async function listRangkuman() {
       if (v._local){
         try {
           await setDoc(doc(db, "king_siswa", uid, "rangkuman", id),
-            { jp:v.jp, kana:v.kana||"", arti:v.arti||"", sumber:v.sumber||"", kategori:v.kategori||"", updated: serverTimestamp() },
+            { jp:v.jp, kana:v.kana||"", arti:v.arti||"", sumber:v.sumber||"", kategori:v.kategori||"", bidang:bidangRangkuman(v), updated: serverTimestamp() },
             { merge: true });
           delete local[id]._local;
         } catch {}
@@ -903,7 +946,9 @@ export async function listRangkuman() {
   }
 
   // Sort newest first by updatedMs if present, otherwise stable.
-  return Array.from(merged.values()).sort((a,b) => (b.updatedMs||0) - (a.updatedMs||0));
+  let out = Array.from(merged.values()).map(v => ({ ...v, bidang: bidangRangkuman(v) }));
+  if (bidang) out = out.filter(v => v.bidang === bidang);
+  return out.sort((a,b) => (b.updatedMs||0) - (a.updatedMs||0));
 }
 
 export async function hapusRangkuman(id) {

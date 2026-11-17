@@ -833,6 +833,23 @@ html{overflow-x:hidden;}
 .match-item.match-bad{border-color:var(--red); background:rgba(239,68,68,.15); animation:shakeX .3s;}
 @keyframes shakeX{0%,100%{transform:translateX(0)}25%{transform:translateX(-4px)}75%{transform:translateX(4px)}}
 
+
+/* Pembahasan hafalan */
+.haf-review-filter{display:flex; flex-wrap:wrap; gap:6px; margin-bottom:10px;}
+.haf-review-list{display:grid; gap:8px; max-height:60vh; overflow-y:auto; padding-right:2px;}
+.haf-rv{border:1px solid var(--border); border-left-width:4px; border-radius:10px; padding:10px 12px; background:rgba(42,50,112,.3);}
+.haf-rv.ok{border-left-color:var(--green);}
+.haf-rv.retry{border-left-color:var(--gold);}
+.haf-rv.bad{border-left-color:var(--red);}
+.haf-rv.skip{border-left-color:var(--gray);}
+.haf-rv-top{display:flex; align-items:center; gap:10px;}
+.haf-rv-no{font-size:11px; color:var(--gray); min-width:22px;}
+.haf-rv-jp{font-size:22px; font-weight:800; color:var(--pink-light); flex:1; min-width:0;}
+.haf-rv-chip{font-size:11px; font-weight:800; white-space:nowrap; margin-left:auto;}
+.haf-rv.ok .haf-rv-chip{color:var(--green);} .haf-rv.retry .haf-rv-chip{color:var(--gold);} .haf-rv.bad .haf-rv-chip{color:var(--red);}
+.haf-rv-ans{font-size:13px; margin-top:6px;}
+.haf-rv-wrong{font-size:12px; color:var(--gray); margin-top:3px;}
+
 /* Multiple choice feedback */
 .opsi.opsi-ok{border-color:var(--green); background:rgba(16,185,129,.18);}
 .opsi.opsi-bad{border-color:var(--red); background:rgba(239,68,68,.18);}
@@ -968,7 +985,7 @@ html{overflow-x:hidden;}
   user-select:none; -webkit-user-select:none; touch-action:pan-y;
 }
 .flash-card{
-  position:relative; width:100%; max-width:520px; min-height:min(60vh, 440px);
+  position:relative; width:100%; max-width:520px; height:clamp(380px, 62vh, 500px); min-height:0; overflow-x:hidden; overflow-y:auto; box-sizing:border-box;   /* ukuran kartu tetap, tidak berubah mengikuti isi */
   background:linear-gradient(160deg, rgba(42,50,112,.85), rgba(22,27,54,.85));
   border:1px solid var(--border); border-radius:24px;
   padding:32px 24px; text-align:center;
@@ -981,7 +998,8 @@ html{overflow-x:hidden;}
 .flash-card .front{
   font-family:var(--font-jp); font-weight:800;
   font-size:min(22vw, 140px); line-height:1.05; color:var(--pink-light);
-  margin:14px 0 10px; word-break:break-all;
+  font-size:min(22vw, 140px, calc(80cqw / var(--n, 1)));   /* kata panjang otomatis lebih kecil (sebelum JS menyesuaikan) */
+  margin:14px 0 10px; word-break:break-all; max-width:100%; overflow-wrap:anywhere;
 }
 .flash-card .reading{
   display:inline-block; padding:8px 18px; border-radius:999px;
@@ -1378,10 +1396,10 @@ html{overflow-x:hidden;}
 <link rel="stylesheet" href="./css/shirose-extra.css?v=20261116m"/>
 <link rel="stylesheet" href="./css/jlpt-center.css?v=20261109j"/>
 <link rel="stylesheet" href="./css/kana-center.css?v=20261114f"/>
-<link rel="stylesheet" href="./css/ssw.css?v=20261112zh"/>
-<link rel="stylesheet" href="./css/mensetsu.css?v=20261116a"/>
+<link rel="stylesheet" href="./css/ssw.css?v=20261117k"/>
+<link rel="stylesheet" href="./css/mensetsu.css?v=20261116c"/>
 <link rel="stylesheet" href="./css/jft.css?v=20261114f"/>
-<link rel="stylesheet" href="./css/themes.css?v=20261116w"/>
+<link rel="stylesheet" href="./css/themes.css?v=20261117a"/>
 </head>
 <body>
 
@@ -1397,6 +1415,7 @@ html{overflow-x:hidden;}
     <span class="chip" title="Koin"><span class="coin" id="chip-coin">0</span></span>
     <span class="chip" title="Streak hari"><span class="streak" id="chip-streak">0</span></span>
     <button class="btn ghost" id="btn-auth" onclick="showAuthModal()">🔑 Masuk</button>
+    <button class="btn ghost hidden" id="btn-out" title="Keluar / ganti akun" aria-label="Keluar" onclick="logout()" style="padding:6px 10px;font-size:14px;">⎋</button>
   </div>
 </div>
 
@@ -1442,21 +1461,24 @@ import { allShopItems } from "./js/shop-seed.js?v=20261116m";
 import * as KV from "./js/kanji-vocab.js?v=20261116n";   // kosakata berbasis Kanji (N5-N1)
 import { ACHIEVEMENTS } from "./js/achievements.js";
 // ?v=20261108h — cache-buster, lihat catatan sama di teacher.html.
-import * as FB from "./js/firebase-sync.js?v=20261116u";
+import * as FB from "./js/firebase-sync.js?v=20261117a";
 import { renderChoukaiJLPT, displayBar, applyDisplayPrefs } from "./js/choukai-jlpt.js?v=20261109c";
 import SV from "./js/voice.js?v=20261109c";
 import { renderJlpt, renderRiwayatJlpt, renderReviewJlpt, initJlpt, ringkasanTerakhir } from "./js/jlpt-center.js?v=20261114f";
 // Sesi Hiragana & Katakana + latihan menulis (berdiri sendiri, tidak terkait level JLPT)
 import { KANA_ROUTES, initKana } from "./js/kana-center.js?v=20261116m";
 // SSW 特定技能 (Floating Learning Islands, peta bab, materi ID/JP, kosakata, flashcard SM-2, kuis)
-import { SSW_ROUTES, initSsw } from "./js/ssw.js?v=20261114f";
-import { JFT_ROUTES, initJft } from "./js/jft.js?v=20261115b";
-import { MENSETSU_ROUTES, MENSETSU_PUBLIC, initMensetsu } from "./js/mensetsu.js?v=20261116b";
+import { SSW_ROUTES, initSsw } from "./js/ssw.js?v=20261117l";
+import { JFT_ROUTES, initJft } from "./js/jft.js?v=20261117a";
+import { MENSETSU_ROUTES, MENSETSU_PUBLIC, initMensetsu } from "./js/mensetsu.js?v=20261117b";
+const GACHA_ON = true;    // ← ubah ke true untuk menghidupkan gacha lagi (kode gacha tidak dihapus)
+import { GACHA_ROUTES, initGacha } from "./js/gacha.js?v=20261116w";
 initJlpt(FB);
 initKana(FB);
 initSsw(FB);
 // MENSETSU 面接: simulasi wawancara kerja Jepang 8 bidang SSW (js/mensetsu.js)
 initMensetsu(FB);
+initGacha(FB);
 initJft(FB, (t, l) => loadMateri(t, l));
 
 /* ========== STATE ========== */
@@ -1555,6 +1577,16 @@ window.hapusKomentar = async (tipe, lvl, no, id, ownerUid) => {
 /* ========== RANGKUMAN SENDIRI (personal word collection) ========== */
 // Open a popup to add any word to the student's own Rangkuman. Pre-fills
 // kana/arti via a dataset lookup when the user asks or when caller provides.
+/* Bidang rangkuman: "ssw" | "jft" | "jlpt" — ditebak dari sumber / halaman / level aktif */
+const RK_NAMA = { jlpt: "JLPT", ssw: "SSW", jft: "JFT" };
+const RK_ROUTE = { jlpt: "rangkuman", ssw: "ssw-rangkuman", jft: "jft-rangkuman" };
+window._rkBidangDari = (sumber) => {
+  if (/ssw/i.test(String(sumber || ""))) return "ssw";
+  const h = location.hash.slice(1);
+  if (state.hafalan_ctx === "ssw" || h.startsWith("ssw")) return "ssw";
+  if (String(state.level).startsWith("ir") || h.startsWith("jft")) return "jft";
+  return "jlpt";
+};
 window.rangkumPopup = (prefilled = {}, sumber = "") => {
   const safe = (s) => (s||"").toString().replace(/"/g,"&quot;");
   const existing = document.getElementById("rangkum-modal");
@@ -1562,7 +1594,7 @@ window.rangkumPopup = (prefilled = {}, sumber = "") => {
   const html = `
     <div class="modal-backdrop open" id="rangkum-modal" onclick="if(event.target===this) closeRangkumPopup()">
       <div class="modal">
-        <h2>➕ Tambah ke Rangkuman</h2>
+        <h2>➕ Tambah ke Rangkuman ${RK_NAMA[_rkBidangDari(sumber)]}</h2>
         <p style="color:var(--gray); font-size:13px;">Catat kata yang mau kamu ulang-ulang nanti di menu Rangkuman.</p>
         ${sumber ? `<p style="font-size:12px; color:var(--gray-dim); background:rgba(255,255,255,.04); padding:8px 10px; border-radius:8px; margin-top:8px;">📍 Sumber: ${sumber}</p>` : ""}
         <div class="form-row" style="margin-top:14px;">
@@ -1624,7 +1656,7 @@ window.rangkumSimpan = async (sumber) => {
   const arti = document.getElementById("rk-arti").value.trim();
   if (!jp) return toast("Kata tidak boleh kosong");
   try {
-    const res = await FB.tambahRangkuman({ jp, kana, arti, sumber });
+    const res = await FB.tambahRangkuman({ jp, kana, arti, sumber, bidang: _rkBidangDari(sumber) });
     if (res && res.synced === false){
       toast(`✓ "${jp}" tersimpan (offline — sync nanti)`);
     } else {
@@ -1639,22 +1671,25 @@ window.rangkumSimpan = async (sumber) => {
 // locked to "rangkuman" so the student sees preview + modes + start btn
 // for their own collection. Comes with a "🗑 Kelola kata" shortcut to
 // delete entries from the collection.
-async function renderRangkuman(){
+async function renderRangkuman(bidang){
+  bidang = (bidang === "ssw" || bidang === "jft" || bidang === "jlpt") ? bidang : (String(state.level).startsWith("ir") ? "jft" : "jlpt");
+  state._rkBidang = bidang; state._rkRoute = RK_ROUTE[bidang];
+  const NM = RK_NAMA[bidang];
   if (!state.user){
-    return `<div class="panel"><h2>📒 Rangkuman</h2>
+    return `<div class="panel"><h2>📒 Rangkuman ${NM}</h2>
       <div class="empty"><div class="emoji">🔒</div>Login dulu untuk menyimpan rangkuman.<br>
       <button class="btn" onclick="showAuthModal()">Masuk</button></div></div>`;
   }
-  const list = await FB.listRangkuman();
+  const list = await FB.listRangkuman(bidang);
   if (!list.length){
-    return `<div class="panel"><h2>📒 Rangkuman</h2>
+    return `<div class="panel"><h2>📒 Rangkuman ${NM}</h2>
       <div class="empty"><div class="emoji">📒</div>
-        Belum ada kata di rangkuman.<br><br>
+        Belum ada kata di Rangkuman ${NM}.<br><br>
         Cara menambah:<br>
         <small style="color:var(--gray); line-height:1.8;">
-        • Buka detail Kosakata / Kanji → tombol <b>➕ Rangkum</b><br>
+        ${bidang === "ssw" ? `• Di materi SSW, ketuk tombol <b>📒＋</b> di samping poin / ringkasan<br>• Di pop-up kosakata SSW → tombol <b>➕ Rangkum</b>` : `• Buka detail Kosakata / Kanji → tombol <b>➕ Rangkum</b><br>
         • Setelah selesai ujian → tombol <b>➕ Rangkum</b> di tiap soal<br>
-        • Dari contoh kalimat → tombol <b>➕ Rangkum</b>
+        • Dari contoh kalimat → tombol <b>➕ Rangkum</b>`}
         </small>
       </div></div>`;
   }
@@ -1671,7 +1706,7 @@ async function renderRangkuman(){
 
 // Open the delete-manage modal for Rangkuman (injected modal, self-contained).
 window.openRangkumanManage = async () => {
-  const list = await FB.listRangkuman();
+  const list = await FB.listRangkuman(state._rkBidang || "jlpt");
   if (!list.length) return toast("Rangkuman kosong");
   const existing = document.getElementById("rk-manage-modal");
   if (existing) existing.remove();
@@ -1688,7 +1723,7 @@ window.openRangkumanManage = async () => {
   const html = `
     <div class="modal-backdrop open" id="rk-manage-modal" onclick="if(event.target===this) closeRangkumanManage()">
       <div class="modal">
-        <h2>🗑 Kelola Rangkuman (${list.length})</h2>
+        <h2>🗑 Kelola Rangkuman ${RK_NAMA[state._rkBidang || "jlpt"]} (${list.length})</h2>
         <p style="color:var(--gray); font-size:13px;">Hapus kata yang sudah tidak dibutuhkan.</p>
         <div style="max-height:60vh; overflow-y:auto; margin-top:10px;" id="rk-manage-body">${rows}</div>
         <div style="display:flex; justify-content:flex-end; gap:8px; margin-top:12px;">
@@ -1704,7 +1739,7 @@ window.closeRangkumanManage = () => {
   const m = document.getElementById("rk-manage-modal");
   if (m) m.remove();
   // Refresh rangkuman view if we're on it
-  if (location.hash.slice(1).startsWith("rangkuman")) route("rangkuman");
+  if (/rangkuman/.test(location.hash.slice(1))) route(state._rkRoute || "rangkuman");
 };
 window.rangkumHapusCepat = async (id) => {
   try { await FB.hapusRangkuman(id); toast("✓ Dihapus"); openRangkumanManage(); }
@@ -2054,6 +2089,11 @@ window.awardKoin = async (d, alasan) => {
 async function loadMateri(tipe, lvl){
   const key = `${tipe}-${lvl}`;
   if (state.materi[tipe][lvl]) return state.materi[tipe][lvl];
+  window.__mPending = window.__mPending || {};
+  if (window.__mPending[key]) return window.__mPending[key];
+  return (window.__mPending[key] = _loadMateri(tipe, lvl).finally(() => { delete window.__mPending[key]; }));
+}
+async function _loadMateri(tipe, lvl){
   try {
     const r = await fetch(`./data/${tipe}-${lvl}.json`);
     const d = await r.json();
@@ -2084,7 +2124,9 @@ const routes = {
   kanji: () => renderMateriList("kanji"),
   bunpou: () => renderMateriList("bunpou"),
   hafalan: renderHafalan,
-  rangkuman: renderRangkuman,
+  rangkuman: () => renderRangkuman(),
+  "ssw-rangkuman": () => renderRangkuman("ssw"),
+  "jft-rangkuman": () => renderRangkuman("jft"),
   // `quest` lama diarahkan ke `ujian` supaya bookmark / hash lama tetap jalan.
   quest: renderUjianList,
   ujian: (params) => renderUjian(params),
@@ -2109,7 +2151,7 @@ const routes = {
   ...SSW_ROUTES,
   // MENSETSU: #mensetsu, #mensetsu-bidang/{key}, #mensetsu-bank/{key}, #mensetsu-sesi/{key}, #mensetsu-hasil/{id}, #mensetsu-riwayat
   ...MENSETSU_ROUTES,
-  gacha: () => { setTimeout(() => route("shop"), 0); return '<div class="loading">Memuat…</div>'; },   // tautan lama
+  ...(GACHA_ON ? GACHA_ROUTES : { gacha: () => { setTimeout(() => route("shop"), 0); return '<div class="loading">Memuat…</div>'; } }),
   // JFT-Basic / Irodori (js/jft.js)
   ...JFT_ROUTES,
 };
@@ -2147,20 +2189,23 @@ window.addEventListener("popstate", () => {
 
 // Mapel dipisah: JLPT, Kana, dan SSW tidak saling terhubung. Pindah mapel hanya lewat layar "pilih-level".
 const _subjectOf = (path) => { const n = String(path || "").split("/")[0]; if (n.startsWith("ssw")) return "ssw"; if (n.startsWith("kana")) return "kana"; if (n === "jft" || n.startsWith("jft-")) return "jft";
-  if (n === "hafalan" && (state.hafalan_ctx === "ssw" || sessionStorage.getItem("shirose-ssw-hafsess"))) return "ssw"; return "jlpt"; };
+  if (n === "hafalan" && (state.hafalan_ctx === "ssw" || sessionStorage.getItem("shirose-ssw-hafsess"))) return "ssw";
+  if (n === "hafalan" && state.hafalan && state.hafalan.tipe === "rangkuman" && state._rkBidang && state._rkBidang !== "jlpt") return state._rkBidang;
+  return "jlpt"; };
 // Halaman JLPT (Center/Choukai/Riwayat) tidak dipakai di mode JFT-Basic (level ir*) → arahkan ke Ujian JFT.
 const _bukanJft = (fn) => { if (String(state.level).startsWith("ir")) { setTimeout(() => route("jft-ujian"), 0); return '<div class="loading">Memuat…</div>'; } return fn(); };
 const _parentOf = (path) => {
   const [n, slug = "building-cleaning", a2] = String(path || "").split("/");
   if (n === "ssw") return "pilih-level";
+  if (n === "hafalan" && state.hafalan && state.hafalan.tipe === "rangkuman" && state._rkRoute && _subjectOf(path) !== "jlpt") return state._rkRoute;
   if (n === "hafalan" && _subjectOf(path) === "ssw") return state.hafalan_back || "ssw";
   if (n === "ssw-peta") return "ssw";
   if (n === "ssw-bab") return `ssw-peta/${slug}`;
   if (n === "ssw-baca") { const m = /^b(\d+)s/.exec(a2 || ""); return m ? `ssw-bab/${slug}/bab${m[1]}` : `ssw-peta/${slug}`; }
-  if (n === "ssw-progres") return "ssw";
+  if (n === "ssw-progres" || n === "ssw-rangkuman") return "ssw";
   if (n.startsWith("ssw-")) return `ssw-peta/${slug}`;
   if (n === "jft") return "pilih-level";
-  if (n === "jft-ujian" || n === "jft-tryout") return "jft";
+  if (n === "jft-ujian" || n === "jft-tryout" || n === "jft-rangkuman") return "jft";
   if (n === "jft-paket" && /^try/.test(slug)) return "jft-tryout";
   if (n.startsWith("jft-")) return "jft-ujian";
   if (n === "kana") return "pilih-level";
@@ -2189,6 +2234,7 @@ window.closeTopOverlay = () => {
   return true;
 };
 window.goBack = () => {
+  if (!state.user) { location.href = "./"; return; }   // belum login: kembali = web penjelasan KING SSW
   if (window.closeTopOverlay()) return;   // popup terbuka: tutup popup-nya saja, halaman di belakang tetap
   if (window._materiDetail && (location.hash.slice(1) || "") === window._materiDetail.back){ window.backFromDetail(); return; }
   const here = location.hash.slice(1) || "home";
@@ -2217,6 +2263,7 @@ window.goBack = () => {
 // Home: JLPT → halaman karakter, SSW → pulau awal (hub), Kana → awal kana.
 // Kalau sudah di halaman awal itu, tekan lagi → kembali ke pilih level.
 window.goHomeFab = () => {
+  if (!state.user) { location.href = "./"; return; }
   for (let i = 0; i < 6 && window.closeTopOverlay(); i++) {}
   const here = location.hash.slice(1) || "home";
   const cur = here.split("/")[0];
@@ -2277,6 +2324,7 @@ function _renderRoute(name, rest){
 
 window.route = (path) => {
   window._materiDetail = null;
+  if (location.hash.slice(1) !== path) window._navByRoute = true;   // hashchange ini dari route(), bukan tombol back
   location.hash = path;
   const [name, ...rest] = path.split("/");
 
@@ -2286,10 +2334,11 @@ window.route = (path) => {
   if (window._routeStack.length > 40) window._routeStack.shift();
 
   _updateFabNav(name);
+  window._curName = name;
 
   // Alur wajib: LOGIN → PEMILIHAN JLPT → CHARACTER → fitur. Selama siswa
   // belum memilih level di sesi ini, semua halaman diarahkan ke #pilih-level.
-  if (false && state.user && !BEBAS_PILIH_LEVEL.has(name) && !String(name).startsWith("ssw") && !String(name).startsWith("jft") && !(name === "hafalan" && (state.hafalan_ctx === "ssw" || sessionStorage.getItem("shirose-ssw-hafsess"))) && !levelSudahDipilih()){
+  if (false && state.user && !BEBAS_PILIH_LEVEL.has(name) && !String(name).startsWith("ssw") && !String(name).startsWith("jft") && !(name === "hafalan" && (state.hafalan_ctx === "ssw" || sessionStorage.getItem("shirose-ssw-hafsess") || (state.hafalan && state.hafalan.tipe === "rangkuman" && state._rkBidang && state._rkBidang !== "jlpt"))) && !levelSudahDipilih()){
     return route("pilih-level");
   }
   renderLevelPills();
@@ -2303,7 +2352,7 @@ window.route = (path) => {
         <div class="empty"><div class="emoji">🔑</div>
           Materi dan ujian hanya untuk siswa terdaftar.<br>Masuk dengan akun yang diberikan guru.</div>
         <button class="btn" onclick="route('login')">Masuk</button>
-        <button class="btn ghost" onclick="route('home')">🏠 Kembali Home</button>
+        <button class="btn ghost" onclick="location.href='./'">🏠 Kembali Home</button>
       </div>`;
     return;
   }
@@ -2322,7 +2371,7 @@ window.route = (path) => {
           ${unlocked.length ? `Kamu bisa belajar di: <b>${unlocked.join(", ")}</b>` : "Hubungi guru untuk membuka akses."}
         </div>
         ${unlocked.length ? `<button class="btn" onclick="setLevel('${unlocked[0].toLowerCase()}')">Pindah ke ${unlocked[0]}</button>` : ""}
-        <button class="btn ghost" onclick="route('home')">🏠 Kembali Home</button>
+        <button class="btn ghost" onclick="location.href='./'">🏠 Kembali Home</button>
       </div>`;
     return;
   }
@@ -2348,7 +2397,8 @@ function renderCharaOrbital(){
     { icon:"🛒", jp:"商店",  lbl:"SHOP",      route:"shop",        deg:225 },
     { icon:"📅", jp:"暦",    lbl:"KALENDER",  route:"kalender",    deg:270 },
     { icon:"🏆", jp:"順位",  lbl:"PERINGKAT", route:"leaderboard", deg:315 },
-  ];
+    { icon:"🎰", jp:"抽選",  lbl:"GACHA",     route:"gacha",       deg:0   },
+  ].filter(n => GACHA_ON || n.route !== "gacha");
   // Choukai JLPT ditambahkan → 9 node, jarak dihitung ulang supaya orbit tetap simetris.
   if (String(state.level).startsWith("ir")){ NAV.find(n => n.route === "ujian").route = "jft-ujian"; }
   else NAV.splice(3, 0, { icon:"🎧", jp:"聴解", lbl:"CHOUKAI", route:"choukai" });
@@ -2408,6 +2458,10 @@ function renderCharaOrbital(){
           <div class="ico">📊</div>
           <div class="info"><div class="ttl">Riwayat JLPT</div><div class="sub">Nilai &amp; grafik perkembangan</div></div>
         </div>`}
+        ${GACHA_ON ? `<div class="hub-card" onclick="route('gacha')">
+          <div class="ico">🎰</div>
+          <div class="info"><div class="ttl">Gacha</div><div class="sub">Barang shop &amp; tema langka</div></div>
+        </div>` : ""}
         <div class="hub-card" onclick="route('hafalan')">
           <div class="ico">🧠</div>
           <div class="info"><div class="ttl">Hafalan (SRS)</div><div class="sub">Pengulangan berjarak</div></div>
@@ -3471,6 +3525,10 @@ function _vfBtn(fn){ const m = _vfMasu(); return `<span class="vf-sw"><button cl
 window.setVerbForm = (m) => { try { localStorage.setItem("shirose-verbform", m === "masu" ? "masu" : "jisho"); } catch(_) {} };
 window.setVerbFormMateri = (m) => { setVerbForm(m); renderMateriList("kosakata").then(h => { document.getElementById("app").innerHTML = h; }); };
 function _rubyJp(t){ return String(t || "").replace(/&/g,"&amp;").replace(/<(?!\/?(b|ruby|rt)\b)/g,"&lt;").replace(/([\u3400-\u9fff々〆]+)\[([^\]]+)\]/g, "<ruby>$1<rt>$2</rt></ruby>"); }
+function _hafN(it){   // perkiraan lebar kata (jumlah huruf; kata panjang dibagi 2 baris)
+  const n = Math.max(1, String(it.front || "").replace(/<[^>]*>/g, "").replace(/\[[^\]]*\]/g, "").replace(/\s+/g, "").length);
+  return n <= 5 ? n : Math.ceil(n / 2) + 0.6;
+}
 function _hafFront(it){
   if (it.fr && /\[/.test(it.fr)) {
     const pl = String(it.fr).replace(/\[[^\]]*\]/g, "").replace(/\s+/g, "");
@@ -3502,10 +3560,12 @@ function _normalizeItem(tipe, it, idx){
       front: it.kanji || it.k || "", fraw: it.kanji || it.k || "",
       reading: it.kana || `${it.on || ""} ${it.kun || ""}`.trim() || "",
       back: it.arti || it.a || "",
+      on: it.on || "", kun: it.kun || "", cs: it.c || [], kal: it.kal || [],
     };
   }
   return {
     tipe, idx, no: itemNo(it, idx),
+    contoh: it.contoh || "", ac: it.arti_contoh || "",
     front: _cleanKata(_vfPick(it).kata), fraw: _vfPick(it).kata, fr: _vfPick(it).fr,
     reading: _vfPick(it).kana,
     back: it.arti || it.a || "",
@@ -3587,7 +3647,7 @@ async function _renderHafalanSelectImpl(){
   ]);
   let rangList = [];
   if (state._rangkumanContext && state.user) {
-    rangList = await FB.listRangkuman().catch(() => []);
+    rangList = await FB.listRangkuman(state._rkBidang || "jlpt").catch(() => []);
   }
   try { await _loadSrs(); } catch (e) { state.srs = state.srs || {}; }
 
@@ -3600,7 +3660,7 @@ async function _renderHafalanSelectImpl(){
     const pool = [];
     const push = (tipe, arr) => arr.forEach((it, idx) => pool.push(_normalizeItem(tipe, it, idx)));
     if (cfg.tipe === "rangkuman"){
-      rangList.forEach((r, i) => pool.push({ tipe:"rangkuman", idx:i, no:i+1, front:r.jp, reading:r.kana||"", back:r.arti||"" }));
+      rangList.forEach((r, i) => pool.push({ tipe:"rangkuman", idx:i, no:i+1, front:r.jp, reading:r.kana||"", back:r.arti||"", ...((state._rkBidang||"jlpt") !== "jlpt" ? { skey: "r:" + state._rkBidang + ":" + r.id } : {}) }));
     } else {
       if (cfg.tipe === "kosakata" || cfg.tipe === "semua") push("kosakata", kos);
       if (cfg.tipe === "kanji"    || cfg.tipe === "semua") { const kv = _kanjiDeckCards(knj, kos, cfg.tipe); if (kv) kv.forEach(c => pool.push(c)); else push("kanji", knj); }
@@ -3665,7 +3725,7 @@ async function _renderHafalanSelectImpl(){
 
       <h3 style="margin-bottom:8px;">1. Pilih materi</h3>
       <div class="haf-type-row">
-        ${state._rangkumanContext ? typeBtn("rangkuman", "📒 Rangkuman", rangList.length + " kata") : `
+        ${state._rangkumanContext ? typeBtn("rangkuman", "📒 Rangkuman " + RK_NAMA[state._rkBidang || "jlpt"], rangList.length + " kata") : `
           ${typeBtn("kosakata", "📖 Kosakata", kos.length + " kata")}
           ${_kvOn()
             ? typeBtn("kanji", "🈷️ Kosakata Kanji", (_kanjiDeckCards(knj, kos, "kanji") || []).length + " kata")
@@ -3763,7 +3823,7 @@ window.hafStart = async () => {
     loadMateri("kanji", state.level),
   ];
   if (cfg.tipe === "rangkuman" && state.user){
-    promises.push(FB.listRangkuman().catch(() => []));
+    promises.push(FB.listRangkuman(state._rkBidang || "jlpt").catch(() => []));
   } else {
     promises.push(Promise.resolve([]));
   }
@@ -3773,7 +3833,7 @@ window.hafStart = async () => {
   let pool = [];
   const push = (tipe, arr) => arr.forEach((it, idx) => pool.push(_normalizeItem(tipe, it, idx)));
   if (cfg.tipe === "rangkuman"){
-    rangList.forEach((r, i) => pool.push({ tipe:"rangkuman", idx:i, no:i+1, front:r.jp, reading:r.kana||"", back:r.arti||"" }));
+    rangList.forEach((r, i) => pool.push({ tipe:"rangkuman", idx:i, no:i+1, front:r.jp, reading:r.kana||"", back:r.arti||"", ...((state._rkBidang||"jlpt") !== "jlpt" ? { skey: "r:" + state._rkBidang + ":" + r.id } : {}) }));
   } else {
     if (cfg.tipe === "kosakata" || cfg.tipe === "semua") push("kosakata", kos);
     if (cfg.tipe === "kanji"    || cfg.tipe === "semua") { const kv = _kanjiDeckCards(knj, kos, cfg.tipe); if (kv) kv.forEach(c => pool.push(c)); else push("kanji", knj); }
@@ -3817,18 +3877,18 @@ window.hafStart = async () => {
 /* ===== Jembatan SSW → mesin hafalan JLPT (3 mode yang sama; progres di dokumen SRS terpisah "ssw-bc") ===== */
 const _SSW_SESS = "shirose-ssw-hafsess";
 const _hafSSW = () => state.hafalan_ctx === "ssw";
-const _hafMenu = () => (_hafSSW() && state.hafalan_back) || "hafalan";
+const _hafMenu = () => (_hafSSW() && state.hafalan_back) || ((state.hafalan && state.hafalan.tipe === "rangkuman" && state._rkRoute) ? state._rkRoute : "hafalan");
 const _hafHome = () => (_hafSSW() && state.hafalan_back) || "home";
 const _hafHomeLbl = () => _hafSSW() ? "↩ Kembali" : "🏠 Home";
 // Dokumen SRS per bidang SSW: Building Cleaning tetap "ssw-bc" (data lama), bidang lain "ssw-<slug>".
 const _sswLvl = (slug) => { slug = slug || (window.__sswSlug && window.__sswSlug()) || "building-cleaning"; return slug === "building-cleaning" ? "ssw-bc" : "ssw-" + slug; };
 const _hafBadge = (it) => it.tipe === "ssw" ? "SSW · " + String((window.__sswSlug && window.__sswSlug()) || "").replace(/-/g, " ").toUpperCase() : `${it.fb ? "KANJI (belum ada kosakata)" : it.kv ? "KOSAKATA KANJI" : it.tipe === "kanji" ? "KANJI" : it.tipe === "rangkuman" ? "RANGKUMAN" : "KOSAKATA"} · ${(it.kv || it.fb) ? _kvLv() : state.level.toUpperCase()}`;
-function _sswSaveSess(){ try { sessionStorage.setItem(_SSW_SESS, JSON.stringify({ lvl: state._srsLevel, q: state.hafalan_queue, pos: state.hafalan_pos, mode: (state.hafalan||{}).mode, back: state.hafalan_back, score: state.hafalan_score })); } catch(e){} }
-window.sswHafalStart = async ({ items, mode, back }) => {
+function _sswSaveSess(){ try { sessionStorage.setItem(_SSW_SESS, JSON.stringify({ lvl: state._srsLevel, q: state.hafalan_queue, pos: state.hafalan_pos, mode: (state.hafalan||{}).mode, dir: (state.hafalan||{}).dir, back: state.hafalan_back, score: state.hafalan_score })); } catch(e){} }
+window.sswHafalStart = async ({ items, mode, back, dir }) => {
   if (!items || !items.length) { toast("Tidak ada kosakata untuk sesi ini"); return false; }
   state._srsLevel = _sswLvl(); state.hafalan_ctx = "ssw"; state.hafalan_back = back || "ssw";
   await _loadSrs();
-  state.hafalan = { tipe: "ssw", mode: mode || "flashcard", range: "all", filter: "all" };
+  state.hafalan = { tipe: "ssw", mode: mode || "flashcard", dir: dir || "jp2id", range: "all", filter: "all" };
   state.hafalan_queue = items.slice().sort(() => Math.random() - 0.5);
   state.hafalan_pos = 0; state.hafalan_score = { benar: 0, salah: 0 };
   _sswSaveSess();
@@ -3846,7 +3906,7 @@ async function _sswRestore(){
     const d = JSON.parse(sessionStorage.getItem(_SSW_SESS) || "null"); if (!d || !d.q || !d.q.length) return false;
     state._srsLevel = d.lvl || "ssw-bc"; state.hafalan_ctx = "ssw"; state.hafalan_back = d.back || "ssw";
     await _loadSrs();
-    state.hafalan = { tipe: "ssw", mode: d.mode || "flashcard", range: "all", filter: "all" };
+    state.hafalan = { tipe: "ssw", mode: d.mode || "flashcard", dir: d.dir || "jp2id", range: "all", filter: "all" };
     state.hafalan_queue = d.q; state.hafalan_pos = d.pos || 0; state.hafalan_score = d.score || { benar: 0, salah: 0 };
     return true;
   } catch (e) { return false; }
@@ -3873,12 +3933,13 @@ _hafApplyFuri();
 
 /* ===== RANGKUM CEPAT: simpan langsung (tanpa popup) dari flashcard / detail materi — JLPT N5–N1 & JFT A1–A2.2 ===== */
 const _plain = (h) => String(h == null ? "" : h).replace(/<rt>.*?<\/rt>/g, "").replace(/<[^>]+>/g, "").replace(/&quot;/g, '"').trim();
-window.rangkumCepat = async (d, sumber) => {
+window.rangkumCepat = async (d, sumber, bidang) => {
   if (!state.user) return toast("Login dulu untuk menyimpan rangkuman");
   const jp = _plain(d && d.jp); if (!jp) return toast("Kata kosong");
   try {
-    const r = await FB.tambahRangkuman({ jp, kana: _plain(d.kana), arti: _plain(d.arti), sumber: sumber || "" });
-    toast(r && r.synced === false ? `✓ "${jp}" masuk rangkuman (offline, disinkron nanti)` : `✓ "${jp}" masuk rangkuman`);
+    const r = await FB.tambahRangkuman({ jp, kana: _plain(d.kana), arti: _plain(d.arti), sumber: sumber || "", bidang: bidang || _rkBidangDari(sumber) });
+    const NM = RK_NAMA[bidang || _rkBidangDari(sumber)];
+    toast(r && r.synced === false ? `✓ "${jp}" masuk Rangkuman ${NM} (offline, disinkron nanti)` : `✓ "${jp}" masuk Rangkuman ${NM}`);
     return true;
   } catch (e) { toast("❌ " + e.message); return false; }
 };
@@ -3887,7 +3948,7 @@ window.hafRangkum = async () => {
   const ok = await rangkumCepat({ jp: it.fraw || it.front, kana: it.reading, arti: it.back }, `Flashcard ${_hafBadge(it)}`);
   const b = document.getElementById("haf-rk-btn"); if (ok && b) { b.textContent = "📒 ✓ Masuk"; b.disabled = true; }
 };
-window.hafBukaRangkuman = () => route("rangkuman");
+window.hafBukaRangkuman = () => route(RK_ROUTE[_rkBidangDari("")]);
 const _hafRkBtn = () => { const it = (state.hafalan_queue || [])[state.hafalan_pos || 0];
   if (!it || it.tipe === "ssw" || it.tipe === "rangkuman" || _hafSSW()) return "";
   return `<button class="btn ghost sm" id="haf-rk-btn" onclick="hafRangkum()" title="Simpan kartu ini ke Rangkuman">📒 + Rangkum</button><button class="btn ghost sm" onclick="hafBukaRangkuman()" title="Buka Rangkuman">📒 Buka</button>`; };
@@ -3921,7 +3982,7 @@ function renderHafalanFlashcard(){
         <span class="flash-badge right" id="badge-ingat">✓ INGAT</span>
         <div class="flash-card enter" id="flash-card" data-front="${safeFront}" data-say="${safeFront}" onclick="hafCardTap(event)">
           <div class="no-pill">${fmtNo(it.dno ?? it.no)} · ${_hafBadge(it)}</div>
-          ${it.img ? `<div class="front imgf"><img src="${it.img}" alt="Gambar peralatan" draggable="false"></div>` : `<div class="front">${_hafFront(it)}</div>`}
+          ${it.img ? `<div class="front imgf"><img src="${it.img}" alt="Gambar peralatan" draggable="false"></div>` : `<div class="front" style="--n:${_hafN(it)}">${_hafFront(it)}</div>`}
           <div class="back-face">
             ${it.img ? `<div class="jpname">${it.front}</div>` : ""}
             <div class="reading">${it.reading || "—"}</div>
@@ -3956,7 +4017,27 @@ function _hafPostRender(){
   // Suara TIDAK diputar di sisi depan — baru diputar saat kartu dibalik.
   _bindFlashSwipe(card);
   _mountCompanion();  // Part 24: companion presence
+  _hafFit();
+  // font Jepang bisa baru selesai dimuat setelah render → ukur ulang (penyebab teks nabrak tepi di HP)
+  try { document.fonts && document.fonts.ready.then(() => _hafFit()); } catch (e) {}
+  [120, 400, 1000, 2200].forEach(ms => setTimeout(_hafFit, ms));
+  try { if (window.ResizeObserver) { if (window.__hafRO) window.__hafRO.disconnect(); window.__hafRO = new ResizeObserver(() => _hafFit()); window.__hafRO.observe(card); } } catch (e) {}
 }
+// Ukuran huruf otomatis: kata panjang / banyak furigana dikecilkan sampai muat di kartu (HP).
+window._hafFit = function(){
+  const card = document.getElementById("flash-card"); const f = card && card.querySelector(".front"); if (!f) return;
+  f.style.fontSize = "";                                   // mulai dari ukuran CSS
+  const maxW = card.clientWidth - 40, maxH = Math.max(120, Math.min(window.innerHeight * 0.42, 300));
+  let fs = parseFloat(getComputedStyle(f).fontSize) || 72, n = 0;
+  const lim = () => card.getBoundingClientRect().right - 26, lim0 = () => card.getBoundingClientRect().left + 26;
+  const over = () => {   // ada baris/ruby yang keluar dari kartu?
+    const r = document.createRange(); r.selectNodeContents(f);
+    for (const q of r.getClientRects()) if (q.right > lim() || q.left < lim0()) return true;
+    return f.scrollWidth > maxW || f.scrollHeight > maxH || card.scrollHeight > card.clientHeight + 1;
+  };
+  while (n++ < 40 && fs > 18 && over()) { fs *= 0.88; f.style.fontSize = fs + "px"; }
+};
+window.addEventListener("resize", () => { try { window._hafFit && window._hafFit(); } catch (e) {} });
 
 // Tap kartu = bolak-balik depan ↔ belakang, bisa berulang kali.
 window.hafCardTap = (ev) => {
@@ -3966,6 +4047,7 @@ window.hafCardTap = (ev) => {
   if (!card) return;
   state._flashRevealed = !state._flashRevealed;
   card.classList.toggle("revealed", state._flashRevealed);
+  _hafFit();
   // Sisi belakang terbuka → putar suara (kalau auto-audio aktif).
   if (state._flashRevealed) _autoSpeakJP(card.dataset.say);
 };
@@ -4154,11 +4236,13 @@ window.matchTap = (side, i) => {
       lb.classList.add("match-ok"); rb.classList.add("match-ok");
       lb.disabled = true; rb.disabled = true;
       state.hafalan_score.benar++;
+      _hafLog(state.hafalan_pos + L, true);
       matchAfterPair(true, L);
     } else {
       lb.classList.add("match-bad"); rb.classList.add("match-bad");
       setTimeout(() => { lb.classList.remove("match-bad","picked"); rb.classList.remove("match-bad","picked"); }, 500);
       state.hafalan_score.salah++;
+      _hafLog(state.hafalan_pos + L, false, ((state.hafalan_queue[state.hafalan_pos + R]) || {}).back);
     }
     state.match_pick = {};
     // If the current batch is cleared, advance
@@ -4199,6 +4283,7 @@ window.matchCheckDone = () => {
   }
 };
 window.matchSkip = () => {
+  document.querySelectorAll('.match-item[data-side="L"]:not(:disabled)').forEach(b => _hafLog(state.hafalan_pos + Number(b.dataset.i), null));   // belum dipasangkan = dilewati
   state.hafalan_pos = Math.min(state.hafalan_pos + 5, state.hafalan_queue.length);
   if (_hafSSW()) _sswSaveSess(); renderHafalanSession().then(h => { document.getElementById("app").innerHTML = h; });
 };
@@ -4211,12 +4296,18 @@ function renderHafalanMultiple(){
   setTimeout(_mountCompanion, 0);
   const it = q[pos];
 
+  // Arah pertanyaan: jp2id (default: Jepang → pilih arti) atau id2jp (SSW: arti/gambar → pilih nama Jepang).
+  const dir = (_hafSSW() && (state.hafalan || {}).dir === "id2jp") ? "id2jp" : "jp2id";
+  const val = (x) => dir === "id2jp" ? _plain(x.fraw || x.front) : x.back;
+  const correctVal = val(it);
   // Build 4 options: 1 correct, 3 distractors drawn from the rest of the queue (or pool).
-  const distractors = q.filter((_, i) => i !== pos).map(x => x.back).filter(b => b && b !== it.back);
+  const distractors = q.filter((_, i) => i !== pos).map(val).filter(b => b && b !== correctVal);
   const shuffled = Array.from(new Set(distractors)).sort(() => Math.random() - 0.5).slice(0, 3);
   while (shuffled.length < 3) shuffled.push("—");
-  const options = [it.back, ...shuffled].sort(() => Math.random() - 0.5);
-  state.mc_correct = it.back;
+  const options = [correctVal, ...shuffled].sort(() => Math.random() - 0.5);
+  state.mc_correct = correctVal;
+  state.mc_map = {}; q.forEach(x => { const k = val(x); if (k && !state.mc_map[k]) state.mc_map[k] = x; });
+  state.mc_map[correctVal] = it;
 
   return `
     <div class="panel">
@@ -4228,7 +4319,8 @@ function renderHafalanMultiple(){
       </div>
       <div class="kanji-detail" style="padding:12px 0;">
         <div class="no-pill">${fmtNo(it.dno ?? it.no)} · ${_hafBadge(it)}</div>
-        ${it.img ? `<img class="mc-img" src="${it.img}" alt="Alat" draggable="false"><p style="color:var(--gray); margin-top:8px;">Alat apa ini? (pilih namanya)</p>`
+        ${it.img ? `<img class="mc-img" src="${it.img}" alt="Gambar" draggable="false"><p style="color:var(--gray); margin-top:8px;">${dir === "id2jp" ? "Gambar ini bernama apa dalam bahasa Jepang?" : "Apa arti/nama bagian ini?"}</p>`
+          : dir === "id2jp" ? `<div class="big-k" style="font-size:30px;line-height:1.3">${_plain(it.back)}</div><p style="color:var(--gray); margin-top:8px;">Apa bahasa Jepangnya?</p>`
           : `<div class="big-k haf-r" style="font-size:72px;">${_hafFront(it)}</div>
         <p style="color:var(--gray); margin-top:8px;">Apa arti kata di atas?</p>`}
       </div>
@@ -4244,6 +4336,28 @@ function renderHafalanMultiple(){
       </div>
     </div>
   `;
+}
+/* Pembahasan PG hafalan (JLPT & JFT): arti, bacaan, contoh kalimat, dan kata asli dari tiap pilihan */
+function _pembahasanPG(it, picked, correct){
+  const e = (t) => String(t == null ? "" : t).replace(/&/g, "&amp;").replace(/</g, "&lt;");
+  const word = (x) => `<b>${_hafFront(x) || e(x.front)}</b>${x.reading && x.reading !== x.front ? ` <span style="opacity:.8">(${e(String(x.reading).replace(/<[^>]+>/g, ""))})</span>` : ""}`;
+  let h = `<div style="margin-top:10px;padding-top:10px;border-top:1px dashed var(--border,#555);font-size:14px;line-height:1.65;text-align:left;">`;
+  h += `<div style="font-weight:800;margin-bottom:4px;">📖 Pembahasan</div>`;
+  h += `<div>${word(it)} = <b>${e(it.back)}</b>${it.fungsi ? `<br><span style="opacity:.85">${e(it.fungsi)}</span>` : ""}</div>`;
+  if (it.tipe === "kanji") {
+    if (it.on || it.kun) h += `<div style="margin-top:4px;">On: <b>${e(it.on || "—")}</b> · Kun: <b>${e(it.kun || "—")}</b></div>`;
+    (it.cs || []).slice(0, 3).forEach(c => { h += `<div style="opacity:.9">• ${e(c.k)} (${e(c.r)}) = ${e(c.a)}</div>`; });
+    const k0 = (it.kal || [])[0]; if (k0) h += `<div style="margin-top:4px;">例: ${_frHtml(k0.j)}<br><span style="opacity:.85">${e(k0.a)}</span></div>`;
+  } else if (it.contoh) {
+    h += `<div style="margin-top:4px;">例: ${_frHtml(it.contoh)}${it.ac ? `<br><span style="opacity:.85">${e(it.ac)}</span>` : ""}</div>`;
+  }
+  if (!correct && picked) {
+    const w = (state.mc_map || {})[picked];
+    h += `<div style="margin-top:6px;color:#fca5a5;">✗ Kamu memilih “${e(picked)}”${w ? ` — itu arti dari ${word(w)}` : " — bukan arti kata ini"}.</div>`;
+  }
+  const others = [...document.querySelectorAll("#mc-opts .opsi")].map(b => decodeURIComponent(b.dataset.ans)).filter(a => a !== it.back && a !== picked && (state.mc_map || {})[a]);
+  if (others.length) h += `<div style="margin-top:6px;opacity:.9;">Pilihan lain:<br>${others.map(a => `• “${e(a)}” = ${word(state.mc_map[a])}`).join("<br>")}</div>`;
+  return h + `</div>`;
 }
 window.mcPick = async (encoded, btn) => {
   const picked = decodeURIComponent(encoded);
@@ -4270,8 +4384,10 @@ window.mcPick = async (encoded, btn) => {
     state.hafalan_score.salah++;
     _hafAdd(1, 0);
   }
+  { const _it = state.hafalan_queue[state.hafalan_pos]; try { fb.innerHTML += _pembahasanPG(_it, picked, correct); } catch (e) { console.warn("pembahasan:", e.message); } }
   // SRS update
   const it = state.hafalan_queue[state.hafalan_pos];
+  _hafLog(state.hafalan_pos, correct, picked);   // untuk pembahasan di akhir sesi
   const key = _srsKey(it.tipe, {no:it.no, skey:it.skey}, it.idx);
   const now = Date.now();
   const card = state.srs[key] || { n:0, interval:1, due:now };
@@ -4298,6 +4414,62 @@ window.mcNext = () => {
   if (_hafSSW()) _sswSaveSess(); renderHafalanSession().then(h => { document.getElementById("app").innerHTML = h; });
 };
 
+/* ========== PEMBAHASAN sesi hafalan (pilihan ganda & matching) ==========
+ * Setiap jawaban dicatat di state.hafalan_score.log: { i: indeks kartu di antrean, ok: true|false|null(dilewati), p: jawaban yang dipilih }.
+ * Berlaku untuk semua level (N5–N1, JFT/Irodori, SSW) karena memakai mesin hafalan yang sama. Flashcard tidak dicatat. */
+function _hafLog(i, ok, picked){
+  const sc = state.hafalan_score; if (!sc) return;
+  (sc.log = sc.log || []).push({ i, ok, p: picked == null ? null : String(picked) });
+}
+function _hafReviewRows(){
+  const sc = state.hafalan_score || {}, q = state.hafalan_queue || [], by = new Map();
+  (sc.log || []).forEach(e => {
+    const it = q[e.i]; if (!it) return;
+    const r = by.get(e.i) || { i: e.i, it, wrong: [], solved: false, skipped: false };
+    if (e.ok === true) r.solved = true;
+    else if (e.ok === false) { if (e.p && !r.wrong.includes(e.p)) r.wrong.push(e.p); }
+    else r.skipped = true;
+    by.set(e.i, r);
+  });
+  return [...by.values()].sort((a, b) => a.i - b.i).map(r => {
+    r.st = r.solved ? (r.wrong.length ? "retry" : "ok") : (r.wrong.length ? "bad" : "skip");
+    return r;
+  });
+}
+function _hafReviewHtml(){
+  const rows = _hafReviewRows(); if (!rows.length) return "";
+  const f = state._hafRvFilter || "all";
+  const nBad = rows.filter(r => r.st === "bad" || r.st === "retry" || r.st === "skip").length;
+  const nOk = rows.filter(r => r.st === "ok").length;
+  const chip = (k, lbl) => `<button class="haf-chip ${f === k ? "on" : ""}" onclick="hafReviewFilter('${k}')">${lbl}</button>`;
+  const show = rows.filter(r => f === "all" || (f === "ok" ? r.st === "ok" : r.st !== "ok"));
+  const LBL = { ok: "✓ Benar", retry: "⚠ Benar setelah salah", bad: "✗ Salah", skip: "↷ Dilewati" };
+  return `
+    <div class="haf-review">
+      <h3 style="margin:18px 0 8px;">📖 Pembahasan</h3>
+      <div class="haf-review-filter">${chip("all", `Semua (${rows.length})`)}${chip("ok", `Benar (${nOk})`)}${chip("bad", `Perlu diulang (${nBad})`)}</div>
+      <div class="haf-review-list">
+        ${show.length ? show.map(r => {
+          const it = r.it, rd = String(it.reading || "").replace(/<[^>]+>/g, "");
+          return `<div class="haf-rv ${r.st}">
+            <div class="haf-rv-top">
+              <span class="haf-rv-no">${r.i + 1}</span>
+              ${it.img ? `<img src="${it.img}" alt="" style="height:44px;border-radius:6px;">` : `<span class="jp haf-rv-jp">${_hafFront(it)}</span>`}
+              <span class="haf-rv-chip">${LBL[r.st]}</span>
+            </div>
+            <div class="haf-rv-ans">Jawaban benar: <b>${it.back}</b>${rd && !it.img ? ` <span style="color:var(--gray-dim);">· ${rd}</span>` : ""}</div>
+            ${r.wrong.length ? `<div class="haf-rv-wrong">Pilihanmu yang salah: ${r.wrong.map(w => `<s>${w}</s>`).join(", ")}</div>` : ""}
+            ${r.st === "skip" ? `<div class="haf-rv-wrong">Belum dipasangkan (kelompok dilewati).</div>` : ""}
+          </div>`;
+        }).join("") : `<div style="color:var(--gray); text-align:center; padding:14px;">Tidak ada item di filter ini.</div>`}
+      </div>
+    </div>`;
+}
+window.hafReviewFilter = (k) => {
+  state._hafRvFilter = k;
+  renderHafalanSession().then(h => { document.getElementById("app").innerHTML = h; });
+};
+
 /* ========== Session done summary ========== */
 function renderHafalanDone(){
   const s = state.hafalan_score || { benar:0, salah:0 };
@@ -4317,6 +4489,7 @@ function renderHafalanDone(){
         <div>${s.benar} benar · ${s.salah} salah</div>
         <div style="color:var(--gray); margin-top:6px;">+${xp} XP · +${koin} 🪙</div>
       </div>
+      ${_hafReviewHtml()}
       <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap; margin-top:12px;">
         <button class="btn" onclick="route('${_hafMenu()}')">Sesi lagi</button>
         <button class="btn ghost" onclick="route('${_hafHome()}')">${_hafHomeLbl()}</button>
@@ -4749,7 +4922,7 @@ async function renderShop(){
   const activeCat = state._shopCat && CAT_TABS.some(t => t.key === state._shopCat) ? state._shopCat : "rambut";
   state._shopCat = activeCat;
 
-  const allItems = allShopItems();   // sayap epic+ dijual; semua sayap dijual
+  const allItems = allShopItems();   // sayap epic+ dijual; common–rare hanya dari gacha
   const items = allItems.filter(it => it.kategori === activeCat);
 
   const inv = invEfektif();
@@ -4784,6 +4957,8 @@ async function renderShop(){
     actionHtml = `<button class="btn ghost" style="width:100%;" disabled>✓ Sedang dipakai</button>`;
   } else if (isOwned){
     actionHtml = `<button class="btn gold" style="width:100%;" onclick="shopEquip('${activeCat}','${preview}')">👔 Pakai</button>`;
+  } else if (previewItem.gachaOnly){
+    actionHtml = `<button class="btn gold" style="width:100%;" onclick="route('gacha')">🎰 Hanya dari Gacha · dipakai di Lv ${previewItem.unlock_lv}</button>`;
   } else if (locked){
     actionHtml = `<button class="btn" style="width:100%;" disabled>🔒 Butuh Lv ${previewItem.unlock_lv}</button>`;
   } else if (!canAfford){
@@ -5429,65 +5604,51 @@ window.claimMisi = async (id) => {
 
 /* ========== PROFILE ========== */
 async function renderProfile(){
-  const akses = state.siswa?.aksesLevel || {};
   const nama = state.siswa?.nama || "Tamu";
-
-  // Load gami all levels
-  const allGami = {};
-  if (state.user) {
-    for (const lvl of ["n5","n4","n3","n2","n1"]) {
-      allGami[lvl] = await FB.getGami(lvl);
-    }
-  }
-
-  // Nilai history
-  const riwayat = state.user ? await FB.listNilai(10) : [];
-
   return `
     <div class="panel">
       <h2>👤 Profil</h2>
       <h3>${nama}</h3>
+      ${state.user ? `<button class="btn ghost danger" style="margin:0 0 10px;" onclick="logout()">⎋ Keluar / ganti akun</button>` : ""}
       <p style="color:var(--gray); font-size:13px;">${state.user?.email || "Tamu"} ${state.siswa?.kelas ? `· Kelas ${state.siswa.kelas}` : ""}</p>
       ${FB.userIsGuru() ? `<div class="kc-guru-box"><div><b>🛠️ Akun ${FB.userIsDeveloper() ? "Moderator" : FB.userIsAdmin() ? "Admin" : "Guru"} terdaftar</b><br><small>Kamu punya akses ke Dashboard Guru: kelola siswa, bank soal, hasil ujian, dan laporan.</small></div><a class="btn" href="./teacher.html">Buka Dashboard Guru</a></div>` : ""}
 
-      <h3>Pengaturan</h3>
-      <label style="display:flex; align-items:center; gap:10px; cursor:pointer; padding:12px; background:rgba(42,50,112,.4); border:1px solid var(--border); border-radius:10px; margin-bottom:12px;">
-        <input type="checkbox" ${isAutoPlayAudio()?'checked':''} onchange="setAutoPlayAudio(this.checked)" style="width:20px; height:20px;"/>
-        <span style="flex:1;"><b>🔊 Auto-play audio Jepang</b><br><small style="color:var(--gray);">Pelafalan diputar otomatis setelah kamu rate flashcard</small></span>
-      </label>
-
-      <h3>Progres per Level</h3>
-      <div class="grid grid-5" style="grid-template-columns:repeat(5,1fr); gap:8px;">
-        ${["n5","n4","n3","n2","n1"].map(lvl => {
-          const g = allGami[lvl] || { xp:0, koin:0, level_karakter:1 };
-          const unlocked = akses[lvl] || FB.userIsGuru();
-          return `<div class="card" style="text-align:center; cursor:default;">
-            <div style="font-weight:800;">${lvl.toUpperCase()}</div>
-            <div style="color:${unlocked?'var(--pink)':'var(--gray-dim)'}; font-size:11px;">${unlocked?'Terbuka':'🔒'}</div>
-            <div style="font-size:11px; color:var(--gray); margin-top:6px;">Lv ${g.level_karakter} · ${g.xp} XP</div>
-          </div>`;
-        }).join("")}
-      </div>
-
-      <h3>Riwayat Ujian</h3>
-      ${riwayat.length ? riwayat.map(r => `
-        <div class="contoh-item">
-          <div>${r.kategoriId}</div>
-          <div class="id">${r.skor}/100 (${r.benar} benar)</div>
-        </div>
-      `).join("") : '<div class="empty">Belum ada riwayat ujian.</div>'}
-
-      ${state.user ? `<button class="btn ghost danger" style="margin-top:16px;" onclick="logout()">Keluar</button>` : ""}
     </div>
   `;
 }
 window.logout = async () => {
+  // Tampilan langsung pindah ke halaman login; signOut jalan di latar belakang (tidak menunggu jaringan).
   _lupakanPilihanLevel();
-  await FB.keluar();
+  try { sessionStorage.removeItem("_lobbyGuard"); } catch (_) {}
   state.user = null; state.siswa = null;
+  try { document.getElementById("btn-auth").innerHTML = "🔑 Masuk"; document.getElementById("btn-auth").onclick = () => route("login"); document.getElementById("btn-out").classList.add("hidden"); document.getElementById("guru-link").classList.add("hidden"); } catch (_) {}
   toast("Dadah 👋");
   route("login");
+  // signOut dibatasi 3 dtk; kalau macet (jaringan HP), hapus sesi lokal supaya tidak masuk lagi otomatis.
+  try { await Promise.race([FB.keluar(), new Promise((_, rej) => setTimeout(() => rej(new Error("timeout")), 3000))]); }
+  catch (e) {
+    console.warn("signOut", e);
+    try { indexedDB.deleteDatabase("firebaseLocalStorageDb"); } catch (_) {}
+    try { Object.keys(localStorage).filter(k => k.startsWith("firebase:")).forEach(k => localStorage.removeItem(k)); } catch (_) {}
+  }
+  _keLanding();
 };
+// Setelah keluar: ke halaman web pemasaran (landing). Kalau landing ada di dasar riwayat, mundur ke sana
+// supaya tombol back berikutnya langsung keluar dari web; kalau tidak, ganti halaman ini dengan landing.
+function _keLanding(){
+  try {
+    const nav = window.navigation;
+    if (nav && nav.entries && nav.traverseTo) {
+      const es = nav.entries(), first = es[0];
+      if (first && es.length > 1 && /(^|\/)landing(\.html)?$/.test(new URL(first.url).pathname)) {
+        nav.traverseTo(first.key);
+        setTimeout(() => location.replace("./"), 800);
+        return;
+      }
+    }
+  } catch (_) {}
+  location.replace("./");
+}
 
 /* ========== ACHIEVEMENTS ========== */
 async function renderAchievements(){
@@ -5688,6 +5849,7 @@ FB.onAuth(async (user, siswa) => {
     try { localStorage.setItem("shirose-returning","1"); } catch(e){}
     btn.innerHTML = `👋 ${siswa?.nama || user.email.split("@")[0]}`;
     btn.onclick = () => route("profile");
+    try { document.getElementById("btn-out").classList.remove("hidden"); } catch (_) {}
     document.getElementById("guru-link").classList.toggle("hidden", !FB.userIsGuru());
     // Banner recovery: kalau login sukses tapi siswa doc gagal dibuat/dibaca,
     // tampilkan panel yang mencolok supaya user tahu dan bisa reset akun.
@@ -5695,6 +5857,7 @@ FB.onAuth(async (user, siswa) => {
   } else {
     btn.innerHTML = "🔑 Masuk";
     btn.onclick = () => route("login");
+    try { document.getElementById("btn-out").classList.add("hidden"); } catch (_) {}
     document.getElementById("guru-link").classList.add("hidden");
     hideOrphanBanner();
   }
@@ -5703,7 +5866,10 @@ FB.onAuth(async (user, siswa) => {
   if (user && siswa) enforceLevelAccess();
   // Jangan biarkan UI menunggu jaringan: tunggu data XP/koin paling lama 1,2 dtk, sisanya dimuat di latar belakang.
   const _gp = loadGami();
-  await Promise.race([_gp.catch(() => {}), new Promise(r => setTimeout(r, 1200))]);
+  const _hashNow = (location.hash.slice(1) || "").split("/")[0];
+  const _barusLogin = user && (_hashNow === "login" || _hashNow === "masuk" || _hashNow === "daftar");
+  // Baru login → halaman pilih level tidak butuh data XP: tampil sekarang, data menyusul di latar belakang.
+  await Promise.race([_gp.catch(() => {}), new Promise(r => setTimeout(r, _barusLogin ? 0 : 500))]);
   renderLevelPills();
   updateChips();
   _gp.then(() => {
@@ -5756,7 +5922,18 @@ updateChips();
     app.innerHTML = renderLogin();
   } catch(e){ /* best-effort; onAuth will render properly */ }
 })();
-window.addEventListener("hashchange", () => route(location.hash.slice(1) || "home"));
+window.addEventListener("hashchange", () => {
+  const h = location.hash.slice(1) || "home";
+  const byRoute = window._navByRoute; window._navByRoute = false;
+  if (state.user && !byRoute) {
+    // Tombol back bawaan HP/browser: dari lobby (pilih-level) → Profil; dari Profil → keluar ke web penjelasan.
+    if (window._curName === "pilih-level" && h !== "pilih-level") { try { history.replaceState(null, "", "#profile"); } catch (_) {} route("profile"); return; }
+    if (window._curName === "profile") { location.replace("./"); return; }
+  }
+  // Sudah login lalu back sampai ke halaman login lama → teruskan mundur, jangan balik ke login.
+  if (state.user && /^(login|masuk|daftar)$/.test(h.split("/")[0])) { history.back(); return; }
+  route(h);
+});
 
 // Register SW
 if ("serviceWorker" in navigator) {

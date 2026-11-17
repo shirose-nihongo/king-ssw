@@ -50,6 +50,10 @@ const LS = {
 
 /* ============================ DATA ============================ */
 const cache = {};
+/** Tunggu promise maksimal ms; lewat itu pakai nilai cadangan (jaringan HP lambat tidak boleh membekukan halaman). */
+const withTimeout = (p, ms, fb) => new Promise(res => { let d = false; const t = setTimeout(() => { if (!d) { d = true; res(fb); } }, ms); Promise.resolve(p).then(v => { if (!d) { d = true; clearTimeout(t); res(v); } }, () => { if (!d) { d = true; clearTimeout(t); res(fb); } }); });
+const _lsj = (k) => { try { return JSON.parse(localStorage.getItem(k)); } catch (e) { return null; } };
+const _lss = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} };
 async function getJSON(url) {
   if (!cache[url]) cache[url] = fetch(url).then(r => { if (!r.ok) throw new Error(`${url}: ${r.status}`); return r.json(); }).catch(e => { delete cache[url]; throw e; });
   return cache[url];
@@ -73,6 +77,11 @@ export const DEFAULT_BIDANG = [
   { slug: "auto-maintenance", nama: "Auto Maintenance (Perawatan Mobil)", jp: "自動車整備", aktif: true, urut: 10, tema: "automobile", hasContent: true },
   { slug: "industrial-mfg", nama: "Industrial Manufacturing (Dasar Pabrik)", jp: "工業製品製造業", aktif: true, urut: 11, tema: "generic", hasContent: true },
   { slug: "mfg-machine-metal", nama: "Machine Metal (Mesin & Logam)", jp: "機械金属加工", label: "⚙️ Mesin & Logam ›", induk: "industrial-mfg", aktif: true, urut: 11.1, tema: "generic", hasContent: true },
+  { slug: "jaim-machine-metal", nama: "機械金属加工 — Buku Resmi JAIM", jp: "機械金属加工", label: "📘 Mesin & Logam (Resmi) ›", induk: "industrial-mfg", aktif: true, urut: 11.2, tema: "generic", hasContent: true },
+  { slug: "jaim-elec-electronic", nama: "電気電子機器組立て — Buku Resmi JAIM", jp: "電気電子機器組立て", label: "📘 Elektrik & Elektronik (Resmi) ›", induk: "industrial-mfg", aktif: true, urut: 11.3, tema: "generic", hasContent: true },
+  { slug: "jaim-metal-surface", nama: "金属表面処理 — Buku Resmi JAIM", jp: "金属表面処理", label: "📘 Perlakuan Permukaan Logam (Resmi) ›", induk: "industrial-mfg", aktif: true, urut: 11.4, tema: "generic", hasContent: true },
+  { slug: "wood-industry", nama: "Wood Industry (Industri Kayu)", jp: "木材産業", aktif: true, urut: 12, tema: "generic", hasContent: true },
+  { slug: "auto-transport", nama: "Automobile Transportation (Truk & Bus)", jp: "自動車運送業（トラック・バス）", aktif: true, urut: 13, tema: "generic", hasContent: true },
 ];
 
 let _bidang = null;
@@ -80,9 +89,17 @@ let _bidang = null;
 export async function loadBidang(force = false) {
   if (_bidang && !force) return _bidang;
   let remote = [];
-  try { if (FB && FB.loadSswBidang && !isGuest()) remote = await FB.loadSswBidang(); } catch (e) { console.warn("ssw: gagal memuat konfigurasi bidang:", e.message || e); }
+  const _ck = "ssw-bidang-cache";
+  try {
+    if (FB && FB.loadSswBidang && !isGuest()) {
+      const cached = _lsj(_ck);
+      const fetchP = FB.loadSswBidang().then(r => { _lss(_ck, r); return r; });
+      // Ada cache → pakai langsung, segarkan di latar belakang. Tanpa cache → tunggu maks 4 dtk.
+      remote = cached ? (fetchP.catch(() => {}), cached) : await withTimeout(fetchP, 4000, []);
+    }
+  } catch (e) { console.warn("ssw: gagal memuat konfigurasi bidang:", e.message || e); }
   const map = new Map(DEFAULT_BIDANG.map(b => [b.slug, { ...b }]));
-  for (const r of remote) {
+  for (const r of (remote || [])) {
     const base = map.get(r.slug) || { slug: r.slug, tema: "generic", urut: 99 };
     map.set(r.slug, { ...base, ...r });
   }
@@ -98,16 +115,18 @@ export async function loadPack(slug) {
   _pack[slug] = (async () => {
     const base = `./data/ssw/${slug}`;
     const idx = await getJSON(`${base}/index.json`);
-    const babs = await Promise.all(idx.bab.map(b => getJSON(`${base}/${b.file}`)));
-    let vocab = [], quiz = { bab: {}, full: [] };
-    try { vocab = await getJSON(`${base}/${idx.vocab || "vocab.json"}`); } catch (e) {}
-    try { quiz = await getJSON(`${base}/${idx.quiz || "quiz.json"}`); } catch (e) {}
-    let figs = [];   // gambar/diagram potongan dari buku (hanya bidang yang menyebut "figs" di index.json)
-    if (idx.figs) { try { figs = (await getJSON(`${base}/${idx.figs}`)).figs || []; } catch (e) {} }
+    const opt = (f, fb) => f ? getJSON(`${base}/${f}`).catch(() => fb) : Promise.resolve(fb);
+    const [babs, vocab, quiz, figsR, kanji, bunpouR] = await Promise.all([
+      Promise.all(idx.bab.map(b => getJSON(`${base}/${b.file}`))),
+      opt(idx.vocab || "vocab.json", []),
+      opt(idx.quiz || "quiz.json", { bab: {}, full: [] }),
+      opt(idx.figs, { figs: [] }),
+      opt(idx.kanji, null),
+      opt(idx.bunpou, null),
+    ]);
+    const figs = (figsR && figsR.figs) || [];
+    const bunpou = (bunpouR && bunpouR.items) || null;
     const chapters = babs.map((d, i) => ({ ...d.bab, source: d.source, order: i, subs: d.bab.subs }));
-    let kanji = null, bunpou = null;   // opsional: arti per kanji & pola tata bahasa (hanya bidang yang menyebut di index.json)
-    if (idx.kanji) { try { kanji = await getJSON(`${base}/${idx.kanji}`); } catch (e) {} }
-    if (idx.bunpou) { try { bunpou = (await getJSON(`${base}/${idx.bunpou}`)).items || null; } catch (e) {} }
     return { slug, idx, chapters, vocab: vocab.items || vocab, quiz, figs, kanji, bunpou };
   })();
   try { return await _pack[slug]; } catch (e) { delete _pack[slug]; throw e; }
@@ -133,12 +152,20 @@ export async function loadKelasAkses() {
   if (!d || !d.kelas || isGuru() || isGuest()) return {};
   if (_kelasAkses && _kelasAkses.uid === uidNow() && _kelasAkses.kelas === d.kelas) return _kelasAkses.map;
   let map = {};
-  try { const k = (await FB.listKelas()).find(x => x.nama === d.kelas); map = (k && k.aksesSswBidang) || {}; } catch (e) { console.warn("ssw: akses kelas gagal dimuat:", e.message || e); }
+  const _kk = "ssw-kelas-" + uidNow() + "-" + d.kelas;
+  const _kc = _lsj(_kk);
+  if (_kc) {   // pakai cache dulu, segarkan di latar belakang
+    FB.listKelas().then(l => { const k = l.find(x => x.nama === d.kelas); const m = (k && k.aksesSswBidang) || {}; _lss(_kk, m); if (_kelasAkses) _kelasAkses.map = m; }).catch(() => {});
+    _kelasAkses = { uid: uidNow(), kelas: d.kelas, map: _kc };
+    return _kc;
+  }
+  try { const k = (await withTimeout(FB.listKelas(), 4000, null) || []).find(x => x.nama === d.kelas); map = (k && k.aksesSswBidang) || {}; if (k) _lss(_kk, map); } catch (e) { console.warn("ssw: akses kelas gagal dimuat:", e.message || e); }
   _kelasAkses = { uid: uidNow(), kelas: d.kelas, map };
   return map;
 }
 export function sswAllowed(slug) {
   if (isGuru()) return true;
+  try { if (FB && FB.hasFullAccess && FB.hasFullAccess()) return true; } catch (e) {}   // grup demo: semua bidang SSW terbuka
   let d = null; try { d = FB && FB.getSiswaDoc && FB.getSiswaDoc(); } catch (e) {}
   if (d && d.aksesSsw === false) return false;
   if (!slug) return true;
@@ -187,7 +214,7 @@ export async function getProgress(slug) {
   if (PS[slug] && PS[slug].id === id) return PS[slug].P;
   const local = LS.get(LKEY(slug), null);
   let remote = null;
-  if (FB && FB.loadSswProgres && !isGuest()) { try { remote = await FB.loadSswProgres(slug); } catch (e) { console.warn("ssw: gagal memuat progres:", e.message || e); } }
+  if (FB && FB.loadSswProgres && !isGuest()) { try { remote = await withTimeout(FB.loadSswProgres(slug), 4000, null); } catch (e) { console.warn("ssw: gagal memuat progres:", e.message || e); } }
   const pick = !local ? remote : !remote ? local : ((remote.u || 0) >= (local.u || 0) ? remote : local);
   const P = Object.assign(DEF(), pick || {});
   P.read = P.read || {}; P.cards = P.cards || {}; P.quiz = P.quiz || {}; P.log = P.log || [];
@@ -200,7 +227,7 @@ let _srsT = 0;
 export async function syncCards(P, vocab, force) {
   if (typeof window === "undefined" || !window.sswSrsLoad) return;
   if (!force && P._srsOk && Date.now() - _srsT < 2500) return;
-  let srs = {}; try { srs = await window.sswSrsLoad(); } catch (e) { return; }
+  let srs = {}; try { srs = await withTimeout(window.sswSrsLoad(), 4000, null); } catch (e) { return; } if (!srs) return;
   _srsT = Date.now(); P._srsOk = 1;
   const out = {};
   for (const v of vocab) {
@@ -317,8 +344,13 @@ export const EXAM_SPEC = {
   "kaigo-jp": { n: 45, img: 4, mb: 0, info: "Resmi (MHLW): 45 soal / 60 menit (tulis 40 + praktik 5), lulus ≥60%." },
   "fishery": { n: 30, img: 0, mb: 12, info: "Ujian Latihan KING SSW (bukan format resmi): jumlah soal dan durasi ujian resmi tidak dipublikasikan. Info resmi: ambang lulus ujian 漁業 tercatat 65% (laporan pelaksanaan ujian MAFF)." },
   "auto-maintenance": { n: 30, img: 0, mb: 30, info: "Ujian Latihan KING SSW (bukan format resmi). Info resmi (MLIT): ujian tulis 30 soal ○× / 60 menit, lulus ≥65%; ujian praktik 3 tugas / 20 menit, lulus ≥60%." },
-  "industrial-mfg": { n: 30, img: 0, mb: 20, info: "Ujian Latihan KING SSW (bukan format resmi). Materi dasar bersama 工業製品製造業: keselamatan, mutu, pengukuran, bahan. Ujian resmi per kategori (MOJ): tulis + praktik; lulus tulis ≥65%, praktik ≥60%." },
-  "mfg-machine-metal": { n: 30, img: 0, mb: 20, info: "Ujian Latihan KING SSW (bukan format resmi). Kategori 機械金属加工 (MOJ): ujian tulis + praktik; lulus tulis ≥65%, praktik ≥60%." },
+  "industrial-mfg": { n: 30, img: 0, mb: 20, info: "Ujian Latihan KING SSW (bukan format resmi). Materi dasar bersama 工業製品製造業: keselamatan, mutu, pengukuran, bahan. Syarat resmi 1号 (METI/MOJ): ujian 製造分野特定技能1号評価試験 lulus bila tulis ≥65 dan praktik ≥60 dari 100 (2号: ≥60); atau 技能検定3級. Lainnya: lulus ujian keterampilan (製造分野特定技能1号評価試験 / 技能検定3級) + bahasa JFT-Basic A2.2 atau JLPT N4+. 2号: JLPT N3+ dan pengalaman kerja ≥3 tahun." },
+  "jaim-machine-metal": { n: 40, img: 0, mb: 30, info: "Resmi (JAIM/METI): 製造分野特定技能1号評価試験 CBT 80 menit, 40 soal (tulis 30 soal benar/salah + praktik 10 pilihan ganda), lulus tulis ≥65% dan praktik ≥60%. Soal latihan = soal resmi dari buku JAIM (hasil ekstraksi otomatis)." },
+  "jaim-elec-electronic": { n: 40, img: 0, mb: 30, info: "Resmi (JAIM/METI): 製造分野特定技能1号評価試験 CBT 80 menit, 40 soal (tulis 30 soal benar/salah + praktik 10 pilihan ganda), lulus tulis ≥65% dan praktik ≥60%. Soal latihan = soal resmi dari buku JAIM (hasil ekstraksi otomatis)." },
+  "jaim-metal-surface": { n: 40, img: 0, mb: 30, info: "Resmi (JAIM/METI): 製造分野特定技能1号評価試験 CBT 80 menit, 40 soal (tulis 30 soal benar/salah + praktik 10 pilihan ganda), lulus tulis ≥65% dan praktik ≥60%. Soal latihan = soal resmi dari buku JAIM (hasil ekstraksi otomatis)." },
+  "wood-industry": { n: 35, img: 0, mb: 32, info: "Ujian Latihan KING SSW (bukan soal resmi). Format resmi 木材産業特定技能1号測定試験: CBT, 60 menit, 35 soal (tulis 32 soal ○× + praktik 3 soal pertimbangan); huruf kanji berfurigana." },
+  "auto-transport": { n: 30, img: 0, mb: 30, info: "Ujian Latihan KING SSW (bukan format resmi; jumlah soal resmi tidak diverifikasi). Soal ditulis Shirose dari teks belajar resmi JTA (truk) dan Asosiasi Bus Jepang (bus)." },
+  "mfg-machine-metal": { n: 30, img: 0, mb: 20, info: "Ujian Latihan KING SSW (bukan format resmi). Kategori 機械金属加工 (MOJ): 1号 dan 2号 tersedia; ujian 1号 lulus tulis ≥65 dan praktik ≥60 (2号 ≥60). Syarat bahasa 1号: JFT-Basic A2.2 / JLPT N4+; 2号: JLPT N3+ dan pengalaman ≥3 tahun." },
 };
 /** 10 ujian penuh = sampel deterministik dari seluruh bank soal; komposisi mengikuti ujian resmi bidangnya. */
 export function fullQuizzes(pack, perQuizArg, count = 10) {

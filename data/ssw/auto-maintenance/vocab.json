@@ -53,7 +53,9 @@
     "b1s1"
    ],
    "sumber": "JICA",
-   "alias": "ルーム・ミラー"
+   "alias": "ルーム・ミラー",
+   "fungsi": "Cermin tengah kabin untuk melihat keadaan di belakang mobil.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-005",
@@ -108,7 +110,9 @@
     "b1s1"
    ],
    "sumber": "JICA",
-   "alias": "クラクション"
+   "alias": "クラクション",
+   "fungsi": "Klakson: bunyi peringatan agar pengguna jalan lain waspada.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-009",
@@ -121,7 +125,9 @@
    "src": [
     "b1s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Tuas untuk menyalakan lampu sein kanan/kiri saat berbelok atau pindah jalur.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-010",
@@ -134,7 +140,9 @@
    "src": [
     "b1s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Saklar untuk menyalakan lampu kecil dan lampu depan.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-011",
@@ -147,7 +155,9 @@
    "src": [
     "b1s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Saklar untuk mengedipkan lampu depan sebagai isyarat ke kendaraan lain.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-012",
@@ -161,7 +171,9 @@
     "b1s1",
     "b4s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Panel yang menampilkan kecepatan, putaran mesin, bahan bakar, dan lampu peringatan.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-013",
@@ -174,7 +186,9 @@
    "src": [
     "b1s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Saklar untuk menyemprotkan cairan pencuci ke kaca depan.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-014",
@@ -188,7 +202,9 @@
     "b1s1"
    ],
    "sumber": "JICA",
-   "alias": "助手席の前にある"
+   "alias": "助手席の前にある",
+   "fungsi": "Laci penyimpanan di depan kursi penumpang depan.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-015",
@@ -201,7 +217,9 @@
    "src": [
     "b1s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Panel depan kabin yang menampung meteran, saklar, dan AC.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-016",
@@ -240,7 +258,9 @@
    "src": [
     "b1s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Saklar yang menyalakan semua lampu sein sekaligus sebagai tanda bahaya.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-019",
@@ -253,7 +273,9 @@
    "src": [
     "b1s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Tuas untuk memilih gigi/posisi transmisi (P, R, N, D atau gigi manual).",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-020",
@@ -267,7 +289,9 @@
     "b1s1"
    ],
    "sumber": "JICA",
-   "alias": "※AT車"
+   "alias": "※AT車",
+   "fungsi": "Pedal gas: mengatur jumlah udara/bahan bakar sehingga menentukan tenaga dan kecepatan.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-021",
@@ -282,7 +306,22 @@
     "b4s6"
    ],
    "sumber": "JICA",
-   "alias": "フット・ペダル（AT車）"
+   "alias": "フット・ペダル（AT車）",
+   "fungsi": "Pedal yang diinjak pengemudi untuk menggerakkan sistem rem dan memperlambat atau menghentikan mobil.",
+   "fig": [
+    {
+     "n": 33,
+     "p": 2,
+     "t": "Struktur rem hidrolik",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig33.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 31,
+    "hal_pdf": 35
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-022",
@@ -296,7 +335,8 @@
     "b1s1"
    ],
    "sumber": "JICA",
-   "alias": "※マニュアル車"
+   "alias": "※マニュアル車",
+   "fungsi": "Pedal yang diinjak untuk memutus tenaga mesin ke transmisi saat memindah gigi."
   },
   {
    "id": "am-023",
@@ -310,7 +350,9 @@
     "b1s1"
    ],
    "sumber": "JICA",
-   "alias": "レバー式・足踏み式・電動（電子）式"
+   "alias": "レバー式・足踏み式・電動（電子）式",
+   "fungsi": "Rem tangan/parkir untuk menahan mobil saat berhenti atau parkir.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-024",
@@ -323,7 +365,9 @@
    "src": [
     "b1s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Lampu penerangan kabin.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-025",
@@ -336,7 +380,9 @@
    "src": [
     "b1s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Penghalang silau matahari yang bisa diturunkan dari atap.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-026",
@@ -351,7 +397,9 @@
     "b4s7"
    ],
    "sumber": "JICA",
-   "alias": "ふくらんだとき"
+   "alias": "ふくらんだとき",
+   "fungsi": "Kantong udara yang mengembang saat tabrakan untuk melindungi penumpang.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-027",
@@ -365,7 +413,9 @@
     "b1s1",
     "b4s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Sabuk yang menahan tubuh penumpang agar tidak terlempar saat rem mendadak atau tabrakan.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-028",
@@ -404,7 +454,9 @@
    "src": [
     "b1s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Sandaran kepala untuk mengurangi cedera leher saat ditabrak dari belakang.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-031",
@@ -420,7 +472,9 @@
    "sumber": "JICA",
    "alias": "エンジン警告灯",
    "contoh": "エンジンに異常があるときに、つきます。",
-   "arti_contoh": "Menyala saat ada kelainan pada mesin."
+   "arti_contoh": "Menyala saat ada kelainan pada mesin.",
+   "fungsi": "Lampu peringatan bahwa sistem pengendali mesin mendeteksi masalah.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-032",
@@ -436,7 +490,9 @@
    "sumber": "JICA",
    "alias": "ブレーキ警告灯",
    "contoh": "ブレーキ液がたりないとき、パーキング・ブレーキをひいたときに、つきます。",
-   "arti_contoh": "Menyala saat minyak rem kurang atau rem parkir ditarik."
+   "arti_contoh": "Menyala saat minyak rem kurang atau rem parkir ditarik.",
+   "fungsi": "Menyala bila rem parkir masih terpasang, minyak rem kurang, atau ada masalah pada sistem rem.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-033",
@@ -452,7 +508,9 @@
    "sumber": "JICA",
    "alias": "SRSエアバッグ警告灯",
    "contoh": "エアバッグに異常があるときに、つきます。",
-   "arti_contoh": "Menyala saat ada kelainan pada airbag."
+   "arti_contoh": "Menyala saat ada kelainan pada airbag.",
+   "fungsi": "Menyala bila sistem airbag/pretensioner mengalami gangguan.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-034",
@@ -468,7 +526,9 @@
    "sumber": "JICA",
    "alias": "ABS警告灯",
    "contoh": "ABS（Antilock Brake System）に異常があるときに、つきます。",
-   "arti_contoh": "Menyala saat ada kelainan pada sistem ABS."
+   "arti_contoh": "Menyala saat ada kelainan pada sistem ABS.",
+   "fungsi": "Menyala bila sistem ABS (anti roda terkunci) mengalami gangguan.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-035",
@@ -484,7 +544,9 @@
    "sumber": "JICA",
    "alias": "充電警告灯",
    "contoh": "バッテリーを充電できないときに、つきます。",
-   "arti_contoh": "Menyala saat aki tidak bisa diisi."
+   "arti_contoh": "Menyala saat aki tidak bisa diisi.",
+   "fungsi": "Menyala bila pengisian aki bermasalah.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-036",
@@ -500,7 +562,9 @@
    "sumber": "JICA",
    "alias": "半ドア警告灯",
    "contoh": "ドアが開いているときに、つきます。",
-   "arti_contoh": "Menyala saat pintu terbuka/belum tertutup rapat."
+   "arti_contoh": "Menyala saat pintu terbuka/belum tertutup rapat.",
+   "fungsi": "Menyala bila ada pintu yang belum tertutup rapat.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-037",
@@ -516,7 +580,9 @@
    "sumber": "JICA",
    "alias": "油圧警告灯",
    "contoh": "エンジン・オイルの油圧に異常があるときに、つきます。",
-   "arti_contoh": "Menyala saat tekanan oli mesin tidak normal."
+   "arti_contoh": "Menyala saat tekanan oli mesin tidak normal.",
+   "fungsi": "Menyala bila tekanan oli mesin rendah; mesin bisa rusak bila terus dijalankan.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-038",
@@ -529,7 +595,9 @@
    "src": [
     "b1s2"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Kap mesin yang menutup ruang mesin.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-039",
@@ -543,7 +611,9 @@
     "b1s2"
    ],
    "sumber": "JICA",
-   "alias": "ヘッドライト"
+   "alias": "ヘッドライト",
+   "fungsi": "Lampu depan untuk menerangi jalan di depan.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-040",
@@ -635,7 +705,9 @@
    "src": [
     "b1s2"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Lampu posisi yang memperlihatkan lebar mobil kepada pengendara lain.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-047",
@@ -648,7 +720,9 @@
    "src": [
     "b1s2"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Lampu kabut agar terlihat dan melihat saat berkabut atau hujan lebat.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-048",
@@ -1066,7 +1140,34 @@
     "b1s5",
     "b4s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Sumber tenaga mobil: mengubah energi pembakaran bahan bakar menjadi gerak putar.",
+   "fig": [
+    {
+     "n": 20,
+     "p": 8,
+     "t": "Susunan mobil",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig20.webp"
+    },
+    {
+     "n": 21,
+     "p": 1,
+     "t": "Mesin depan penggerak belakang (FR)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig21.webp"
+    },
+    {
+     "n": 22,
+     "p": 5,
+     "t": "Mesin depan penggerak depan (FF)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig22.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 18,
+    "hal_pdf": 22
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-079",
@@ -1079,7 +1180,9 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Melumasi bagian mesin yang bergerak, mengurangi gesekan, mendinginkan, dan membersihkan.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-080",
@@ -1092,7 +1195,9 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Menampung minyak rem dan menjadi tempat mengecek volumenya.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-081",
@@ -1106,7 +1211,9 @@
     "b1s5"
    ],
    "sumber": "JICA",
-   "alias": "ブレーキ液"
+   "alias": "ブレーキ液",
+   "fungsi": "Cairan penerus tekanan injakan pedal ke rem tiap roda; harus diganti berkala.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-082",
@@ -1119,7 +1226,9 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Cairan untuk membersihkan kaca depan.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-083",
@@ -1147,7 +1256,9 @@
     "b4s4"
    ],
    "sumber": "JICA",
-   "alias": "冷却水"
+   "alias": "冷却水",
+   "fungsi": "Cairan pendingin mesin; mencegah mendidih dan membeku serta melindungi dari karat.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-085",
@@ -1162,7 +1273,9 @@
     "b4s4"
    ],
    "sumber": "JICA",
-   "alias": "ラジエーターファン"
+   "alias": "ラジエーターファン",
+   "fungsi": "Mengalirkan udara ke radiator agar air pendingin tetap dingin saat mobil pelan atau berhenti.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-086",
@@ -1188,7 +1301,34 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Menyimpan listrik untuk menyalakan mesin dan menyuplai perangkat listrik saat mesin mati.",
+   "fig": [
+    {
+     "n": 15,
+     "p": 2,
+     "t": "Sistem starter",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig15.webp"
+    },
+    {
+     "n": 16,
+     "p": 2,
+     "t": "Sistem pengisian",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig16.webp"
+    },
+    {
+     "n": 17,
+     "p": 5,
+     "t": "Sistem pengapian",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig17.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 13,
+    "hal_pdf": 17
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-088",
@@ -1201,7 +1341,9 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Cairan elektrolit di dalam aki; levelnya harus di antara batas atas dan bawah.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-089",
@@ -1214,7 +1356,9 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Sabuk penggerak pompa power steering agar setir ringan.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-090",
@@ -1227,7 +1371,9 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Sabuk penggerak kipas, pompa air, dan alternator dari mesin.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-091",
@@ -1240,7 +1386,8 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Busi yang memercikkan api listrik untuk membakar campuran udara-bahan bakar pada mesin bensin."
   },
   {
    "id": "am-092",
@@ -1267,7 +1414,9 @@
     "b1s5"
    ],
    "sumber": "JICA",
-   "alias": "エンジン・コントロール・ユニット"
+   "alias": "エンジン・コントロール・ユニット",
+   "fungsi": "Komputer pengendali mesin yang mengatur injeksi bahan bakar dan pengapian.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-094",
@@ -1307,7 +1456,9 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Kotak berisi filter udara yang menyaring udara masuk mesin.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-097",
@@ -1320,7 +1471,8 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Menaikkan tegangan aki menjadi tegangan sangat tinggi untuk percikan busi."
   },
   {
    "id": "am-098",
@@ -1333,7 +1485,9 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Penutup bagian atas kepala silinder yang menahan oli di dalam.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-099",
@@ -1346,7 +1500,9 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Tutup lubang pengisian oli mesin.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-100",
@@ -1359,7 +1515,9 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Batang celup untuk memeriksa jumlah dan kondisi oli.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-101",
@@ -1385,7 +1543,9 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Dudukan karet yang menahan mesin pada bodi dan meredam getaran.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-103",
@@ -1399,7 +1559,22 @@
     "b1s5"
    ],
    "sumber": "JICA",
-   "alias": "オルタネーター"
+   "alias": "オルタネーター",
+   "fungsi": "Pembangkit listrik yang digerakkan mesin untuk mengisi aki dan menyuplai listrik kendaraan.",
+   "fig": [
+    {
+     "n": 16,
+     "p": 3,
+     "t": "Sistem pengisian",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig16.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 14,
+    "hal_pdf": 18
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-104",
@@ -1412,7 +1587,22 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Saluran bercabang yang membagi udara hisap ke tiap silinder.",
+   "fig": [
+    {
+     "n": 14,
+     "p": 5,
+     "t": "Sistem hisap dan buang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 12,
+    "hal_pdf": 16
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-105",
@@ -1425,7 +1615,9 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Tutup radiator yang menjaga tekanan sistem pendingin.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-106",
@@ -1438,7 +1630,9 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Mengubah injakan pedal rem menjadi tekanan minyak rem.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-107",
@@ -1451,7 +1645,9 @@
    "src": [
     "b1s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Penguat tenaga rem: memperkuat injakan pedal memakai kevakuman mesin.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-108",
@@ -1480,7 +1676,9 @@
     "b4s5"
    ],
    "sumber": "JICA",
-   "alias": "ゴムのところ"
+   "alias": "ゴムのところ",
+   "fungsi": "Satu-satunya bagian yang menyentuh jalan; menyalurkan tenaga, rem, dan arah, serta meredam guncangan.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-110",
@@ -1495,7 +1693,9 @@
     "b4s5"
    ],
    "sumber": "JICA",
-   "alias": "金属のところ"
+   "alias": "金属のところ",
+   "fungsi": "Pelek tempat ban dipasang.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-111",
@@ -1508,7 +1708,9 @@
    "src": [
     "b1s6"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Mur pengikat roda ke hub; harus dikencangkan sesuai torsi.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-112",
@@ -1521,7 +1723,9 @@
    "src": [
     "b1s6"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Pentil untuk mengisi dan menahan udara dalam ban.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-113",
@@ -1534,7 +1738,9 @@
    "src": [
     "b1s6"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Cakram yang berputar bersama roda dan dijepit kampas untuk mengerem.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-114",
@@ -1560,7 +1766,8 @@
    "src": [
     "b1s6"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Kampas yang menjepit cakram rem; menimbulkan gesekan untuk memperlambat mobil dan aus seiring pemakaian."
   },
   {
    "id": "am-116",
@@ -1574,7 +1781,22 @@
     "b1s6",
     "b4s6"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Tromol berbentuk mangkuk yang berputar bersama roda; sepatu rem menekan sisi dalamnya untuk mengerem.",
+   "fig": [
+    {
+     "n": 35,
+     "p": 3,
+     "t": "Rem tromol (2)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig35.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 33,
+    "hal_pdf": 37
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-117",
@@ -1601,7 +1823,22 @@
     "b1s6",
     "b4s6"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Sepatu berlapis kampas pada rem tromol yang menekan tromol dari dalam untuk menimbulkan gesekan.",
+   "fig": [
+    {
+     "n": 35,
+     "p": 1,
+     "t": "Rem tromol (2)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig35.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 33,
+    "hal_pdf": 37
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-119",
@@ -1643,7 +1880,22 @@
     "b1s7",
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Poros yang menyalurkan tenaga dari diferensial/transmisi ke roda penggerak.",
+   "fig": [
+    {
+     "n": 22,
+     "p": 2,
+     "t": "Mesin depan penggerak depan (FF)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig22.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 20,
+    "hal_pdf": 24
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-122",
@@ -1656,7 +1908,8 @@
    "src": [
     "b1s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Poros panjang yang menyalurkan tenaga dari transmisi ke diferensial belakang."
   },
   {
    "id": "am-123",
@@ -1669,7 +1922,9 @@
    "src": [
     "b1s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Penyangga roda yang terhubung ke suspensi dan sistem kemudi.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-124",
@@ -1683,7 +1938,22 @@
     "b1s7",
     "b4s6"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Selang fleksibel penyalur minyak rem ke roda yang ikut bergerak bersama suspensi.",
+   "fig": [
+    {
+     "n": 33,
+     "p": 3,
+     "t": "Struktur rem hidrolik",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig33.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 31,
+    "hal_pdf": 35
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-125",
@@ -1697,7 +1967,28 @@
     "b1s7",
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Mengubah rasio putaran dan torsi mesin sesuai kecepatan dan beban kendaraan.",
+   "fig": [
+    {
+     "n": 21,
+     "p": 5,
+     "t": "Mesin depan penggerak belakang (FR)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig21.webp"
+    },
+    {
+     "n": 22,
+     "p": 3,
+     "t": "Mesin depan penggerak depan (FF)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig22.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 19,
+    "hal_pdf": 23
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-126",
@@ -1711,7 +2002,9 @@
     "b1s7"
    ],
    "sumber": "JICA",
-   "alias": "デフ"
+   "alias": "デフ",
+   "fungsi": "Gardan: membagi tenaga ke roda kiri dan kanan serta membedakan putaran saat berbelok.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-127",
@@ -1738,7 +2031,8 @@
     "b1s7"
    ],
    "sumber": "JICA",
-   "alias": "オイル・エレメント"
+   "alias": "オイル・エレメント",
+   "fungsi": "Menyaring kotoran dan serpihan logam dari oli mesin agar oli tetap bersih."
   },
   {
    "id": "am-129",
@@ -1778,7 +2072,22 @@
     "b1s7",
     "b4s4"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Karter di bagian bawah mesin yang menampung oli mesin.",
+   "fig": [
+    {
+     "n": 10,
+     "p": 6,
+     "t": "Sirkulasi oli",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig10.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 8,
+    "hal_pdf": 12
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-132",
@@ -1792,7 +2101,9 @@
     "b1s7"
    ],
    "sumber": "JICA",
-   "alias": "ドレーンプラグ"
+   "alias": "ドレーンプラグ",
+   "fungsi": "Baut penutup lubang pembuangan oli/cairan; dibuka saat ganti oli.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-133",
@@ -1806,7 +2117,9 @@
     "b1s7",
     "b4s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Mengukur kadar oksigen gas buang agar campuran udara-bahan bakar bisa dikoreksi.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-134",
@@ -1819,7 +2132,9 @@
    "src": [
     "b1s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Mengubah gas buang berbahaya (CO, HC, NOx) menjadi gas yang lebih aman.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-135",
@@ -1832,7 +2147,9 @@
    "src": [
     "b1s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Rangka bantu yang menopang mesin atau suspensi pada bodi.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-136",
@@ -1845,7 +2162,9 @@
    "src": [
     "b1s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Batang penerus gerak setir ke roda depan.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-137",
@@ -1872,7 +2191,22 @@
     "b1s7",
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Pegas berbentuk spiral pada suspensi yang menyerap guncangan jalan.",
+   "fig": [
+    {
+     "n": 24,
+     "p": 1,
+     "t": "Suspensi independen",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig24.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 22,
+    "hal_pdf": 26
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-139",
@@ -1885,7 +2219,22 @@
    "src": [
     "b1s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Pipa logam penyalur minyak rem dari master silinder ke rem roda.",
+   "fig": [
+    {
+     "n": 33,
+     "p": 5,
+     "t": "Struktur rem hidrolik",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig33.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 31,
+    "hal_pdf": 35
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-140",
@@ -1899,7 +2248,9 @@
     "b1s7",
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Meredam getaran pegas suspensi agar mobil nyaman dan roda tetap menapak.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-141",
@@ -1913,7 +2264,22 @@
     "b1s8",
     "b4s3"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Pipa yang mengalirkan gas buang dari mesin ke belakang kendaraan.",
+   "fig": [
+    {
+     "n": 14,
+     "p": 8,
+     "t": "Sistem hisap dan buang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 12,
+    "hal_pdf": 16
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-142",
@@ -1941,7 +2307,8 @@
    "src": [
     "b1s8"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Tangki penyimpan bahan bakar."
   },
   {
    "id": "am-144",
@@ -4330,7 +4697,8 @@
    "src": [
     "b4s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Ruang di dalam silinder tempat campuran udara dan bahan bakar dibakar."
   },
   {
    "id": "am-311",
@@ -4344,7 +4712,8 @@
     "b4s1"
    ],
    "sumber": "JICA",
-   "alias": "シリンダ"
+   "alias": "シリンダ",
+   "fungsi": "Tabung tempat piston bergerak naik-turun."
   },
   {
    "id": "am-312",
@@ -4357,7 +4726,22 @@
    "src": [
     "b4s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Katup yang membuka untuk memasukkan campuran udara-bahan bakar ke ruang bakar.",
+   "fig": [
+    {
+     "n": 2,
+     "p": 1,
+     "t": "Langkah hisap mesin",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig02.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 2,
+    "hal_pdf": 6
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-313",
@@ -4370,7 +4754,22 @@
    "src": [
     "b4s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Katup yang membuka untuk mengeluarkan gas hasil pembakaran dari silinder.",
+   "fig": [
+    {
+     "n": 2,
+     "p": 2,
+     "t": "Langkah hisap mesin",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig02.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 2,
+    "hal_pdf": 6
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-314",
@@ -4383,7 +4782,34 @@
    "src": [
     "b4s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Poros bergerigi cam yang membuka dan menutup katup hisap dan buang pada waktu yang tepat.",
+   "fig": [
+    {
+     "n": 6,
+     "p": 2,
+     "t": "Mesin DOHC 4 silinder",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig06.webp"
+    },
+    {
+     "n": 8,
+     "p": 2,
+     "t": "Mekanisme katup tipe OHC (sabuk)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig08.webp"
+    },
+    {
+     "n": 9,
+     "p": 2,
+     "t": "Mekanisme katup tipe DOHC (rantai)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig09.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 4,
+    "hal_pdf": 8
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-315",
@@ -4397,7 +4823,8 @@
     "b4s1"
    ],
    "sumber": "JICA",
-   "alias": "スパークプラグ"
+   "alias": "スパークプラグ",
+   "fungsi": "Busi: memercikkan api listrik untuk membakar campuran udara dan bensin pada mesin bensin."
   },
   {
    "id": "am-316",
@@ -4410,7 +4837,34 @@
    "src": [
     "b4s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Torak yang bergerak naik-turun di silinder; menerima tekanan pembakaran dan menggerakkan poros engkol.",
+   "fig": [
+    {
+     "n": 2,
+     "p": 4,
+     "t": "Langkah hisap mesin",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig02.webp"
+    },
+    {
+     "n": 6,
+     "p": 5,
+     "t": "Mesin DOHC 4 silinder",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig06.webp"
+    },
+    {
+     "n": 36,
+     "p": 3,
+     "t": "Kaliper rem cakram mengambang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig36.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 2,
+    "hal_pdf": 6
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-317",
@@ -4423,7 +4877,8 @@
    "src": [
     "b4s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Menjaga kerapatan ruang bakar dan mengikis oli di dinding silinder."
   },
   {
    "id": "am-318",
@@ -4436,7 +4891,22 @@
    "src": [
     "b4s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Batang yang menghubungkan piston dengan poros engkol dan mengubah gerak lurus menjadi putar.",
+   "fig": [
+    {
+     "n": 6,
+     "p": 7,
+     "t": "Mesin DOHC 4 silinder",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig06.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 4,
+    "hal_pdf": 8
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-319",
@@ -4449,7 +4919,40 @@
    "src": [
     "b4s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Poros engkol yang mengubah gerak naik-turun piston menjadi putaran dan menyalurkan tenaga mesin.",
+   "fig": [
+    {
+     "n": 2,
+     "p": 6,
+     "t": "Langkah hisap mesin",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig02.webp"
+    },
+    {
+     "n": 6,
+     "p": 8,
+     "t": "Mesin DOHC 4 silinder",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig06.webp"
+    },
+    {
+     "n": 8,
+     "p": 4,
+     "t": "Mekanisme katup tipe OHC (sabuk)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig08.webp"
+    },
+    {
+     "n": 9,
+     "p": 4,
+     "t": "Mekanisme katup tipe DOHC (rantai)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig09.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 2,
+    "hal_pdf": 6
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-320",
@@ -4463,7 +4966,8 @@
     "b4s1",
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Roda gila yang menyimpan putaran agar putaran mesin halus dan menjadi dudukan kopling."
   },
   {
    "id": "am-321",
@@ -4489,7 +4993,8 @@
    "src": [
     "b4s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Penutup bagian atas silinder; tempat katup dan ruang bakar."
   },
   {
    "id": "am-323",
@@ -4528,7 +5033,8 @@
    "src": [
     "b4s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Paking penyekat antara kepala silinder dan blok agar gas, oli, dan air pendingin tidak bocor."
   },
   {
    "id": "am-326",
@@ -4541,7 +5047,8 @@
    "src": [
     "b4s1"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Badan utama mesin yang memuat silinder dan menjadi dudukan bagian lain."
   },
   {
    "id": "am-327",
@@ -4555,7 +5062,22 @@
     "b4s2"
    ],
    "sumber": "JICA",
-   "alias": "燃料タンク"
+   "alias": "燃料タンク",
+   "fungsi": "Tangki penyimpan bahan bakar.",
+   "fig": [
+    {
+     "n": 13,
+     "p": 2,
+     "t": "Injeksi bahan bakar elektronik",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig13.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 11,
+    "hal_pdf": 15
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-328",
@@ -4569,7 +5091,22 @@
     "b4s2"
    ],
    "sumber": "JICA",
-   "alias": "燃料ポンプ"
+   "alias": "燃料ポンプ",
+   "fungsi": "Memompa bahan bakar dari tangki ke injektor dengan tekanan tertentu.",
+   "fig": [
+    {
+     "n": 13,
+     "p": 1,
+     "t": "Injeksi bahan bakar elektronik",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig13.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 11,
+    "hal_pdf": 15
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-329",
@@ -4583,7 +5120,9 @@
     "b4s2"
    ],
    "sumber": "JICA",
-   "alias": "燃料フィルター"
+   "alias": "燃料フィルター",
+   "fungsi": "Menyaring kotoran dari bahan bakar sebelum masuk mesin.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-330",
@@ -4596,7 +5135,9 @@
    "src": [
     "b4s2"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Menyemprotkan bahan bakar ke mesin dalam bentuk kabut halus.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-331",
@@ -4624,7 +5165,8 @@
     "b4s3"
    ],
    "sumber": "JICA",
-   "alias": "エアクリーナー"
+   "alias": "エアクリーナー",
+   "fungsi": "Singkatan 'air cleaner': menyaring debu dari udara sebelum masuk mesin."
   },
   {
    "id": "am-333",
@@ -4637,7 +5179,8 @@
    "src": [
     "b4s3"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Mengukur jumlah udara yang masuk mesin agar takaran bahan bakar dapat diatur."
   },
   {
    "id": "am-334",
@@ -4651,7 +5194,8 @@
     "b4s3"
    ],
    "sumber": "JICA",
-   "alias": "スロットル"
+   "alias": "スロットル",
+   "fungsi": "Mengatur jumlah udara masuk ke mesin lewat katup throttle sesuai injakan pedal gas."
   },
   {
    "id": "am-335",
@@ -4665,7 +5209,22 @@
     "b4s3"
    ],
    "sumber": "JICA",
-   "alias": "プラグ"
+   "alias": "プラグ",
+   "fungsi": "Busi yang memercikkan api listrik untuk membakar campuran udara-bahan bakar pada mesin bensin.",
+   "fig": [
+    {
+     "n": 17,
+     "p": 2,
+     "t": "Sistem pengapian",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig17.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 15,
+    "hal_pdf": 19
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-336",
@@ -4679,7 +5238,22 @@
     "b4s3"
    ],
    "sumber": "JICA",
-   "alias": "点火コイル"
+   "alias": "点火コイル",
+   "fungsi": "Menaikkan tegangan aki menjadi tegangan sangat tinggi untuk percikan busi.",
+   "fig": [
+    {
+     "n": 17,
+     "p": 1,
+     "t": "Sistem pengapian",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig17.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 15,
+    "hal_pdf": 19
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-337",
@@ -4693,7 +5267,22 @@
     "b4s3"
    ],
    "sumber": "JICA",
-   "alias": "Electronic Control Unit"
+   "alias": "Electronic Control Unit",
+   "fungsi": "Unit kontrol elektronik yang mengolah sinyal sensor dan mengatur injeksi bahan bakar serta pengapian.",
+   "fig": [
+    {
+     "n": 17,
+     "p": 4,
+     "t": "Sistem pengapian",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig17.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 15,
+    "hal_pdf": 19
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-338",
@@ -4785,7 +5374,22 @@
     "b4s3",
     "b4s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Mengubah gas buang berbahaya (HC, CO, NOx) menjadi gas yang lebih aman lewat reaksi katalis.",
+   "fig": [
+    {
+     "n": 14,
+     "p": 9,
+     "t": "Sistem hisap dan buang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 12,
+    "hal_pdf": 16
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-345",
@@ -4798,7 +5402,22 @@
    "src": [
     "b4s4"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Memompa oli mesin dan mengalirkannya ke bagian-bagian yang perlu pelumasan.",
+   "fig": [
+    {
+     "n": 10,
+     "p": 8,
+     "t": "Sirkulasi oli",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig10.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 8,
+    "hal_pdf": 12
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-346",
@@ -4812,7 +5431,8 @@
     "b4s4"
    ],
    "sumber": "JICA",
-   "alias": "オイルエレメント"
+   "alias": "オイルエレメント",
+   "fungsi": "Menyaring kotoran dan serpihan logam dari oli mesin agar oli tetap bersih."
   },
   {
    "id": "am-347",
@@ -4825,7 +5445,8 @@
    "src": [
     "b4s4"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Mengalirkan air pendingin antara mesin dan radiator."
   },
   {
    "id": "am-348",
@@ -4838,7 +5459,8 @@
    "src": [
     "b4s4"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Menampung kelebihan air pendingin dan menjadi tempat mengecek serta menambah cairan."
   },
   {
    "id": "am-349",
@@ -4851,7 +5473,8 @@
    "src": [
     "b4s4"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Mendinginkan air pendingin mesin dengan melepaskan panas ke udara."
   },
   {
    "id": "am-350",
@@ -4864,7 +5487,22 @@
    "src": [
     "b4s4"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Katup otomatis yang mengatur aliran air pendingin ke radiator sehingga suhu mesin stabil.",
+   "fig": [
+    {
+     "n": 11,
+     "p": 4,
+     "t": "Sistem pendingin air",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig11.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 9,
+    "hal_pdf": 13
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-351",
@@ -4945,7 +5583,28 @@
    "src": [
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Memutus dan menyambung tenaga mesin ke transmisi, terutama saat kendaraan mulai bergerak atau pindah gigi.",
+   "fig": [
+    {
+     "n": 21,
+     "p": 6,
+     "t": "Mesin depan penggerak belakang (FR)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig21.webp"
+    },
+    {
+     "n": 22,
+     "p": 4,
+     "t": "Mesin depan penggerak depan (FF)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig22.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 19,
+    "hal_pdf": 23
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-357",
@@ -4958,7 +5617,8 @@
    "src": [
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Cakram yang menghubungkan dan memutus tenaga mesin ke transmisi lewat gesekan."
   },
   {
    "id": "am-358",
@@ -4971,7 +5631,8 @@
    "src": [
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Pedal yang diinjak untuk memutus tenaga mesin ke transmisi saat memindah gigi."
   },
   {
    "id": "am-359",
@@ -4997,7 +5658,8 @@
    "src": [
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Transmisi yang diganti giginya manual oleh pengemudi untuk mengubah torsi dan kecepatan."
   },
   {
    "id": "am-361",
@@ -5024,7 +5686,8 @@
    "src": [
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Penerus tenaga berbasis fluida pada transmisi otomatis, menggantikan kopling."
   },
   {
    "id": "am-363",
@@ -5064,7 +5727,22 @@
    "src": [
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Poros panjang yang menyalurkan tenaga dari transmisi ke diferensial belakang.",
+   "fig": [
+    {
+     "n": 21,
+     "p": 3,
+     "t": "Mesin depan penggerak belakang (FR)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig21.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 19,
+    "hal_pdf": 23
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-366",
@@ -5077,7 +5755,22 @@
    "src": [
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Sambungan yang memungkinkan poros meneruskan putaran meskipun sudutnya berubah.",
+   "fig": [
+    {
+     "n": 21,
+     "p": 4,
+     "t": "Mesin depan penggerak belakang (FR)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig21.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 19,
+    "hal_pdf": 23
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-367",
@@ -5156,7 +5849,8 @@
    "src": [
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Membedakan putaran roda kiri dan kanan saat mobil berbelok."
   },
   {
    "id": "am-373",
@@ -5169,7 +5863,22 @@
    "src": [
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Gandar/as roda depan yang menopang roda depan dan beban kendaraan.",
+   "fig": [
+    {
+     "n": 23,
+     "p": 4,
+     "t": "Axle dan suspensi tipe gandar",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig23.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 21,
+    "hal_pdf": 25
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-374",
@@ -5182,7 +5891,8 @@
    "src": [
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Bagian tengah roda tempat roda dipasang dan berputar bersama bantalan."
   },
   {
    "id": "am-375",
@@ -5195,7 +5905,22 @@
    "src": [
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Sistem penopang yang menyerap guncangan jalan agar kendaraan nyaman dan roda tetap menapak.",
+   "fig": [
+    {
+     "n": 20,
+     "p": 4,
+     "t": "Susunan mobil",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig20.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 18,
+    "hal_pdf": 22
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-376",
@@ -5221,7 +5946,8 @@
    "src": [
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Lengan penghubung roda ke bodi pada suspensi; bergerak naik-turun menyerap guncangan."
   },
   {
    "id": "am-378",
@@ -5234,7 +5960,8 @@
    "src": [
     "b4s5"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Lengan atas suspensi yang menjaga posisi roda saat bergerak naik-turun."
   },
   {
    "id": "am-379",
@@ -5247,7 +5974,22 @@
    "src": [
     "b4s6"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Sistem yang meneruskan putaran setir untuk mengubah arah roda depan.",
+   "fig": [
+    {
+     "n": 20,
+     "p": 1,
+     "t": "Susunan mobil",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig20.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 18,
+    "hal_pdf": 22
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-380",
@@ -5261,7 +6003,8 @@
     "b4s6"
    ],
    "sumber": "JICA",
-   "alias": "ハンドル"
+   "alias": "ハンドル",
+   "fungsi": "Setir yang diputar pengemudi untuk mengarahkan roda depan."
   },
   {
    "id": "am-381",
@@ -5275,7 +6018,22 @@
     "b4s6"
    ],
    "sumber": "JICA",
-   "alias": "制動装置"
+   "alias": "制動装置",
+   "fungsi": "Sistem yang memperlambat atau menghentikan kendaraan dan menahannya saat parkir.",
+   "fig": [
+    {
+     "n": 20,
+     "p": 5,
+     "t": "Susunan mobil",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig20.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 18,
+    "hal_pdf": 22
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-382",
@@ -5289,7 +6047,8 @@
     "b4s6"
    ],
    "sumber": "JICA",
-   "alias": "ブレーキ・マスターシリンダ"
+   "alias": "ブレーキ・マスターシリンダ",
+   "fungsi": "Mengubah injakan pedal rem menjadi tekanan minyak rem yang dikirim ke tiap rem roda."
   },
   {
    "id": "am-383",
@@ -5302,7 +6061,8 @@
    "src": [
     "b4s6"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Rem yang menekan kampas ke bagian dalam tromol yang ikut berputar bersama roda."
   },
   {
    "id": "am-384",
@@ -5315,7 +6075,8 @@
    "src": [
     "b4s6"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Didorong tekanan minyak rem untuk menekan kampas rem ke tromol."
   },
   {
    "id": "am-385",
@@ -5328,7 +6089,8 @@
    "src": [
     "b4s6"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Rem yang menjepit cakram yang berputar bersama roda dengan kampas untuk memperlambat roda."
   },
   {
    "id": "am-386",
@@ -5341,7 +6103,8 @@
    "src": [
     "b4s6"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Kampas yang menjepit cakram rem; menimbulkan gesekan untuk memperlambat mobil dan aus seiring pemakaian."
   },
   {
    "id": "am-387",
@@ -5354,7 +6117,8 @@
    "src": [
     "b4s6"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Rumah yang menampung piston dan kampas, menjepit cakram saat rem diinjak."
   },
   {
    "id": "am-388",
@@ -5367,7 +6131,8 @@
    "src": [
     "b4s6"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Didorong tekanan minyak rem untuk menekan kampas ke cakram."
   },
   {
    "id": "am-389",
@@ -5380,7 +6145,9 @@
    "src": [
     "b4s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Berkas kabel yang menyalurkan listrik dan sinyal ke semua komponen.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-390",
@@ -5393,7 +6160,9 @@
    "src": [
     "b4s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Motor yang memutar mesin untuk menghidupkannya.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-391",
@@ -5407,7 +6176,9 @@
     "b4s7"
    ],
    "sumber": "JICA",
-   "alias": "オルタネータ"
+   "alias": "オルタネータ",
+   "fungsi": "Pembangkit listrik yang digerakkan mesin untuk mengisi aki.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-392",
@@ -5420,7 +6191,9 @@
    "src": [
     "b4s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Menyimpan listrik untuk menghidupkan mesin dan menyuplai perangkat listrik.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-393",
@@ -5434,7 +6207,9 @@
     "b4s7"
    ],
    "sumber": "JICA",
-   "catatan": "Kabin diletakkan di atas rangka; dipakai pada truk dan bus."
+   "catatan": "Kabin diletakkan di atas rangka; dipakai pada truk dan bus.",
+   "fungsi": "Rangka berbentuk tangga yang kuat; dipakai pada truk dan SUV.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-394",
@@ -5448,7 +6223,9 @@
     "b4s7"
    ],
    "sumber": "JICA",
-   "catatan": "Rangka dan kabin menyatu; lebih kuat dan ringan."
+   "catatan": "Rangka dan kabin menyatu; lebih kuat dan ringan.",
+   "fungsi": "Bodi dan rangka menyatu; ringan dan kuat; dipakai pada mobil penumpang.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-395",
@@ -5461,7 +6238,9 @@
    "src": [
     "b4s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Penyerap benturan ringan di depan/belakang mobil.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-396",
@@ -5474,7 +6253,9 @@
    "src": [
     "b4s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Cermin samping untuk melihat samping dan belakang mobil.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-397",
@@ -5487,7 +6268,9 @@
    "src": [
     "b4s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Karet pembersih kaca dari air hujan dan kotoran.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-398",
@@ -5553,7 +6336,9 @@
    "src": [
     "b4s7"
    ],
-   "sumber": "JICA"
+   "sumber": "JICA",
+   "fungsi": "Penghalang silau matahari yang bisa diturunkan dari atap.",
+   "status_validasi": "fungsi: ORIGINAL LEARNING CONTENT, perlu review"
   },
   {
    "id": "am-403",
@@ -5607,6 +6392,1812 @@
     "b4s8"
    ],
    "sumber": "JICA"
+  },
+  {
+   "id": "am-407",
+   "kata": "混合気",
+   "kana": "こんごうき",
+   "romaji": "kongouki",
+   "arti": "campuran udara-bahan bakar",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 2,
+     "p": 3,
+     "t": "Langkah hisap mesin",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig02.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 2,
+    "hal_pdf": 6
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Campuran udara dan bahan bakar yang dibakar di ruang bakar."
+  },
+  {
+   "id": "am-408",
+   "kata": "シリンダ",
+   "kana": "しりんだ",
+   "romaji": "shirinda",
+   "arti": "silinder",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 2,
+     "p": 5,
+     "t": "Langkah hisap mesin",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig02.webp"
+    },
+    {
+     "n": 6,
+     "p": 6,
+     "t": "Mesin DOHC 4 silinder",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig06.webp"
+    },
+    {
+     "n": 36,
+     "p": 4,
+     "t": "Kaliper rem cakram mengambang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig36.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 2,
+    "hal_pdf": 6
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Tabung tempat piston bergerak dan terjadi pembakaran."
+  },
+  {
+   "id": "am-409",
+   "kata": "シリンダ・ヘッド",
+   "kana": "しりんだへっど",
+   "romaji": "shirinda heddo",
+   "arti": "kepala silinder",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 6,
+     "p": 1,
+     "t": "Mesin DOHC 4 silinder",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig06.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 4,
+    "hal_pdf": 8
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Penutup bagian atas silinder; tempat katup, busi, dan ruang bakar."
+  },
+  {
+   "id": "am-410",
+   "kata": "シリンダ・ブロック",
+   "kana": "しりんだぶろっく",
+   "romaji": "shirinda burokku",
+   "arti": "blok silinder",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 6,
+     "p": 3,
+     "t": "Mesin DOHC 4 silinder",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig06.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 4,
+    "hal_pdf": 8
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Badan utama mesin yang memuat silinder dan saluran air serta oli."
+  },
+  {
+   "id": "am-411",
+   "kata": "バルブ",
+   "kana": "ばるぶ",
+   "romaji": "barubu",
+   "arti": "katup",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 6,
+     "p": 4,
+     "t": "Mesin DOHC 4 silinder",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig06.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 4,
+    "hal_pdf": 8
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Katup yang membuka/menutup saluran hisap dan buang pada silinder."
+  },
+  {
+   "id": "am-412",
+   "kata": "タイミング・ベルト",
+   "kana": "たいみんぐべると",
+   "romaji": "taimingu beruto",
+   "arti": "sabuk timing",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 8,
+     "p": 1,
+     "t": "Mekanisme katup tipe OHC (sabuk)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig08.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 6,
+    "hal_pdf": 10
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Sabuk bergigi yang menyinkronkan putaran poros engkol dengan poros bubungan."
+  },
+  {
+   "id": "am-413",
+   "kata": "ロッカ・アーム",
+   "kana": "ろっかあーむ",
+   "romaji": "rokka aamu",
+   "arti": "lengan rocker",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 8,
+     "p": 3,
+     "t": "Mekanisme katup tipe OHC (sabuk)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig08.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 6,
+    "hal_pdf": 10
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Tuas yang meneruskan gerakan cam ke katup untuk membukanya."
+  },
+  {
+   "id": "am-414",
+   "kata": "テンショナ",
+   "kana": "てんしょな",
+   "romaji": "tenshona",
+   "arti": "penegang sabuk",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 8,
+     "p": 5,
+     "t": "Mekanisme katup tipe OHC (sabuk)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig08.webp"
+    },
+    {
+     "n": 9,
+     "p": 6,
+     "t": "Mekanisme katup tipe DOHC (rantai)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig09.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 6,
+    "hal_pdf": 10
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Menjaga ketegangan sabuk atau rantai timing agar tidak kendur."
+  },
+  {
+   "id": "am-415",
+   "kata": "タイミング・チェーン",
+   "kana": "たいみんぐちぇーん",
+   "romaji": "taimingu cheen",
+   "arti": "rantai timing",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 9,
+     "p": 1,
+     "t": "Mekanisme katup tipe DOHC (rantai)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig09.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 7,
+    "hal_pdf": 11
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Rantai logam yang menyinkronkan poros engkol dengan poros bubungan."
+  },
+  {
+   "id": "am-416",
+   "kata": "チェーン・ガイド",
+   "kana": "ちぇーんがいど",
+   "romaji": "cheen gaido",
+   "arti": "pemandu rantai",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 9,
+     "p": 3,
+     "t": "Mekanisme katup tipe DOHC (rantai)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig09.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 7,
+    "hal_pdf": 11
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Pemandu yang menjaga lintasan rantai timing agar tidak bergetar atau melompat."
+  },
+  {
+   "id": "am-417",
+   "kata": "テンショナ・アーム",
+   "kana": "てんしょなあーむ",
+   "romaji": "tenshona aamu",
+   "arti": "lengan penegang",
+   "cat": "Sekitar mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 9,
+     "p": 5,
+     "t": "Mekanisme katup tipe DOHC (rantai)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig09.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 7,
+    "hal_pdf": 11
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Lengan yang menekan rantai timing agar tegangannya tetap."
+  },
+  {
+   "id": "am-418",
+   "kata": "オイル・プレッシャ・スイッチ",
+   "kana": "おいるぷれっしゃすいっち",
+   "romaji": "oiru puressha suitchi",
+   "arti": "sakelar tekanan oli",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 10,
+     "p": 1,
+     "t": "Sirkulasi oli",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig10.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 8,
+    "hal_pdf": 12
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Sakelar yang menyalakan lampu peringatan bila tekanan oli mesin terlalu rendah."
+  },
+  {
+   "id": "am-419",
+   "kata": "オイル・デリバリ・パイプ",
+   "kana": "おいるでりばりぱいぷ",
+   "romaji": "oiru deribari paipu",
+   "arti": "pipa penyalur oli",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 10,
+     "p": 2,
+     "t": "Sirkulasi oli",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig10.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 8,
+    "hal_pdf": 12
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Pipa yang menyalurkan oli ke mekanisme di atas silinder, seperti poros bubungan."
+  },
+  {
+   "id": "am-420",
+   "kata": "オイル・ギャラリ",
+   "kana": "おいるぎゃらり",
+   "romaji": "oiru gyarari",
+   "arti": "saluran oli (oil gallery)",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 10,
+     "p": 3,
+     "t": "Sirkulasi oli",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig10.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 8,
+    "hal_pdf": 12
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Saluran oli utama di blok mesin yang membagi oli ke bantalan-bantalan."
+  },
+  {
+   "id": "am-421",
+   "kata": "オイル・ジェット",
+   "kana": "おいるじぇっと",
+   "romaji": "oiru jietto",
+   "arti": "nosel semprot oli",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 10,
+     "p": 4,
+     "t": "Sirkulasi oli",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig10.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 8,
+    "hal_pdf": 12
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Nosel yang menyemprotkan oli ke bagian bawah piston untuk mendinginkan dan melumasi."
+  },
+  {
+   "id": "am-422",
+   "kata": "オイル・ストレーナ",
+   "kana": "おいるすとれーな",
+   "romaji": "oiru sutoreena",
+   "arti": "saringan oli (strainer)",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 10,
+     "p": 5,
+     "t": "Sirkulasi oli",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig10.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 8,
+    "hal_pdf": 12
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Saringan kasar di ujung pipa hisap pompa oli yang menyaring kotoran besar."
+  },
+  {
+   "id": "am-423",
+   "kata": "オイル・フィルタ",
+   "kana": "おいるふぃるた",
+   "romaji": "oiru firuta",
+   "arti": "filter oli",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 10,
+     "p": 7,
+     "t": "Sirkulasi oli",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig10.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 8,
+    "hal_pdf": 12
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Menyaring kotoran dan serpihan logam dari oli mesin."
+  },
+  {
+   "id": "am-424",
+   "kata": "ラジエータ・アッパ・ホース",
+   "kana": "らじえーたあっぱほーす",
+   "romaji": "rajieeta appa hoosu",
+   "arti": "selang atas radiator",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 11,
+     "p": 1,
+     "t": "Sistem pendingin air",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig11.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 9,
+    "hal_pdf": 13
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Selang yang mengalirkan air panas dari mesin ke bagian atas radiator."
+  },
+  {
+   "id": "am-425",
+   "kata": "ウォータ・ポンプ",
+   "kana": "うぉーたぽんぷ",
+   "romaji": "uoota ponpu",
+   "arti": "pompa air",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 11,
+     "p": 2,
+     "t": "Sistem pendingin air",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig11.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 9,
+    "hal_pdf": 13
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Mengalirkan air pendingin berputar melalui mesin dan radiator."
+  },
+  {
+   "id": "am-426",
+   "kata": "ラジエータ・ロアー・ホース",
+   "kana": "らじえーたろあーほーす",
+   "romaji": "rajieeta roaa hoosu",
+   "arti": "selang bawah radiator",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 11,
+     "p": 5,
+     "t": "Sistem pendingin air",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig11.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 9,
+    "hal_pdf": 13
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Selang yang mengalirkan air pendingin yang sudah dingin dari radiator kembali ke mesin."
+  },
+  {
+   "id": "am-427",
+   "kata": "ファン・モータ",
+   "kana": "ふぁんもーた",
+   "romaji": "fan moota",
+   "arti": "motor kipas",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 11,
+     "p": 6,
+     "t": "Sistem pendingin air",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig11.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 9,
+    "hal_pdf": 13
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Motor listrik yang memutar kipas untuk mengalirkan udara melalui radiator."
+  },
+  {
+   "id": "am-428",
+   "kata": "バイパス通路",
+   "kana": "ばいぱすつうろ",
+   "romaji": "baipasu tsuuro",
+   "arti": "saluran bypass",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 11,
+     "p": 7,
+     "t": "Sistem pendingin air",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig11.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 9,
+    "hal_pdf": 13
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Saluran yang mengalirkan air pendingin langsung kembali ke mesin saat termostat masih tertutup."
+  },
+  {
+   "id": "am-429",
+   "kata": "ラジエータ",
+   "kana": "らじえーた",
+   "romaji": "rajieeta",
+   "arti": "radiator",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 11,
+     "p": 8,
+     "t": "Sistem pendingin air",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig11.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 9,
+    "hal_pdf": 13
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Melepaskan panas air pendingin ke udara luar."
+  },
+  {
+   "id": "am-430",
+   "kata": "フューエル・ブリーザ・パイプ",
+   "kana": "ふゅーえるぶりーざぱいぷ",
+   "romaji": "fuyuueru buriiza paipu",
+   "arti": "pipa pernapasan tangki",
+   "cat": "Sistem bahan bakar",
+   "bab": "bab4",
+   "src": [
+    "b4s2"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 13,
+     "p": 3,
+     "t": "Injeksi bahan bakar elektronik",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig13.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 11,
+    "hal_pdf": 15
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Pipa ventilasi tangki yang menyalurkan uap bahan bakar ke kanister arang."
+  },
+  {
+   "id": "am-431",
+   "kata": "チャコール・キャニスタ",
+   "kana": "ちゃこーるきゃにすた",
+   "romaji": "chakooru kyanisuta",
+   "arti": "kanister arang",
+   "cat": "Sistem bahan bakar",
+   "bab": "bab4",
+   "src": [
+    "b4s2"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 13,
+     "p": 4,
+     "t": "Injeksi bahan bakar elektronik",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig13.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 11,
+    "hal_pdf": 15
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Wadah arang aktif yang menyerap uap bensin agar tidak lepas ke udara."
+  },
+  {
+   "id": "am-432",
+   "kata": "フューエル・パイプ",
+   "kana": "ふゅーえるぱいぷ",
+   "romaji": "fuyuueru paipu",
+   "arti": "pipa bahan bakar",
+   "cat": "Sistem bahan bakar",
+   "bab": "bab4",
+   "src": [
+    "b4s2"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 13,
+     "p": 5,
+     "t": "Injeksi bahan bakar elektronik",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig13.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 11,
+    "hal_pdf": 15
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Pipa penyalur bahan bakar dari pompa ke injektor."
+  },
+  {
+   "id": "am-433",
+   "kata": "インジェクタ",
+   "kana": "いんじぇくた",
+   "romaji": "injiekuta",
+   "arti": "injektor",
+   "cat": "Sistem bahan bakar",
+   "bab": "bab4",
+   "src": [
+    "b4s2"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 13,
+     "p": 6,
+     "t": "Injeksi bahan bakar elektronik",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig13.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 11,
+    "hal_pdf": 15
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Menyemprotkan bahan bakar dalam bentuk kabut ke saluran hisap atau silinder sesuai perintah ECU."
+  },
+  {
+   "id": "am-434",
+   "kata": "エア・クリーナ",
+   "kana": "えあくりーな",
+   "romaji": "ea kuriina",
+   "arti": "saringan udara",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 14,
+     "p": 1,
+     "t": "Sistem hisap dan buang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 12,
+    "hal_pdf": 16
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Menyaring debu dari udara sebelum masuk ke mesin."
+  },
+  {
+   "id": "am-435",
+   "kata": "エア・インテーク・ホース",
+   "kana": "えあいんてーくほーす",
+   "romaji": "ea inteeku hoosu",
+   "arti": "selang hisap udara",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 14,
+     "p": 2,
+     "t": "Sistem hisap dan buang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 12,
+    "hal_pdf": 16
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Selang yang mengalirkan udara bersih dari saringan udara ke throttle body."
+  },
+  {
+   "id": "am-436",
+   "kata": "スロットル・ボデー",
+   "kana": "すろっとるぼでー",
+   "romaji": "surottoru bodee",
+   "arti": "throttle body",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 14,
+     "p": 3,
+     "t": "Sistem hisap dan buang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 12,
+    "hal_pdf": 16
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Rumah katup throttle yang mengatur jumlah udara yang masuk ke mesin."
+  },
+  {
+   "id": "am-437",
+   "kata": "サージ・タンク",
+   "kana": "さーじたんく",
+   "romaji": "saaji tanku",
+   "arti": "tangki surja",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 14,
+     "p": 4,
+     "t": "Sistem hisap dan buang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 12,
+    "hal_pdf": 16
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Tangki penampung udara hisap yang meredam denyutan dan membagi udara ke tiap silinder."
+  },
+  {
+   "id": "am-438",
+   "kata": "メイン・マフラ",
+   "kana": "めいんまふら",
+   "romaji": "mein mafura",
+   "arti": "knalpot utama",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 14,
+     "p": 6,
+     "t": "Sistem hisap dan buang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 12,
+    "hal_pdf": 16
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Knalpot utama yang meredam suara gas buang."
+  },
+  {
+   "id": "am-439",
+   "kata": "サブ・マフラ",
+   "kana": "さぶまふら",
+   "romaji": "sabu mafura",
+   "arti": "knalpot tambahan",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 14,
+     "p": 7,
+     "t": "Sistem hisap dan buang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 12,
+    "hal_pdf": 16
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Knalpot tambahan di depan knalpot utama yang ikut meredam suara dan tekanan gas buang."
+  },
+  {
+   "id": "am-440",
+   "kata": "エキゾースト・マニホールド",
+   "kana": "えきぞーすとまにほーるど",
+   "romaji": "ekizoosuto manihoorudo",
+   "arti": "manifold buang",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 14,
+     "p": 10,
+     "t": "Sistem hisap dan buang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 12,
+    "hal_pdf": 16
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Mengumpulkan gas buang dari tiap silinder ke satu pipa buang."
+  },
+  {
+   "id": "am-441",
+   "kata": "EGR装置",
+   "kana": "EGRそうち",
+   "romaji": "EGR souchi",
+   "arti": "perangkat EGR",
+   "cat": "Sistem hisap dan buang",
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 14,
+     "p": 11,
+     "t": "Sistem hisap dan buang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig14.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 12,
+    "hal_pdf": 16
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Mengalirkan sebagian gas buang kembali ke ruang hisap untuk menurunkan suhu pembakaran dan emisi NOx."
+  },
+  {
+   "id": "am-442",
+   "kata": "イグニッション・スイッチ",
+   "kana": "いぐにっしょんすいっち",
+   "romaji": "igunisshon suitchi",
+   "arti": "kunci kontak (saklar starter)",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 15,
+     "p": 1,
+     "t": "Sistem starter",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig15.webp"
+    },
+    {
+     "n": 16,
+     "p": 1,
+     "t": "Sistem pengisian",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig16.webp"
+    },
+    {
+     "n": 17,
+     "p": 3,
+     "t": "Sistem pengapian",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig17.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 13,
+    "hal_pdf": 17
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Kunci kontak yang menyalakan sistem listrik dan menghidupkan starter."
+  },
+  {
+   "id": "am-443",
+   "kata": "スタータ",
+   "kana": "すたーた",
+   "romaji": "sutaata",
+   "arti": "motor starter",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 15,
+     "p": 3,
+     "t": "Sistem starter",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig15.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 13,
+    "hal_pdf": 17
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Motor listrik yang memutar poros engkol untuk menghidupkan mesin."
+  },
+  {
+   "id": "am-444",
+   "kata": "カム角センサ",
+   "kana": "かむかくせんさ",
+   "romaji": "kamu kaku sensa",
+   "arti": "sensor sudut cam",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 17,
+     "p": 6,
+     "t": "Sistem pengapian",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig17.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 15,
+    "hal_pdf": 19
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Sensor yang mendeteksi posisi poros bubungan sebagai acuan waktu injeksi dan pengapian."
+  },
+  {
+   "id": "am-445",
+   "kata": "クランク角センサ",
+   "kana": "くらんくかくせんさ",
+   "romaji": "kuranku kaku sensa",
+   "arti": "sensor sudut poros engkol",
+   "cat": "Kelistrikan, rangka, dan bodi",
+   "bab": "bab4",
+   "src": [
+    "b4s7"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 17,
+     "p": 7,
+     "t": "Sistem pengapian",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig17.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 15,
+    "hal_pdf": 19
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Sensor yang mendeteksi posisi dan putaran poros engkol."
+  },
+  {
+   "id": "am-446",
+   "kata": "ボデー",
+   "kana": "ぼでー",
+   "romaji": "bodee",
+   "arti": "bodi",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 20,
+     "p": 2,
+     "t": "Susunan mobil",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig20.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 18,
+    "hal_pdf": 22
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Bodi kendaraan: kabin dan rangka luar tempat penumpang dan komponen lain."
+  },
+  {
+   "id": "am-447",
+   "kata": "ホイール及びタイヤ",
+   "kana": "ほいーるおよびたいや",
+   "romaji": "hoiiru oyobi taiya",
+   "arti": "roda dan ban",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 20,
+     "p": 3,
+     "t": "Susunan mobil",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig20.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 18,
+    "hal_pdf": 22
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Roda dan ban yang menopang kendaraan, menyalurkan tenaga, dan memberi cengkeraman ke jalan."
+  },
+  {
+   "id": "am-448",
+   "kata": "動力伝達装置",
+   "kana": "どうりょくでんたつそうち",
+   "romaji": "douryokudentatsusouchi",
+   "arti": "penerus tenaga",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 20,
+     "p": 6,
+     "t": "Susunan mobil",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig20.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 18,
+    "hal_pdf": 22
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Rangkaian yang menyalurkan tenaga dari mesin ke roda."
+  },
+  {
+   "id": "am-449",
+   "kata": "灯火装置",
+   "kana": "とうかそうち",
+   "romaji": "touka souchi",
+   "arti": "sistem lampu",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 20,
+     "p": 7,
+     "t": "Susunan mobil",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig20.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 18,
+    "hal_pdf": 22
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Sistem lampu kendaraan untuk penerangan, isyarat, dan keselamatan."
+  },
+  {
+   "id": "am-450",
+   "kata": "ファイナル・ギヤ及びディファレンシャル",
+   "kana": "ふぁいなるぎやおよびでぃふぁれんしゃる",
+   "romaji": "fainaru giya oyobi difarensharu",
+   "arti": "gigi akhir dan diferensial",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 21,
+     "p": 2,
+     "t": "Mesin depan penggerak belakang (FR)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig21.webp"
+    },
+    {
+     "n": 22,
+     "p": 1,
+     "t": "Mesin depan penggerak depan (FF)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig22.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 19,
+    "hal_pdf": 23
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Gigi akhir memperbesar torsi; diferensial membagi putaran ke roda kiri-kanan yang berbeda kecepatan saat berbelok."
+  },
+  {
+   "id": "am-451",
+   "kata": "ショック・アブソーバ",
+   "kana": "しょっくあぶそーば",
+   "romaji": "shokku abusooba",
+   "arti": "peredam kejut",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 23,
+     "p": 1,
+     "t": "Axle dan suspensi tipe gandar",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig23.webp"
+    },
+    {
+     "n": 24,
+     "p": 2,
+     "t": "Suspensi independen",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig24.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 21,
+    "hal_pdf": 25
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Meredam getaran pegas suspensi agar mobil tidak terus memantul."
+  },
+  {
+   "id": "am-452",
+   "kata": "リヤ・アクスル",
+   "kana": "りやあくする",
+   "romaji": "riya akusuru",
+   "arti": "as roda belakang",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 23,
+     "p": 2,
+     "t": "Axle dan suspensi tipe gandar",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig23.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 21,
+    "hal_pdf": 25
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Gandar belakang yang menopang roda belakang."
+  },
+  {
+   "id": "am-453",
+   "kata": "スプリング",
+   "kana": "すぷりんぐ",
+   "romaji": "supuringu",
+   "arti": "pegas",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 23,
+     "p": 3,
+     "t": "Axle dan suspensi tipe gandar",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig23.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 21,
+    "hal_pdf": 25
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Pegas yang menyerap benturan jalan pada suspensi."
+  },
+  {
+   "id": "am-454",
+   "kata": "スタビライザ",
+   "kana": "すたびらいざ",
+   "romaji": "sutabiraiza",
+   "arti": "stabilizer",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 24,
+     "p": 3,
+     "t": "Suspensi independen",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig24.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 22,
+    "hal_pdf": 26
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Batang penstabil yang mengurangi kemiringan bodi saat berbelok."
+  },
+  {
+   "id": "am-455",
+   "kata": "ロアー・サスペンション・アーム",
+   "kana": "ろあーさすぺんしょんあーむ",
+   "romaji": "roaa sasupenshon aamu",
+   "arti": "lengan bawah suspensi",
+   "cat": "Penerus tenaga dan suspensi",
+   "bab": "bab4",
+   "src": [
+    "b4s5"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 24,
+     "p": 4,
+     "t": "Suspensi independen",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig24.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 22,
+    "hal_pdf": 26
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Lengan bawah yang menghubungkan roda dengan rangka dan mengatur gerak naik-turun roda."
+  },
+  {
+   "id": "am-456",
+   "kata": "ステアリング操作機構",
+   "kana": "すてありんぐそうさきこう",
+   "romaji": "sutearingu sousa kikou",
+   "arti": "mekanisme operasi kemudi",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 27,
+     "p": 1,
+     "t": "Kemudi rack & pinion",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig27.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 25,
+    "hal_pdf": 29
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Bagian setir dan kolom yang menerima gerakan pengemudi."
+  },
+  {
+   "id": "am-457",
+   "kata": "ステアリング・ギヤ機構",
+   "kana": "すてありんぐぎやきこう",
+   "romaji": "sutearingu giya kikou",
+   "arti": "mekanisme gigi kemudi",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 27,
+     "p": 2,
+     "t": "Kemudi rack & pinion",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig27.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 25,
+    "hal_pdf": 29
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Mengubah putaran setir menjadi gerak lurus (rack and pinion) dan memperbesar tenaga."
+  },
+  {
+   "id": "am-458",
+   "kata": "ステアリング・リンク機構",
+   "kana": "すてありんぐりんくきこう",
+   "romaji": "sutearingu rinku kikou",
+   "arti": "mekanisme sambungan kemudi",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 27,
+     "p": 3,
+     "t": "Kemudi rack & pinion",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig27.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 25,
+    "hal_pdf": 29
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Batang-batang penghubung yang meneruskan gerak gigi kemudi ke roda."
+  },
+  {
+   "id": "am-459",
+   "kata": "マスタ・シリンダ",
+   "kana": "ますたしりんだ",
+   "romaji": "masuta shirinda",
+   "arti": "master silinder",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 33,
+     "p": 1,
+     "t": "Struktur rem hidrolik",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig33.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 31,
+    "hal_pdf": 35
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Mengubah injakan pedal rem menjadi tekanan minyak rem untuk seluruh roda."
+  },
+  {
+   "id": "am-460",
+   "kata": "ディスク式油圧ブレーキ",
+   "kana": "でぃすくしきゆあつぶれーき",
+   "romaji": "disuku shiki yuatsu bureeki",
+   "arti": "rem hidrolik cakram",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 33,
+     "p": 4,
+     "t": "Struktur rem hidrolik",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig33.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 31,
+    "hal_pdf": 35
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Rem hidrolik yang menjepit cakram dengan kampas untuk mengerem."
+  },
+  {
+   "id": "am-461",
+   "kata": "ドラム式油圧ブレーキ",
+   "kana": "どらむしきゆあつぶれーき",
+   "romaji": "doramu shiki yuatsu bureeki",
+   "arti": "rem hidrolik tromol",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 33,
+     "p": 6,
+     "t": "Struktur rem hidrolik",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig33.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 31,
+    "hal_pdf": 35
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Rem hidrolik yang menekan sepatu rem ke sisi dalam tromol."
+  },
+  {
+   "id": "am-462",
+   "kata": "ホイール・シリンダ",
+   "kana": "ほいーるしりんだ",
+   "romaji": "hoiiru shirinda",
+   "arti": "silinder roda",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 35,
+     "p": 2,
+     "t": "Rem tromol (2)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig35.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 33,
+    "hal_pdf": 37
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Silinder pada rem tromol yang mendorong sepatu rem ke tromol saat mendapat tekanan minyak."
+  },
+  {
+   "id": "am-463",
+   "kata": "バック・プレート",
+   "kana": "ばっくぷれーと",
+   "romaji": "bakku pureeto",
+   "arti": "pelat belakang",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 35,
+     "p": 4,
+     "t": "Rem tromol (2)",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig35.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 33,
+    "hal_pdf": 37
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Pelat dasar rem tromol tempat sepatu rem, silinder roda, dan pegas dipasang."
+  },
+  {
+   "id": "am-464",
+   "kata": "ディスク",
+   "kana": "でぃすく",
+   "romaji": "disuku",
+   "arti": "cakram",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 36,
+     "p": 1,
+     "t": "Kaliper rem cakram mengambang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig36.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 34,
+    "hal_pdf": 38
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Cakram yang berputar bersama roda dan dijepit kampas saat pengereman."
+  },
+  {
+   "id": "am-465",
+   "kata": "スライド・ピン",
+   "kana": "すらいどぴん",
+   "romaji": "suraido pin",
+   "arti": "pin geser",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 36,
+     "p": 2,
+     "t": "Kaliper rem cakram mengambang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig36.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 34,
+    "hal_pdf": 38
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Pin yang memungkinkan kaliper bergeser agar kampas menjepit cakram dari kedua sisi."
+  },
+  {
+   "id": "am-466",
+   "kata": "ピストン・シール",
+   "kana": "ぴすとんしーる",
+   "romaji": "pisuton shiiru",
+   "arti": "seal piston",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 36,
+     "p": 5,
+     "t": "Kaliper rem cakram mengambang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig36.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 34,
+    "hal_pdf": 38
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Seal karet pada piston kaliper yang mencegah kebocoran minyak rem dan menarik piston kembali."
+  },
+  {
+   "id": "am-467",
+   "kata": "キャリパ",
+   "kana": "きゃりぱ",
+   "romaji": "kyaripa",
+   "arti": "kaliper",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 36,
+     "p": 6,
+     "t": "Kaliper rem cakram mengambang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig36.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 34,
+    "hal_pdf": 38
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Rumah piston dan kampas pada rem cakram yang menjepit cakram."
+  },
+  {
+   "id": "am-468",
+   "kata": "パッド",
+   "kana": "ぱっど",
+   "romaji": "paddo",
+   "arti": "kampas rem",
+   "cat": "Kemudi dan rem",
+   "bab": "bab4",
+   "src": [
+    "b4s6"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 36,
+     "p": 7,
+     "t": "Kaliper rem cakram mengambang",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig36.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 34,
+    "hal_pdf": 38
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Kampas rem pada rem cakram yang bergesekan dengan cakram untuk mengerem."
+  },
+  {
+   "id": "am-469",
+   "kata": "ウォータ・ジャケット",
+   "kana": "うぉーたじゃけっと",
+   "romaji": "uoota jaketto",
+   "arti": "saluran air pendingin (water jacket)",
+   "cat": "Pelumasan dan pendinginan",
+   "bab": "bab4",
+   "src": [
+    "b4s4"
+   ],
+   "sumber": "JICA イラスト集",
+   "fig": [
+    {
+     "n": 11,
+     "p": 3,
+     "t": "Sistem pendingin air",
+     "src": "./assets/ssw/auto-maintenance/fig/jica-fig11.webp"
+    }
+   ],
+   "hal_sumber": {
+    "dok": "jica-illust-shu.pdf",
+    "hal_cetak": 9,
+    "hal_pdf": 13
+   },
+   "status_validasi": "gambar: nomor bagian cocok dengan kunci jawaban PDF JICA; fungsi: ORIGINAL LEARNING CONTENT, perlu review",
+   "fungsi": "Rongga di blok dan kepala silinder tempat air pendingin mengalir untuk menyerap panas mesin."
   }
  ]
 }
