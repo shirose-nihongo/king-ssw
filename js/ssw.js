@@ -14,11 +14,46 @@
 import {
   initSswCore, esc, rich, plain, spoken, shuffle, seeded, isGuru, loadBidang, bidangBySlug, loadPack, getProgress, touch, flush, logAct,
   babProgress, STATUS_LABEL, babStatus, siswaBolehBab, newCard, cardState, schedule, cardStats, buildQueue, fullQuizzes, EXAM_SPEC, readingQuiz, recordQuiz, sswAllowed, loadKelasAkses, points, syncRank, loadRank, uidNow, syncCards, vnum, DAY
-} from "./ssw-core.js?v=20261117n";
+} from "./ssw-core.js?v=20261117t";
 import { islandSVG, buildingSVG, bldFor } from "./ssw-art.js?v=20261113zl";
 
 /* Teks resmi (PDF) per bidang — file di assets/ssw/<slug>/pdf atau tautan situs resmi. */
 const PDF_SUMBER = {
+  "aviation-gh": [
+    { t: "Teks belajar resmi GH — Text 2 (JP, 52 hal., Rev. 2)", u: "assets/ssw/aviation-gh/pdf/jaea-gh-text2-gh-rev2-1.pdf" },
+    { t: "Teks GH edisi 1 (arsip, 40 hal.)", u: "assets/ssw/aviation-gh/pdf/jaea-gh-text-1go.pdf" },
+    { t: "Soal contoh resmi GH", u: "assets/ssw/aviation-gh/pdf/jaea-gh-sample-questions.pdf" },
+    { t: "Halaman dukungan JAEA (GH) ↗", u: "https://exam.jaea.or.jp/?page_id=356", ext: true }
+  ],
+  "aviation-am": [
+    { t: "Teks 1: Teknik dasar (締結・電気計測)", u: "assets/ssw/aviation-am/pdf/jaea-am-text1-kihon-gijutsu.pdf" },
+    { t: "Teks 2: Keselamatan kerja & kualitas", u: "assets/ssw/aviation-am/pdf/jaea-am-text2-anzen-hinshitsu.pdf" },
+    { t: "Teks 3: Gambaran umum pesawat", u: "assets/ssw/aviation-am/pdf/jaea-am-text3-kokuki-gaiyo.pdf" },
+    { t: "Soal contoh resmi AM", u: "assets/ssw/aviation-am/pdf/jaea-am-sample-questions.pdf" }
+  ],
+  "forestry": [
+    { t: "Soal contoh 学科 + kunci jawaban (resmi)", u: "assets/ssw/forestry/pdf/ringyo_tokutei_gakka_sumple_250724.pdf" },
+    { t: "実技試験問題 2026 (resmi)", u: "assets/ssw/forestry/pdf/2026_specific_test.pdf" },
+    { t: "Prosedur ujian praktik (resmi)", u: "assets/ssw/forestry/pdf/2026_specific_process.pdf" },
+    { t: "Q&A APD & alat kerja (resmi)", u: "assets/ssw/forestry/pdf/specfic_faq_260708.pdf" },
+    { t: "Panduan peserta 2026 (受験案内)", u: "assets/ssw/docs-resmi/forestry/ringyou-gino-2026-juken-annai.pdf" }
+  ],
+  "railway-vehicle": [
+    { t: "Teks belajar resmi 車両製造 (JP, 224 hal.)", u: "assets/ssw/railway-vehicle/pdf/rail-sharyo-gakushu-text-1go.pdf" },
+    { t: "Contoh soal 学科 (resmi)", u: "assets/ssw/railway-vehicle/pdf/rail-sharyo-gakka-sample.pdf" },
+    { t: "Contoh soal 実技 (resmi)", u: "assets/ssw/railway-vehicle/pdf/rail-sharyo-jitsugi-sample.pdf" },
+    { t: "Panduan ujian 試験案内 (resmi)", u: "assets/ssw/railway-vehicle/pdf/rail-sharyo-shiken-annai.pdf" }
+  ],
+  "logistics": [
+    { t: "Pedoman ujian 1号 (試験実施要領, MLIT)", u: "assets/ssw/docs-resmi/logistics/jitsushi-yoryo-1go.pdf" },
+    { t: "Lingkup & rincian ujian (試験基準, 1 hal.)", u: "assets/ssw/docs-resmi/logistics/shiken-kijun-1go.pdf" },
+    { t: "Kebijakan operasional bidang", u: "assets/ssw/docs-resmi/logistics/bunya-unyo-hoshin.pdf" }
+  ],
+  "recycling": [
+    { t: "Program pelatihan & karier (環境省)", u: "assets/ssw/docs-resmi/recycling/ikusei-career-program.pdf" },
+    { t: "Kebijakan operasional bidang", u: "assets/ssw/docs-resmi/recycling/bunya-unyo-hoshin.pdf" },
+    { t: "Semua dokumen resmi (halaman)", u: "dokumen-resmi.html", ext: 1 }
+  ],
   "wood-industry": [
     { t: "Teks belajar resmi 木材産業 (JP, 67 hal.)", u: "assets/ssw/wood-industry/pdf/zenmoku-gakushu-text-ja.pdf" },
     { t: "Buku versi Indonesia (ringkasan Shirose)", u: "assets/ssw/wood-industry/pdf/shirose-ringkasan-indonesia-wood-industry.pdf" }
