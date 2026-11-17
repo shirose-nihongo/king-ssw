@@ -14,7 +14,7 @@
 import {
   initSswCore, esc, rich, plain, spoken, shuffle, seeded, isGuru, loadBidang, bidangBySlug, loadPack, getProgress, touch, flush, logAct,
   babProgress, STATUS_LABEL, babStatus, siswaBolehBab, newCard, cardState, schedule, cardStats, buildQueue, fullQuizzes, EXAM_SPEC, readingQuiz, recordQuiz, sswAllowed, loadKelasAkses, points, syncRank, loadRank, uidNow, syncCards, vnum, DAY
-} from "./ssw-core.js?v=20261117k";
+} from "./ssw-core.js?v=20261117m";
 import { islandSVG, buildingSVG, bldFor } from "./ssw-art.js?v=20261113zl";
 
 /* Teks resmi (PDF) per bidang — file di assets/ssw/<slug>/pdf atau tautan situs resmi. */
@@ -30,7 +30,52 @@ const PDF_SUMBER = {
   ],
   "auto-maintenance": [
     { t: "JICA: みてまなぶ！自動車整備の日本語", u: "assets/ssw/auto-maintenance/pdf/jica-jidosha-seibi-no-nihongo.pdf" },
-    { t: "JICA: Koleksi ilustrasi かいて おぼえる", u: "assets/ssw/auto-maintenance/pdf/jica-illust-shu.pdf" }
+    { t: "JICA: Koleksi ilustrasi かいて おぼえる", u: "assets/ssw/auto-maintenance/pdf/jica-illust-shu.pdf" },
+    { t: "Contoh soal resmi 1号 学科 ○× (JASPA 日整連)", u: "assets/ssw/auto-maintenance/pdf/jaspa-contoh-1go-gakka.pdf" },
+    { t: "Contoh soal resmi 1号 実技 二択 (JASPA 日整連)", u: "assets/ssw/auto-maintenance/pdf/jaspa-contoh-1go-jitsugi.pdf" },
+    { t: "Contoh soal resmi 2号 学科 4 pilihan (JASPA 日整連)", u: "assets/ssw/auto-maintenance/pdf/jaspa-contoh-2go-gakka.pdf" },
+    { t: "Kunci jawaban contoh 2号 学科 (JASPA 日整連)", u: "assets/ssw/auto-maintenance/pdf/jaspa-kunci-2go-gakka.pdf" }
+  ],
+  "industrial-mfg": [
+    { t: "Contoh soal resmi 1号 — 機械金属加工 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-kikai-kinzoku-kako.pdf" },
+    { t: "Contoh soal resmi 1号 — 電気電子機器組立て (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-denki-denshi-kiki-kumitate.pdf" },
+    { t: "Contoh soal resmi 1号 — 金属表面処理 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-kinzoku-hyomen-shori.pdf" },
+    { t: "Contoh soal resmi 1号 — 紙器・段ボール箱製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-shiki-danball.pdf" },
+    { t: "Contoh soal resmi 1号 — コンクリート製品製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-concrete-seihin.pdf" },
+    { t: "Contoh soal resmi 1号 — RPF製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-rpf.pdf" },
+    { t: "Contoh soal resmi 1号 — 陶磁器製品製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-toji-ki.pdf" },
+    { t: "Contoh soal resmi 1号 — 印刷・製本 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-insatsu-seihon.pdf" },
+    { t: "Contoh soal resmi 1号 — 紡織製品製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-boshoku.pdf" },
+    { t: "Contoh soal resmi 1号 — 縫製 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-hosei.pdf" },
+    { t: "Contoh soal resmi 1号 — 電線・ケーブル製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-densen-cable.pdf" },
+    { t: "Contoh soal resmi 1号 — プレハブ住宅製品製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-prefab-jutaku.pdf" },
+    { t: "Contoh soal resmi 1号 — 家具製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-kagu.pdf" },
+    { t: "Contoh soal resmi 1号 — 定形・不定形耐火物製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-taikabutsu.pdf" },
+    { t: "Contoh soal resmi 1号 — 生コンクリート製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-nama-concrete.pdf" },
+    { t: "Contoh soal resmi 1号 — ゴム製品製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-rubber.pdf" },
+    { t: "Contoh soal resmi 1号 — かばん製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-kaban.pdf" },
+    { t: "Contoh soal resmi 2号 — 機械金属加工 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-2go-kikai-kinzoku-kako.pdf" },
+    { t: "Contoh soal resmi 2号 — 電気電子機器組立て (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-2go-denki-denshi-kiki-kumitate.pdf" },
+    { t: "Contoh soal resmi 2号 — 金属表面処理 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-2go-kinzoku-hyomen-shori.pdf" }
+  ],
+  "mfg-machine-metal": [
+    { t: "Contoh soal resmi 1号 機械金属加工 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-kikai-kinzoku-kako.pdf" },
+    { t: "Contoh soal resmi 2号 機械金属加工 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-2go-kikai-kinzoku-kako.pdf" }
+  ],
+  "jaim-machine-metal": [
+    { t: "Panduan belajar resmi JAIM — Bahasa Indonesia", u: "assets/ssw/jaim-machine-metal/pdf/panduan-belajar-id.pdf" },
+    { t: "Panduan belajar resmi JAIM — Jepang", u: "assets/ssw/jaim-machine-metal/pdf/panduan-belajar-jp.pdf" },
+    { t: "正誤表 (errata) panduan Jepang", u: "assets/ssw/jaim-machine-metal/pdf/errata-jp.pdf" }
+  ],
+  "jaim-elec-electronic": [
+    { t: "Panduan belajar resmi JAIM — Bahasa Indonesia", u: "assets/ssw/jaim-elec-electronic/pdf/panduan-belajar-id.pdf" },
+    { t: "Panduan belajar resmi JAIM — Jepang", u: "assets/ssw/jaim-elec-electronic/pdf/panduan-belajar-jp.pdf" },
+    { t: "正誤表 (errata) panduan Jepang", u: "assets/ssw/jaim-elec-electronic/pdf/errata-jp.pdf" }
+  ],
+  "jaim-metal-surface": [
+    { t: "Panduan belajar resmi JAIM — Bahasa Indonesia", u: "assets/ssw/jaim-metal-surface/pdf/panduan-belajar-id.pdf" },
+    { t: "Panduan belajar resmi JAIM — Jepang", u: "assets/ssw/jaim-metal-surface/pdf/panduan-belajar-jp.pdf" },
+    { t: "正誤表 (errata) panduan Jepang", u: "assets/ssw/jaim-metal-surface/pdf/errata-jp.pdf" }
   ]
 };
 const pdfButtons = (slug) => (PDF_SUMBER[slug] || []).map(x => `<a class="btn ghost" href="${esc(x.u)}" target="_blank" rel="noopener">📄 ${esc(x.t)}${x.ext ? " ↗" : ""}</a>`).join("");
@@ -542,7 +587,7 @@ async function renderKuis([slug, quizId]) {
       <div class="sw-head compact"><div class="jp">試験センター</div><h1>Evaluasi — Examination Center</h1><p class="sw-label own">🏷️ Soal di sini adalah <b>latihan buatan Shirose</b> (bukan soal resmi ujian SSW), kecuali kuis yang diberi label <b>Soal resmi</b>.</p><p>Kuis tiap subbab, 3 kuis tiap bab, dan 10 ujian penuh (pilihan ganda, ○× dan soal bergambar). Skor terbaik tersimpan di akunmu.</p></div>
       ${chs.map(c => `<div class="sw-panel"><h2>BAB ${c.no} — ${esc(L(c.title, "id"))}</h2><div class="sw-qlist">${(pack.quiz.bab?.[c.id] || []).map((q, i) => row(q, `Kuis ${i + 1} · ${esc(L(q.title, "id"))}${q.title && q.title.jp ? ` <span class="jp sw-tsub">${rich(q.title.jp, { ruby: false })}</span>` : ""}`)).join("") || '<p class="sw-muted">Belum ada kuis.</p>'}</div></div>`).join("")}
       ${(pack.quiz.tema || []).length ? `<div class="sw-panel"><h2>Kuis Tema</h2><p class="sw-muted">${slug === "building-cleaning" ? "Satu kuis untuk satu topik: rute pembersihan, jenis lantai, karpet, dan pH." : "Latihan kosakata per kategori: arti ↔ kata Jepang (10 soal tiap kuis)."}</p><div class="sw-qlist">${pack.quiz.tema.map(q => row(q, esc(L(q.title, "id")))).join("")}</div></div>` : ""}
-      <div class="sw-panel"><h2>Tes Membaca Kosakata</h2><p class="sw-muted">Kanji dari kosakata buku → pilih bacaannya (hiragana/katakana). 15 soal acak.</p><div class="sw-qlist">${row({ id: "baca-kosakata", items: { length: 15 } }, "読み方テスト · Tes Membaca")}</div></div>
+      ${slug === "kaigo" ? "" : `<div class="sw-panel"><h2>Tes Membaca Kosakata</h2><p class="sw-muted">Kanji dari kosakata buku → pilih bacaannya (hiragana/katakana). 15 soal acak.</p><div class="sw-qlist">${row({ id: "baca-kosakata", items: { length: 15 } }, "読み方テスト · Tes Membaca")}</div></div>`}
       <div class="sw-panel"><h2>Ujian Penuh (semua bab)</h2>${EXAM_SPEC[slug] ? `<p class="sw-muted">${EXAM_SPEC[slug].info} Ujian di sini mengikuti format itu.</p>` : ""}<div class="sw-qlist">${full.map((q, i) => row(q, `Ujian Penuh ${i + 1}`)).join("") || '<p class="sw-muted">Belum ada soal.</p>'}</div></div>`);
   }
   const q = quizId === "baca-kosakata" ? readingQuiz(pack) : [...chs.flatMap(c => pack.quiz.bab?.[c.id] || []), ...full, ...(pack.quiz.tema || [])].find(x => x.id === quizId);
