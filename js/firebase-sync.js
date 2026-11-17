@@ -494,15 +494,15 @@ export async function equipItem(kategori, itemId) {
 function _gLocal() { try { return JSON.parse(localStorage.getItem("shirose-gacha:" + (currentUser && currentUser.uid)) || "null") || {}; } catch (e) { return {}; } }
 function _gSave(o) { try { localStorage.setItem("shirose-gacha:" + currentUser.uid, JSON.stringify(o)); } catch (e) {} }
 function _gSpent() { return Number(_gLocal().spent) || 0; }
-export function gachaSpend(price) { const o = _gLocal(); o.spent = (Number(o.spent) || 0) + price; _gSave(o); }
-export function gachaRefund(price) { const o = _gLocal(); o.spent = Math.max(0, (Number(o.spent) || 0) - price); _gSave(o); }
+export function gachaSpend(price) { const o = _gLocal(); o.spent = (Number(o.spent) || 0) + price; o.t = Date.now(); _gSave(o); }
+export function gachaRefund(price) { const o = _gLocal(); o.spent = Math.max(0, (Number(o.spent) || 0) - price); o.t = Date.now(); _gSave(o); }
 /* Saldo dasar dompet (sebelum dikurangi belanja gacha lokal) disimpan di perangkat → saat server tak terjangkau (kuota/offline) saldo tetap benar. */
 function _baseGet() { try { const v = JSON.parse(localStorage.getItem("shirose-walletbase:" + (currentUser && currentUser.uid)) || "null"); return v && typeof v.koin === "number" ? v.koin : null; } catch (e) { return null; } }
 function _baseSet(k) { try { if (currentUser && typeof k === "number") localStorage.setItem("shirose-walletbase:" + currentUser.uid, JSON.stringify({ koin: k, t: Date.now() })); } catch (e) {} }
 /* Saldo yang ditampilkan bila dompet tidak terbaca: cache saldo server − koin gacha; tanpa cache: koin per-level − koin gacha. */
 function _koinFallback(levelKoin) { const b = _baseGet(); return Math.max(0, (b !== null ? b : (Number(levelKoin) || 0)) - _gSpent()); }
 const WALLET_LVLS = ["n5","n4","n3","n2","n1","ir0","ir1","ir2"];
-let _walletOff = false, _walletErr = "";
+let _walletOff = false, _walletErr = "", _resetTok = 0;
 export function walletError() { return _walletErr; }
 async function walletTx(delta, alasan, { allowNegative = false } = {}) {
   const uid = currentUser.uid, wref = doc(db, "king_siswa", uid, "wallet", "main");
@@ -510,6 +510,7 @@ async function walletTx(delta, alasan, { allowNegative = false } = {}) {
   const out = await runTransaction(db, async (tx) => {
     const ws = await tx.get(wref);
     const w = ws.exists() ? ws.data() : { koin: 0, migrasi: {} }; w.migrasi = { ...(w.migrasi || {}) }; w.koin = w.koin || 0;
+    _resetTok = Number(w.spentReset) || 0;
     // Baca dokumen gami lama HANYA untuk level yang belum dimigrasi (hemat kuota Firestore: 1 baca, bukan 9, untuk akun yang sudah migrasi)
     const sisa = WALLET_LVLS.map((l, i) => [l, grefs[i]]).filter(([l]) => !w.migrasi[l]);
     const gs = await Promise.all(sisa.map(([, r]) => tx.get(r)));
@@ -520,6 +521,8 @@ async function walletTx(delta, alasan, { allowNegative = false } = {}) {
     return w.koin;
   });
   _baseSet(out);
+  // Guru mengatur ulang koin (spentReset di dompet) → hapus catatan belanja gacha lama di perangkat ini (sekali per penyetelan)
+  { const o = _gLocal(); if (_resetTok > (Number(o.spentSeen) || 0)) { o.spent = 0; o.spentSeen = _resetTok; _gSave(o); } }
   const _eff = Math.max(0, out - _gSpent());
   if (delta) { try { await addDoc(collection(db, "king_siswa", currentUser.uid, "wallet_log"), { t: serverTimestamp(), delta, alasan: String(alasan || ""), saldo: out }); } catch (e) {} }
   return _eff;
@@ -561,11 +564,62 @@ export async function getGachaState() {
 /* Simpan status & inventaris gacha di perangkat (localStorage). Barang toko ikut dimasukkan ke inventaris karakter di memori. */
 export async function saveGachaState(state, shopIds) {
   if (!currentUser) throw new Error("Belum login");
-  const o = _gLocal(); o.sinceEpic = state.sinceEpic || 0; o.sinceLegend = state.sinceLegend || 0; o.inv = state.inv || []; _gSave(o);
+  const o = _gLocal(); o.sinceEpic = state.sinceEpic || 0; o.sinceLegend = state.sinceLegend || 0; o.inv = state.inv || []; o.t = Date.now(); _gSave(o);
+  if (!(shopIds && shopIds.length)) await _gachaInvKeAkun(o.inv);   // hadiah tema saja: tetap disimpan ke akun
   if (shopIds && shopIds.length && currentSiswaDoc) {
     currentSiswaDoc.karakter = currentSiswaDoc.karakter || {};
     currentSiswaDoc.karakter.inventory = Array.from(new Set([...(currentSiswaDoc.karakter.inventory || []), ...shopIds]));
+    try { await updateDoc(doc(db, "king_siswa", currentUser.uid), { "karakter.inventory": currentSiswaDoc.karakter.inventory, "karakter.gachaInv": o.inv }); } catch (e) { console.warn("simpan hadiah gacha ke akun gagal (tersimpan di perangkat):", e.message); }
   }
+}
+
+/* ===== SAVE GACHA (file) — simpan di perangkat + Download Save / Muat Save. Yang dipakai selalu save TERBARU (cap waktu `t`). ===== */
+export function gachaSaveInfo() { const o = _gLocal(); let dl = 0; try { dl = Number(localStorage.getItem("shirose-gacha-dl:" + (currentUser && currentUser.uid))) || 0; } catch (e) {} return { t: Number(o.t) || 0, dl, n: (o.inv || []).length }; }
+export function gachaExportSave() {
+  if (!currentUser) throw new Error("Belum login");
+  const o = _gLocal(), t = Number(o.t) || 0;
+  try { localStorage.setItem("shirose-gacha-dl:" + currentUser.uid, String(Date.now())); } catch (e) {}
+  return { app: "shirose-gacha-save", v: 1, uid: currentUser.uid, email: currentUser.email || "", nama: (currentSiswaDoc && currentSiswaDoc.nama) || "", t, exportedAt: Date.now(),
+    sinceEpic: o.sinceEpic || 0, sinceLegend: o.sinceLegend || 0, inv: o.inv || [], spent: Number(o.spent) || 0 };
+}
+/* Hasil: {status:"dipakai"|"lebih-lama"|"sama", ...}. Save file dipakai hanya kalau lebih baru dari save di perangkat. */
+export function gachaImportSave(d) {
+  if (!currentUser) throw new Error("Belum login");
+  if (!d || d.app !== "shirose-gacha-save" || !Array.isArray(d.inv)) throw new Error("Ini bukan file Save Gacha KING SSW");
+  if (d.uid !== currentUser.uid) throw new Error("Save ini milik akun lain" + (d.nama ? " (" + d.nama + ")" : "") + ", tidak bisa dipakai di akun ini");
+  const o = _gLocal(), tl = Number(o.t) || 0, tf = Number(d.t) || 0;
+  if (tf < tl) return { status: "lebih-lama", tFile: tf, tLokal: tl };
+  if (tf === tl && (o.inv || []).length >= d.inv.length) return { status: "sama", tFile: tf, tLokal: tl };
+  o.inv = d.inv.filter(x => typeof x === "string"); o.sinceEpic = Number(d.sinceEpic) || 0; o.sinceLegend = Number(d.sinceLegend) || 0; o.spent = Math.max(0, Number(d.spent) || 0); o.t = tf; _gSave(o);
+  return { status: "dipakai", n: o.inv.length, tFile: tf, tLokal: tl };
+}
+/* Hadiah gacha di perangkat (id barang toko + tema). Dipakai agar hadiah tak hilang dari "dimiliki". */
+async function _gachaInvKeAkun(inv) { try { if (currentSiswaDoc) { currentSiswaDoc.karakter = currentSiswaDoc.karakter || {}; currentSiswaDoc.karakter.gachaInv = inv; } await updateDoc(doc(db, "king_siswa", currentUser.uid), { "karakter.gachaInv": inv }); } catch (e) {} }
+export function gachaInvLocal() { return (currentUser && _gLocal().inv) || []; }
+/* Salin hadiah gacha yang baru ada di perangkat ke inventaris akun (Firestore). isShop(id) → true untuk barang toko. Aman dipanggil berulang. */
+export async function syncGachaInventory(isShop) {
+  if (!currentUser || !currentSiswaDoc) return 0;
+  // Gabungkan daftar hadiah gacha di akun dengan yang di perangkat (dua arah) → hadiah tidak hilang saat ganti HP/browser
+  { const remote = (currentSiswaDoc.karakter && currentSiswaDoc.karakter.gachaInv) || [], o = _gLocal(), loc = o.inv || [];
+    const gab = Array.from(new Set([...loc, ...remote]));
+    if (gab.length !== loc.length) { o.inv = gab; _gSave(o); }
+    if (gab.length !== remote.length) await _gachaInvKeAkun(gab); }
+  const cur = (currentSiswaDoc.karakter && currentSiswaDoc.karakter.inventory) || [];
+  const baru = gachaInvLocal().filter(id => isShop(id) && !cur.includes(id));
+  if (!baru.length) return 0;
+  const inv = Array.from(new Set([...cur, ...baru]));
+  currentSiswaDoc.karakter = currentSiswaDoc.karakter || {}; currentSiswaDoc.karakter.inventory = inv;
+  try { await updateDoc(doc(db, "king_siswa", currentUser.uid), { "karakter.inventory": inv }); } catch (e) { console.warn("sync hadiah gacha gagal:", e.message); }
+  return baru.length;
+}
+/* Guru: atur saldo dompet siswa (mis. pengembalian koin gacha). Juga mereset catatan belanja gacha di perangkat siswa. */
+export async function setWalletKoinOf(uid, koin, alasan) {
+  if (!userIsGuru()) throw new Error("Hanya guru");
+  koin = Math.max(0, Math.round(Number(koin) || 0));
+  const wref = doc(db, "king_siswa", uid, "wallet", "main"), cur = await getDoc(wref), lama = cur.exists() ? (cur.data().koin || 0) : 0;
+  await setDoc(wref, { koin, uid, spentReset: Date.now(), updated: serverTimestamp() }, { merge: true });
+  try { await addDoc(collection(db, "king_siswa", uid, "wallet_log"), { t: serverTimestamp(), delta: koin - lama, alasan: String(alasan || "atur koin oleh guru"), saldo: koin }); } catch (e) {}
+  return koin;
 }
 export function ownedShopIds() { return (currentSiswaDoc && currentSiswaDoc.karakter && currentSiswaDoc.karakter.inventory) || []; }
 export async function getWalletOf(uid) {
@@ -583,14 +637,33 @@ export async function getGami(level) {
   if (!currentUser) return null;
   try {
     // Baca dokumen gami & dompet PARALEL (dulu berurutan → login/ganti akun terasa ngelag).
-    const [snap, k] = await Promise.all([
+    const [snap, k, lvMax] = await Promise.all([
       getDoc(doc(db, "king_siswa", currentUser.uid, "gami", level)),
       getWalletKoin().catch(() => null),
+      _levelAkun(level).catch(() => 0),
     ]);
     const g = snap.exists() ? snap.data() : { xp:0, koin:0, streak:0, level_karakter:1 };
     g.koin = k !== null ? k : _koinFallback(g.koin);
+    // Level karakter = level TERTINGGI di semua level JLPT/JFT (dulu hanya dokumen level aktif -> tampak "turun" saat pindah level)
+    g.level_level_ini = g.level_karakter || 1;
+    g.level_karakter = Math.max(g.level_karakter || 1, lvMax || 1);
+    _lvSet(g.level_karakter);
     return g;
-  } catch (e) { console.warn("getGami failed:", e.message); return { xp:0, koin:_koinFallback(0), streak:0, level_karakter:1 }; }
+  } catch (e) { console.warn("getGami failed:", e.message); return { xp:0, koin:_koinFallback(0), streak:0, level_karakter:Math.max(1, _lvGet()) }; }
+}
+// Level akun: cache 6 jam di perangkat; baca dokumen level lain hanya bila cache kedaluwarsa (hemat kuota Firestore).
+const _lvKey = () => "shirose-lvakun-" + (currentUser?.uid || "x");
+function _lvGet() { try { return (JSON.parse(localStorage.getItem(_lvKey()) || "{}").v) || 0; } catch (e) { return 0; } }
+function _lvSet(v) { try { const o = JSON.parse(localStorage.getItem(_lvKey()) || "{}"); localStorage.setItem(_lvKey(), JSON.stringify({ v: Math.max(v || 0, o.v || 0), t: o.t || 0 })); } catch (e) {} }
+async function _levelAkun(aktif) {
+  let o = {}; try { o = JSON.parse(localStorage.getItem(_lvKey()) || "{}"); } catch (e) {}
+  if (o.t && Date.now() - o.t < 6 * 3600e3) return o.v || 0;
+  const uid = currentUser.uid, lvls = WALLET_LVLS.filter(l => l !== aktif);
+  const snaps = await Promise.all(lvls.map(l => getDoc(doc(db, "king_siswa", uid, "gami", l)).catch(() => null)));
+  let mx = 0; snaps.forEach(sn => { if (sn && sn.exists()) mx = Math.max(mx, sn.data().level_karakter || 1); });
+  mx = Math.max(mx, o.v || 0);
+  try { localStorage.setItem(_lvKey(), JSON.stringify({ v: mx, t: Date.now() })); } catch (e) {}
+  return mx;
 }
 export async function tambahXP(level, dXP, dKoin = 0) {
   if (!currentUser) return;
@@ -611,6 +684,7 @@ export async function tambahXP(level, dXP, dKoin = 0) {
     if (dKoin && saldo === null) cur.koin = (cur.koin || 0) + dKoin;   // fallback lama
     await setDoc(ref, cur, { merge: true });
     if (saldo !== null) cur.koin = saldo; else { const k = await getWalletKoin(); cur.koin = k !== null ? k : _koinFallback(cur.koin); }
+    cur.level_level_ini = cur.level_karakter; cur.level_karakter = Math.max(cur.level_karakter, _lvGet()); _lvSet(cur.level_karakter);
     return cur;
   } catch (e) { console.warn("tambahXP failed:", e.message); return null; }
 }
@@ -1597,3 +1671,56 @@ export async function claimMisi(misiId, level = "n5") {
 }
 
 export { db, auth };
+
+/* ========== SAVE DATA (tombol 💾 Simpan) ==========
+ * Snapshot di siswa/{uid}/save/main (sub-koleksi milik siswa): XP & level tiap level JLPT/JFT, item, pakaian, tema/background, font.
+ * Pulihkan hanya MENAIKKAN (XP = yang terbesar, item = gabungan) — tidak pernah menurunkan data yang ada. */
+export async function saveSaveData(ui = {}) {
+  if (!currentUser) throw new Error("Masuk dulu");
+  const uid = currentUser.uid, gami = {};
+  const snaps = await Promise.all(WALLET_LVLS.map(l => getDoc(doc(db, "king_siswa", uid, "gami", l)).catch(() => null)));
+  let mx = 1;
+  snaps.forEach((s, i) => { if (s && s.exists()) { const d = s.data(); const lv = d.level_karakter || 1; mx = Math.max(mx, lv); gami[WALLET_LVLS[i]] = { xp: d.xp || 0, level_karakter: lv, streak: d.streak || 0 }; } });
+  const sd = currentSiswaDoc || {}, k = sd.karakter || {};
+  const data = { savedAt: Date.now(), ts: serverTimestamp(), levelAkun: mx, gami,
+    karakter: { equipped: k.equipped || {}, inventory: k.inventory || [], skinTone: k.skinTone || null, hairColor: k.hairColor || null }, ui };
+  await setDoc(doc(db, "king_siswa", uid, "save", "main"), data);
+  _lvSet(mx);
+  return { ...data, ts: null };
+}
+export async function getSaveData() {
+  if (!currentUser) return null;
+  const s = await getDoc(doc(db, "king_siswa", currentUser.uid, "save", "main"));
+  if (!s.exists()) return null;
+  const d = s.data(); d.ts = null; return d;
+}
+export async function restoreSaveData(d) {
+  if (!currentUser) throw new Error("Masuk dulu");
+  if (!d || typeof d !== "object") throw new Error("Data save tidak valid");
+  const uid = currentUser.uid; let naik = 0;
+  for (const [lvl, g] of Object.entries(d.gami || {})) {
+    if (!WALLET_LVLS.includes(lvl) || !g || typeof g.xp !== "number") continue;
+    const ref = doc(db, "king_siswa", uid, "gami", lvl), cur = await getDoc(ref);
+    const curXp = cur.exists() ? (cur.data().xp || 0) : 0;
+    if (g.xp > curXp) { await setDoc(ref, { xp: g.xp, level_karakter: Math.floor(Math.sqrt(g.xp / 50)) + 1 }, { merge: true }); naik++; }
+  }
+  const k = d.karakter || {}, sd = currentSiswaDoc || {}, cur = sd.karakter || {};
+  const inv = [...new Set([...(cur.inventory || []), ...(Array.isArray(k.inventory) ? k.inventory : [])])];
+  const upd = { "karakter.inventory": inv };
+  if (k.equipped && Object.keys(cur.equipped || {}).length === 0) upd["karakter.equipped"] = k.equipped;
+  await updateDoc(doc(db, "king_siswa", uid), upd);
+  if (currentSiswaDoc) { currentSiswaDoc.karakter = { ...(currentSiswaDoc.karakter || {}), inventory: inv, ...(upd["karakter.equipped"] ? { equipped: k.equipped } : {}) }; }
+  _lvSet(d.levelAkun || 1);
+  return { xpDinaikkan: naik, item: inv.length };
+}
+
+/* Pulihkan dari file save TANPA Firestore: hadiah gacha → penyimpanan perangkat, level akun → cache perangkat. Hanya menambah. */
+export function restoreLokal(o) {
+  if (!currentUser || !o) return { gacha: 0 };
+  const g = _gLocal(), lama = g.inv || [], tambahan = Array.isArray(o.gachaInv) ? o.gachaInv.filter(x => typeof x === "string") : [];
+  const gab = Array.from(new Set([...lama, ...tambahan])); g.inv = gab;
+  if (typeof o.sinceEpic === "number" && !g.sinceEpic) g.sinceEpic = o.sinceEpic;
+  if (typeof o.sinceLegend === "number" && !g.sinceLegend) g.sinceLegend = o.sinceLegend;
+  _gSave(g); if (o.levelAkun) _lvSet(o.levelAkun);
+  return { gacha: gab.length - lama.length };
+}

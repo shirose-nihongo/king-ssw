@@ -2,7 +2,10 @@
  "slug": "auto-transport",
  "nama": "Automobile Transportation (Truk & Bus)",
  "jp": "自動車運送業（トラック・バス）",
- "nobook": true,
+ "pages": {
+  "jp": 301,
+  "id": 26
+ },
  "bab": [
   {
    "id": "bab1",
