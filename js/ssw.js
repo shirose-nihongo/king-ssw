@@ -14,7 +14,7 @@
 import {
   initSswCore, esc, rich, plain, spoken, shuffle, seeded, isGuru, loadBidang, bidangBySlug, loadPack, getProgress, touch, flush, logAct,
   babProgress, STATUS_LABEL, babStatus, siswaBolehBab, newCard, cardState, schedule, cardStats, buildQueue, fullQuizzes, EXAM_SPEC, readingQuiz, recordQuiz, sswAllowed, loadKelasAkses, points, syncRank, loadRank, uidNow, syncCards, vnum, DAY
-} from "./ssw-core.js?v=20261117m";
+} from "./ssw-core.js?v=20261117n";
 import { islandSVG, buildingSVG, bldFor } from "./ssw-art.js?v=20261113zl";
 
 /* Teks resmi (PDF) per bidang — file di assets/ssw/<slug>/pdf atau tautan situs resmi. */
@@ -36,46 +36,26 @@ const PDF_SUMBER = {
     { t: "Contoh soal resmi 2号 学科 4 pilihan (JASPA 日整連)", u: "assets/ssw/auto-maintenance/pdf/jaspa-contoh-2go-gakka.pdf" },
     { t: "Kunci jawaban contoh 2号 学科 (JASPA 日整連)", u: "assets/ssw/auto-maintenance/pdf/jaspa-kunci-2go-gakka.pdf" }
   ],
-  "industrial-mfg": [
-    { t: "Contoh soal resmi 1号 — 機械金属加工 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-kikai-kinzoku-kako.pdf" },
-    { t: "Contoh soal resmi 1号 — 電気電子機器組立て (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-denki-denshi-kiki-kumitate.pdf" },
-    { t: "Contoh soal resmi 1号 — 金属表面処理 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-kinzoku-hyomen-shori.pdf" },
-    { t: "Contoh soal resmi 1号 — 紙器・段ボール箱製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-shiki-danball.pdf" },
-    { t: "Contoh soal resmi 1号 — コンクリート製品製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-concrete-seihin.pdf" },
-    { t: "Contoh soal resmi 1号 — RPF製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-rpf.pdf" },
-    { t: "Contoh soal resmi 1号 — 陶磁器製品製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-toji-ki.pdf" },
-    { t: "Contoh soal resmi 1号 — 印刷・製本 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-insatsu-seihon.pdf" },
-    { t: "Contoh soal resmi 1号 — 紡織製品製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-boshoku.pdf" },
-    { t: "Contoh soal resmi 1号 — 縫製 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-hosei.pdf" },
-    { t: "Contoh soal resmi 1号 — 電線・ケーブル製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-densen-cable.pdf" },
-    { t: "Contoh soal resmi 1号 — プレハブ住宅製品製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-prefab-jutaku.pdf" },
-    { t: "Contoh soal resmi 1号 — 家具製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-kagu.pdf" },
-    { t: "Contoh soal resmi 1号 — 定形・不定形耐火物製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-taikabutsu.pdf" },
-    { t: "Contoh soal resmi 1号 — 生コンクリート製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-nama-concrete.pdf" },
-    { t: "Contoh soal resmi 1号 — ゴム製品製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-rubber.pdf" },
-    { t: "Contoh soal resmi 1号 — かばん製造 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-kaban.pdf" },
-    { t: "Contoh soal resmi 2号 — 機械金属加工 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-2go-kikai-kinzoku-kako.pdf" },
-    { t: "Contoh soal resmi 2号 — 電気電子機器組立て (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-2go-denki-denshi-kiki-kumitate.pdf" },
-    { t: "Contoh soal resmi 2号 — 金属表面処理 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-2go-kinzoku-hyomen-shori.pdf" }
-  ],
-  "mfg-machine-metal": [
-    { t: "Contoh soal resmi 1号 機械金属加工 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-kikai-kinzoku-kako.pdf" },
-    { t: "Contoh soal resmi 2号 機械金属加工 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-2go-kikai-kinzoku-kako.pdf" }
-  ],
   "jaim-machine-metal": [
     { t: "Panduan belajar resmi JAIM — Bahasa Indonesia", u: "assets/ssw/jaim-machine-metal/pdf/panduan-belajar-id.pdf" },
     { t: "Panduan belajar resmi JAIM — Jepang", u: "assets/ssw/jaim-machine-metal/pdf/panduan-belajar-jp.pdf" },
-    { t: "正誤表 (errata) panduan Jepang", u: "assets/ssw/jaim-machine-metal/pdf/errata-jp.pdf" }
+    { t: "正誤表 (errata) panduan Jepang", u: "assets/ssw/jaim-machine-metal/pdf/errata-jp.pdf" },
+    { t: "Contoh soal resmi 1号 — 機械金属加工 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-kikai-kinzoku-kako.pdf" },
+    { t: "Contoh soal resmi 2号 — 機械金属加工 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-2go-kikai-kinzoku-kako.pdf" }
   ],
   "jaim-elec-electronic": [
     { t: "Panduan belajar resmi JAIM — Bahasa Indonesia", u: "assets/ssw/jaim-elec-electronic/pdf/panduan-belajar-id.pdf" },
     { t: "Panduan belajar resmi JAIM — Jepang", u: "assets/ssw/jaim-elec-electronic/pdf/panduan-belajar-jp.pdf" },
-    { t: "正誤表 (errata) panduan Jepang", u: "assets/ssw/jaim-elec-electronic/pdf/errata-jp.pdf" }
+    { t: "正誤表 (errata) panduan Jepang", u: "assets/ssw/jaim-elec-electronic/pdf/errata-jp.pdf" },
+    { t: "Contoh soal resmi 1号 — 電気電子機器組立て (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-denki-denshi-kiki-kumitate.pdf" },
+    { t: "Contoh soal resmi 2号 — 電気電子機器組立て (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-2go-denki-denshi-kiki-kumitate.pdf" }
   ],
   "jaim-metal-surface": [
     { t: "Panduan belajar resmi JAIM — Bahasa Indonesia", u: "assets/ssw/jaim-metal-surface/pdf/panduan-belajar-id.pdf" },
     { t: "Panduan belajar resmi JAIM — Jepang", u: "assets/ssw/jaim-metal-surface/pdf/panduan-belajar-jp.pdf" },
-    { t: "正誤表 (errata) panduan Jepang", u: "assets/ssw/jaim-metal-surface/pdf/errata-jp.pdf" }
+    { t: "正誤表 (errata) panduan Jepang", u: "assets/ssw/jaim-metal-surface/pdf/errata-jp.pdf" },
+    { t: "Contoh soal resmi 1号 — 金属表面処理 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-1go-kinzoku-hyomen-shori.pdf" },
+    { t: "Contoh soal resmi 2号 — 金属表面処理 (JAIM)", u: "assets/ssw/industrial-mfg/pdf/contoh-2go-kinzoku-hyomen-shori.pdf" }
   ]
 };
 const pdfButtons = (slug) => (PDF_SUMBER[slug] || []).map(x => `<a class="btn ghost" href="${esc(x.u)}" target="_blank" rel="noopener">📄 ${esc(x.t)}${x.ext ? " ↗" : ""}</a>`).join("");
@@ -975,8 +955,8 @@ const SSW = window.SSW = {
     const kunci = b.aktif && !sswAllowed(b.slug); const can = (b.aktif || isGuru()) && !kunci;
     sheet.hidden = false;
     sheet.innerHTML = `<div class="sw-sheet-in"><div><div class="jp">${esc(b.jp || "")}</div><h2>${esc(b.nama)}</h2>
-      <p class="sw-muted">${kunci ? "Guru belum membuka bidang ini untuk akun atau kelasmu." : can ? (!b.hasContent ? "Materi sedang disiapkan." : (list.some(x => x.induk === slug) ? (b.label ? "Pilih kategori ujian." : "Pilih bahasa belajar: Bahasa Indonesia atau Bahasa Jepang.") : "Bidang ini sudah dibuka. Masuk dan jelajahi peta pembelajarannya.")) : "Materi bidang ini belum tersedia. Progres belajarmu tidak akan hilang."}</p></div>
-      <div class="sw-sheet-b">${can && list.some(x => x.induk === slug) ? `<button class="btn sw-big" onclick="route('ssw-peta/${esc(slug)}')">${esc(b.label || "🇮🇩 Bahasa Indonesia ›")}</button>${list.filter(x => x.induk === slug).map(x => `<button class="btn sw-big" onclick="route('ssw-peta/${esc(x.slug)}')">${esc(x.label || "🇯🇵 Bahasa Jepang ›")}</button>`).join("")}` : can ? `<button class="btn sw-big" onclick="route('ssw-peta/${esc(slug)}')">MASUK BELAJAR ›</button>` : `<button class="btn ghost" disabled>Belum tersedia</button>`}<button class="btn ghost" onclick="SSW.unpick()">Kembali</button></div></div>`;
+      <p class="sw-muted">${kunci ? "Guru belum membuka bidang ini untuk akun atau kelasmu." : can ? (!b.hasContent ? "Materi sedang disiapkan." : (list.some(x => x.induk === slug) ? (b.hub || b.label ? "Pilih buku / kategori ujian." : "Pilih bahasa belajar: Bahasa Indonesia atau Bahasa Jepang.") : "Bidang ini sudah dibuka. Masuk dan jelajahi peta pembelajarannya.")) : "Materi bidang ini belum tersedia. Progres belajarmu tidak akan hilang."}</p></div>
+      <div class="sw-sheet-b">${can && list.some(x => x.induk === slug) ? `${b.hub ? "" : `<button class="btn sw-big" onclick="route('ssw-peta/${esc(slug)}')">${esc(b.label || "🇮🇩 Bahasa Indonesia ›")}</button>`}${list.filter(x => x.induk === slug).map(x => `<button class="btn sw-big" onclick="route('ssw-peta/${esc(x.slug)}')">${esc(x.label || "🇯🇵 Bahasa Jepang ›")}</button>`).join("")}` : can ? `<button class="btn sw-big" onclick="route('ssw-peta/${esc(slug)}')">MASUK BELAJAR ›</button>` : `<button class="btn ghost" disabled>Belum tersedia</button>`}<button class="btn ghost" onclick="SSW.unpick()">Kembali</button></div></div>`;
   },
   unpick() {
     const w = document.getElementById("sw-world"), s = document.getElementById("sw-sheet"); if (!w) return;
