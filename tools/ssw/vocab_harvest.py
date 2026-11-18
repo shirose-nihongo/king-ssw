@@ -37,6 +37,16 @@ GLOSS = [re.compile(r"\*\*(" + JPW + r")\*\*\s*\(([^()（）]{2,60})\)"),
          re.compile(r"\*\*(" + JPW + r")\s*\(([A-Za-z][^()（）]{1,60})\)\*\*")]
 GLOSS_R = re.compile(r"([A-Za-z][A-Za-z /\-']{2,50})\s*\((?:\*\*)?(" + JPW + r")(?:\*\*)?\)")
 rep = {}
+JPD = {}
+_jp = os.environ.get("JPDICT", "/home/claude/jpdict/jpdict_min.json")
+if os.path.exists(_jp): JPD = json.load(open(_jp))
+OKURI = "みりいるえしけきぎめせちつくうれかがじ"
+def jpd(k):
+    if k in JPD: return k, JPD[k][0], JPD[k][1]
+    if re.search(KAN + "$", k):
+        for o in OKURI:
+            if k + o in JPD: return k + o, JPD[k + o][0], JPD[k + o][1]
+    return None
 EXTRA = {}
 for line in open("tools/ssw/src/vocab_tambahan_baru.txt", encoding="utf-8"):
     if line.strip() and not line.startswith("#"):
@@ -73,11 +83,17 @@ for s in sorted(os.listdir("data/ssw")):
         if k in have or k in seen: continue
         arti = gloss.get(k) or D.get(k)
         kana = reading.get(k) or K.get(k) or (k if not re.search(KAN, k) else "")
+        asal = "teks bidang" if k in gloss else "kamus website"
+        if not arti and (hit := jpd(k)):
+            k2, r2, a2 = hit
+            if k2 in have or k2 in seen: continue
+            if k2 != k: kana = r2
+            k, arti, kana, asal = k2, a2, r2, "JPdict (lawlie/dom, terjemahan AI)"
         if not arti or not kana: miss += 1; continue
         seen.add(k); n += 1; add += 1
         L.append({"id": f"{prefix}{n:0{width}d}", "kata": k, "kana": kana, "arti": arti,
                   "cat": "Kosakata dari teks materi", "bab": bab, "src": [], "sumber": "panen-teks",
-                  "asal_arti": "teks bidang" if k in gloss else "kamus website"})
+                  "asal_arti": asal})
     first_bab = idx["bab"][0]["id"]
     for k, r, a in EXTRA.get(s, []):
         if k in have or k in seen: continue

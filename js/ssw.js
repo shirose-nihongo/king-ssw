@@ -514,7 +514,7 @@ let FC = null;
 /* Tautan ke gambar ilustrasi (bagian bernomor) untuk kosakata yang punya v.fig — mis. Jidousha Seibi (JICA イラスト集). */
 const figLinks = (v) => (v.fig || []).map(f => `<button type="button" class="btn ghost sm" style="margin:2px 4px 2px 0" onclick="event.stopPropagation();SSW.zoomPage('${esc(f.src)}')">🖼 Gambar ${f.n} · no. ${f.p} — ${esc(f.t)}</button>`).join("");
 /* Fungsi komponen + sumber halaman (bila ada di data). Fungsi = materi buatan Shirose (ORIGINAL LEARNING CONTENT). */
-const fungsiInfo = (v) => (v.fungsi ? `<p class="sw-muted" style="margin:6px 0 0"><b>Fungsi:</b> ${esc(v.fungsi)}</p>` : "") + (v.hal_sumber ? `<p class="sw-muted" style="margin:2px 0 0;font-size:12px">Sumber gambar: JICA「かいて おぼえる イラスト集」hal. ${esc(v.hal_sumber.hal_cetak)}</p>` : "");
+const fungsiInfo = (v) => (v.fungsi ? `<p class="sw-muted" style="margin:6px 0 0"><b>Fungsi:</b> ${esc(v.fungsi)}</p>` : "") + (v.hal_sumber ? `<p class="sw-muted" style="margin:2px 0 0;font-size:12px">Sumber gambar: JICA「かいて おぼえる イラスト集」hal. ${esc(v.hal_sumber.hal_cetak)}</p>` : "") + (v.asal_arti ? `<p class="sw-muted" style="margin:2px 0 0;font-size:12px">Sumber arti: ${esc(v.asal_arti)}${/JPdict|Shirose/.test(v.asal_arti) ? " — perlu dicek guru" : ""}</p>` : "");
 const hafItems = (vocab) => vocab.map(v => ({ tipe: "ssw", idx: vnum(v) - 1, no: vnum(v), front: v.kata, reading: v.kana || "", back: v.arti || "", vid: v.id }));
 /** Flashcard/hafalan = mesin JLPT (index.html: sswHafalStart). Rute lama ssw-kartu hanya meluncurkan mesin itu. */
 async function renderKartu([slug, scope = "all", mode = "semua"]) {
