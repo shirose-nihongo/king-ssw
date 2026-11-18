@@ -368,12 +368,16 @@ export const EXAM_SPEC = {
   "auto-transport": { n: 30, img: 0, mb: 30, info: "Ujian Latihan KING SSW (bukan format resmi; jumlah soal resmi tidak diverifikasi). Soal ditulis Shirose dari teks belajar resmi JTA (truk) dan Asosiasi Bus Jepang (bus)." },
 };
 /** 10 ujian penuh = sampel deterministik dari seluruh bank soal; komposisi mengikuti ujian resmi bidangnya. */
-export function fullQuizzes(pack, perQuizArg, count = 10) {
+export function fullQuizzes(pack, perQuizArg, countArg) {
   const spec = EXAM_SPEC[pack.slug] || {};
   const perQuiz = perQuizArg || spec.n || 20;
   const pool = [];
   for (const ch of pack.chapters) for (const q of (pack.quiz.bab?.[ch.id] || [])) { if (q.rev) continue; for (const it of q.items) pool.push({ ...it, bab: ch.id }); }   // q.rev = kuis ulangan (soalnya sudah ada di kuis subbab)
+  // bidang yang hanya punya kuis bab (semua rev, mis. forestry/linen/railway): pakai kuis bab sebagai bank soal
+  if (!pool.length) for (const ch of pack.chapters) for (const q of (pack.quiz.bab?.[ch.id] || [])) for (const it of q.items) pool.push({ ...it, bab: ch.id });
   if (!pool.length) return [];
+  // 20 paket bila bank soal ≥ 4× ukuran ujian; bank kecil tetap 10 paket agar soal tidak terlalu berulang. Paket 1–10 tidak berubah (seed sama).
+  const count = countArg || (pool.length >= perQuiz * 4 ? 20 : 10);
   const out = [];
   const isImg = (x) => !!x.img, isMB = (x) => !!x.mb && !x.img, isMC = (x) => !x.mb && !x.img;
   const stripTags = (t) => String(t || "").replace(/\{([^|}]*)\|[^}]*\}/g, "$1");
