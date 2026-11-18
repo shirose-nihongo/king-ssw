@@ -367,26 +367,68 @@ export const EXAM_SPEC = {
   "wood-industry": { n: 35, img: 0, mb: 32, info: "Ujian Latihan KING SSW (bukan soal resmi). Format resmi 木材産業特定技能1号測定試験: CBT, 60 menit, 35 soal (tulis 32 soal ○× + praktik 3 soal pertimbangan); huruf kanji berfurigana." },
   "auto-transport": { n: 30, img: 0, mb: 30, info: "Ujian Latihan KING SSW (bukan format resmi; jumlah soal resmi tidak diverifikasi). Soal ditulis Shirose dari teks belajar resmi JTA (truk) dan Asosiasi Bus Jepang (bus)." },
 };
-/** 10 ujian penuh = sampel deterministik dari seluruh bank soal; komposisi mengikuti ujian resmi bidangnya. */
+/** Soal tambahan dari data yang sudah ada (tidak dikarang): 1 soal per kosakata (arti dari vocab.json) dan 1 soal per gambar buku (subbab asal dari figs.json). */
+export function extraItems(pack, limit = Infinity) {
+  const out = [], strip = (t) => String(t || "").replace(/\{([^|}]*)\|[^}]*\}/g, "$1");
+  const rnd = seeded(`${pack.slug}-extra`);
+  const subOf = {}; for (const ch of pack.chapters) for (const s of (ch.subs || [])) subOf[s.id] = { bab: ch.id, t: s.title || {} };
+  const vocab = (pack.vocab || []).filter(v => v.kata && v.arti);
+  const artis = [...new Set(vocab.map(v => v.arti))], kanas = [...new Set(vocab.map(v => v.kana).filter(Boolean))];
+  const cntA = {}; for (const v of vocab) cntA[v.arti] = (cntA[v.arti] || 0) + 1;
+  const seenK = new Set();
+  // ambil k elemen acak berbeda yang lolos filter, tanpa mengacak seluruh larik (cepat untuk kosakata ribuan)
+  const sample = (arr, k, ok) => { const r = [], tried = new Set(); for (let t = 0; r.length < k && t < k * 30 && tried.size < arr.length; t++) { const j = Math.floor(rnd() * arr.length); if (tried.has(j)) continue; tried.add(j); if (ok(arr[j], r)) r.push(arr[j]); } return r; };
+  for (const v of shuffle(vocab, rnd)) {
+    if (out.length >= limit) break;
+    if (seenK.has(v.kata) || artis.length < 4) continue; seenK.add(v.kata);
+    const bab = v.bab && pack.chapters.some(c => c.id === v.bab) ? v.bab : (subOf[(v.src || [])[0]]?.bab || pack.chapters[0]?.id);
+    const read = v.kana && v.kana !== v.kata ? `{${v.kata}|${v.kana}}` : v.kata, kn = v.kana && v.kana !== v.kata ? ` (${v.kana})` : "";
+    // 1) Jepang → arti
+    { const opts = shuffle([v.arti, ...sample(artis, 3, (a, r) => a !== v.arti && !r.includes(a))], rnd);
+      out.push({ q: { id: `Apa arti 「${v.kata}」${kn}?`, jp: `「${read}」の{意味|いみ}は？` }, opts: opts.map(o => ({ id: o })), a: opts.indexOf(v.arti), exp: { id: `${v.kata}${kn} = ${v.arti}.` }, bab, gen: "kosakata" }); }
+    // 2) arti → Jepang (hanya bila arti tidak dipakai kata lain, agar jawaban tunggal)
+    if (cntA[v.arti] === 1) { const others = sample(vocab, 3, (o, r) => o.kata !== v.kata && o.arti !== v.arti && !r.some(z => z.kata === o.kata || z.arti === o.arti));
+      if (others.length === 3) { const opts = shuffle([v, ...others], rnd);
+        out.push({ q: { id: `Kata Jepang untuk “${v.arti}” adalah…`, jp: `「${v.arti}」は{日本語|にほんご}で？` }, opts: opts.map(o => ({ id: o.kata, jp: o.kana && o.kana !== o.kata ? `{${o.kata}|${o.kana}}` : o.kata })), a: opts.indexOf(v), exp: { id: `${v.arti} = ${v.kata}${kn}.` }, bab, gen: "kosakata" }); } }
+    // 3) cara baca kanji
+    if (/[一-鿿]/.test(v.kata) && v.kana && v.kana !== v.kata && kanas.length >= 4) {
+      const opts = shuffle([v.kana, ...sample(kanas, 3, (k, r) => k !== v.kana && !r.includes(k) && Math.abs(k.length - v.kana.length) <= 2)], rnd);
+      out.push({ q: { id: `Cara baca 「${v.kata}」 adalah…`, jp: `「${v.kata}」の{読|よ}み{方|かた}は？` }, opts: opts.map(o => ({ id: o })), a: opts.indexOf(v.kana), exp: { id: `${v.kata} dibaca ${v.kana} (${v.arti}).` }, bab, gen: "kosakata" });
+    }
+  }
+  const figs = (pack.figs || []).filter(f => f.src && subOf[f.sub]);
+  const subs = [...new Set(figs.map(f => f.sub))];
+  if (subs.length >= 4) for (const f of figs) {
+    const opts = shuffle([f.sub, ...shuffle(subs.filter(x => x !== f.sub), rnd).slice(0, 3)], rnd);
+    out.push({ q: { id: "Gambar ini berasal dari materi subbab mana?", jp: "この{図|ず}はどの{項目|こうもく}の{内容|ないよう}ですか。" }, img: { src: f.src }, opts: opts.map(x => ({ id: strip(subOf[x].t.id), jp: subOf[x].t.jp })), a: opts.indexOf(f.sub), exp: { id: `Gambar dari subbab “${strip(subOf[f.sub].t.id)}”${f.page ? ` (buku hal. ${f.page})` : ""}.` }, bab: subOf[f.sub].bab, gen: "gambar" });
+  }
+  return out;
+}
+/** Ujian penuh: tiap soal hanya muncul di SATU paket (tidak ada soal sama antar paket). Bank resmi/latihan dipakai dulu;
+ *  bila kurang untuk 20 paket, ditambah soal kosakata & gambar (extraItems). Komposisi (gambar, ○×, opsi) mengikuti EXAM_SPEC. */
 export function fullQuizzes(pack, perQuizArg, countArg) {
   const spec = EXAM_SPEC[pack.slug] || {};
   const perQuiz = perQuizArg || spec.n || 20;
-  const pool = [];
-  for (const ch of pack.chapters) for (const q of (pack.quiz.bab?.[ch.id] || [])) { if (q.rev || q.kosakata) continue; for (const it of q.items) pool.push({ ...it, bab: ch.id }); }   // q.rev = kuis ulangan (soalnya sudah ada di kuis subbab)
-  // bidang yang hanya punya kuis bab (semua rev, mis. forestry/linen/railway): pakai kuis bab sebagai bank soal
-  if (!pool.length) for (const ch of pack.chapters) for (const q of (pack.quiz.bab?.[ch.id] || [])) if (!q.kosakata) for (const it of q.items) pool.push({ ...it, bab: ch.id });
-  if (!pool.length) return [];
-  // 20 paket bila bank soal ≥ 4× ukuran ujian; bank kecil tetap 10 paket agar soal tidak terlalu berulang. Paket 1–10 tidak berubah (seed sama).
-  const count = countArg || (pool.length >= perQuiz * 4 ? 20 : 10);
-  const out = [];
+  const want = countArg || 20;
+  let base = [];
+  for (const ch of pack.chapters) for (const q of (pack.quiz.bab?.[ch.id] || [])) { if (q.rev || q.kosakata) continue; for (const it of q.items) base.push({ ...it, bab: ch.id }); }   // q.rev = kuis ulangan (soalnya sudah ada di kuis subbab)
+  if (!base.length) for (const ch of pack.chapters) for (const q of (pack.quiz.bab?.[ch.id] || [])) if (!q.kosakata) for (const it of q.items) base.push({ ...it, bab: ch.id });
+  // buang soal yang teksnya kembar
+  const key = (x) => String(x.q?.id || "") + "|" + String(x.q?.jp || "");
+  const seenQ = new Set(); base = base.filter(x => !seenQ.has(key(x)) && seenQ.add(key(x)));
+  const extra = base.length >= perQuiz * want ? [] : extraItems(pack, (perQuiz * want - base.length) * 1.3 + 20).filter(x => !seenQ.has(key(x)) && seenQ.add(key(x)));
+  const all = [...base, ...extra];
+  if (!all.length) return [];
+  const count = Math.max(1, Math.min(want, Math.floor(all.length / perQuiz)));
+  const size = Math.min(perQuiz, all.length);
+  const rndG = seeded(`${pack.slug}-full`);
   const isImg = (x) => !!x.img, isMB = (x) => !!x.mb && !x.img, isMC = (x) => !x.mb && !x.img;
   const stripTags = (t) => String(t || "").replace(/\{([^|}]*)\|[^}]*\}/g, "$1");
-  /** ○× dari pilihan ganda: pasangkan soal dengan satu jawaban (benar / salah) */
   const toMB = (it, truth, rnd) => {
     const k = truth ? it.a : shuffle(it.opts.map((_, j) => j).filter(j => j !== it.a), rnd)[0];
     if (k == null) return null;
     const o = it.opts[k];
-    return { q: { id: `Benar atau salah? Soal: “${it.q.id}” Jawaban: “${o.id}”`, jp: `○か×か。「${stripTags(it.q.jp)}」→「${stripTags(o.jp)}」` },
+    return { q: { id: `Benar atau salah? Soal: “${it.q.id}” Jawaban: “${o.id}”`, jp: `○か×か。「${stripTags(it.q.jp)}」→「${stripTags(o.jp || o.id)}」` },
       opts: [{ id: "Benar (○)", jp: "○ {正|ただ}しい" }, { id: "Salah (×)", jp: "× {間違|まちが}い" }], a: truth ? 0 : 1, exp: it.exp, mb: true, bab: it.bab, ref: it.ref };
   };
   const cut = (it, nOpt, rnd) => {   // kurangi opsi (ujian resmi FM/FS: 3 pilihan)
@@ -395,21 +437,31 @@ export function fullQuizzes(pack, perQuizArg, countArg) {
     const keep = [it.a, ...wrong].sort((x, y) => x - y);
     return { ...it, opts: keep.map(j => it.opts[j]), a: keep.indexOf(it.a) };
   };
+  // antrean global: soal asli dulu (urutan acak tetap), soal tambahan di belakang
+  const q = (f) => [...shuffle(base.filter(f), rndG), ...shuffle(extra.filter(f), rndG)];
+  const Q = { img: q(isImg), mb: q(isMB), mc: q(isMC) };
+  const out = [];
   for (let n = 1; n <= count; n++) {
     const rnd = seeded(`${pack.slug}-full-${n}`);
-    const take = (arr, k, used) => shuffle(arr.filter(x => !used.has(x)), rnd).slice(0, k);
-    const used = new Set(), pick = [];
-    const nImg = Math.min(spec.img ?? 4, pool.filter(isImg).length), nMB = spec.mb ?? 6;
-    const mbReal = take(pool.filter(isMB), nMB, used);
-    for (const grp of [take(pool.filter(isImg), nImg, used), mbReal]) for (const x of grp) { used.add(x); pick.push(x); }
-    // kekurangan ○× dibuat dari pilihan ganda (setengah benar, setengah salah)
-    const need = nMB - mbReal.length;
-    if (need > 0) for (const [i, x] of take(pool.filter(isMC), need, used).entries()) { const m = toMB(x, i % 2 === 0, rnd); if (m) { used.add(x); pick.push(m); } }
-    // sisanya pilihan ganda, dibagi merata antar bab
-    const byBab = {}; for (const it of pool.filter(x => isMC(x) && !used.has(x))) (byBab[it.bab] = byBab[it.bab] || []).push(it);
-    const keys = Object.keys(byBab).map(k => shuffle(byBab[k], rnd)); let i = 0;
-    while (pick.length < Math.min(perQuiz, pool.length) && keys.some(a => a.length)) { const it = keys[i++ % keys.length].shift(); if (it) pick.push(it); }
-    out.push({ id: `full-q${n}`, title: { id: `Ujian Penuh ${n}`, jp: `総合テスト ${n}` }, items: shuffle(pick.map(x => cut(x, spec.opts, rnd)), rnd) });
+    const left = count - n + 1, pick = [];
+    const share = (arr, k) => Math.min(k, Math.ceil(arr.length / left));
+    for (const x of Q.img.splice(0, share(Q.img, spec.img ?? 4))) pick.push(x);
+    const nMB = Math.min(spec.mb ?? 6, size - pick.length);
+    for (const x of Q.mb.splice(0, share(Q.mb, nMB))) pick.push(x);
+    let need = nMB - pick.filter(isMB).length, flip = 0;
+    while (need-- > 0 && Q.mc.length > (size - pick.length) * (left - 1)) { const m = toMB(Q.mc.shift(), flip++ % 2 === 0, rnd); if (m) pick.push(m); }
+    // sisanya pilihan ganda, merata antar bab
+    const byBab = {}; for (const it of Q.mc) (byBab[it.bab] = byBab[it.bab] || []).push(it);
+    const babs = Object.keys(byBab); let i = 0, guard = 0;
+    while (pick.length < size && Q.mc.length && guard++ < 100000) {
+      const b = byBab[babs[i++ % babs.length]]; const it = b && b.shift(); if (!it) continue;
+      Q.mc.splice(Q.mc.indexOf(it), 1); pick.push(it);
+    }
+    // kekurangan diisi dari gambar/○× sisa (tetap tanpa pengulangan)
+    for (const arr of [Q.img, Q.mb]) while (pick.length < size && arr.length) pick.push(arr.shift());
+    if (pick.length < Math.min(size, 10)) break;
+    const nn = String(n).padStart(2, "0");
+    out.push({ id: `full-q${n}`, title: { id: `Full Test ${nn}`, jp: `{総合|そうごう}テスト ${nn}` }, items: shuffle(pick.map(x => cut(x, spec.opts, rnd)), rnd) });
   }
   return out;
 }
