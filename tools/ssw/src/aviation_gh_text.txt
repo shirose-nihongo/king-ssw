@@ -1,0 +1,214 @@
+# Soal buatan Shirose dari teks resmi JAEA (Ground Handling) yang sudah ada di website (data/ssw/aviation-gh).
+bab1|Tiga tujuan ground handling agar pesawat berangkat adalah…|Aman, tepat waktu, nyaman|Cepat, murah, mewah|Ringan, penuh, hemat|Bersih, wangi, sepi
+bab1|Jika menemukan penyok (Dent) di badan pesawat, petugas harus…|Melapor ke mekanik|Menutupnya dengan stiker|Mengabaikan jika kecil|Memperbaiki sendiri
+bab1|Informasi yang harus disampaikan ke kapten demi keselamatan antara lain…|Barang berbahaya, berat muatan, posisi titik berat|Menu makanan kru|Nama petugas kebersihan|Warna kontainer
+bab1|Standar kontrak layanan handling internasional (Airport Handling Manual) disusun oleh…|IATA|ICAO saja|Bandara Haneda|Pabrik pesawat
+bab1|Sebelum pesawat tiba, petugas dan GSE menunggu di…|Tempat aman yang tidak menghalangi pesawat|Tengah spot|Di bawah sayap|Di landasan pacu
+bab1|Petugas yang memandu pesawat ke posisi berhenti disebut…|Marshaller|Controller|Watchman PBB|Loader
+bab1|Peralatan baru boleh mendekati pesawat setelah…|Semua mesin mati dan ada tanda OK|Pesawat mulai bergerak|Penumpang turun semua|Lampu kabin menyala
+bab1|PBB adalah singkatan dari…|Passenger Boarding Bridge|Power Battery Box|Pallet Belt Bar|Pilot Briefing Board
+bab1|Kendaraan yang mengisi air minum pesawat adalah…|Water service car|Lavatory service car|Trash car|Fueler
+bab1|Kendaraan yang menyedot air kotor toilet pesawat adalah…|Lavatory service car|Water service car|Food loader|Belt loader
+bab1|Kendaraan yang dipasang di roda depan untuk mendorong pesawat adalah…|Traktor tarik (towing/pushback)|Belt loader|High-lift loader|Cabin service car
+bab1|Di monitor informasi, "FLT" berarti…|Nomor penerbangan|Nomor pesawat|Tempat parkir|Jadwal tiba
+bab1|Di monitor informasi, "EQT" berarti…|Nomor pesawat (ship number)|Nomor penerbangan|Bandara tujuan|Berat muatan
+bab1|"STA/STD" di monitor informasi berarti…|Jadwal tiba / jadwal berangkat|Asal / tujuan|Spot / gate|Nomor / berat
+bab1|"SPOT" di monitor informasi berarti…|Tempat parkir pesawat|Nomor kursi|Jumlah penumpang|Kode maskapai
+bab1|Jika pemindahan langsung antar pesawat (機移し) melibatkan maskapai berbeda dan info tidak ada di monitor, petugas harus…|Bertanya ke controller|Menebak sendiri|Membatalkan pemindahan|Bertanya ke penumpang
+bab1|Rencana muat keberangkatan diberikan controller melalui…|Instruction Sheet|Boarding pass|Claim tag|Fuel order
+bab1|Di Instruction Sheet, "POS" berarti…|Posisi muat|Jumlah barang|Berat|Catatan khusus
+bab1|Di Instruction Sheet, "PCS" berarti…|Jumlah barang|Posisi muat|Berat|Nomor ULD
+bab1|Di Instruction Sheet, "WGT" berarti…|Berat|Posisi|Jumlah|Tujuan
+bab1|Di Instruction Sheet, "RMKS" berisi…|Muatan khusus/berbahaya dan muatan sambungan|Nama pilot|Jadwal makan|Nomor kursi
+bab1|ULD adalah singkatan dari…|Unit Load Device|Upper Level Deck|Universal Luggage Dolly|Unit Loading Dock
+bab1|Kode ULD AKE juga dikenal sebagai…|LD-3|LD-46|LD-4|LD-9
+bab1|Kode ULD AKH juga dikenal sebagai…|LD-46|LD-3|LD-4|LD-7
+bab1|Perubahan jumlah air atau rencana muat karena cuaca disebut…|Irregular|Regular|Normal|Standby
+bab2|Ruang kargo yang bisa memuat ULD langsung disebut…|Ruang kontainer|Ruang bulk|Ruang kabin|Ruang galley
+bab2|Di ruang bulk, barang dimuat…|Satu per satu dengan tangan|Dengan ULD utuh|Dengan crane|Dengan pipa
+bab2|Untuk memuat ULD ke ruang kontainer dipakai…|High-lift loader|Belt loader|Trash car|Water car
+bab2|Untuk memuat barang ke ruang bulk dipakai…|Belt loader|High-lift loader|Fueler|GPU
+bab2|Saat traktor menarik dolly berbelok, yang harus diwaspadai adalah…|Dolly bisa mendekat karena gaya sentrifugal|Dolly menjadi lebih ringan|Mesin traktor mati|Ban dolly mengembang
+bab2|Saat menyambung tow bar, yang dilarang adalah…|Menaruh tangan di ujung tow bar|Memakai sarung tangan|Memberi aba-aba|Melihat sekitar
+bab2|Saat dolly dilepas dari traktor, rem dolly harus…|Dikunci penuh|Dilepas|Setengah|Tidak perlu
+bab2|Pallet dolly dipakai untuk palet berukuran maksimal…|96in × 125in|50in × 50in|200in × 300in|10in × 20in
+bab2|Bulk cart juga dipakai untuk membawa…|Hewan hidup|Bahan bakar|Air minum|Penumpang
+bab2|Sebelum menyalakan belt loader, harus dipastikan…|Tidak ada orang di atas atau terlilit sabuk|Sabuk dalam keadaan basah|Tidak ada barang di ruang bulk|Mesin pesawat menyala
+bab2|Saat belt loader berjalan, yang dilarang adalah…|Naik ke atas sabuk|Mengawasi dari samping|Menghentikan jika bahaya|Memakai helm
+bab2|Peralatan untuk kedatangan pesawat harus siap…|10–5 menit sebelum pesawat tiba|Setelah pesawat tiba|1 jam setelah tiba|Saat pesawat lepas landas
+bab2|Isi rapat singkat sebelum kerja antara lain…|Jumlah ULD, muatan khusus, pembagian tugas, keselamatan|Gaji petugas|Cuaca di negara lain|Menu makan
+bab2|Kecepatan towing tractor di sisi pesawat maksimal…|5 km/jam|20 km/jam|40 km/jam|1 km/jam
+bab2|Saat memuat ULD, yang dicocokkan dengan Instruction Sheet adalah…|Nomor ULD dan posisi muat|Warna ULD|Nama pengirim|Harga barang
+bab2|Palet berat di atas dolly harus dipindahkan oleh…|2 orang atau lebih|1 orang|Forklift kecil|Mesin otomatis saja
+bab2|Sebelum traktor melepas dolly, yang harus dicek adalah…|Kunci pintu ULD, tag ULD, stopper dolly, sambungan|Hanya warna dolly|Hanya cuaca|Hanya nomor penerbangan
+bab2|Saat traktor dilepas di dekat pesawat, ia harus bergerak…|Sangat pelan karena dekat mesin pesawat|Secepat mungkin|Mundur cepat|Zig-zag
+bab2|Tentang lewat di bawah sayap pesawat, yang benar adalah…|Pada dasarnya dilarang; bila terpaksa sangat pelan dengan tunjuk-sebut|Bebas lewat kapan saja|Dianjurkan agar cepat|Boleh jika membunyikan klakson
+bab2|Saat memuat bulk, barang diletakkan di tengah sabuk dengan jarak sekitar…|50 cm|5 cm|2 m|Rapat tanpa jarak
+bab2|Untuk barang berat/besar di belt loader, penerima sebaiknya…|Menghentikan sabuk sementara|Membiarkan jatuh|Mempercepat sabuk|Menendang barang
+bab2|Saat angin kencang, barang ringan seperti dokumen diserahkan…|Dengan tangan|Lewat sabuk|Dilempar|Diletakkan di lantai apron
+bab2|Saat hujan, barang yang dimuat harus diberi…|Perlindungan anti-air|Tambahan berat|Label harga|Pendingin
+bab2|Hewan kecil (AVI) sebelum dimuat harus…|Diperiksa kondisinya|Diberi makan banyak|Ditaruh di bawah kargo berat|Dikeluarkan dari kandang
+bab2|Setelah bagasi dimuat, dua petugas…|Menghitung jumlahnya dan menghitung ulang jika tidak cocok|Langsung pulang|Menandatangani tanpa hitung|Menyerahkan ke penumpang
+bab2|Pintu ULD/cart setelah selesai kerja tidak langsung ditutup karena…|Harus dicek beberapa orang agar tidak ada yang tertinggal|Harus dicat dulu|Harus menunggu hujan|Harus didinginkan
+bab2|Saat menyusun muatan, yang benar adalah…|Berat di bawah, mudah pecah di atas|Mudah pecah di bawah|Berat di atas|Acak saja
+bab2|Barang yang melebihi kekuatan lantai kargo harus dilindungi dengan…|Pelat penguat|Kardus tipis|Plastik|Tidak perlu
+bab2|Hasil laut atau barang beku sebelum dimuat harus diberi…|Perlindungan anti-air|Label api|Pemanas|Tambahan es di luar kemasan
+bab2|Barang tidak stabil atau mesin presisi di ruang kargo harus…|Diikat (tie-down) di posisi stabil|Dibiarkan bebas|Ditumpuk paling atas tanpa ikatan|Diletakkan di pintu
+bab2|MCT adalah singkatan dari…|Minimum Connecting Time|Maximum Cargo Ton|Main Control Tower|Mobile Cargo Truck
+bab2|MCT ditentukan oleh…|Tiap bandara/maskapai|Penumpang|Pilot|Petugas kebersihan
+bab2|Setelah pemindahan bagasi sambungan selesai, petugas harus…|Mencocokkan informasi dan segera melapor|Langsung pulang|Menunggu penerbangan berikutnya|Menyimpan bagasi di gudang
+bab3|Jumlah air minum yang diisi ke pesawat ditentukan menurut…|Tujuan, tipe pesawat, tanggal berangkat|Warna pesawat|Jumlah kru kebersihan|Harga tiket
+bab3|Setelah mengisi air, yang harus ditutup adalah…|Valve pengisian dan overflow valve|Pintu kabin|Tangki bahan bakar|Kokpit
+bab3|Kebocoran air dari lubang pengisian berbahaya karena…|Bisa membeku menjadi es di ketinggian|Membuat pesawat lebih ringan|Membuat kabin wangi|Tidak berbahaya
+bab3|Kapasitas tangki water car kira-kira…|4.000 L|400 L|40.000 L|40 L
+bab3|Air minum di pesawat tidak boleh disimpan lebih dari…|1 hari|1 minggu|1 bulan|1 jam
+bab3|Kendaraan yang menguras air minum dari pesawat disebut…|Drain water car (排水車)|Water car (給水車)|Fueler|Trash car
+bab3|Satuan jumlah air pesawat bisa galon atau liter; saat melapor harus…|Memakai satuan yang ditentukan|Memakai satuan apa saja|Selalu galon|Selalu mililiter
+bab3|Urutan lavatory service yang benar adalah…|Keluarkan isi tangki → bilas → isi air + disinfektan|Isi air → keluarkan → bilas|Bilas → isi → keluarkan|Isi disinfektan saja
+bab3|Saat melepas selang lavatory, yang harus dihindari adalah…|Menumpahkan air kotor ke spot|Menutup valve|Memakai sarung tangan|Melapor
+bab3|Kapasitas tangki air kotor lavatory car kira-kira…|2.000 L|200 L|20.000 L|20 L
+bab3|Selang udara pendingin yang terpuntir bisa menyebabkan…|Udara kurang masuk dan kopling pesawat rusak|Udara lebih dingin|Mesin pesawat mati|Tidak ada pengaruh
+bab3|Sebelum mengoperasikan udara pendingin kabin, pastikan…|Pintu pesawat terbuka|Pintu pesawat terkunci|Mesin pesawat menyala|Penumpang sudah naik
+bab3|GPU adalah singkatan dari…|Ground Power Unit|General Passenger Unit|Gas Pump Unit|Ground Parking Unit
+bab3|Memakai GPU dan mematikan APU membantu…|Mengurangi beban lingkungan (dekarbonisasi)|Menambah emisi|Mempercepat pesawat|Mengisi bahan bakar
+bab3|GPU bergerak biasanya memasok listrik…|AC 115 V / 400 Hz|DC 12 V|AC 220 V / 50 Hz|AC 1000 V
+bab3|eGPU adalah GPU yang bertenaga…|Baterai lithium-ion tanpa emisi|Diesel besar|Bensin|Tenaga surya saja
+bab3|Langkah pertama memasang GPU adalah…|Cek tegangan/frekuensi|Langsung colok kabel|Nyalakan saklar|Buka pintu kabin
+bab3|Tanda GPU berhasil tersambung adalah lampu…|CONNECTED dan NOT IN USE menyala|Lampu merah berkedip|Lampu kabin mati|Alarm berbunyi
+bab4|Bagasi yang dititipkan saat check-in diberi…|Claim tag|Boarding pass|Paspor|Instruction Sheet
+bab4|Bagasi disortir di tempat sortir menurut…|Maskapai dan tujuan|Warna koper|Berat saja|Nama penumpang
+bab4|HHT adalah…|Pemindai nirkabel untuk membaca barcode tag bagasi|Traktor kecil|Timbangan bagasi|Alat pemadam
+bab4|Layar HHT menampilkan…|Nomor penerbangan, tujuan, kelas|Harga tiket|Nama pilot|Cuaca
+bab4|Tujuan memeriksa layar HHT secara visual adalah…|Mencegah salah muat|Menghemat baterai|Memotret bagasi|Menghitung gaji
+bab4|Bagasi dengan tag "ペット" harus diletakkan…|Di tempat teduh dan berangin|Di bawah bagasi berat|Di bawah matahari|Di dekat mesin
+bab4|Bagasi dengan tag "重量物" harus ditangani dengan…|Tidak memaksakan diri (bahaya pinggang)|Dilempar|Diangkat satu tangan|Diseret
+bab4|Jumlah bagasi di kontainer dilaporkan kepada petugas…|Weight & Balance|Kebersihan|Bea cukai|Check-in
+bab4|Saat kedatangan, bagasi dikirim ke konveyor dengan memperhatikan…|Prioritas (mis. First Class) dan tag khusus|Warna koper|Urutan abjad nama|Berat terbesar dulu
+bab4|Setelah kedatangan selesai, harus dicek agar tidak ada bagasi tertinggal, termasuk…|Di bawah GSE|Di kokpit|Di landasan pacu|Di toilet penumpang
+bab4|Saat GSE mulai berjalan dekat konveyor kedatangan, pengemudi harus…|Memberi tahu orang di sekitar|Jalan diam-diam|Mempercepat|Membunyikan musik
+bab4|Pesawat kargo bisa membawa…|100 ton lebih|1 ton saja|10 kg|500 ton selalu
+bab4|Prefix nomor kargo 205 adalah milik…|ANA|JAL|Garuda|Singapore Airlines
+bab4|Kontrak angkutan kargo udara sah ketika…|Pengirim menyetujui dan mengajukan angkutan|Pesawat mendarat|Barang dibayar penerima|Kargo dimuat saja
+bab4|Tag "なまもの" dipakai untuk…|Makanan segar dan bunga|Mesin presisi|Kaca|Komponen elektronik
+bab4|Tag "こわれもの" dipakai untuk…|Barang mudah pecah seperti kaca/keramik|Makanan segar|Hewan hidup|Bahan bakar
+bab4|Tag "水濡れ厳禁" berarti…|Lindungi dari air|Jangan dibalik|Batas tumpukan|Barang segar
+bab4|Tag "上積み制限" berarti…|Batas jumlah tumpukan|Jangan terkena air|Hewan hidup|Barang segar
+bab4|Saat forklift bekerja di gudang kargo, jangan mendekat dalam jarak…|1,5 m dari garpu yang bergerak|10 cm|10 m|Tidak ada batas
+bab4|Saat bongkar muat, forklift umumnya bergerak…|Mundur, sehingga jangan berdiri di belakangnya|Maju saja|Ke samping|Melompat
+bab4|Kargo internasional (外国貨物) memerlukan…|Bea cukai (通関)|Tidak perlu dokumen|Pemeriksaan suhu saja|Izin polisi
+bab4|Pengangkutan barang antar kawasan berikat disebut…|保税運送|仮陸揚げ|通関済|国内輸送
+bab5|Pembersihan kabin antara kedatangan dan keberangkatan berikutnya (domestik) disebut…|飛行間作業|飛行後作業|特別作業|国際線作業
+bab5|Pembersihan kabin pada malam hari setelah operasi domestik selesai disebut…|飛行後作業|飛行間作業|特別作業|庫内作業
+bab5|Truk berhatch yang menampung sampah pesawat disebut…|Trash car|Water car|Fueler|Food loader
+bab5|Isi kantong kursi yang dirapikan antara lain…|Majalah, kartu keselamatan, kantong muntah|Uang tunai|Paspor penumpang|Makanan kru
+bab5|Saat membersihkan kabin, selain sampah harus dicek juga…|Barang tertinggal dan barang mencurigakan|Harga tiket|Warna kursi|Nama penumpang
+bab5|Di lavatory pesawat, yang boleh dibuang ke kloset hanya…|Tisu toilet|Sampah plastik|Botol|Popok
+bab5|Pembersihan malam (飛行後) berbeda karena…|Lebih teliti dan memakai disinfektan|Lebih cepat|Tidak membersihkan toilet|Dilakukan penumpang
+bab5|Kartu keselamatan (安全のしおり) di setiap kursi harus…|Sesuai tipe pesawat dengan judul menghadap depan|Boleh tidak ada|Ditaruh terbalik|Hanya di kelas bisnis
+bab5|Jika menemukan barang tertinggal seperti paspor, petugas harus…|Melapor lewat penanggung jawab dan menyebut lokasi temuan|Menyimpannya sendiri|Membuangnya|Memberikannya ke penumpang lain
+bab5|Kendaraan pengangkut makanan ke galley yang memiliki pendingin adalah…|Food loader|Trash car|Belt loader|Fueler
+bab5|Saat memasang cabin service car, lantai bak dinaikkan…|Sedikit di bawah lantai kabin|Sedikit di atas lantai kabin|Sejajar atap pesawat|Setinggi sayap
+bab5|Alasan lantai bak sedikit di bawah lantai kabin adalah…|Pesawat turun saat dimuati sehingga pintu tidak rusak|Agar lebih cepat|Agar mudah melompat|Agar tidak terlihat
+bab5|Setelah kendaraan berhenti di posisi, sebelum bak dinaikkan dikembangkan…|Outrigger|Sayap|Payung|Tangga
+bab5|Perlengkapan wajib hukum (kit obat dll.) harus diletakkan…|Di tempat dan jumlah yang ditentukan|Di mana saja|Dibawa pulang|Di kokpit saja
+bab5|Saat mendorong kereta di lorong sempit pesawat, yang diwaspadai adalah…|Titik buta di posisi rendah|Lampu kabin|Suara mesin|Warna karpet
+bab5|Membawa keluar rokok atau minuman keras dari kabin internasional termasuk…|Penyelundupan (密輸)|Hal biasa|Hadiah|Diizinkan jika sedikit
+bab6|Pengisian bahan bakar pesawat termasuk bagian dari pekerjaan…|Perawatan maskapai|Kebersihan kabin|Layanan penumpang|Bea cukai
+bab6|Pemeriksaan akhir pengisian bahan bakar dilakukan oleh…|Mekanik berlisensi maskapai|Petugas kebersihan|Penumpang|Pilot pesawat lain
+bab6|Truk dengan tangki avtur dan pompa disebut…|Fueler|Servicer|Water car|GPU
+bab6|Truk tanpa tangki yang dipakai pada sistem hydrant disebut…|Servicer|Fueler|Trash car|Belt loader
+bab6|Pesawat pada umumnya tidak diisi bahan bakar penuh karena…|Berat bertambah sehingga konsumsi naik|Tangki bisa pecah|Bahan bakar mahal saja|Dilarang hukum
+bab6|Fuel order dihitung dari bahan bakar untuk…|Bandara tujuan + bandara alternatif + cadangan|Hanya bandara tujuan|Hanya cadangan|Sesuai keinginan pilot
+bab6|Sistem pengisian yang memakai pipa bawah tanah ke tiap spot disebut…|Sistem hydrant|Sistem fueler|Sistem drum|Sistem manual
+bab6|Sistem fueler banyak dipakai di…|Sebagian besar bandara daerah|Hanya bandara internasional besar|Kapal|Stasiun kereta
+bab6|Sebelum mengisi bahan bakar, dipasang arde anti-statis antara…|Tanah, fueler, dan pesawat|Pesawat dan penumpang|Fueler dan gedung|Tidak perlu arde
+bab6|Pengisian bahan bakar dimulai setelah…|Penumpang selesai turun dan kualitas BBM dicek|Penumpang naik semua|Pesawat lepas landas|Kru makan
+bab6|Tiga hal terpenting dalam pengisian bahan bakar adalah…|Cek kualitas, keselamatan, isi sesuai fuel order dengan tepat|Cepat, murah, banyak|Warna, bau, suhu|Penuh, panas, bersih
+bab6|Pada sistem hydrant, unit yang menghubungkan hydrant pit dan servicer adalah…|Intake unit|Delivery unit|Belt|Outrigger
+bab7|Pada check-in penerbangan internasional, yang dicek adalah…|Tiket, paspor, visa/otorisasi perjalanan elektronik|Hanya tiket|Hanya KTP|Kartu kredit saja
+bab7|Pada check-in penerbangan domestik, yang dicek adalah…|Tiket dan tanda pengenal|Paspor dan visa|Surat dokter|Tidak ada
+bab7|Boarding pass berisi antara lain…|Nama, jam, tujuan, nomor penerbangan, gate, kursi|Gaji penumpang|Alamat rumah|Nomor paspor kru
+bab7|Saat menerima bagasi tercatat, petugas menanyakan…|Ada tidaknya barang berbahaya|Isi dompet|Pekerjaan penumpang|Agama penumpang
+bab7|Jika bagasi melebihi aturan berat/ukuran, maka…|Ditarik biaya kelebihan|Dibuang|Diterima gratis|Dikirim kapal laut
+bab7|Barang terlarang di kabin seperti pisau dan gunting sebaiknya…|Dimasukkan ke bagasi tercatat|Dibawa ke kabin|Diberikan ke kru|Disembunyikan di saku
+bab7|SBD adalah…|Self Bag Drop (penumpang menaruh sendiri bagasi)|Special Baggage Desk|Security Body Detector|Standard Boarding Door
+bab7|Sebelum boarding, staf gate melakukan briefing dengan…|Awak kabin|Pilot pesawat lain|Penumpang|Bea cukai
+bab7|Pengumuman boarding prioritas biasanya dalam bahasa…|Jepang dan Inggris|Hanya Jepang|Hanya Indonesia|Tanpa pengumuman
+bab7|Tanpa scanner, kupon boarding pass dipotong yang disebut…|もぎり|ヨーシ|オフロード|ドアクローズ
+bab7|Jika penumpang yang sudah check-in tidak ditemukan saat boarding, bagasinya…|Diturunkan dari pesawat (offload)|Tetap diterbangkan|Dibuka isinya|Diberikan ke penumpang lain
+bab7|Penumpang yang mabuk dan membahayakan boleh…|Ditolak naik demi keselamatan|Diberi kursi prioritas|Duduk di kokpit|Naik tanpa pemeriksaan
+bab7|Setelah semua penumpang naik, petugas melapor jumlah akhir lalu…|Door close|Membuka pintu lagi|Memanggil penumpang lain|Menurunkan bagasi
+bab7|MCT dipengaruhi oleh…|Jarak pindah, jenis prosedur, kombinasi maskapai|Warna pesawat|Jumlah pilot|Harga tiket
+bab7|Penumpang yang termasuk sasaran special assistance antara lain…|Pengguna kursi roda, ibu hamil, anak bepergian sendiri|Hanya kelas bisnis|Hanya kru|Hanya penumpang transit
+bab7|Untuk penumpang dengan masalah medis, yang dicek adalah…|Surat keterangan dokter (layak terbang)|Kartu kredit|Nomor kursi teman|Ukuran koper
+bab7|Untuk kursi roda listrik, yang perlu dicek lebih dulu adalah…|Ukuran kursi roda dan jenis baterai|Warna kursi roda|Merk kursi roda|Umur kursi roda
+bab7|Kode bandara 3 huruf CGK adalah…|Jakarta Soekarno-Hatta|Kuala Lumpur|Bangkok|Hanoi
+bab7|Kode bandara 3 huruf KUL adalah…|Kuala Lumpur|Kolkata|Kunming|Kyoto
+bab7|Kode bandara 3 huruf BKK adalah…|Bangkok|Busan|Beijing|Bali
+bab7|Kode bandara 3 huruf ICN adalah…|Seoul Incheon|Istanbul|Ibaraki|Incheon kargo saja
+bab7|Kode bandara 3 huruf LHR adalah…|London Heathrow|Los Angeles|Lahore|Lima
+bab7|Kode bandara 3 huruf CDG adalah…|Paris Charles de Gaulle|Chicago|Chengdu|Copenhagen
+bab7|Kode bandara 3 huruf SGN adalah…|Ho Chi Minh|Singapura|Seoul|Shanghai
+bab7|Kode bandara 3 huruf MNL adalah…|Manila|Milan|Minneapolis|Melbourne
+bab7|Kode bandara 3 huruf DAC adalah…|Dhaka|Dakar|Dallas|Delhi
+bab7|Kode bandara 3 huruf HAN adalah…|Hanoi|Haneda|Hamburg|Hangzhou
+bab7|Kode bandara 3 huruf LAX adalah…|Los Angeles|Las Vegas|Lagos|London
+bab7|Kode bandara 3 huruf SIN adalah…|Singapura|Sendai|Shenzhen|Seoul
+bab7|Kode bandara dan maskapai dipakai di…|Tag bagasi, tag kargo, dan monitor informasi|Hanya tiket|Hanya paspor|Hanya pesawat
+bab8|Arti keselamatan maskapai yang paling utama adalah…|Tidak terjadi kecelakaan, penumpang dan kargo tiba selamat|Pesawat tiba lebih cepat|Tiket murah|Kabin mewah
+bab8|Di area terlarang (制限区域), yang selalu diprioritaskan adalah…|Pesawat|Kendaraan GSE|Pejalan kaki|Truk kargo
+bab8|Alasan pesawat diprioritaskan antara lain…|Geraknya tidak lincah dan jarak pandang buruk|Pesawat paling cepat di darat|Pesawat bisa berhenti seketika|Pilot bisa melihat semua sisi
+bab8|Pada B777-200, rintangan di tanah baru terlihat dari kokpit jika berada lebih dari…|±15 m di depan|1 m di depan|100 m di depan|Di bawah hidung
+bab8|Taksiran celah ujung sayap dari kokpit bisa meleset sekitar…|3 m|30 cm|30 m|Tidak pernah meleset
+bab8|Saat pesawat taxi tanpa marshaller, di depannya tidak boleh ada rintangan dalam jarak…|40 m|4 m|400 m|10 m
+bab8|Petugas yang mengawasi dan memandu pesawat dengan isyarat seperti "all clear" disebut…|Watchman|Fueler|Controller|Loader
+bab8|Salah satu tanda pesawat akan berangkat adalah…|Anti-collision light menyala|Pintu kargo terbuka|Water car terpasang|Trash car datang
+bab8|Tanda pesawat akan berangkat juga termasuk…|Chock (ganjal roda) dilepas|Belt loader dipasang|Penumpang turun|Lampu kabin mati
+bab8|Lampu ujung sayap pesawat: kanan berwarna…|Hijau|Merah|Putih|Kuning
+bab8|Lampu ujung sayap pesawat: kiri berwarna…|Merah|Hijau|Biru|Kuning
+bab8|Bahaya blast (semburan mesin jet) adalah…|Suhu tinggi dan kecepatan angin|Bau saja|Suara pelan|Tidak berbahaya
+bab8|Angin blast 25 m/s setara dengan…|Topan, bisa menerbangkan orang|Angin sepoi|Hujan ringan|Kipas angin
+bab8|Jika topi terbang ke dekat depan mesin yang menyala, petugas harus…|Jangan sekali-kali mengambilnya|Segera mengambilnya|Melempar sesuatu ke mesin|Berlari ke depan mesin
+bab8|Zona bahaya intake (INLET) pada B777-200 idle berjari-jari sekitar…|15 ft (4,6 m)|150 ft|1 ft|500 ft
+bab8|Zona bahaya exhaust B777-200 idle minimum mencapai sekitar…|175 ft (53,4 m) ke belakang|5 ft|1.000 ft|10 m ke depan
+bab8|Membawa bahan peledak dan senjata ke pesawat…|Dilarang hukum (kecuali pengecualian)|Boleh jika dibungkus|Boleh untuk kru|Boleh di kargo saja
+bab8|Kelebihan berat pesawat menyebabkan…|Jarak lepas landas bertambah dan konsumsi BBM naik|Pesawat lebih cepat|BBM lebih hemat|Jarak tempuh bertambah
+bab8|Kewajiban memastikan berat pesawat akurat diatur oleh…|Peraturan pelaksana UU Penerbangan|Aturan bandara saja|Keinginan pilot|Asosiasi penumpang
+bab8|Saat angin lawan kuat dan perlu BBM ekstra, kadang…|Penumpang harus dikurangi|Bagasi ditambah|Kecepatan dinaikkan|Pintu dibuka
+bab8|Berat total pesawat = berat kosong ditambah…|Muatan (peralatan, kru, BBM, air, penumpang, bagasi, kargo)|Hanya penumpang|Hanya BBM|Tidak ada tambahan
+bab8|Jika jumlah penumpang check-in dan yang naik tidak cocok, maka…|Ditangani sesuai aturan keamanan|Diabaikan|Pesawat langsung terbang|Penumpang dihitung ulang besok
+bab8|Jika menemukan zat kimia mencurigakan saat bersih-bersih kabin, petugas harus…|Segera lapor penanggung jawab|Membawanya pulang|Membuangnya ke kloset|Menyimpannya di saku
+bab8|Kartu ID standar di area terlarang harus…|Terlihat jelas dan ditunjukkan bila diminta|Disimpan di tas|Dipinjamkan ke teman|Dipakai di luar bandara
+bab8|Helm di ramp wajib dipakai saat…|Memuat atau menurunkan muatan|Makan siang|Rapat di kantor|Pulang kerja
+bab8|Pekerja ramp yang terpapar bising keras wajib memakai…|Sumbat telinga atau earmuff|Kacamata hitam|Masker|Sarung tangan tebal
+bab8|Kancing dan tali sepatu harus rapi agar…|Tidak tergulung ban berjalan atau tersangkut|Terlihat cantik|Tidak dingin|Lebih cepat lari
+bab8|Jika ada perintah menghentikan pekerjaan karena cuaca buruk, petugas harus…|Mengungsi ke tempat aman|Melanjutkan kerja|Berdiri di dekat pesawat|Naik ke sayap
+bab8|Untuk mencegah heatstroke di ramp, petugas sebaiknya…|Minum air dan garam sedikit-sedikit, istirahat cukup|Bekerja tanpa istirahat|Tidak minum agar tidak ke toilet|Melepas helm
+bab8|Pengemudi di area terlarang harus…|Lulus pelatihan dan ujian, izin tertera di kartu ID|Cukup punya SIM biasa|Tidak perlu izin|Hanya karyawan lama
+bab8|Saat kendaraan berjalan, mengoperasikan naik-turun platform kerja…|Dilarang|Dianjurkan|Boleh jika pelan|Wajib
+bab8|Membawa pekerja di garpu forklift atau kereta kargo…|Dilarang|Boleh jika dekat|Boleh jika pakai helm|Dianjurkan
+bab8|Posisi pemandu kendaraan yang benar adalah…|Terlihat pengemudi dan di tempat aman, bukan tepat di belakang saat mundur|Tepat di belakang kendaraan mundur|Di bawah pesawat|Di dalam kendaraan
+bab8|Pemanduan kendaraan dilakukan dengan…|Kedua tangan dan suara/peluit|Satu jari saja|Lampu senter saja|Tanpa isyarat
+bab8|Jarak minimal kendaraan dengan baling-baling/mesin jet di pintu kargo depan narrow-body adalah…|1 m|10 cm|10 m|Tidak ada batas
+bab8|Tiga tolok ukur kualitas transportasi udara adalah…|Keselamatan, ketepatan waktu, kenyamanan|Harga, kecepatan, ukuran|Warna, logo, iklan|Makanan, minuman, hiburan
+bab8|Sikap dasar bekerja di ramp yang benar adalah…|Cepat, pasti, teliti|Lambat dan santai|Cepat tanpa cek|Bercanda di depan penumpang
+bab8|Di depan penumpang, petugas ramp sebaiknya…|Menjaga ucapan dan tidak kasar pada bagasi|Berteriak memberi aba-aba candaan|Melempar bagasi|Duduk di kendaraan
+bab8|Setelah selesai kerja, petugas harus…|Memeriksa sendiri hasil kerja secara objektif|Langsung pulang|Menyerahkan ke penumpang|Tidak perlu cek
+bab8|Laporan kesalahan yang nyaris menjadi kecelakaan disebut…|Hiyari-hatto report|Accident report|Fuel order|Instruction Sheet
+bab8|Kesalahan sering tidak dilaporkan karena…|Malu atau takut dihukum|Terlalu mudah|Tidak ada kertas|Dilarang melapor
+bab8|Agar hiyari-hatto mudah dilaporkan, perlu…|Umpan balik dan suasana kerja terbuka|Hukuman berat|Larangan bicara|Rapat rahasia
+bab8|Saat tunjuk-panggil (指差呼称) di ramp, petugas berseru…|ヨーシ！ (Yoshi!)|ハイ！|ダメ！|オーライ！
+bab8|ERA (Equipment Restraint Area) adalah area yang…|Dilarang dimasuki kendaraan saat pesawat masuk/keluar spot|Tempat menunggu kendaraan|Tempat parkir bebas|Tempat makan
+bab8|ESA (Equipment Staging Area) adalah…|Tempat menunggu kendaraan dan peralatan|Area larangan total|Landasan pacu|Gedung terminal
+bab8|ESA boleh dipakai mulai…|30 menit sebelum pesawat spot-in|3 jam sebelum|Kapan saja|Setelah pesawat berangkat
+bab8|Di area kerja PBB, parkir kendaraan atau peralatan…|Dilarang total|Diperbolehkan|Hanya malam|Hanya untuk fueler
+bab8|Denda pelanggaran pengangkutan barang berbahaya menurut UU Penerbangan bisa mencapai…|500.000 yen|5.000 yen|50 juta yen|Tidak ada denda
+bab8|Contoh barang yang sering melanggar aturan barang berbahaya adalah…|Power bank dan kaleng semprot|Buku dan pakaian|Sepatu|Makanan kering
+bab8|Tiga poin aturan pengangkutan barang berbahaya adalah…|Dokumen deklarasi, label, kemasan|Harga, berat, warna|Tiket, paspor, visa|Nama, alamat, telepon
+bab8|Barang berbahaya dibagi menjadi berapa kelas?|9 kelas|3 kelas|5 kelas|12 kelas
+bab8|Baterai lithium, es kering, dan magnet termasuk kelas…|9 (barang berbahaya lain)|1 (bahan peledak)|7 (radioaktif)|3 (cairan mudah menyala)
+bab8|Cairan mudah menyala (kelas 3) adalah cairan dengan titik nyala…|≤ 60 ℃|≥ 200 ℃|Tepat 100 ℃|Di bawah −50 ℃
+bab8|Hairspray dan tabung oksigen termasuk kelas…|2 (gas bertekanan)|8 (korosif)|6 (racun)|4 (zat mudah terbakar)
+bab8|Asam sulfat dan aki timbal termasuk kelas…|8 (korosif)|2 (gas)|5 (pengoksidasi)|9 (lain-lain)
+bab8|Jika label atau kemasan barang berbahaya tidak lengkap, pengangkut harus…|Bertanya ke pengirim|Mengirim saja|Membuang barang|Membuka dan memperbaiki sendiri
+bab8|Bensin yang boleh dibawa di pesawat penumpang maksimal…|5 liter|50 liter|500 ml|Tidak terbatas
