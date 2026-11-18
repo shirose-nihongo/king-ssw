@@ -1,1 +1,1874 @@
-{"items": [{"id": "ls-001", "kata": "リネンサプライ", "kana": "りねんさぷらい", "romaji": "rinensapurai", "arti": "laundry linen (penyedia linen)", "cat": "Gambaran Bidang & Ujian", "bab": "bab1", "src": ["b1s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-002", "kata": "特定技能", "kana": "とくていぎのう", "romaji": "tokuteiginou", "arti": "keterampilan khusus (SSW)", "cat": "Gambaran Bidang & Ujian", "bab": "bab1", "src": ["b1s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-003", "kata": "評価試験", "kana": "ひょうかしけん", "romaji": "hyoukashiken", "arti": "ujian evaluasi", "cat": "Gambaran Bidang & Ujian", "bab": "bab1", "src": ["b1s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-004", "kata": "初級", "kana": "しょきゅう", "romaji": "shokyuu", "arti": "tingkat dasar", "cat": "Gambaran Bidang & Ujian", "bab": "bab1", "src": ["b1s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-005", "kata": "専門級", "kana": "せんもんきゅう", "romaji": "senmonkyuu", "arti": "tingkat spesialis", "cat": "Gambaran Bidang & Ujian", "bab": "bab1", "src": ["b1s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-006", "kata": "学科試験", "kana": "がっかしけん", "romaji": "gakkashiken", "arti": "ujian tulis", "cat": "Gambaran Bidang & Ujian", "bab": "bab1", "src": ["b1s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-007", "kata": "実技試験", "kana": "じつぎしけん", "romaji": "jitsugishiken", "arti": "ujian praktik", "cat": "Gambaran Bidang & Ujian", "bab": "bab1", "src": ["b1s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-008", "kata": "入荷", "kana": "にゅうか", "romaji": "nyuuka", "arti": "barang masuk", "cat": "Gambaran Bidang & Ujian", "bab": "bab1", "src": ["b1s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-009", "kata": "出荷", "kana": "しゅっか", "romaji": "shukka", "arti": "pengiriman", "cat": "Gambaran Bidang & Ujian", "bab": "bab1", "src": ["b1s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-010", "kata": "直接雇用", "kana": "ちょくせつこよう", "romaji": "chokusetsukoyou", "arti": "rekrut langsung", "cat": "Gambaran Bidang & Ujian", "bab": "bab1", "src": ["b1s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-011", "kata": "仕上げ作業", "kana": "しあげさぎょう", "romaji": "shiagesagyou", "arti": "pekerjaan finishing", "cat": "Gambaran Bidang & Ujian", "bab": "bab1", "src": ["b1s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-012", "kata": "スプレッダーフィーダー", "kana": "すぷれっだーふぃーだー", "romaji": "supureddaafuぃぃdaa", "arti": "mesin pengumpan lembaran", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-013", "kata": "投入機", "kana": "とうにゅうき", "romaji": "tounyuuki", "arti": "mesin pengumpan", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-014", "kata": "ロールアイロナー", "kana": "ろーるあいろなー", "romaji": "rooruaironaa", "arti": "setrika rol", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-015", "kata": "チェストロール機", "kana": "ちぇすとろーるき", "romaji": "chiぇsutorooruki", "arti": "chest roller", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-016", "kata": "カレンダーロール機", "kana": "かれんだーろーるき", "romaji": "karendaarooruki", "arti": "calender roller", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-017", "kata": "タオルフォルダー", "kana": "たおるふぉるだー", "romaji": "taorufuぉrudaa", "arti": "mesin lipat handuk", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-018", "kata": "畳み機", "kana": "たたみき", "romaji": "tatamiki", "arti": "mesin lipat", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-019", "kata": "トンネルフィニッシャー", "kana": "とんねるふぃにっしゃー", "romaji": "tonnerufuぃnisshaa", "arti": "tunnel finisher", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-020", "kata": "スタッカー", "kana": "すたっかー", "romaji": "sutakkaa", "arti": "mesin penumpuk", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-021", "kata": "検品装置", "kana": "けんぴんそうち", "romaji": "kenpinsouchi", "arti": "alat inspeksi", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-022", "kata": "金属探知機", "kana": "きんぞくたんちき", "romaji": "kinzokutanchiki", "arti": "detektor logam", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-023", "kata": "検針装置", "kana": "けんしんそうち", "romaji": "kenshinsouchi", "arti": "detektor jarum", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-024", "kata": "結束機", "kana": "けっそくき", "romaji": "kessokuki", "arti": "mesin pengikat", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-025", "kata": "包装機", "kana": "ほうそうき", "romaji": "housouki", "arti": "mesin pembungkus", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-026", "kata": "非常停止", "kana": "ひじょうていし", "romaji": "hijouteishi", "arti": "berhenti darurat", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-027", "kata": "ワックス布", "kana": "わっくすぬの", "romaji": "wakkusununo", "arti": "kain lilin", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-028", "kata": "メニュー設定", "kana": "めにゅーせってい", "romaji": "menyuusettei", "arti": "pengaturan menu program", "cat": "Mesin & Operasinya", "bab": "bab2", "src": ["b2s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-029", "kata": "シーツ", "kana": "しーつ", "romaji": "shiitsu", "arti": "seprai", "cat": "Pengetahuan Linen", "bab": "bab3", "src": ["b3s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-030", "kata": "デュベカバー", "kana": "でゅべかばー", "romaji": "dyubekabaa", "arti": "sarung selimut duvet", "cat": "Pengetahuan Linen", "bab": "bab3", "src": ["b3s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-031", "kata": "包布", "kana": "くるみふ", "romaji": "kurumifu", "arti": "sarung selimut", "cat": "Pengetahuan Linen", "bab": "bab3", "src": ["b3s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-032", "kata": "ピローケース", "kana": "ぴろーけーす", "romaji": "pirookeesu", "arti": "sarung bantal", "cat": "Pengetahuan Linen", "bab": "bab3", "src": ["b3s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-033", "kata": "浴衣", "kana": "ゆかた", "romaji": "yukata", "arti": "yukata", "cat": "Pengetahuan Linen", "bab": "bab3", "src": ["b3s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-034", "kata": "ガウン", "kana": "がうん", "romaji": "gaun", "arti": "gaun/jubah", "cat": "Pengetahuan Linen", "bab": "bab3", "src": ["b3s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-035", "kata": "館内着", "kana": "かんないぎ", "romaji": "kannaigi", "arti": "pakaian dalam hotel", "cat": "Pengetahuan Linen", "bab": "bab3", "src": ["b3s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-036", "kata": "テーブルクロス", "kana": "てーぶるくろす", "romaji": "teeburukurosu", "arti": "taplak meja", "cat": "Pengetahuan Linen", "bab": "bab3", "src": ["b3s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-037", "kata": "ナプキン", "kana": "なぷきん", "romaji": "napukin", "arti": "serbet", "cat": "Pengetahuan Linen", "bab": "bab3", "src": ["b3s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-038", "kata": "厨房白衣", "kana": "ちゅうぼうはくい", "romaji": "chuubouhakui", "arti": "jas putih dapur", "cat": "Pengetahuan Linen", "bab": "bab3", "src": ["b3s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-039", "kata": "病衣", "kana": "びょうい", "romaji": "byoui", "arti": "pakaian pasien", "cat": "Pengetahuan Linen", "bab": "bab3", "src": ["b3s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-040", "kata": "ドローシーツ", "kana": "どろーしーつ", "romaji": "dorooshiitsu", "arti": "draw sheet", "cat": "Pengetahuan Linen", "bab": "bab3", "src": ["b3s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-041", "kata": "ポリエステル", "kana": "ぽりえすてる", "romaji": "poriesuteru", "arti": "poliester", "cat": "Pengetahuan Linen", "bab": "bab3", "src": ["b3s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-042", "kata": "静電気", "kana": "せいでんき", "romaji": "seidenki", "arti": "listrik statis", "cat": "Pengetahuan Linen", "bab": "bab3", "src": ["b3s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-043", "kata": "機械投入", "kana": "きかいとうにゅう", "romaji": "kikaitounyuu", "arti": "memasukkan ke mesin", "cat": "Pekerjaan Finishing & Perawatan Mesin", "bab": "bab4", "src": ["b4s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-044", "kata": "検品", "kana": "けんぴん", "romaji": "kenpin", "arti": "inspeksi barang", "cat": "Pekerjaan Finishing & Perawatan Mesin", "bab": "bab4", "src": ["b4s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-045", "kata": "結束", "kana": "けっそく", "romaji": "kessoku", "arti": "mengikat", "cat": "Pekerjaan Finishing & Perawatan Mesin", "bab": "bab4", "src": ["b4s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-046", "kata": "包装", "kana": "ほうそう", "romaji": "housou", "arti": "membungkus", "cat": "Pekerjaan Finishing & Perawatan Mesin", "bab": "bab4", "src": ["b4s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-047", "kata": "不具合", "kana": "ふぐあい", "romaji": "fuguai", "arti": "cacat / ketidaksesuaian", "cat": "Pekerjaan Finishing & Perawatan Mesin", "bab": "bab4", "src": ["b4s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-048", "kata": "ライン管理", "kana": "らいんかんり", "romaji": "rainkanri", "arti": "pengelolaan lini", "cat": "Pekerjaan Finishing & Perawatan Mesin", "bab": "bab4", "src": ["b4s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-049", "kata": "チョコ停", "kana": "ちょこてい", "romaji": "chokotei", "arti": "berhenti sebentar (bisa pulih cepat)", "cat": "Pekerjaan Finishing & Perawatan Mesin", "bab": "bab4", "src": ["b4s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-050", "kata": "ベルト", "kana": "べると", "romaji": "beruto", "arti": "sabuk", "cat": "Pekerjaan Finishing & Perawatan Mesin", "bab": "bab4", "src": ["b4s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-051", "kata": "ガイドテープ", "kana": "がいどてーぷ", "romaji": "gaidoteepu", "arti": "pita pemandu", "cat": "Pekerjaan Finishing & Perawatan Mesin", "bab": "bab4", "src": ["b4s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-052", "kata": "クランプ", "kana": "くらんぷ", "romaji": "kuranpu", "arti": "penjepit", "cat": "Pekerjaan Finishing & Perawatan Mesin", "bab": "bab4", "src": ["b4s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-053", "kata": "異音", "kana": "いおん", "romaji": "ion", "arti": "bunyi tidak normal", "cat": "Pekerjaan Finishing & Perawatan Mesin", "bab": "bab4", "src": ["b4s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-054", "kata": "安全衛生", "kana": "あんぜんえいせい", "romaji": "anzeneisei", "arti": "keselamatan & kesehatan kerja", "cat": "Keselamatan & Kesehatan Kerja", "bab": "bab5", "src": ["b5s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-055", "kata": "保護具", "kana": "ほごぐ", "romaji": "hogogu", "arti": "APD", "cat": "Keselamatan & Kesehatan Kerja", "bab": "bab5", "src": ["b5s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-056", "kata": "応急措置", "kana": "おうきゅうそち", "romaji": "oukyuusochi", "arti": "pertolongan pertama", "cat": "Keselamatan & Kesehatan Kerja", "bab": "bab5", "src": ["b5s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-057", "kata": "整理", "kana": "せいり", "romaji": "seiri", "arti": "seiri", "cat": "Keselamatan & Kesehatan Kerja", "bab": "bab5", "src": ["b5s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-058", "kata": "整頓", "kana": "せいとん", "romaji": "seiton", "arti": "seiton", "cat": "Keselamatan & Kesehatan Kerja", "bab": "bab5", "src": ["b5s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-059", "kata": "清掃", "kana": "せいそう", "romaji": "seisou", "arti": "seisou", "cat": "Keselamatan & Kesehatan Kerja", "bab": "bab5", "src": ["b5s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-060", "kata": "清潔", "kana": "せいけつ", "romaji": "seiketsu", "arti": "seiketsu", "cat": "Keselamatan & Kesehatan Kerja", "bab": "bab5", "src": ["b5s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-061", "kata": "躾", "kana": "しつけ", "romaji": "shitsuke", "arti": "disiplin", "cat": "Keselamatan & Kesehatan Kerja", "bab": "bab5", "src": ["b5s1"], "contoh": "", "arti_contoh": "", "fungsi": "", "status_validasi": "perlu review ahli", "sumber": "JLSA 試験基準・学科サンプル"}, {"id": "ls-062", "kata": "学科", "kana": "がっか", "arti": "Ujian tulis", "cat": "Kosakata dari teks materi", "bab": "bab1", "src": [], "sumber": "panen-teks", "asal_arti": "teks bidang"}, {"id": "ls-063", "kata": "実技", "kana": "じつぎ", "arti": "ujian praktik", "cat": "Kosakata dari teks materi", "bab": "bab1", "src": [], "sumber": "panen-teks", "asal_arti": "teks bidang"}, {"id": "ls-064", "kata": "技能実習評価試験", "kana": "ぎのうじっしゅうひょうかしけん", "arti": "ujian lama", "cat": "Kosakata dari teks materi", "bab": "bab1", "src": [], "sumber": "panen-teks", "asal_arti": "teks bidang"}, {"id": "ls-065", "kata": "事由別分類", "kana": "じゆうべつぶんるい", "arti": "klasifikasi menurut penyebab", "cat": "Kosakata dari teks materi", "bab": "bab4", "src": [], "sumber": "panen-teks", "asal_arti": "terjemahan Shirose"}, {"id": "ls-066", "kata": "日本リネンサプライ協会", "kana": "にほんりねんさぷらいきょうかい", "arti": "Asosiasi Linen Supply Jepang", "cat": "Kosakata dari teks materi", "bab": "bab1", "src": [], "sumber": "panen-teks", "asal_arti": "terjemahan Shirose"}, {"id": "ls-067", "kata": "病院寝具", "kana": "びょういんしんぐ", "arti": "perlengkapan tidur rumah sakit", "cat": "Kosakata dari teks materi", "bab": "bab3", "src": [], "sumber": "panen-teks", "asal_arti": "terjemahan Shirose"}, {"id": "ls-068", "kata": "試験基準", "kana": "しけんきじゅん", "arti": "standar ujian", "cat": "Kosakata dari teks materi", "bab": "bab5", "src": [], "sumber": "panen-teks", "asal_arti": "terjemahan Shirose"}]}
+{
+ "items": [
+  {
+   "id": "ls-001",
+   "kata": "リネンサプライ",
+   "kana": "りねんさぷらい",
+   "romaji": "rinensapurai",
+   "arti": "laundry linen (penyedia linen)",
+   "cat": "Gambaran Bidang & Ujian",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-002",
+   "kata": "特定技能",
+   "kana": "とくていぎのう",
+   "romaji": "tokuteiginou",
+   "arti": "keterampilan khusus (SSW)",
+   "cat": "Gambaran Bidang & Ujian",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-003",
+   "kata": "評価試験",
+   "kana": "ひょうかしけん",
+   "romaji": "hyoukashiken",
+   "arti": "ujian evaluasi",
+   "cat": "Gambaran Bidang & Ujian",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-004",
+   "kata": "初級",
+   "kana": "しょきゅう",
+   "romaji": "shokyuu",
+   "arti": "tingkat dasar",
+   "cat": "Gambaran Bidang & Ujian",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-005",
+   "kata": "専門級",
+   "kana": "せんもんきゅう",
+   "romaji": "senmonkyuu",
+   "arti": "tingkat spesialis",
+   "cat": "Gambaran Bidang & Ujian",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-006",
+   "kata": "学科試験",
+   "kana": "がっかしけん",
+   "romaji": "gakkashiken",
+   "arti": "ujian tulis",
+   "cat": "Gambaran Bidang & Ujian",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-007",
+   "kata": "実技試験",
+   "kana": "じつぎしけん",
+   "romaji": "jitsugishiken",
+   "arti": "ujian praktik",
+   "cat": "Gambaran Bidang & Ujian",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-008",
+   "kata": "入荷",
+   "kana": "にゅうか",
+   "romaji": "nyuuka",
+   "arti": "barang masuk",
+   "cat": "Gambaran Bidang & Ujian",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-009",
+   "kata": "出荷",
+   "kana": "しゅっか",
+   "romaji": "shukka",
+   "arti": "pengiriman",
+   "cat": "Gambaran Bidang & Ujian",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-010",
+   "kata": "直接雇用",
+   "kana": "ちょくせつこよう",
+   "romaji": "chokusetsukoyou",
+   "arti": "rekrut langsung",
+   "cat": "Gambaran Bidang & Ujian",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-011",
+   "kata": "仕上げ作業",
+   "kana": "しあげさぎょう",
+   "romaji": "shiagesagyou",
+   "arti": "pekerjaan finishing",
+   "cat": "Gambaran Bidang & Ujian",
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-012",
+   "kata": "スプレッダーフィーダー",
+   "kana": "すぷれっだーふぃーだー",
+   "romaji": "supureddaafuぃぃdaa",
+   "arti": "mesin pengumpan lembaran",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-013",
+   "kata": "投入機",
+   "kana": "とうにゅうき",
+   "romaji": "tounyuuki",
+   "arti": "mesin pengumpan",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-014",
+   "kata": "ロールアイロナー",
+   "kana": "ろーるあいろなー",
+   "romaji": "rooruaironaa",
+   "arti": "setrika rol",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-015",
+   "kata": "チェストロール機",
+   "kana": "ちぇすとろーるき",
+   "romaji": "chiぇsutorooruki",
+   "arti": "chest roller",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-016",
+   "kata": "カレンダーロール機",
+   "kana": "かれんだーろーるき",
+   "romaji": "karendaarooruki",
+   "arti": "calender roller",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-017",
+   "kata": "タオルフォルダー",
+   "kana": "たおるふぉるだー",
+   "romaji": "taorufuぉrudaa",
+   "arti": "mesin lipat handuk",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-018",
+   "kata": "畳み機",
+   "kana": "たたみき",
+   "romaji": "tatamiki",
+   "arti": "mesin lipat",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-019",
+   "kata": "トンネルフィニッシャー",
+   "kana": "とんねるふぃにっしゃー",
+   "romaji": "tonnerufuぃnisshaa",
+   "arti": "tunnel finisher",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-020",
+   "kata": "スタッカー",
+   "kana": "すたっかー",
+   "romaji": "sutakkaa",
+   "arti": "mesin penumpuk",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-021",
+   "kata": "検品装置",
+   "kana": "けんぴんそうち",
+   "romaji": "kenpinsouchi",
+   "arti": "alat inspeksi",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-022",
+   "kata": "金属探知機",
+   "kana": "きんぞくたんちき",
+   "romaji": "kinzokutanchiki",
+   "arti": "detektor logam",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-023",
+   "kata": "検針装置",
+   "kana": "けんしんそうち",
+   "romaji": "kenshinsouchi",
+   "arti": "detektor jarum",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-024",
+   "kata": "結束機",
+   "kana": "けっそくき",
+   "romaji": "kessokuki",
+   "arti": "mesin pengikat",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-025",
+   "kata": "包装機",
+   "kana": "ほうそうき",
+   "romaji": "housouki",
+   "arti": "mesin pembungkus",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-026",
+   "kata": "非常停止",
+   "kana": "ひじょうていし",
+   "romaji": "hijouteishi",
+   "arti": "berhenti darurat",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-027",
+   "kata": "ワックス布",
+   "kana": "わっくすぬの",
+   "romaji": "wakkusununo",
+   "arti": "kain lilin",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-028",
+   "kata": "メニュー設定",
+   "kana": "めにゅーせってい",
+   "romaji": "menyuusettei",
+   "arti": "pengaturan menu program",
+   "cat": "Mesin & Operasinya",
+   "bab": "bab2",
+   "src": [
+    "b2s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-029",
+   "kata": "シーツ",
+   "kana": "しーつ",
+   "romaji": "shiitsu",
+   "arti": "seprai",
+   "cat": "Pengetahuan Linen",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-030",
+   "kata": "デュベカバー",
+   "kana": "でゅべかばー",
+   "romaji": "dyubekabaa",
+   "arti": "sarung selimut duvet",
+   "cat": "Pengetahuan Linen",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-031",
+   "kata": "包布",
+   "kana": "くるみふ",
+   "romaji": "kurumifu",
+   "arti": "sarung selimut",
+   "cat": "Pengetahuan Linen",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-032",
+   "kata": "ピローケース",
+   "kana": "ぴろーけーす",
+   "romaji": "pirookeesu",
+   "arti": "sarung bantal",
+   "cat": "Pengetahuan Linen",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-033",
+   "kata": "浴衣",
+   "kana": "ゆかた",
+   "romaji": "yukata",
+   "arti": "yukata",
+   "cat": "Pengetahuan Linen",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-034",
+   "kata": "ガウン",
+   "kana": "がうん",
+   "romaji": "gaun",
+   "arti": "gaun/jubah",
+   "cat": "Pengetahuan Linen",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-035",
+   "kata": "館内着",
+   "kana": "かんないぎ",
+   "romaji": "kannaigi",
+   "arti": "pakaian dalam hotel",
+   "cat": "Pengetahuan Linen",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-036",
+   "kata": "テーブルクロス",
+   "kana": "てーぶるくろす",
+   "romaji": "teeburukurosu",
+   "arti": "taplak meja",
+   "cat": "Pengetahuan Linen",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-037",
+   "kata": "ナプキン",
+   "kana": "なぷきん",
+   "romaji": "napukin",
+   "arti": "serbet",
+   "cat": "Pengetahuan Linen",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-038",
+   "kata": "厨房白衣",
+   "kana": "ちゅうぼうはくい",
+   "romaji": "chuubouhakui",
+   "arti": "jas putih dapur",
+   "cat": "Pengetahuan Linen",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-039",
+   "kata": "病衣",
+   "kana": "びょうい",
+   "romaji": "byoui",
+   "arti": "pakaian pasien",
+   "cat": "Pengetahuan Linen",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-040",
+   "kata": "ドローシーツ",
+   "kana": "どろーしーつ",
+   "romaji": "dorooshiitsu",
+   "arti": "draw sheet",
+   "cat": "Pengetahuan Linen",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-041",
+   "kata": "ポリエステル",
+   "kana": "ぽりえすてる",
+   "romaji": "poriesuteru",
+   "arti": "poliester",
+   "cat": "Pengetahuan Linen",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-042",
+   "kata": "静電気",
+   "kana": "せいでんき",
+   "romaji": "seidenki",
+   "arti": "listrik statis",
+   "cat": "Pengetahuan Linen",
+   "bab": "bab3",
+   "src": [
+    "b3s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-043",
+   "kata": "機械投入",
+   "kana": "きかいとうにゅう",
+   "romaji": "kikaitounyuu",
+   "arti": "memasukkan ke mesin",
+   "cat": "Pekerjaan Finishing & Perawatan Mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-044",
+   "kata": "検品",
+   "kana": "けんぴん",
+   "romaji": "kenpin",
+   "arti": "inspeksi barang",
+   "cat": "Pekerjaan Finishing & Perawatan Mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-045",
+   "kata": "結束",
+   "kana": "けっそく",
+   "romaji": "kessoku",
+   "arti": "mengikat",
+   "cat": "Pekerjaan Finishing & Perawatan Mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-046",
+   "kata": "包装",
+   "kana": "ほうそう",
+   "romaji": "housou",
+   "arti": "membungkus",
+   "cat": "Pekerjaan Finishing & Perawatan Mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-047",
+   "kata": "不具合",
+   "kana": "ふぐあい",
+   "romaji": "fuguai",
+   "arti": "cacat / ketidaksesuaian",
+   "cat": "Pekerjaan Finishing & Perawatan Mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-048",
+   "kata": "ライン管理",
+   "kana": "らいんかんり",
+   "romaji": "rainkanri",
+   "arti": "pengelolaan lini",
+   "cat": "Pekerjaan Finishing & Perawatan Mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-049",
+   "kata": "チョコ停",
+   "kana": "ちょこてい",
+   "romaji": "chokotei",
+   "arti": "berhenti sebentar (bisa pulih cepat)",
+   "cat": "Pekerjaan Finishing & Perawatan Mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-050",
+   "kata": "ベルト",
+   "kana": "べると",
+   "romaji": "beruto",
+   "arti": "sabuk",
+   "cat": "Pekerjaan Finishing & Perawatan Mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-051",
+   "kata": "ガイドテープ",
+   "kana": "がいどてーぷ",
+   "romaji": "gaidoteepu",
+   "arti": "pita pemandu",
+   "cat": "Pekerjaan Finishing & Perawatan Mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-052",
+   "kata": "クランプ",
+   "kana": "くらんぷ",
+   "romaji": "kuranpu",
+   "arti": "penjepit",
+   "cat": "Pekerjaan Finishing & Perawatan Mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-053",
+   "kata": "異音",
+   "kana": "いおん",
+   "romaji": "ion",
+   "arti": "bunyi tidak normal",
+   "cat": "Pekerjaan Finishing & Perawatan Mesin",
+   "bab": "bab4",
+   "src": [
+    "b4s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-054",
+   "kata": "安全衛生",
+   "kana": "あんぜんえいせい",
+   "romaji": "anzeneisei",
+   "arti": "keselamatan & kesehatan kerja",
+   "cat": "Keselamatan & Kesehatan Kerja",
+   "bab": "bab5",
+   "src": [
+    "b5s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-055",
+   "kata": "保護具",
+   "kana": "ほごぐ",
+   "romaji": "hogogu",
+   "arti": "APD",
+   "cat": "Keselamatan & Kesehatan Kerja",
+   "bab": "bab5",
+   "src": [
+    "b5s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-056",
+   "kata": "応急措置",
+   "kana": "おうきゅうそち",
+   "romaji": "oukyuusochi",
+   "arti": "pertolongan pertama",
+   "cat": "Keselamatan & Kesehatan Kerja",
+   "bab": "bab5",
+   "src": [
+    "b5s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-057",
+   "kata": "整理",
+   "kana": "せいり",
+   "romaji": "seiri",
+   "arti": "seiri",
+   "cat": "Keselamatan & Kesehatan Kerja",
+   "bab": "bab5",
+   "src": [
+    "b5s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-058",
+   "kata": "整頓",
+   "kana": "せいとん",
+   "romaji": "seiton",
+   "arti": "seiton",
+   "cat": "Keselamatan & Kesehatan Kerja",
+   "bab": "bab5",
+   "src": [
+    "b5s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-059",
+   "kata": "清掃",
+   "kana": "せいそう",
+   "romaji": "seisou",
+   "arti": "seisou",
+   "cat": "Keselamatan & Kesehatan Kerja",
+   "bab": "bab5",
+   "src": [
+    "b5s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-060",
+   "kata": "清潔",
+   "kana": "せいけつ",
+   "romaji": "seiketsu",
+   "arti": "seiketsu",
+   "cat": "Keselamatan & Kesehatan Kerja",
+   "bab": "bab5",
+   "src": [
+    "b5s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-061",
+   "kata": "躾",
+   "kana": "しつけ",
+   "romaji": "shitsuke",
+   "arti": "disiplin",
+   "cat": "Keselamatan & Kesehatan Kerja",
+   "bab": "bab5",
+   "src": [
+    "b5s1"
+   ],
+   "contoh": "",
+   "arti_contoh": "",
+   "fungsi": "",
+   "status_validasi": "perlu review ahli",
+   "sumber": "JLSA 試験基準・学科サンプル"
+  },
+  {
+   "id": "ls-261",
+   "kata": "学科",
+   "kana": "がっか",
+   "arti": "Ujian tulis",
+   "cat": "Kosakata dari teks materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-teks",
+   "asal_arti": "teks bidang"
+  },
+  {
+   "id": "ls-262",
+   "kata": "実技",
+   "kana": "じつぎ",
+   "arti": "ujian praktik",
+   "cat": "Kosakata dari teks materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-teks",
+   "asal_arti": "teks bidang"
+  },
+  {
+   "id": "ls-263",
+   "kata": "技能実習評価試験",
+   "kana": "ぎのうじっしゅうひょうかしけん",
+   "arti": "ujian lama",
+   "cat": "Kosakata dari teks materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-teks",
+   "asal_arti": "teks bidang"
+  },
+  {
+   "id": "ls-264",
+   "kata": "事由別分類",
+   "kana": "じゆうべつぶんるい",
+   "arti": "klasifikasi menurut penyebab",
+   "cat": "Kosakata dari teks materi",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "panen-teks",
+   "asal_arti": "terjemahan Shirose"
+  },
+  {
+   "id": "ls-265",
+   "kata": "日本リネンサプライ協会",
+   "kana": "にほんりねんさぷらいきょうかい",
+   "arti": "Asosiasi Linen Supply Jepang",
+   "cat": "Kosakata dari teks materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-teks",
+   "asal_arti": "terjemahan Shirose"
+  },
+  {
+   "id": "ls-266",
+   "kata": "病院寝具",
+   "kana": "びょういんしんぐ",
+   "arti": "perlengkapan tidur rumah sakit",
+   "cat": "Kosakata dari teks materi",
+   "bab": "bab3",
+   "src": [],
+   "sumber": "panen-teks",
+   "asal_arti": "terjemahan Shirose"
+  },
+  {
+   "id": "ls-267",
+   "kata": "試験基準",
+   "kana": "しけんきじゅん",
+   "arti": "standar ujian",
+   "cat": "Kosakata dari teks materi",
+   "bab": "bab5",
+   "src": [],
+   "sumber": "panen-teks",
+   "asal_arti": "terjemahan Shirose"
+  },
+  {
+   "id": "ls-268",
+   "kata": "一般的",
+   "kana": "いっぱんてき",
+   "arti": "umum; populer",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-269",
+   "kata": "上記",
+   "kana": "じょうき",
+   "arti": "di atas yang disebutkan; di atas bernama; di atas",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-270",
+   "kata": "不合格者",
+   "kana": "ふごうかくしゃ",
+   "arti": "yang tidak lulus",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-271",
+   "kata": "不良",
+   "kana": "ふりょう",
+   "arti": "buruk; miskin; inferior",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-272",
+   "kata": "乾燥",
+   "kana": "かんそう",
+   "arti": "pengeringan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-273",
+   "kata": "予防",
+   "kana": "よぼう",
+   "arti": "pencegahan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-274",
+   "kata": "事項",
+   "kana": "じこう",
+   "arti": "hal; butir ketentuan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-275",
+   "kata": "仕上",
+   "kana": "しあ",
+   "arti": "menyelesaikan; finishing",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-276",
+   "kata": "令和",
+   "kana": "れいわ",
+   "arti": "Reiwa (era)",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-277",
+   "kata": "作業",
+   "kana": "さぎょう",
+   "arti": "pekerjaan; tugas; proses kerja",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-278",
+   "kata": "作業者",
+   "kana": "さぎょうしゃ",
+   "arti": "pekerja",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-279",
+   "kata": "作業開始前",
+   "kana": "さぎょうかいしまえ",
+   "arti": "sebelum mulai kerja",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-280",
+   "kata": "使用",
+   "kana": "しよう",
+   "arti": "penggunaan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-281",
+   "kata": "分類",
+   "kana": "ぶんるい",
+   "arti": "pengelompokan; klasifikasi",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-282",
+   "kata": "初歩的",
+   "kana": "しょほてき",
+   "arti": "dasar; awal",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-283",
+   "kata": "動作",
+   "kana": "どうさ",
+   "arti": "gerakan, bekerja (mesin)",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-284",
+   "kata": "受検",
+   "kana": "じゅけん",
+   "arti": "mengikuti ujian (pemeriksaan)",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-285",
+   "kata": "可動",
+   "kana": "かどう",
+   "arti": "dapat bergerak",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-286",
+   "kata": "各種",
+   "kana": "かくしゅ",
+   "arti": "semuanya; segala macam",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-287",
+   "kata": "合格者",
+   "kana": "ごうかくしゃ",
+   "arti": "Peserta lulus",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-288",
+   "kata": "回数",
+   "kana": "かいすう",
+   "arti": "jumlah kali",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-289",
+   "kata": "圧力",
+   "kana": "あつりょく",
+   "arti": "tekanan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-290",
+   "kata": "基本的",
+   "kana": "きほんてき",
+   "arti": "bersifat dasar",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-291",
+   "kata": "基礎的",
+   "kana": "きそてき",
+   "arti": "dasar; fundamental",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-292",
+   "kata": "安全標識",
+   "kana": "あんぜんひょうしき",
+   "arti": "rambu keselamatan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-293",
+   "kata": "安全確認",
+   "kana": "あんぜんかくにん",
+   "arti": "pemeriksaan keselamatan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-294",
+   "kata": "安全衛生教育",
+   "kana": "あんぜんえいせいきょういく",
+   "arti": "pendidikan keselamatan dan kesehatan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-295",
+   "kata": "安全装置",
+   "kana": "あんぜんそうち",
+   "arti": "alat pengaman",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-296",
+   "kata": "寝具",
+   "kana": "しんぐ",
+   "arti": "perlengkapan tidur",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-297",
+   "kata": "希望",
+   "kana": "きぼう",
+   "arti": "Harapan; keinginan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-298",
+   "kata": "年度",
+   "kana": "ねんど",
+   "arti": "tahun ajaran; tahun fiskal",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-299",
+   "kata": "得点",
+   "kana": "とくてん",
+   "arti": "skor; poin",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-300",
+   "kata": "技能",
+   "kana": "ぎのう",
+   "arti": "keterampilan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-301",
+   "kata": "技能者",
+   "kana": "ぎのうしゃ",
+   "arti": "tenaga terampil",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-302",
+   "kata": "投入",
+   "kana": "とうにゅう",
+   "arti": "melempar; memasukkan; menyetor",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-303",
+   "kata": "指導",
+   "kana": "しどう",
+   "arti": "bimbingan; petunjuk",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-304",
+   "kata": "振動",
+   "kana": "しんどう",
+   "arti": "getaran",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-305",
+   "kata": "操作",
+   "kana": "そうさ",
+   "arti": "pengoperasian",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-306",
+   "kata": "業務",
+   "kana": "ぎょうむ",
+   "arti": "pekerjaan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-307",
+   "kata": "機械",
+   "kana": "きかい",
+   "arti": "mesin",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-308",
+   "kata": "正確",
+   "kana": "せいかく",
+   "arti": "tepat; benar",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-309",
+   "kata": "災害",
+   "kana": "さいがい",
+   "arti": "Bencana",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-310",
+   "kata": "熱風",
+   "kana": "ねっぷう",
+   "arti": "angin panas",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-311",
+   "kata": "特徴",
+   "kana": "とくちょう",
+   "arti": "Ciri-ciri",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-312",
+   "kata": "用途",
+   "kana": "ようと",
+   "arti": "Tujuan penggunaan; Kegunaan; fungsi dari suatu barang atau kegiatan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-313",
+   "kata": "番号",
+   "kana": "ばんごう",
+   "arti": "nomor; serangkaian digit",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-314",
+   "kata": "異常",
+   "kana": "いじょう",
+   "arti": "ketidaknormalan; penyimpangan dari norma; anomali",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-315",
+   "kata": "発生",
+   "kana": "はっせい",
+   "arti": "terjadi; muncul; terbentuk (terkait dengan suatu kejadian atau peristiwa",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-316",
+   "kata": "知識",
+   "kana": "ちしき",
+   "arti": "pengetahuan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-317",
+   "kata": "確認",
+   "kana": "かくにん",
+   "arti": "pengecekan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-318",
+   "kata": "種類",
+   "kana": "しゅるい",
+   "arti": "jenis",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-319",
+   "kata": "羽毛布団",
+   "kana": "うもうふとん",
+   "arti": "Selimut bulu",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-320",
+   "kata": "職種",
+   "kana": "しょくしゅ",
+   "arti": "jenis pekerjaan; profesi",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-321",
+   "kata": "蒸気",
+   "kana": "じょうき",
+   "arti": "uap",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-322",
+   "kata": "衛生",
+   "kana": "えいせい",
+   "arti": "Kesehatan; kebersihan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-323",
+   "kata": "装置",
+   "kana": "そうち",
+   "arti": "perangkat; alat",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-324",
+   "kata": "試験",
+   "kana": "しけん",
+   "arti": "ujian",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-325",
+   "kata": "詳細",
+   "kana": "しょうさい",
+   "arti": "detail; keterangan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-326",
+   "kata": "通常",
+   "kana": "つうじょう",
+   "arti": "biasanya; umumnya; secara umum; dalam keadaan normal",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-327",
+   "kata": "連続式",
+   "kana": "れんぞくしき",
+   "arti": "tipe kontinu",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-328",
+   "kata": "遂行",
+   "kana": "すいこう",
+   "arti": "pelaksanaan; menjalankan",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-329",
+   "kata": "遵守",
+   "kana": "じゅんしゅ",
+   "arti": "mematuhi",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
+   "asal_kata": "PDF bidang"
+  },
+  {
+   "id": "ls-330",
+   "kata": "部分",
+   "kana": "ぶぶん",
+   "arti": "bagian",
+   "cat": "Kosakata dari teks/PDF materi",
+   "bab": "bab1",
+   "src": [],
+   "sumber": "panen-pdf",
+   "asal_arti": "kamus website",
+   "asal_kata": "PDF bidang"
+  }
+ ]
+}
