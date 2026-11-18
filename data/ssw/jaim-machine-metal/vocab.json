@@ -1319,6 +1319,2506 @@
    "src": [
     "b10s15"
    ]
+  },
+  {
+   "id": "jaim-machine-metal-111",
+   "kata": "安全衛生",
+   "kana": "あんぜんえいせい",
+   "arti": "Keselamatan dan Kesehatan Kerja",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-112",
+   "kata": "作業",
+   "kana": "さぎょう",
+   "arti": "Pekerjaan / Proses Kerja",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-113",
+   "kata": "危険",
+   "kana": "きけん",
+   "arti": "Bahaya",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-114",
+   "kata": "危険予知訓練",
+   "kana": "きけんよちくんれん",
+   "arti": "Pelatihan Prediksi Bahaya",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-115",
+   "kata": "感電",
+   "kana": "かんでん",
+   "arti": "Sengatan Listrik",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-116",
+   "kata": "作業中",
+   "kana": "さぎょうちゅう",
+   "arti": "Saat Bekerja",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-117",
+   "kata": "保護眼鏡",
+   "kana": "ほごめがね",
+   "arti": "Kacamata Pelindung",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-118",
+   "kata": "配電盤",
+   "kana": "はいでんばん",
+   "arti": "Panel Distribusi Listrik",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-119",
+   "kata": "法令",
+   "kana": "ほうれい",
+   "arti": "Hukum dan Peraturan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-120",
+   "kata": "図記号",
+   "kana": "ずきごう",
+   "arti": "Simbol Gambar (Piktogram)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-121",
+   "kata": "日本産業規格",
+   "kana": "にほんさんぎょうきかく",
+   "arti": "Standar Industri Jepang",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-122",
+   "kata": "上り段差に注意",
+   "kana": "のぼりだんさにちゅうい",
+   "arti": "Hati-hati Tangga Naik / Hati-hati Ada Langkah",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-123",
+   "kata": "さわるな",
+   "kana": "さわるな",
+   "arti": "Jangan Sentuh",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-124",
+   "kata": "フォークリフト",
+   "kana": "フォークリフト",
+   "arti": "Forklift",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-125",
+   "kata": "運転",
+   "kana": "うんてん",
+   "arti": "Mengemudi / Mengoperasikan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-126",
+   "kata": "点検",
+   "kana": "てんけん",
+   "arti": "Inspeksi / Pengecekan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-127",
+   "kata": "Kanji / Katakana",
+   "kana": "Hiragana",
+   "arti": "Arti dalam Bahasa Indonesia",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-128",
+   "kata": "不具合",
+   "kana": "ふぐあい",
+   "arti": "Ketidaksesuaian / Cacat / Masalah Kualitas",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-129",
+   "kata": "稼働率",
+   "kana": "かどうりつ",
+   "arti": "Tingkat Utilisasi / Tingkat Operasi (Waktu Operasi Nyata / Total Waktu Produksi)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-130",
+   "kata": "パレート図",
+   "kana": "パレートず",
+   "arti": "Diagram Pareto",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-131",
+   "kata": "PDCAサイクル",
+   "kana": "PDCAサイクル",
+   "arti": "Siklus PDCA (Plan, Do, Check, Action/Improve)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-132",
+   "kata": "計画",
+   "kana": "けいかく",
+   "arti": "Perencanaan (Plan)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-133",
+   "kata": "実行",
+   "kana": "じっこう",
+   "arti": "Pelaksanaan (Do)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-134",
+   "kata": "評価",
+   "kana": "ひょうか",
+   "arti": "Evaluasi / Pengecekan (Check)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-135",
+   "kata": "改善",
+   "kana": "かいぜん",
+   "arti": "Peningkatan / Perbaikan (Action/Improve)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-136",
+   "kata": "5S",
+   "kana": "5S",
+   "arti": "5S (Seiri, Seiton, Seisou, Seiketsu, Shitsuke)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-137",
+   "kata": "整理",
+   "kana": "せいり",
+   "arti": "Pemilahan (Sort)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-138",
+   "kata": "整頓",
+   "kana": "せいとん",
+   "arti": "Penataan (Set in Order)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-139",
+   "kata": "清掃",
+   "kana": "せいそう",
+   "arti": "Pembersihan (Shine)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-140",
+   "kata": "清潔",
+   "kana": "せいけつ",
+   "arti": "Standarisasi (Standardize)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-141",
+   "kata": "しつけ",
+   "kana": "しつけ",
+   "arti": "Disiplin (Sustain)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-142",
+   "kata": "抜取検査",
+   "kana": "ぬきとりけんさ",
+   "arti": "Pemeriksaan Sampel",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-143",
+   "kata": "検査",
+   "kana": "けんさ",
+   "arti": "Inspeksi / Pemeriksaan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-144",
+   "kata": "測定",
+   "kana": "そくてい",
+   "arti": "Pengukuran",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-145",
+   "kata": "水準器",
+   "kana": "すいじゅんき",
+   "arti": "Waterpass / Alat Pengukur Kedataran",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-146",
+   "kata": "デプスゲージ",
+   "kana": "デプスゲージ",
+   "arti": "Depth Gauge (Alat ukur kedalaman)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-147",
+   "kata": "最小読取値",
+   "kana": "さいしょうよみとりち",
+   "arti": "Nilai Pembacaan Terkecil",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-148",
+   "kata": "ロックウェルCスケール硬さ試験",
+   "kana": "ロックウェルCスケールかたさしけん",
+   "arti": "Uji Kekerasan Rockwell Skala C (dinyatakan dengan HRC)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-149",
+   "kata": "リングゲージ",
+   "kana": "リングゲージ",
+   "arti": "Ring Gauge (Alat ukur standar lubang)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-150",
+   "kata": "シリンダーゲージ",
+   "kana": "シリンダーゲージ",
+   "arti": "Cylinder Gauge (Alat ukur diameter dalam)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-151",
+   "kata": "内径",
+   "kana": "ないけい",
+   "arti": "Diameter Dalam",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-152",
+   "kata": "目盛",
+   "kana": "めもり",
+   "arti": "Skala / Garis Tanda pada Alat Ukur",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-153",
+   "kata": "読み取り",
+   "kana": "よみとり",
+   "arti": "Pembacaan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-154",
+   "kata": "機械工作法",
+   "kana": "きかいこうさくほう",
+   "arti": "Metode Pemesinan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-155",
+   "kata": "機械",
+   "kana": "きかい",
+   "arti": "Mesin",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-156",
+   "kata": "器具",
+   "kana": "きぐ",
+   "arti": "Peralatan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-157",
+   "kata": "ボール盤",
+   "kana": "ボールばん",
+   "arti": "Mesin Bor (Drilling Machine)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-158",
+   "kata": "穴あけ加工",
+   "kana": "あなあけかこう",
+   "arti": "Proses Pengeboran",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-159",
+   "kata": "フライス盤",
+   "kana": "フライスばん",
+   "arti": "Mesin Frais (Milling Machine)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-160",
+   "kata": "切削",
+   "kana": "せっさく",
+   "arti": "Pemotongan / Penggerindaan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-161",
+   "kata": "切りくず",
+   "kana": "きりくず",
+   "arti": "Serpihan / Chip (sisa pemotongan)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-162",
+   "kata": "ボルト",
+   "kana": "ボルト",
+   "arti": "Baut",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-163",
+   "kata": "トルク",
+   "kana": "トルク",
+   "arti": "Torsi",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-164",
+   "kata": "下塗り",
+   "kana": "したぬり",
+   "arti": "Pengecatan Dasar",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-165",
+   "kata": "中塗り",
+   "kana": "なかぬり",
+   "arti": "Pengecatan Lapisan Tengah",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-166",
+   "kata": "上塗り",
+   "kana": "うわぬり",
+   "arti": "Pengecatan Akhir",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-167",
+   "kata": "製図",
+   "kana": "せいず",
+   "arti": "Gambar Teknik (Drafting)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-168",
+   "kata": "機械製図",
+   "kana": "きかいせいず",
+   "arti": "Gambar Teknik Mesin",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-169",
+   "kata": "寸法公差",
+   "kana": "すんぽうこうさ",
+   "arti": "Toleransi Dimensi / Toleransi Ukuran",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-170",
+   "kata": "軸",
+   "kana": "じく",
+   "arti": "Poros / As",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-171",
+   "kata": "はめあい公差",
+   "kana": "はめあいこうさ",
+   "arti": "Toleransi Suaian / Toleransi Fitting",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-172",
+   "kata": "投影図",
+   "kana": "とうえいず",
+   "arti": "Gambar Proyeksi",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-173",
+   "kata": "等角図",
+   "kana": "とうかくず",
+   "arti": "Gambar Isometrik",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-174",
+   "kata": "平面図",
+   "kana": "へいめんず",
+   "arti": "Tampak Atas (Top View)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-175",
+   "kata": "側面図",
+   "kana": "そくめんず",
+   "arti": "Tampak Samping (Side View)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-176",
+   "kata": "製造分野全般",
+   "kana": "せいぞうぶんやぜんぱん",
+   "arti": "Bidang Manufaktur Secara Keseluruhan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-177",
+   "kata": "一般教養",
+   "kana": "いっぱんきょうよう",
+   "arti": "Pengetahuan Umum",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-178",
+   "kata": "材料",
+   "kana": "ざいりょう",
+   "arti": "Material / Bahan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-179",
+   "kata": "水素",
+   "kana": "すいそ",
+   "arti": "Hidrogen",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-180",
+   "kata": "酸素",
+   "kana": "さんそ",
+   "arti": "Oksigen",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-181",
+   "kata": "水溶液",
+   "kana": "すいようえき",
+   "arti": "Larutan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-182",
+   "kata": "酸性",
+   "kana": "さんせい",
+   "arti": "Bersifat Asam",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-183",
+   "kata": "職場の環境",
+   "kana": "しょくばのかんきょう",
+   "arti": "Lingkungan Kerja",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-184",
+   "kata": "信頼",
+   "kana": "しんらい",
+   "arti": "Kepercayaan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-185",
+   "kata": "学科",
+   "kana": "がっか",
+   "arti": "Ujian Teori / Akademik",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-186",
+   "kata": "実技",
+   "kana": "じつぎ",
+   "arti": "Ujian Praktik / Keterampilan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-187",
+   "kata": "問題",
+   "kana": "もんだい",
+   "arti": "Soal",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-188",
+   "kata": "正答",
+   "kana": "せいとう",
+   "arti": "Jawaban Benar",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-189",
+   "kata": "選択肢",
+   "kana": "せんたくし",
+   "arti": "Pilihan Jawaban / Opsi",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-190",
+   "kata": "製造部門",
+   "kana": "せいぞうぶもん",
+   "arti": "Divisi Manufaktur/Produksi",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-191",
+   "kata": "技能実習評価試験",
+   "kana": "ぎのうじっしゅうひょうかしけん",
+   "arti": "Ujian Evaluasi Keterampilan Praktik",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-192",
+   "kata": "詳細",
+   "kana": "しょうさい",
+   "arti": "Rinci/Detail",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-193",
+   "kata": "回答と解説",
+   "kana": "かいとうとかいせつ",
+   "arti": "Jawaban dan Penjelasan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-194",
+   "kata": "学科試験",
+   "kana": "がっかしけん",
+   "arti": "Ujian Teori",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-195",
+   "kata": "基礎知識",
+   "kana": "きそちしき",
+   "arti": "Pengetahuan Dasar",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-196",
+   "kata": "職場",
+   "kana": "しょくば",
+   "arti": "Tempat Kerja",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-197",
+   "kata": "安全",
+   "kana": "あんぜん",
+   "arti": "Keselamatan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-198",
+   "kata": "優先度",
+   "kana": "ゆうせんど",
+   "arti": "Prioritas",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-199",
+   "kata": "最優先",
+   "kana": "さいゆうせん",
+   "arti": "Prioritas Utama",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-200",
+   "kata": "生産効率",
+   "kana": "せいさんこうりつ",
+   "arti": "Efisiensi Produksi",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-201",
+   "kata": "機械設備",
+   "kana": "きかいせつび",
+   "arti": "Peralatan Mesin",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-202",
+   "kata": "対策",
+   "kana": "たいさく",
+   "arti": "Tindakan/Langkah Pencegahan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-203",
+   "kata": "必須な措置",
+   "kana": "ひっすなそち",
+   "arti": "Tindakan yang Wajib",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-204",
+   "kata": "インターロック",
+   "kana": "インターロック",
+   "arti": "Interlock (Mekanisme Pengaman)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-205",
+   "kata": "ガードの設置",
+   "kana": "ガードのせっち",
+   "arti": "Pemasangan Pelindung (Guard)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-206",
+   "kata": "作業服",
+   "kana": "さぎょうふく",
+   "arti": "Pakaian Kerja",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-207",
+   "kata": "着用",
+   "kana": "ちゃくよう",
+   "arti": "Penggunaan/Pemakaian",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-208",
+   "kata": "皮膚を保護する",
+   "kana": "ひふをほごする",
+   "arti": "Melindungi Kulit",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-209",
+   "kata": "長袖長ズボン",
+   "kana": "ながそでながズボン",
+   "arti": "Lengan Panjang dan Celana Panjang",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-210",
+   "kata": "工場内",
+   "kana": "こうじょうない",
+   "arti": "Di Dalam Pabrik",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-211",
+   "kata": "足元",
+   "kana": "あしもと",
+   "arti": "Kaki/Area Kaki",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-212",
+   "kata": "安全靴",
+   "kana": "あんぜんぐつ",
+   "arti": "Sepatu Keselamatan (Safety Shoes)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-213",
+   "kata": "標識",
+   "kana": "ひょうしき",
+   "arti": "Rambu/Markah",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-214",
+   "kata": "立入り禁止",
+   "kana": "たちいりきんし",
+   "arti": "Dilarang Masuk/Akses Terlarang",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-215",
+   "kata": "危険予知トレーニング",
+   "kana": "きけんよちトレーニング",
+   "arti": "Pelatihan Prediksi Bahaya",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-216",
+   "kata": "3Rの概念",
+   "kana": "3Rのがいねん",
+   "arti": "Konsep 3R",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-217",
+   "kata": "含まれる要素",
+   "kana": "ふくまれるようそ",
+   "arti": "Elemen yang Termasuk",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-218",
+   "kata": "削減",
+   "kana": "さくげん",
+   "arti": "Pengurangan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-219",
+   "kata": "再利用",
+   "kana": "さいりよう",
+   "arti": "Penggunaan Kembali",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-220",
+   "kata": "リサイクル",
+   "kana": "リサイクル",
+   "arti": "Daur Ulang",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-221",
+   "kata": "拒否",
+   "kana": "きょひ",
+   "arti": "Penolakan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-222",
+   "kata": "塩素",
+   "kana": "えんそ",
+   "arti": "Klorin (Cl)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-223",
+   "kata": "元素記号",
+   "kana": "げんそきごう",
+   "arti": "Simbol Unsur",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-224",
+   "kata": "火災",
+   "kana": "かさい",
+   "arti": "Kebakaran",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-225",
+   "kata": "燃焼",
+   "kana": "ねんしょう",
+   "arti": "Pembakaran",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-226",
+   "kata": "引火",
+   "kana": "いんか",
+   "arti": "Titik Nyala",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-227",
+   "kata": "発火",
+   "kana": "はっか",
+   "arti": "Swabakar/Pembakaran Otomatis",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-228",
+   "kata": "地球温暖化",
+   "kana": "ちきゅうおんだんか",
+   "arti": "Pemanasan Global",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-229",
+   "kata": "主要な原因",
+   "kana": "しゅようなげんいん",
+   "arti": "Penyebab Utama",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-230",
+   "kata": "二酸化炭素",
+   "kana": "にさんかたんそ",
+   "arti": "Karbon Dioksida",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-231",
+   "kata": "資源保護",
+   "kana": "しげんほご",
+   "arti": "Konservasi Sumber Daya",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-232",
+   "kata": "悪影響を及ぼす",
+   "kana": "あくえいきょうをおよぼす",
+   "arti": "Memberi Dampak Buruk",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-233",
+   "kata": "略",
+   "kana": "りゃく",
+   "arti": "Singkatan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-234",
+   "kata": "正式名称",
+   "kana": "せいしきめいしょう",
+   "arti": "Nama Resmi",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-235",
+   "kata": "RPF",
+   "kana": "RPF",
+   "arti": "Refuse derived paper and plastics densified Fuel",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-236",
+   "kata": "発熱量",
+   "kana": "はつねつりょう",
+   "arti": "Nilai Kalori (Calorific Value)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-237",
+   "kata": "一般石炭",
+   "kana": "いっぱんせきたん",
+   "arti": "Batu Bara Biasa",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-238",
+   "kata": "原料",
+   "kana": "げんりょう",
+   "arti": "Bahan Baku",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-239",
+   "kata": "不適なもの",
+   "kana": "ふてきなもの",
+   "arti": "Hal yang Tidak Cocok",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-240",
+   "kata": "塩化ビニル",
+   "kana": "えんかビニル",
+   "arti": "Polyvinyl Chloride (PVC)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-241",
+   "kata": "腐食",
+   "kana": "ふしょく",
+   "arti": "Korosi",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-242",
+   "kata": "金属片",
+   "kana": "きんぞくへん",
+   "arti": "Pecahan Logam",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-243",
+   "kata": "混入",
+   "kana": "こんにゅう",
+   "arti": "Pencampuran/Kontaminasi",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-244",
+   "kata": "破砕機",
+   "kana": "はさいき",
+   "arti": "Mesin Penghancur (Shredder)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-245",
+   "kata": "刃",
+   "kana": "は",
+   "arti": "Pisau/Mata Pisau",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-246",
+   "kata": "損傷",
+   "kana": "そんしょう",
+   "arti": "Kerusakan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-247",
+   "kata": "除去",
+   "kana": "じょきょ",
+   "arti": "Penghilangan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-248",
+   "kata": "混合廃棄物",
+   "kana": "こんごうはいきぶつ",
+   "arti": "Limbah Campuran",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-249",
+   "kata": "受け入れる",
+   "kana": "うけいれる",
+   "arti": "Menerima",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-250",
+   "kata": "選別",
+   "kana": "せんべつ",
+   "arti": "Pemilahan/Sortir",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-251",
+   "kata": "積み込みや運搬",
+   "kana": "つみこみやうんぱん",
+   "arti": "Pemuatan dan Pengangkutan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-252",
+   "kata": "定量供給機",
+   "kana": "ていりょうきょうきゅうき",
+   "arti": "Dosing Feeder",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-253",
+   "kata": "成形機",
+   "kana": "せいけいき",
+   "arti": "Mesin Pencetak (Pelletizer)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-254",
+   "kata": "労働基準法",
+   "kana": "ろうどうきじゅんほう",
+   "arti": "UU Standar Ketenagakerjaan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-255",
+   "kata": "労働条件の最低限度",
+   "kana": "ろうどうじょうけんのさいていげんど",
+   "arti": "Batas Minimum Kondisi Kerja",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-256",
+   "kata": "専門知識",
+   "kana": "せんもんちしき",
+   "arti": "Pengetahuan Khusus",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-257",
+   "kata": "保管方法",
+   "kana": "ほかんほうほう",
+   "arti": "Metode Penyimpanan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-258",
+   "kata": "自然発火",
+   "kana": "しぜんはっか",
+   "arti": "Swabakar (Spontaneous Combustion)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-259",
+   "kata": "風通しの良い場所",
+   "kana": "かぜとおしのよいばしょ",
+   "arti": "Tempat yang Berventilasi Baik",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-260",
+   "kata": "冷却",
+   "kana": "れいきゃく",
+   "arti": "Pendinginan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-261",
+   "kata": "銅線",
+   "kana": "どうせん",
+   "arti": "Kawat Tembaga",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-262",
+   "kata": "炎にかざす",
+   "kana": "ほのおにかざす",
+   "arti": "Mendekatkan ke Api",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-263",
+   "kata": "青緑色",
+   "kana": "あおみどりいろ",
+   "arti": "Warna Biru-Hijau",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-264",
+   "kata": "水分量",
+   "kana": "すいぶんりょう",
+   "arti": "Kadar Air",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-265",
+   "kata": "木くず",
+   "kana": "きくず",
+   "arti": "Serbuk Kayu",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-266",
+   "kata": "著しく低下する",
+   "kana": "いちじるしくていかする",
+   "arti": "Menurun Drastis",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-267",
+   "kata": "成形不良",
+   "kana": "せいけいふりょう",
+   "arti": "Kualitas Cetakan Buruk",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-268",
+   "kata": "磁選機",
+   "kana": "じせんき",
+   "arti": "Magnetic Separator",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-269",
+   "kata": "非磁性金属",
+   "kana": "ひじせいきんぞく",
+   "arti": "Logam Non-Magnetik (Al, Cu)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-270",
+   "kata": "溶けて固まる",
+   "kana": "とけてかたまる",
+   "arti": "Meleleh dan Menggumpal (Melt)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-271",
+   "kata": "対処法",
+   "kana": "たいしょほう",
+   "arti": "Penanganan/Solusi",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-272",
+   "kata": "繊維質",
+   "kana": "せんいしつ",
+   "arti": "Bahan Berserat",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-273",
+   "kata": "配合を増やす",
+   "kana": "はいごうをふやす",
+   "arti": "Meningkatkan Rasio Pencampuran",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-274",
+   "kata": "JIS規格",
+   "kana": "JISきかく",
+   "arti": "Standar Industri Jepang (JIS)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-275",
+   "kata": "基準",
+   "kana": "きじゅん",
+   "arti": "Kriteria/Standar",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-276",
+   "kata": "重機",
+   "kana": "じゅうき",
+   "arti": "Alat Berat",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-277",
+   "kata": "義務付けられている",
+   "kana": "ぎむづけられている",
+   "arti": "Diwajibkan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-278",
+   "kata": "特定自主検査",
+   "kana": "とくていじしゅけんさ",
+   "arti": "Inspeksi Sukarela Spesifik",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-279",
+   "kata": "実施頻度",
+   "kana": "じっしひんど",
+   "arti": "Frekuensi Pelaksanaan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-280",
+   "kata": "産業廃棄物管理票（マニフェスト）",
+   "kana": "さんぎょうはいきぶつかんりひょう",
+   "arti": "Manifes Limbah Industri",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-281",
+   "kata": "法律",
+   "kana": "ほうりつ",
+   "arti": "Undang-Undang",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-282",
+   "kata": "規格化されている",
+   "kana": "きかくかされている",
+   "arti": "Distandarisasi",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-283",
+   "kata": "品質パラメータ",
+   "kana": "ひんしつパラメータ",
+   "arti": "Parameter Kualitas",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-284",
+   "kata": "高位発熱量",
+   "kana": "こういはつねつりょう",
+   "arti": "Nilai Kalori Tinggi",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-285",
+   "kata": "実技試験",
+   "kana": "じつぎしけん",
+   "arti": "Ujian Praktik",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-286",
+   "kata": "技能の基礎",
+   "kana": "ぎのうのきそ",
+   "arti": "Dasar-Dasar Keterampilan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-287",
+   "kata": "消化器具",
+   "kana": "しょうかきぐ",
+   "arti": "Alat Pemadam Api",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-288",
+   "kata": "認識",
+   "kana": "にんしき",
+   "arti": "Mengenali/Mengidentifikasi",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-289",
+   "kata": "整理整頓",
+   "kana": "せいりせいとん",
+   "arti": "Sortir dan Tata Rapi (5S)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-290",
+   "kata": "確保",
+   "kana": "かくほ",
+   "arti": "Pengamanan/Memastikan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-291",
+   "kata": "灰分",
+   "kana": "はいぶん",
+   "arti": "Kadar Abu",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-292",
+   "kata": "増加させる",
+   "kana": "ぞうかさせる",
+   "arti": "Meningkatkan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-293",
+   "kata": "FRP",
+   "kana": "FRP",
+   "arti": "Fiber Reinforced Plastic",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-294",
+   "kata": "ガラス繊維強化プラスチック",
+   "kana": "ガラスせんいきょうかプラスチック",
+   "arti": "Fiber Reinforced Plastic",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-295",
+   "kata": "ボイラーの腐食",
+   "kana": "ボイラーのふしょく",
+   "arti": "Korosi Boiler",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-296",
+   "kata": "重機オペレーター",
+   "kana": "じゅうきオペレーター",
+   "arti": "Operator Alat Berat",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-297",
+   "kata": "指差呼称",
+   "kana": "ゆびさしこしょう",
+   "arti": "Konfirmasi Verbal dan Penunjukan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-298",
+   "kata": "配合比率",
+   "kana": "はいごうひりつ",
+   "arti": "Rasio Pencampuran",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-299",
+   "kata": "溶融",
+   "kana": "ようゆう",
+   "arti": "Pelelehan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-300",
+   "kata": "団子状になる",
+   "kana": "だんごじょうになる",
+   "arti": "Menjadi Seperti Gumpalan/Bola",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-301",
+   "kata": "回転刃の交換",
+   "kana": "かいてんばのこうかん",
+   "arti": "Penggantian Pisau Putar",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-302",
+   "kata": "定期的",
+   "kana": "ていきてき",
+   "arti": "Secara Berkala/Rutin",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-303",
+   "kata": "摩耗度を検査",
+   "kana": "まもうどをけんさ",
+   "arti": "Memeriksa Tingkat Keausan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-304",
+   "kata": "目盛りを読み取る",
+   "kana": "めもりをよみとる",
+   "arti": "Membaca Skala",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-305",
+   "kata": "主尺",
+   "kana": "しゅしゃく",
+   "arti": "Skala Utama",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-306",
+   "kata": "副尺",
+   "kana": "ふくしゃく",
+   "arti": "Skala Nonius",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-307",
+   "kata": "鍛造",
+   "kana": "たんぞう",
+   "arti": "Penempaan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-308",
+   "kata": "加熱",
+   "kana": "かねつ",
+   "arti": "Pemanasan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-309",
+   "kata": "炉",
+   "kana": "ろ",
+   "arti": "Tungku",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-310",
+   "kata": "金属",
+   "kana": "きんぞく",
+   "arti": "Logam",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-311",
+   "kata": "鋼",
+   "kana": "はがね",
+   "arti": "Baja",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-312",
+   "kata": "金型",
+   "kana": "かながた",
+   "arti": "Cetakan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-313",
+   "kata": "打撃",
+   "kana": "だげき",
+   "arti": "Pukulan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-314",
+   "kata": "圧縮",
+   "kana": "あっしゅく",
+   "arti": "Penekanan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-315",
+   "kata": "成形",
+   "kana": "せいけい",
+   "arti": "Pembentukan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-316",
+   "kata": "仕上げ",
+   "kana": "しあげ",
+   "arti": "Finishing",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-317",
+   "kata": "強度",
+   "kana": "きょうど",
+   "arti": "Kekuatan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-318",
+   "kata": "耐久性",
+   "kana": "たいきゅうせい",
+   "arti": "Daya tahan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-319",
+   "kata": "変形",
+   "kana": "へんけい",
+   "arti": "Deformasi",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-320",
+   "kata": "割れ",
+   "kana": "われ",
+   "arti": "Retak",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-321",
+   "kata": "寸法",
+   "kana": "すんぽう",
+   "arti": "Ukuran",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-322",
+   "kata": "製品",
+   "kana": "せいひん",
+   "arti": "Produk",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-323",
+   "kata": "プレス",
+   "kana": "—",
+   "arti": "Press",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-324",
+   "kata": "ハンマー",
+   "kana": "—",
+   "arti": "Palu",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-325",
+   "kata": "鍛造品",
+   "kana": "たんぞうひん",
+   "arti": "Produk tempa",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-326",
+   "kata": "機械加工",
+   "kana": "きかいかこう",
+   "arti": "Pemesinan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-327",
+   "kata": "旋盤",
+   "kana": "せんばん",
+   "arti": "Mesin bubut",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-328",
+   "kata": "マシニングセンタ",
+   "kana": "—",
+   "arti": "Machining center",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-329",
+   "kata": "ドリル",
+   "kana": "—",
+   "arti": "Bor",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-330",
+   "kata": "穴あけ",
+   "kana": "あなあけ",
+   "arti": "Pelubangan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-331",
+   "kata": "研削",
+   "kana": "けんさく",
+   "arti": "Penggerindaan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-332",
+   "kata": "刃物",
+   "kana": "はもの",
+   "arti": "Alat potong",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-333",
+   "kata": "工具",
+   "kana": "こうぐ",
+   "arti": "Alat",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-334",
+   "kata": "回転",
+   "kana": "かいてん",
+   "arti": "Putaran",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-335",
+   "kata": "切粉",
+   "kana": "きりこ",
+   "arti": "Serpihan logam",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-336",
+   "kata": "公差",
+   "kana": "こうさ",
+   "arti": "Toleransi",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-337",
+   "kata": "表面粗さ",
+   "kana": "ひょうめんあらさ",
+   "arti": "Kekasaran permukaan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-338",
+   "kata": "冷却液",
+   "kana": "れいきゃくえき",
+   "arti": "Cairan pendingin",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-339",
+   "kata": "固定",
+   "kana": "こてい",
+   "arti": "Penjepitan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-340",
+   "kata": "加工精度",
+   "kana": "かこうせいど",
+   "arti": "Presisi",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-341",
+   "kata": "不良",
+   "kana": "ふりょう",
+   "arti": "Cacat",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-342",
+   "kata": "労働",
+   "kana": "ろうどう",
+   "arti": "Undang-Undang Standar Ketenagakerjaan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-343",
+   "kata": "長袖",
+   "kana": "ながそで",
+   "arti": "Lengan panjang dan celana panjang (Pakaian kerja wajib)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-344",
+   "kata": "自然",
+   "kana": "しぜん",
+   "arti": "Swabakar (Spontaneous Combustion)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-345",
+   "kata": "特定",
+   "kana": "とくてい",
+   "arti": "Inspeksi Sukarela Spesifik (Wajib setahun sekali untuk alat berat)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-346",
+   "kata": "産業",
+   "kana": "さんぎょう",
+   "arti": "Limbah Industri",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-347",
+   "kata": "高位",
+   "kana": "こうい",
+   "arti": "High Calorific Value (Nilai kalori atas). Parameter kualitas utama JIS",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-348",
+   "kata": "出荷",
+   "kana": "しゅっか",
+   "arti": "Inspeksi Sebelum Pengiriman",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-349",
+   "kata": "塩化",
+   "kana": "えんか",
+   "arti": "Polyvinyl Chloride (PVC). Dilarang karena mengandung 塩素分 (えんそぶん)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-350",
+   "kata": "配合",
+   "kana": "はいごう",
+   "arti": "Rasio Pencampuran",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-351",
+   "kata": "非",
+   "kana": "ひ",
+   "arti": "Logam Non-Magnetik (Contoh: Aluminium)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-352",
+   "kata": "定量",
+   "kana": "ていりょう",
+   "arti": "Dosing Feeder. Memasok bahan baku secara stabil (定量の意味/jumlah tetap)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-353",
+   "kata": "日常",
+   "kana": "にちじょう",
+   "arti": "Pengecekan Harian",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-354",
+   "kata": "定期",
+   "kana": "ていき",
+   "arti": "Pemeliharaan Peralatan Berkala",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-355",
+   "kata": "摩耗度",
+   "kana": "まもうど",
+   "arti": "Tingkat Keausan (Diperiksa pada pisau dan nozzle mesin)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-356",
+   "kata": "予防",
+   "kana": "よぼう",
+   "arti": "Pemeliharaan Preventif",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-357",
+   "kata": "計算",
+   "kana": "けいさん",
+   "arti": "Soal Perhitungan",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-358",
+   "kata": "容積",
+   "kana": "ようせき",
+   "arti": "Volume (m³)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-359",
+   "kata": "重量",
+   "kana": "じゅうりょう",
+   "arti": "Berat/Massa (t)",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
+  },
+  {
+   "id": "jaim-machine-metal-360",
+   "kata": "比率",
+   "kana": "ひりつ",
+   "arti": "Rasio",
+   "cat": "Kosakata kelas Seizou",
+   "bab": "bab4",
+   "src": [],
+   "sumber": "kelas-seizou"
   }
  ]
 }
