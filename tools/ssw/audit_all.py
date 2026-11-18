@@ -37,7 +37,8 @@ for slug in sorted(os.listdir(D)):
             full_id += bool(f.get("id")); full_jp += bool(f.get("jp"))
     quiz = load(os.path.join(d, "quiz.json")) if os.path.exists(os.path.join(d, "quiz.json")) else {"bab": {}}
     groups = [g for gs in quiz.get("bab", {}).values() for g in gs]
-    pool = [it for g in groups if not g.get("rev") for it in g.get("items", [])]
+    pool = [it for g in groups if not g.get("rev") and not g.get("kosakata") for it in g.get("items", [])] or [it for g in groups if not g.get("kosakata") for it in g.get("items", [])]
+    vq = sum(len(g["items"]) for g in groups if g.get("kosakata"))
     gid = " ".join(g["id"] for g in groups)
     subs_noquiz = [s for _, s in subs if not re.search(r"(^|\s)" + re.escape(s) + r"[-_]", gid)]
     babs_noquiz = [b["id"] for b in idx.get("bab", []) if not quiz.get("bab", {}).get(b["id"])]
@@ -59,7 +60,7 @@ for slug in sorted(os.listdir(D)):
         pdf=count(os.path.join(a, "pdf"), (".pdf",)),
         vocab=len(vi), vocab_dup_id=len(ids) - len(set(ids)), vocab_no_arti=no_arti,
         vocab_no_kana=no_kana, vocab_img=with_img,
-        quiz_groups=len(groups), quiz_items=len(pool),
+        quiz_groups=len(groups), quiz_items=len(pool), vocab_quiz=vq,
         quiz_img=sum(1 for x in pool if x.get("img")), quiz_mb=sum(1 for x in pool if x.get("mb")),
         quiz_no_exp=sum(1 for x in pool if not x.get("exp")),
         quiz_bad_key=sum(1 for x in pool if not x.get("mb") and not (isinstance(x.get("a"), int) and 0 <= x["a"] < len(x.get("opts", [])))),
