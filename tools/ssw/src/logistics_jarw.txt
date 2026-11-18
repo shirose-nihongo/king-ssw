@@ -1,0 +1,230 @@
+# Soal buatan Shirose dari teks resmi 「特定技能1号評価試験 物流倉庫分野 教本」 (日本冷蔵倉庫協会, Jul 2026; dirujuk MLIT).
+# Format: bab | soal | jawaban benar | pengecoh 1 | pengecoh 2 | pengecoh 3
+bab1|Gudang yang hanya menyimpan barang milik perusahaan sendiri disebut…|Gudang pribadi (自家用倉庫)|Gudang usaha (営業倉庫)|Gudang terbuka (野積倉庫)|Gudang khusus (特別の倉庫)
+bab1|Gudang yang menyimpan barang milik pihak lain dengan menerima bayaran disebut…|Gudang usaha (営業倉庫)|Gudang pribadi (自家用倉庫)|Gudang air (水面倉庫)|Trunk room sewa
+bab1|Gudang usaha (営業倉庫) hanya boleh dioperasikan oleh perusahaan yang…|Terdaftar pada Menteri MLIT (国土交通大臣)|Terdaftar pada kantor pajak saja|Memiliki forklift lebih dari 10 unit|Mendapat izin dari pemadam kebakaran saja
+bab1|Urutan yang benar untuk memulai usaha gudang usaha adalah…|Mengajukan permohonan → mendapat pendaftaran → mulai beroperasi|Mulai beroperasi → mengajukan permohonan → mendapat pendaftaran|Mendapat pendaftaran → mulai beroperasi → mengajukan permohonan|Mulai beroperasi tanpa pendaftaran
+bab1|Gudang kelas 1 (1類倉庫) dapat menyimpan…|Semua barang kecuali barang berbahaya|Hanya barang berbahaya|Hanya kayu gelondongan|Hanya barang beku
+bab1|Gudang kelas yang pembatasan jenis barangnya paling sedikit adalah…|Gudang kelas 1 (1類倉庫)|Gudang kelas 2 (2類倉庫)|Gudang kelas 3 (3類倉庫)|Gudang terbuka (野積倉庫)
+bab1|Gudang kelas 2 (2類倉庫) berbeda dari kelas 1 karena tidak memiliki…|Kinerja tahan api|Atap|Pintu masuk|Lampu penerangan
+bab1|Gudang kelas 3 (3類倉庫) tidak memiliki tiga hal, yaitu…|Tahan api, kedap lembap, dan isolasi udara/suhu luar|Atap, dinding, dan lantai|Forklift, rak, dan konveyor|Listrik, air, dan telepon
+bab1|Gudang terbuka (野積倉庫) biasanya dipakai untuk menyimpan…|Kayu dan genteng|Obat-obatan|Daging beku|Pakaian bermerek
+bab1|Gudang tangki (貯蔵槽倉庫) dipakai untuk menyimpan…|Barang butiran dan cairan|Kayu gelondongan yang mengapung|Pakaian gantung|Barang elektronik kecil
+bab1|Gudang pendingin (冷蔵倉庫) menyimpan barang pada suhu…|Di bawah +10°C|Di atas +25°C|Tepat 0°C saja|Suhu ruang biasa
+bab1|Gudang air (水面倉庫) dipakai untuk…|Kayu gelondongan yang mengapung di air|Ikan hidup|Air minum kemasan|Kapal kecil
+bab1|Gudang khusus (特別の倉庫) ditetapkan oleh menteri, contohnya untuk…|Barang bantuan bencana|Barang pribadi karyawan|Sampah rumah tangga|Kendaraan bekas
+bab1|Kelas suhu C3 di gudang pendingin adalah…|Di atas −2°C sampai +10°C|Di atas −10°C sampai −2°C|Di atas −18°C sampai −10°C|+15°C sampai +25°C
+bab1|Kelas suhu C2 adalah…|Di atas −10°C sampai −2°C|Di atas −2°C sampai +10°C|Di atas −24°C sampai −18°C|Di atas −18°C sampai −10°C
+bab1|Kelas suhu C1 adalah…|Di atas −18°C sampai −10°C|Di atas −10°C sampai −2°C|Di atas −30°C sampai −24°C|Di atas −2°C sampai +10°C
+bab1|Kelas suhu F1 adalah…|Di atas −24°C sampai −18°C|Di atas −18°C sampai −10°C|Di atas −30°C sampai −24°C|Di atas −35°C sampai −30°C
+bab1|Kelas suhu F2 adalah…|Di atas −30°C sampai −24°C|Di atas −24°C sampai −18°C|Di atas −35°C sampai −30°C|Di atas −40°C sampai −35°C
+bab1|Kelas suhu F3 adalah…|Di atas −35°C sampai −30°C|Di atas −30°C sampai −24°C|Di atas −40°C sampai −35°C|−50°C ke bawah
+bab1|Kelas suhu SF4 adalah…|−50°C ke bawah|Di atas −50°C sampai −45°C|Di atas −45°C sampai −40°C|Di atas −40°C sampai −35°C
+bab1|Rentang suhu kelas "Dry" adalah…|+15°C sampai +25°C|+10°C sampai +20°C|Di atas −2°C sampai +10°C|Di bawah 0°C
+bab1|Rentang suhu kelas "低温 (Teion)" adalah…|+10°C sampai +20°C|+15°C sampai +25°C|Di atas −10°C sampai −2°C|Di atas −18°C sampai −10°C
+bab1|Pada notasi "di atas −2°C sampai +10°C", suhu −2°C itu…|Tidak termasuk|Termasuk|Termasuk hanya pada malam hari|Dibulatkan ke 0°C
+bab1|Daya tahan beban lantai (床耐荷重) adalah…|Batas berat yang boleh diletakkan per 1 m²|Tinggi maksimal rak|Jumlah forklift yang boleh masuk|Suhu maksimal lantai
+bab1|1 tsubo (坪) kira-kira sama dengan…|3,3 m²|1 m²|10 m²|0,33 m²
+bab1|Apa akibat jika barang yang diletakkan melebihi daya tahan beban lantai?|Lantai bisa rusak dan berbahaya|Barang menjadi lebih dingin|Forklift bergerak lebih cepat|Tidak ada akibat
+bab1|Fungsi pelapisan anti debu (防塵塗装) pada lantai adalah…|Mengurangi debu dan menjaga barang tetap bersih|Membuat lantai licin agar forklift cepat|Menambah daya tahan beban lantai|Menurunkan suhu gudang
+bab1|Dock leveler (ドックレベラー) berfungsi untuk…|Menyamakan beda tinggi antara platform dan bak truk/kontainer|Menutup celah dari hujan dan serangga|Mengangkat palet ke rak atas|Menimbang berat truk
+bab1|Dock shelter (ドックシェルター) berfungsi untuk…|Menutup celah antara truk dan platform dari angin, hujan, dan serangga|Menyamakan tinggi truk dan platform|Memadamkan api otomatis|Menahan palet agar tidak jatuh
+bab1|Papan pelindung dinding agar dinding tidak rusak saat barang bersandar disebut…|荷摺り (Nizuri)|ねずみ返し|防火シャッター|ドックシェルター
+bab1|Tinggi langit-langit gudang diukur dari lantai sampai…|Bagian bawah balok (梁)|Puncak atap|Lampu tertinggi|Bagian atas pintu
+bab1|Alat yang pertama kali digunakan untuk memadamkan api kecil adalah…|Alat pemadam portabel (消火器)|Sprinkler|Hydrant|Fire alarm
+bab1|Hydrant (消火栓) berisi…|Selang air|Bubuk kimia kering|Pasir|Gas CO2 saja
+bab1|Sprinkler (スプリンクラー) bekerja…|Otomatis, dipicu sensor panas atau asap|Hanya jika ditekan manual|Hanya pada siang hari|Hanya jika listrik mati
+bab1|Jika fire alarm (火災報知設備) berbunyi, pekerja harus…|Segera mengungsi|Melanjutkan pekerjaan sampai selesai|Mematikan alarm lalu bekerja lagi|Menunggu di dalam gudang
+bab1|Tentang area di depan alat pemadam kebakaran, yang benar adalah…|Dilarang meletakkan barang di depannya|Boleh untuk menumpuk palet kosong|Boleh untuk parkir forklift|Boleh dipakai sementara jika gudang penuh
+bab1|Rak yang tidak bisa dipindah-pindah disebut…|Rak tetap (固定ラック)|Rak bergerak (移動ラック)|Rak terbalik (逆ネス)|Rak positif (正ネス)
+bab1|Rak positif (正ネス) memiliki bidang penyimpanan di bagian…|Bawah|Atas|Samping|Tengah
+bab1|Rak terbalik (逆ネス) memiliki bidang penyimpanan di bagian…|Atas|Bawah|Samping|Belakang
+bab1|Pada rak terbalik (逆ネス), palet tingkat pertama diletakkan…|Langsung di lantai|Di atas rak|Di atas konveyor|Digantung di langit-langit
+bab1|Rak yang bisa dipindahkan bersama barang di atasnya dengan forklift adalah…|Rak positif (正ネス)|Rak terbalik (逆ネス)|Rak tetap|Rak gantung
+bab1|Fungsi pallet supporter adalah…|Menopang celah antar palet dan meratakan beban|Menggantikan forklift|Mengukur suhu palet|Mengikat palet ke truk
+bab1|Alat pada gudang otomatis (AS/RS) yang memindahkan barang ke rak disebut…|Stacker crane (スタッカークレーン)|Hand pallet truck|Dolly|Power gate
+bab1|Selain mencegah pencurian, CCTV di gudang juga dipakai untuk…|Memeriksa kesesuaian kerja dan pemborosan|Mengukur kelembapan|Menghitung stok otomatis|Mendinginkan ruangan
+bab1|Lampu hijau EXIT (誘導灯) menunjukkan…|Jalur evakuasi saat darurat atau listrik mati|Lokasi kantin|Area parkir forklift|Lokasi gudang pendingin
+bab1|ねずみ返し adalah…|Papan pencegah tikus masuk|Alat pemadam api|Pelindung dinding dari palet|Penutup celah truk
+bab1|Peredam gempa (免震装置) di gudang biasanya memakai…|Karet kuat di bawah bangunan|Pegas di atap|Air di dinding|Pasir di lantai
+bab1|Forklift jenis counterbalance (カウンター式) dioperasikan dengan posisi operator…|Duduk|Berdiri|Berjalan di belakang|Berbaring
+bab1|Forklift jenis reach (リーチ式) cocok untuk…|Ruang sempit, operator berdiri|Beban sangat berat di luar ruangan|Jalan raya|Mengangkat kontainer laut
+bab1|Untuk mengoperasikan forklift dengan beban maksimal 1 ton atau lebih, diperlukan…|Kursus keterampilan (技能講習)|Pendidikan khusus (特別教育) saja|Tidak perlu apa-apa|SIM mobil biasa saja
+bab1|Untuk forklift dengan beban maksimal di bawah 1 ton, diperlukan…|Pendidikan khusus (特別教育)|Kursus keterampilan (技能講習)|Izin dari polisi|Tidak perlu pelatihan
+bab1|Alat angkut yang boleh dipakai tanpa sertifikat adalah…|Hand pallet truck (ハンドリフト)|Forklift 2 ton|Crane|Power gate
+bab1|Kereta tanpa pegangan yang dipakai untuk memindahkan barang disebut…|Dolly (ドーリー)|Cage cart (カゴ台車)|6-wheel cart (6輪台車)|Hanger rack
+bab1|Cage cart (カゴ台車) saat dibawa harus…|Dipasangi safety bar|Dikosongkan|Ditarik oleh dua forklift|Dibalik
+bab1|Hanger rack (ハンガー台車) dipakai untuk…|Membawa pakaian yang digantung|Membawa cairan|Membawa kayu|Membawa barang beku
+bab1|Tentang elevator barang di gudang, yang benar adalah…|Tidak perlu sertifikat, tetapi patuhi beban maksimum|Wajib memakai sertifikat crane|Boleh dinaiki siapa saja tanpa batas|Boleh melebihi beban jika terburu-buru
+bab1|Vertical conveyor (垂直搬送機)…|Tidak boleh dinaiki manusia|Boleh dinaiki satu orang|Boleh dinaiki jika membawa barang|Hanya untuk manusia
+bab1|AGV bergerak dengan cara…|Mengikuti pemandu di lantai atau langit-langit|Dikemudikan operator duduk|Ditarik tali|Melompat antar rak
+bab1|Robot angkut yang bergerak mandiri sambil mendeteksi sekitarnya disebut…|AMR|AGV|AGF|AS/RS
+bab1|AGF adalah…|Forklift otomatis|Rak otomatis|Robot pemadam api|Konveyor gulung
+bab1|Konveyor yang cocok untuk beban berat dan suhu tinggi adalah…|Chain conveyor|Belt conveyor|Screw conveyor|Roller ringan
+bab1|Konveyor yang cocok untuk bahan butiran halus adalah…|Screw conveyor|Chain conveyor|Roller conveyor|Belt datar
+bab1|Ukuran palet standar yang paling umum di Jepang adalah…|1100 × 1100 mm|1200 × 1000 mm|1400 × 1100 mm|900 × 1100 mm
+bab1|Ukuran palet yang banyak dipakai di gudang pendingin adalah…|1200 × 1000 mm|1100 × 1100 mm|900 × 1100 mm|800 × 600 mm
+bab1|Palet 900 × 1100 mm (P-pallet) banyak dipakai untuk…|Minuman|Barang besar|Kayu|Kain
+bab1|Palet T11 adalah palet 1100 mm dengan tebal…|144 mm|100 mm|200 mm|50 mm
+bab1|Kapasitas beban standar sebuah palet adalah…|1 ton|100 kg|5 ton|10 ton
+bab1|Palet yang garpu forklift bisa masuk dari 4 arah disebut…|Four-way|Two-way|Single-face|Double-face
+bab1|Panjang kontainer laut yang umum adalah…|20 atau 40 kaki|10 atau 30 kaki|50 atau 60 kaki|5 atau 15 kaki
+bab1|Lebar kontainer laut kira-kira…|8 kaki (2,4 m)|6 kaki (1,8 m)|10 kaki (3 m)|12 kaki (3,6 m)
+bab1|Tinggi kontainer high cube adalah…|9 kaki 6 inci (2,9 m)|8 kaki 6 inci (2,6 m)|7 kaki (2,1 m)|12 kaki (3,6 m)
+bab1|Lebih dari 90% kontainer laut adalah jenis…|Dry container|Reefer container|Tank container|Open top
+bab1|Reefer container memerlukan…|Listrik dari luar untuk unit pendingin|Bahan bakar kayu|Es batu di dalamnya|Tidak perlu apa-apa
+bab1|Truk "besar" (大型) biasanya berkapasitas…|10 ton|4 ton|2 ton|1 ton
+bab1|Truk yang sisi dan atap baknya bisa terbuka disebut…|Wing (ウイング)|Van body|Flat body|Unic
+bab1|Truk van body (バン) hanya bisa dibuka dari…|Pintu belakang|Atap|Kedua sisi|Bawah
+bab1|Truk unic (ユニック) adalah truk yang dilengkapi…|Crane|Lemari pendingin|Tangki air|Konveyor
+bab1|Power gate (パワーゲート) truk boleh dioperasikan oleh…|Orang yang sudah menerima pendidikan khusus|Siapa saja|Hanya penitip barang|Hanya anak magang baru
+bab1|Tinggi bak truk biasa kira-kira…|0,8–1,2 m|0,2–0,4 m|2,0–2,5 m|3,0 m
+bab1|Gudang usaha wajib mendaftarkan kontrak standar (寄託約款) kepada…|Menteri|Pengemudi truk|Pekerja gudang|Polisi setempat
+bab1|Kontrak penitipan (寄託契約) menjadi sah ketika…|Gudang menerima barang|Penitip menelepon|Truk berangkat dari pabrik|Barang dikeluarkan
+bab1|Saat barang masuk, gudang memeriksa…|Kondisi luar barang saja, bukan isinya|Seluruh isi setiap kardus|Harga barang di pasar|Nama pembeli akhir
+bab1|Masa penyimpanan barang dihitung mulai…|Hari barang masuk|Hari setelah barang masuk|Awal bulan berikutnya|Hari pembayaran
+bab1|Biaya penyimpanan (保管料) dihitung dengan rumus…|Tarif × lama penyimpanan|Berat × jarak|Jumlah pekerja × jam|Harga barang × 2
+bab1|Tarif penyimpanan terdiri dari dua dasar, yaitu…|Nilai barang (従価率) dan ukuran/berat (従量率)|Warna dan bentuk barang|Jumlah pekerja dan forklift|Jarak dan waktu tempuh
+bab1|Dalam biaya gudang, 1 ton volume sama dengan…|1,133 m³ (40 kaki kubik)|1 m³|10 m³|0,5 m³
+bab1|Jika berat dan volume barang berbeda, gudang memakai…|Nilai yang lebih besar|Nilai yang lebih kecil|Rata-rata keduanya|Berat saja selalu
+bab1|Sistem tiga periode (三期制) membagi bulan menjadi…|Tanggal 1–10, 11–20, dan 21–akhir bulan|Tanggal 1–15 dan 16–akhir bulan|Minggu 1, 2, 3|Pagi, siang, malam
+bab1|Gudang pendingin memakai dua periode penagihan, yaitu…|Tanggal 1–15 dan 16–akhir bulan|Tanggal 1–10 dan 11–akhir bulan|Siang dan malam|Hari kerja dan hari libur
+bab1|Biaya penanganan (荷役料) dihitung dengan…|Tarif per jenis kerja × jumlah pekerjaan|Tarif × lama penyimpanan|Harga barang × 10%|Jumlah truk × jarak
+bab1|Biaya untuk pekerjaan sortir dan pengemasan ulang disebut…|Biaya proses distribusi (流通加工料)|Biaya penyimpanan (保管料)|Biaya masuk-keluar (入出庫料)|Biaya listrik
+bab1|Kewajiban menjaga barang penitip seperti barang sendiri bahkan lebih teliti disebut…|善管注意義務|守秘義務|報告義務|残業義務
+bab1|Kewajiban tidak membocorkan informasi penitip disebut…|守秘義務|善管注意義務|安全配慮|先入先出
+bab1|Jika ada orang selain penitip meminta barang dikeluarkan, pekerja gudang harus…|Tidak mengikuti perintah itu|Langsung mengeluarkan barang|Mengeluarkan setengahnya|Memberi barang lain
+bab1|Jika ada telepon menanyakan barang di gudang, yang harus dilakukan pertama adalah…|Memastikan identitas penanya|Langsung memberi tahu jumlah stok|Menutup telepon|Memberi alamat penitip
+bab1|Tentang memotret di dalam gudang, yang benar adalah…|Dilarang memotret atau merekam video|Boleh untuk media sosial|Boleh jika barangnya bagus|Boleh asal tidak memakai flash
+bab1|Kejadian yang harus dicegah di gudang antara lain…|Kebakaran, pencurian, basah, tikus, serangga, bau|Hanya kebakaran|Hanya pencurian|Hanya kelembapan
+bab1|Saat musim panas lembap, tanda bahaya di gudang adalah…|Kardus menggembung atau ada kondensasi di lantai/dinding|Lampu terlalu terang|Forklift terlalu cepat|Barang terlalu dingin
+bab1|Pupuk, pakan ternak, dan ban termasuk barang yang…|Mengeluarkan bau (発散貨物)|Menyerap bau saja|Tidak berbau sama sekali|Berbahaya meledak
+bab1|Tembakau, mentega, dan keju termasuk barang yang…|Mengeluarkan dan menyerap bau|Hanya mengeluarkan bau|Tidak berbau|Mudah meledak
+bab1|Barang berbau di gudang harus…|Disimpan terpisah dari barang lain|Disimpan bersama makanan|Disimpan di dekat pintu kantor|Dicampur agar baunya hilang
+bab1|Memindahkan barang ke lokasi lain di gudang (はい替え) boleh dilakukan jika…|Ada perintah penanggung jawab, lalu lokasi baru dilaporkan|Pekerja merasa perlu|Barangnya ringan|Tidak ada yang melihat
+bab1|Barang yang terlalu lama diam di gudang (長期滞留品) harus…|Diperiksa kondisinya|Dibuang langsung|Dibawa pulang pekerja|Dijual pekerja
+bab1|Papan informasi barang (さし札) berisi…|Nomor masuk dan keterangan barang|Nama pekerja|Harga jual|Resep makanan
+bab1|Stock opname (棚卸) adalah…|Memeriksa jumlah dan kondisi barang dibandingkan buku|Membersihkan rak|Memindahkan barang ke truk|Menghitung gaji
+bab1|Stock opname yang dilakukan bergiliran per bagian disebut…|循環棚卸|一斉棚卸|定期棚卸|臨時点検
+bab1|Selisih antara catatan buku dan jumlah fisik barang disebut…|在庫差異|欠品|残貨|口割れ
+bab1|Hasil stock opname wajib mencatat…|Nama petugas, tanggal, dan jumlah hasil hitung|Hanya jumlah|Hanya tanggal|Nama pembeli
+bab1|Saat penitip mengambil sampel barang (サンプル出庫), pekerja gudang harus…|Mendampingi selama proses|Meninggalkan penitip sendirian|Mengizinkan mengambil barang penitip lain|Melakukannya setelah jam operasional
+bab1|Tentang membuang barang rusak di gudang, yang benar adalah…|Laporkan dan ikuti perintah atasan|Buang sendiri ke tempat sampah|Bawa pulang|Simpan diam-diam
+bab1|Contoh limbah industri (産業廃棄物) adalah…|Minyak bekas dan plastik bekas|Kertas catatan pribadi|Sisa makan siang|Daun kering
+bab1|Jika ditemukan kebocoran air di gudang, yang benar adalah…|Lapor ke penanggung jawab, cari penyebab, segera perbaiki|Biarkan sampai kering|Tutup dengan kardus|Pindahkan semua barang tanpa lapor
+bab1|Setelah pekerjaan selesai, sebelum mengunci gudang harus dipastikan…|Tidak ada orang di dalam dan tidak ada bahaya api/kebocoran|Semua lampu menyala|Pintu dibiarkan terbuka sedikit|Forklift masih menyala
+bab1|Saat mengisi daya baterai forklift, timbul gas…|Hidrogen dan oksigen yang bisa meledak|Nitrogen yang aman|CO2 yang membuat dingin|Tidak ada gas
+bab1|Orang yang ditunjuk untuk mengelola pencegahan kebakaran disebut…|防火管理者|作業指揮者|運転手|寄託者
+bab1|Persiapan menghadapi banjir di gudang adalah…|Menyiapkan karung pasir dan mempelajari hazard map|Membuka semua pintu|Mematikan sprinkler|Menumpuk barang di lantai
+bab1|Saat gempa, langkah pertama adalah…|Pindah ke tempat aman dekat tiang/area lapang dan lindungi diri|Langsung naik lift|Lari ke luar sambil gempa|Naik ke rak tinggi
+bab1|Saat gempa atau kebakaran, yang tidak boleh dipakai adalah…|Lift|Tangga darurat|Jalur evakuasi|Pintu keluar
+bab1|Urutan memakai alat pemadam api adalah…|Cabut pin pengaman → arahkan nozel ke api → tekan tuas|Tekan tuas → cabut pin → arahkan ke atas|Arahkan ke asap → tekan tuas → cabut pin|Kocok → buka tutup → lempar
+bab1|Jika listrik mati di gudang pendingin, pekerja harus…|Memakai senter/lampu forklift, menuju pintu, membuka manual|Diam di tempat sampai listrik menyala|Tidur di dalam|Naik ke rak
+bab2|Rompi keselamatan berstrip reflektif dipakai agar…|Posisi pekerja terlihat|Badan tetap hangat|Tidak kotor|Terlihat rapi saja
+bab2|Helm di dalam gudang harus dipakai…|Selalu, termasuk saat tidak bekerja|Hanya saat mengangkat barang|Hanya saat ada tamu|Hanya di luar gudang
+bab2|Sepatu keselamatan memiliki pelindung di ujung untuk…|Melindungi jari kaki dari benda berat|Membuat lebih cepat berjalan|Mencegah bau kaki|Menghangatkan kaki
+bab2|Dokumen yang termasuk dokumen masuk barang adalah…|寄託申込書 dan 入庫通知書|出庫指図書 dan 送り状|出庫通知書 saja|Faktur pajak
+bab2|Dokumen yang termasuk dokumen keluar barang adalah…|出庫指図書, 送り状, 出庫通知書|寄託申込書 dan 入庫通知書|Kartu absen|Surat izin cuti
+bab2|Label keluar (出庫ラベル) berisi…|Alamat pengiriman|Nomor LOT masuk saja|Harga barang|Nama pekerja
+bab2|JAN code berisi berapa digit (versi standar)?|12 digit|6 digit|20 digit|3 digit
+bab2|Di luar negeri, JAN code dikenal sebagai…|GTIN|QR|RFID|GHS
+bab2|Kelebihan QR code dibanding barcode adalah…|Memuat lebih banyak informasi|Tidak bisa dibaca mesin|Hanya untuk harga|Lebih pendek isinya
+bab2|Kelebihan RFID adalah…|Tidak perlu menyentuh tag dan bisa membaca banyak tag sekaligus|Harus disentuh satu per satu|Hanya bisa dibaca manusia|Hanya bekerja tanpa listrik
+bab2|Label GHS menjelaskan…|Sifat bahaya barang|Cara menumpuk palet|Harga barang|Alamat pengiriman
+bab2|1 inci sama dengan…|2,54 cm|30,48 cm|1 cm|10 cm
+bab2|1 kaki (feet) sama dengan…|30,48 cm|2,54 cm|100 cm|3,3 m
+bab2|1 shaku (尺) kira-kira…|30,3 cm|2,54 cm|1,82 m|3,75 kg
+bab2|1 ken (間) kira-kira…|1,82 m|30,3 cm|3,3 m²|1 km
+bab2|1 kan (貫) sama dengan…|3,75 kg|453,6 g|28 g|1,8 L
+bab2|1 pound (ポンド) kira-kira…|453,6 g|1 kg|28 g|3,75 kg
+bab2|1 sho (升) sama dengan…|1,8 L|0,18 L|18 L|1 L
+bab2|1 to (斗) sama dengan…|18 L|1,8 L|0,18 L|180 L
+bab2|Barang bervolume 0,5 m³ dengan berat jenis 0,9 beratnya…|0,45 ton|0,9 ton|1,4 ton|0,05 ton
+bab2|Kelembapan penyimpanan yang ideal adalah…|40–50%|80–90%|10–20%|100%
+bab2|Tingkat pencahayaan minimal untuk kerja biasa adalah…|150 lx|10 lx|1000 lx|50 lx
+bab2|Tahun 2026 dalam kalender Jepang adalah…|Reiwa 8|Reiwa 6|Heisei 30|Reiwa 10
+bab2|Saat barang masuk, dokumen dan fisik barang dicocokkan dalam hal…|Nama, ukuran, kode, LOT, jumlah, kemasan|Warna truk saja|Nama sopir saja|Harga pasar
+bab2|Barang yang datang hanya sebagian (jumlah kurang dari dokumen) disebut…|口割れ|在庫差異|残貨|欠品
+bab2|Catatan kondisi tidak normal barang saat masuk (penyok, basah, bocor) disebut…|リマーク (remark)|ラベル|ピッキング|ロット
+bab2|Remark (リマーク) harus dicatat bersama…|Tanda tangan pengemudi, lalu dilaporkan|Tanda tangan pekerja lain saja|Foto media sosial|Tidak perlu dicatat
+bab2|Barang dengan berat tidak tetap (不定貫) dicatat dengan…|Berat aktual atau berat yang tertera|Perkiraan pekerja|Berat rata-rata semua barang|Tidak perlu dicatat
+bab2|Jika angka di surat perintah tampak salah, pekerja harus…|Tidak mengubahnya sendiri, melainkan melapor|Langsung mencoret dan mengganti|Mengabaikan surat|Membuang surat
+bab2|Barang dengan remark saat ditempatkan harus…|Dipisah dari barang normal|Dicampur dengan barang normal|Ditaruh paling depan|Langsung dikirim
+bab2|Prinsip barang yang masuk lebih dulu dikeluarkan lebih dulu disebut…|先入先出 (FIFO)|後入先出|一斉棚卸|はい替え
+bab2|Saat menempatkan barang, harus ada jarak antara barang dan…|Dinding|Langit-langit saja|Pintu kantor|Truk
+bab2|Sistem lokasi "double transaction" artinya…|Area picking tetap, area stok bebas|Semua lokasi bebas|Semua lokasi tetap|Barang disimpan dua kali
+bab2|Metode picking per tujuan pengiriman, cocok untuk banyak tujuan berjumlah kecil, disebut…|Single/order picking|Total picking|Seal picking|Batch sorting saja
+bab2|Metode mengambil barang sekaligus lalu dipisah di area penyortiran disebut…|Total/multi picking|Order picking|Seal picking|Cross docking
+bab2|Seal picking (シールピッキング) berguna untuk…|Mengurangi salah kirim karena tiap item diberi label|Mempercepat pengisian baterai|Mengurangi suhu|Menghemat kardus
+bab2|Jika barang yang harus dikeluarkan tidak ada (欠品), pekerja harus…|Melapor ke kantor|Mengganti dengan barang lain|Mengirim kosong tanpa lapor|Menunda tanpa memberi tahu
+bab2|Pola tumpukan palet yang cepat tetapi lemah terhadap gaya samping adalah…|Tumpukan blok (棒積み)|Tumpukan silang (交互積み)|Pinwheel|Tumpukan bata
+bab2|Pola tumpukan yang lebih kuat terhadap gaya samping dibanding tumpukan blok adalah…|Tumpukan silang (交互積み)|Tumpukan lurus satu kolom|Tumpukan acak|Tanpa pola
+bab2|Pola tumpukan pinwheel (ピンホール積み) stabil, tetapi…|Ada celah di tengah|Tidak bisa dipakai di gudang|Membutuhkan tali besi|Hanya untuk barang cair
+bab2|Barang yang menjorok keluar dari tepi palet (overhang)…|Dilarang|Dianjurkan agar muat banyak|Boleh jika ringan|Wajib untuk barang besar
+bab2|Jumlah maksimal tumpukan kardus ditentukan oleh…|Label jumlah tumpukan pada kardus|Keinginan pekerja|Tinggi pekerja|Warna kardus
+bab2|Jika palet milik gudang tidak bisa dikembalikan, yang dipakai adalah…|One-way pallet|Palet pinjaman tetangga|Kardus tanpa palet|Palet rusak
+bab2|Cara mencegah barang tertinggal (残貨) adalah…|Hitung bersama, jangan mengandalkan ingatan, cek area yang mudah terlupa|Mengandalkan ingatan satu orang|Tidak perlu menghitung|Hanya cek di pagi hari
+bab2|Posisi label yang ditempel salah harus…|Segera diperbaiki|Dibiarkan karena kecil|Ditempel label kedua di atasnya|Dilaporkan minggu depan
+bab2|Urutan pita kardus dari yang paling lemah ke paling kuat adalah…|一の字 → 十の字 → キの字 → 米の字|米の字 → キの字 → 十の字 → 一の字|十の字 → 一の字 → 米の字 → キの字|キの字 → 一の字 → 十の字 → 米の字
+bab2|Pita H (H字貼り) pada kardus berfungsi untuk…|Mencegah debu masuk (tidak menambah kekuatan)|Menambah kekuatan paling besar|Menunjukkan barang berbahaya|Menandai barang beku
+bab2|Jika pisau cutter patah saat kerja, yang benar adalah…|Segera lapor dan cari pecahannya sampai ketemu|Buang sisanya dan lanjut kerja|Biarkan pecahannya|Sembunyikan
+bab2|Stretch wrap pada palet dimulai dari…|Bagian bawah palet lalu ke atas|Bagian atas lalu ke bawah|Tengah saja|Hanya sisi depan
+bab2|Jika metal detector menemukan jarum dalam produk, maka…|Produk tidak boleh dikirim|Produk tetap dikirim|Jarum dibiarkan|Label diganti saja
+bab2|Urutan alur kerja yang benar adalah…|Rencana → persiapan → pelaksanaan → kontrol kemajuan → selesai|Pelaksanaan → rencana → selesai|Selesai → persiapan → rencana|Persiapan → selesai → rencana
+bab2|Simbol care mark 天地無用 berarti…|Jangan dibalik (atas-bawah)|Dilarang diinjak|Jauhkan dari api|Jaga dari air
+bab2|Simbol care mark 手かぎ禁止 berarti…|Dilarang memakai kait tangan|Dilarang dibalik|Dilarang ditumpuk|Dilarang terkena matahari
+bab2|Simbol care mark 水濡れ防止 berarti…|Jaga dari air|Barang pecah belah|Dilarang api|Dilarang diinjak
+bab2|Simbol care mark 火気厳禁 berarti…|Dilarang dekat api|Jaga dari air|Hati-hati cutter|Jangan dibalik
+bab2|Simbol care mark 積段数制限 menunjukkan…|Jumlah tumpukan maksimal|Berat maksimal truk|Suhu penyimpanan|Tanggal kedaluwarsa
+bab2|Care mark パレットパターン menunjukkan…|Pola susunan barang di palet (bukan larangan)|Larangan memakai palet|Harga palet|Ukuran forklift
+bab2|Care mark 壊れもの berarti…|Barang pecah belah|Barang berbahaya|Barang beku|Barang berbau
+bab3|Batas jam kerja per hari menurut hukum adalah…|8 jam|10 jam|12 jam|6 jam
+bab3|Batas jam kerja per minggu menurut hukum adalah…|40 jam|48 jam|60 jam|35 jam
+bab3|Jika bekerja lebih dari 6 jam, istirahat minimal…|45 menit|15 menit|1 jam|2 jam
+bab3|Jika bekerja lebih dari 8 jam, istirahat minimal…|1 jam|45 menit|30 menit|2 jam
+bab3|Apel pagi dan apel sore (朝礼・終礼)…|Termasuk jam kerja|Tidak termasuk jam kerja|Hanya untuk atasan|Boleh tidak hadir
+bab3|Waktu perjalanan dari rumah ke kantor…|Tidak termasuk jam kerja|Termasuk jam kerja|Dihitung lembur|Dibayar dua kali
+bab3|Jenis kecelakaan kerja paling banyak di gudang (data 2024) adalah…|Terpeleset/tersandung (転倒)|Jatuh dari ketinggian|Terjepit mesin|Tertabrak barang
+bab3|Jenis kecelakaan kedua terbanyak di gudang (data 2024) adalah…|Gerakan tidak wajar/berlebihan (動作の反動・無理な動作)|Kebakaran|Keracunan|Tersengat listrik
+bab3|Jika demam saat akan berangkat kerja, yang benar adalah…|Hubungi perusahaan, istirahat, ke rumah sakit jika perlu|Tetap bekerja diam-diam|Tidak memberi kabar|Minum obat lalu kerja lembur
+bab3|Untuk mencegah heatstroke (熱中症), minum air…|Sedikit demi sedikit walaupun tidak haus|Hanya saat sangat haus|Sekali banyak di pagi hari|Tidak perlu minum
+bab3|Pertolongan pertama heatstroke adalah…|Pindah ke tempat sejuk, longgarkan pakaian, minum air dan elektrolit|Lanjutkan kerja|Pakai jaket tebal|Minum kopi panas
+bab3|Saat bekerja di tempat panas, yang dilarang adalah…|Melepas seragam atau helm|Minum air|Istirahat di tempat sejuk|Memakai sepatu keselamatan
+bab3|Tali dagu helm harus…|Dikencangkan|Dilepas|Diikat di belakang|Dipotong
+bab3|Beban yang lebih dari 40% berat badan (pria) harus diangkat oleh…|2 orang atau lebih|1 orang dengan cepat|Tanpa alat|Pekerja paling muda
+bab3|Untuk pekerja wanita, beban yang harus diangkat 2 orang atau lebih adalah lebih dari…|24% berat badan|40% berat badan|50% berat badan|10% berat badan
+bab3|Cara mengangkat beban yang benar adalah…|Tekuk lutut, rapatkan beban ke tubuh, luruskan lutut perlahan|Membungkuk dari pinggang dengan kaki lurus|Mengangkat dengan satu tangan|Menjauhkan beban dari tubuh
+bab3|Tindakan yang dilarang saat menangani barang adalah…|Mengambil barang dari tengah tumpukan (中抜き)|Mengambil dari atas tumpukan|Memakai sarung tangan|Meminta bantuan rekan
+bab3|Beban cage cart (カゴ台車) yang boleh ditangani satu orang adalah…|Kurang dari 300 kg|Kurang dari 1 ton|Berapa pun|Kurang dari 30 kg
+bab3|Stopper roda cage cart sebelum didorong harus pada posisi…|Bebas (フリー)|Terkunci (ロック)|Setengah|Dilepas
+bab3|Saat akan berhenti atau berbelok dengan cage cart, mulai memperlambat…|2 m sebelumnya|Tepat di titik belok|10 m sebelumnya|Tidak perlu memperlambat
+bab3|Cage cart yang tinggi dan menghalangi pandangan harus…|Ditarik mundur|Didorong cepat|Didorong sambil berlari|Dinaiki
+bab3|Tentang tangga lipat (脚立), yang dilarang adalah…|Berdiri di anak tangga paling atas (天板)|Memeriksa kestabilan sebelum naik|Memakai di tempat datar|Turun perlahan
+bab3|Untuk pekerjaan di tempat tinggi, yang benar adalah…|Memakai meja kerja/kendaraan kerja tinggi atau turunkan palet dulu|Memanjat rak|Naik ke palet yang diangkat forklift|Berdiri di atas kardus
+bab3|Pita kuning-hitam (トラテープ) di lantai menandai…|Area berbahaya|Area istirahat|Tempat parkir sepeda|Lokasi kantin
+bab3|Lebar jalur antar mesin di gudang minimal…|80 cm|30 cm|2 m|50 cm
+bab3|Saat menyeberangi jalur forklift, pekerja wajib…|Melakukan 指差し呼称 (tunjuk dan sebut)|Berlari cepat|Melambaikan tangan saja|Menutup mata
+bab3|Saat lewat di belakang forklift, pekerja harus…|Meminta izin operator|Lewat diam-diam|Mendorong forklift|Berteriak saja tanpa menunggu
+bab3|Batas kecepatan forklift di dalam gudang adalah…|8 km/jam atau kurang|20 km/jam|30 km/jam|Tidak ada batas
+bab3|Saat membawa palet, garpu forklift diangkat setinggi…|15–20 cm dari lantai|1 m dari lantai|Setinggi mata operator|Menyentuh lantai
+bab3|Jika pandangan operator forklift terhalang beban, yang benar adalah…|Jalan mundur atau memakai pemandu|Jalan maju lebih cepat|Membunyikan klakson terus lalu maju|Menutup satu mata
+bab3|Tumpukan palet kosong maksimal…|30 tingkat|100 tingkat|5 tingkat|Tidak ada batas
+bab3|Urutan memarkir forklift yang benar adalah…|Turunkan garpu → rem tangan → matikan mesin → cabut kunci → ganjal roda|Matikan mesin → biarkan garpu di atas → tinggalkan kunci|Cabut kunci → angkat garpu → rem|Ganjal roda → biarkan mesin hidup
+bab3|Pemeriksaan sebelum memakai forklift (始業前点検) mencakup…|Oli, air pendingin, aki, minyak hidrolik, rem, klakson, kemudi|Hanya warna cat|Hanya ban serep|Tidak perlu diperiksa
+bab3|Pelindung kepala forklift (ヘッドガード) boleh dilepas…|Hanya saat masuk kontainer|Kapan saja jika panas|Saat malam hari|Tidak pernah dipasang
+bab3|Tentang membawa orang di forklift, yang benar adalah…|Dilarang membawa orang selain di kursi|Boleh berdiri di garpu|Boleh duduk di palet|Boleh jika dekat
+bab3|Sebelum menangani bahan kimia berbahaya, pekerja harus…|Memeriksa label GHS dan memakai APD|Mencium baunya|Memanaskan dulu|Membuka tutupnya
+bab3|Simbol GHS gambar tengkorak berarti…|Toksisitas akut|Mudah terbakar|Gas bertekanan|Bahaya lingkungan air
+bab3|Simbol GHS gambar api berarti…|Mudah terbakar|Korosif|Toksisitas akut|Bahaya kesehatan jangka panjang
+bab3|Menurut penelitian, error paling kecil terjadi jika…|Menunjuk sambil menyebut (指差し呼称)|Tidak melakukan apa-apa|Hanya bersuara|Hanya menunjuk
+bab3|Dengan 指差し呼称, tingkat error turun menjadi kira-kira…|Seperenam dibanding tanpa tindakan|Dua kali lipat|Sama saja|Setengah persen lebih tinggi
+bab3|KYT (危険予知訓練) terdiri dari berapa ronde?|4 ronde|2 ronde|6 ronde|10 ronde
+bab3|5S dalam keselamatan kerja adalah…|Seiri, Seiton, Seisou, Seiketsu, Shitsuke|Safety, Speed, Smile, Service, Sales|Seiri, Seiton, Sekinin, Shiyou, Saisei|Sapu, Sikat, Siram, Simpan, Selesai
+bab3|Saat badai, yang harus dilakukan adalah…|Melindungi barang dan memindahkan peralatan ke tempat aman|Membuka semua pintu gudang|Membiarkan peralatan di luar|Bekerja di atap
+bab3|Pintu kontainer harus dibuka…|Satu sisi bergantian dan diikat|Kedua sisi sekaligus dengan cepat|Dengan forklift|Tanpa diikat
+bab3|Jika menjalankan dua konveyor atau lebih, diperlukan…|Pemimpin kerja (作業指揮者)|Tidak perlu siapa-siapa|Polisi|Penitip barang
+bab3|Konveyor wajib memiliki…|Tombol berhenti darurat|Lampu warna-warni|Musik|Pendingin
+bab3|Tentang konveyor yang sedang berjalan, yang dilarang adalah…|Bersandar pada konveyor|Memakai helm|Melihat dari jarak aman|Menekan tombol darurat saat bahaya
+bab3|Sebelum memindahkan mesin, mesin harus…|Dimatikan|Dinyalakan penuh|Dibiarkan menyala|Dibasahi
+bab3|Pemanasan (準備体操) di gudang dilakukan…|Setiap pagi sebelum kerja|Hanya saat musim dingin|Setelah pulang|Tidak perlu
+bab3|Mesin pengikat otomatis: yang harus dijaga adalah…|Kepala dan tangan menjauh dari bagian yang bergerak|Mendekatkan wajah agar terlihat jelas|Memegang lengan mesin|Mematikan sensor
