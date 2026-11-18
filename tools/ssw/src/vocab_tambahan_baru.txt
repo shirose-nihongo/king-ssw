@@ -1,0 +1,394 @@
+# Kosakata dari teks materi bidang SSW baru yang tidak ada di kamus website. Arti ditulis Shirose (perlu review).
+# Format: bidang|kata|kana|arti
+auto-transport|シート掛け|しーとがけ|memasang terpal
+auto-transport|バラ積み荷物|ばらづみにもつ|muatan curah (tidak dikemas)
+auto-transport|バンボデー車|ばんぼでーしゃ|truk boks (van body)
+auto-transport|ロープ掛け|ろーぷがけ|memasang tali pengikat
+auto-transport|一般道路|いっぱんどうろ|jalan umum (bukan tol)
+auto-transport|下り坂|くだりざか|jalan menurun
+auto-transport|両面使用形|りょうめんしようがた|palet dua sisi (bisa dipakai bolak-balik)
+auto-transport|片面使用形|かためんしようがた|palet satu sisi
+auto-transport|乗り降り|のりおり|naik-turun (kendaraan)
+auto-transport|乗車|じょうしゃ|naik kendaraan
+auto-transport|事故現場|じこげんば|lokasi kecelakaan
+auto-transport|二方差し|にほうざし|palet sisipan dua arah
+auto-transport|四方差し|しほうざし|palet sisipan empat arah
+auto-transport|二輪車|にりんしゃ|kendaraan roda dua
+auto-transport|人種|じんしゅ|ras
+auto-transport|仮免許|かりめんきょ|SIM sementara (latihan)
+auto-transport|優先道路|ゆうせんどうろ|jalan prioritas
+auto-transport|列車|れっしゃ|kereta (rangkaian)
+auto-transport|国道|こくどう|jalan nasional
+auto-transport|坂道|さかみち|jalan tanjakan/turunan
+auto-transport|大地震|だいじしん|gempa besar
+auto-transport|お客様|おきゃくさま|pelanggan; penumpang
+auto-transport|差別|さべつ|diskriminasi
+auto-transport|巻き込み|まきこみ|terlindas/terseret (saat kendaraan belok)
+auto-transport|後続車|こうぞくしゃ|kendaraan di belakang
+auto-transport|心得|こころえ|pedoman sikap; hal yang harus diketahui
+auto-transport|心構え|こころがまえ|kesiapan mental; sikap
+auto-transport|映像|えいぞう|rekaman gambar/video
+auto-transport|最後尾|さいこうび|paling belakang
+auto-transport|最高速度|さいこうそくど|kecepatan maksimum
+auto-transport|棒積み|ぼうづみ|tumpukan blok (lurus)
+auto-transport|業務前点呼|ぎょうむまえてんこ|pemeriksaan/apel sebelum kerja
+auto-transport|業務後点呼|ぎょうむごてんこ|pemeriksaan/apel setelah kerja
+auto-transport|業務途中点呼|ぎょうむとちゅうてんこ|apel di tengah perjalanan (via telepon)
+auto-transport|横切る|よこぎる|menyeberang; memotong jalan
+auto-transport|歯止め|はどめ|ganjal
+auto-transport|減速|げんそく|mengurangi kecepatan
+auto-transport|申し出|もうしで|pengajuan; pemberitahuan
+auto-transport|申し継ぎ|もうしつぎ|serah terima informasi
+auto-transport|発車|はっしゃ|berangkat (kendaraan)
+auto-transport|目的地|もくてきち|tempat tujuan
+auto-transport|直線部分|ちょくせんぶぶん|bagian jalan lurus
+auto-transport|直進車|ちょくしんしゃ|kendaraan yang jalan lurus
+auto-transport|睡眠不足|すいみんぶそく|kurang tidur
+auto-transport|社会的影響|しゃかいてきえいきょう|dampak sosial
+auto-transport|積み付け|つみつけ|penataan muatan
+auto-transport|第一種免許|だいいっしゅめんきょ|SIM kelas 1 (umum)
+auto-transport|第二種免許|だいにしゅめんきょ|SIM kelas 2 (angkut penumpang berbayar)
+auto-transport|練習|れんしゅう|latihan
+auto-transport|荷崩れ|にくずれ|muatan runtuh
+auto-transport|見通し|みとおし|jarak pandang
+auto-transport|角あて|かどあて|pelindung sudut
+auto-transport|証明書|しょうめいしょ|surat keterangan; sertifikat
+auto-transport|警察|けいさつ|polisi
+auto-transport|負傷者|ふしょうしゃ|korban luka
+auto-transport|貨物|かもつ|barang muatan; kargo
+auto-transport|車内|しゃない|di dalam kendaraan
+auto-transport|車線|しゃせん|lajur jalan
+auto-transport|輪止め|わどめ|ganjal roda
+auto-transport|追い越し|おいこし|menyalip
+auto-transport|追突|ついとつ|tabrak belakang
+auto-transport|運行|うんこう|operasi perjalanan
+auto-transport|運転中|うんてんちゅう|sedang mengemudi
+auto-transport|運転方法|うんてんほうほう|cara mengemudi
+auto-transport|酒気帯び運転|しゅきおびうんてん|mengemudi dalam pengaruh alkohol
+auto-transport|非常用|ひじょうよう|untuk darurat
+auto-transport|駐車禁止|ちゅうしゃきんし|dilarang parkir
+aviation-am|一般知識|いっぱんちしき|pengetahuan umum
+aviation-am|上面|じょうめん|permukaan atas
+aviation-am|不安全|ふあんぜん|tidak aman
+aviation-am|主翼|しゅよく|sayap utama
+aviation-am|主翼前縁|しゅよくぜんえん|tepi depan sayap utama
+aviation-am|主脚|しゅきゃく|roda pendarat utama
+aviation-am|主電源|しゅでんげん|sumber listrik utama
+aviation-am|代替方法|だいたいほうほう|metode alternatif
+aviation-am|使用回数|しようかいすう|jumlah pemakaian
+aviation-am|供給源|きょうきゅうげん|sumber pasokan
+aviation-am|六角頭|ろっかくあたま|kepala heksagonal (baut)
+aviation-am|再使用|さいしよう|pemakaian ulang
+aviation-am|剪断力|せんだんりょく|gaya geser
+aviation-am|副操縦士|ふくそうじゅうし|kopilot
+aviation-am|化学反応型|かがくはんのうがた|tipe reaksi kimia
+aviation-am|半導体|はんどうたい|semikonduktor
+aviation-am|合金|ごうきん|paduan logam
+aviation-am|回り止め|まわりどめ|pengunci anti-putar
+aviation-am|基本技術|きほんぎじゅつ|teknik dasar
+aviation-am|始動|しどう|menyalakan (mesin); start
+aviation-am|急性中毒|きゅうせいちゅうどく|keracunan akut
+aviation-am|急減圧|きゅうげんあつ|dekompresi mendadak
+aviation-am|指針|ししん|jarum penunjuk; pedoman
+aviation-am|最大値|さいだいち|nilai maksimum
+aviation-am|格納庫|かくのうこ|hanggar
+aviation-am|構造用|こうぞうよう|untuk struktur
+aviation-am|機内|きない|di dalam pesawat
+aviation-am|機首|きしゅ|hidung pesawat
+aviation-am|比例|ひれい|sebanding; proporsional
+aviation-am|気象|きしょう|cuaca; meteorologi
+aviation-am|温度変化|おんどへんか|perubahan suhu
+aviation-am|測定前|そくていまえ|sebelum pengukuran
+aviation-am|溝付き|みぞつき|beralur
+aviation-am|無線機|むせんき|radio komunikasi
+aviation-am|異種金属|いしゅきんぞく|logam berbeda jenis
+aviation-am|皿頭|さらあたま|kepala benam (countersunk)
+aviation-am|直流電流|ちょくりゅうでんりゅう|arus searah (DC)
+aviation-am|着陸後|ちゃくりくご|setelah mendarat
+aviation-am|磁界|じかい|medan magnet
+aviation-am|空気取り入れ口|くうきとりいれぐち|lubang masuk udara
+aviation-am|等級|とうきゅう|kelas; tingkat
+aviation-am|精密|せいみつ|presisi
+aviation-am|精密公差|せいみつこうさ|toleransi presisi
+aviation-am|系統|けいとう|sistem
+aviation-am|総合監視|そうごうかんし|pengawasan menyeluruh
+aviation-am|締付け|しめつけ|pengencangan
+aviation-am|締結一般|ていけついっぱん|dasar pengencangan (fastening)
+aviation-am|自己点検|じこてんけん|pemeriksaan sendiri
+aviation-am|衛星電話|えいせいでんわ|telepon satelit
+aviation-am|複合材料|ふくごうざいりょう|material komposit
+aviation-am|識別記号|しきべつきごう|tanda identifikasi
+aviation-am|軽微|けいび|ringan; kecil (kerusakan)
+aviation-am|送気|そうき|penyaluran udara
+aviation-am|部品番号|ぶひんばんごう|nomor komponen (part number)
+aviation-am|酸素発生器|さんそはっせいき|generator oksigen
+aviation-am|重構造|じゅうこうぞう|struktur berat
+aviation-am|重点監視|じゅうてんかんし|pengawasan prioritas
+aviation-am|防毒マスク|ぼうどくますく|masker gas
+aviation-am|離陸後|りりくご|setelah lepas landas
+aviation-am|電気系統|でんきけいとう|sistem kelistrikan
+aviation-am|電気計測一般|でんきけいそくいっぱん|dasar pengukuran listrik
+aviation-am|飛行|ひこう|penerbangan
+aviation-am|飛行中|ひこうちゅう|sedang terbang
+aviation-am|飛行前後|ひこうぜんご|sebelum dan sesudah terbang
+aviation-gh|バルクの搭降載|ばるくのとうこうさい|memuat/menurunkan bulk
+aviation-gh|一人旅|ひとりたび|bepergian sendirian
+aviation-gh|上積み制限|うわづみせいげん|batas tumpukan
+aviation-gh|中断|ちゅうだん|penghentian sementara
+aviation-gh|乗り継ぎ|のりつぎ|transit; penerbangan sambungan
+aviation-gh|乗客|じょうきゃく|penumpang
+aviation-gh|人工透析機|じんこうとうせきき|alat cuci darah
+aviation-gh|仕分け|しわけ|penyortiran
+aviation-gh|仮陸揚げ貨物|かりりくあげかもつ|kargo diturunkan sementara (transit kawasan berikat)
+aviation-gh|使用量|しようりょう|jumlah pemakaian
+aviation-gh|係員|かかりいん|petugas
+aviation-gh|保税運送|ほぜいうんそう|pengangkutan antar kawasan berikat
+aviation-gh|個数|こすう|jumlah buah
+aviation-gh|停止線|ていしせん|garis berhenti
+aviation-gh|優先順位|ゆうせんじゅんい|urutan prioritas
+aviation-gh|入国審査|にゅうこくしんさ|pemeriksaan imigrasi
+aviation-gh|冷凍品|れいとうひん|barang beku
+aviation-gh|冷却装置|れいきゃくそうち|alat pendingin
+aviation-gh|出発便|しゅっぱつびん|penerbangan keberangkatan
+aviation-gh|出発日|しゅっぱつび|tanggal berangkat
+aviation-gh|出発時刻|しゅっぱつじこく|jam berangkat
+aviation-gh|到着便|とうちゃくびん|penerbangan kedatangan
+aviation-gh|到着専用|とうちゃくせんよう|khusus kedatangan
+aviation-gh|前方下部貨物室|ぜんぽうかぶかもつしつ|ruang kargo bawah depan
+aviation-gh|前方優先|ぜんぽうゆうせん|prioritas ke depan
+aviation-gh|化粧品類|けしょうひんるい|jenis kosmetik
+aviation-gh|化粧水|けしょうすい|lotion wajah
+aviation-gh|半券|はんけん|potongan kupon tiket
+aviation-gh|危険物輸送|きけんぶつゆそう|pengangkutan barang berbahaya
+aviation-gh|厳重|げんじゅう|ketat
+aviation-gh|可燃性物質類|かねんせいぶっしつるい|zat mudah terbakar
+aviation-gh|吸気|きゅうき|hisapan udara (intake)
+aviation-gh|告示|こくじ|pemberitahuan resmi (peraturan)
+aviation-gh|国連容器|こくれんようき|wadah standar PBB
+aviation-gh|国際航空運送協会|こくさいこうくううんそうきょうかい|IATA
+aviation-gh|地上走行中|ちじょうそうこうちゅう|sedang bergerak di darat (taxi)
+aviation-gh|地上電源供給作業|ちじょうでんげんきょうきゅうさぎょう|pekerjaan memasok listrik darat
+aviation-gh|地方空港|ちほうくうこう|bandara daerah
+aviation-gh|外国貨物|がいこくかもつ|kargo internasional (belum bea cukai)
+aviation-gh|妊娠中|にんしんちゅう|sedang hamil
+aviation-gh|始発便|しはつびん|penerbangan pertama hari itu
+aviation-gh|子供連れ|こどもづれ|membawa anak
+aviation-gh|宅配|たくはい|pengiriman ke rumah (kurir)
+aviation-gh|客室用品|きゃくしつようひん|perlengkapan kabin
+aviation-gh|客観的|きゃっかんてき|objektif
+aviation-gh|審査|しんさ|pemeriksaan; penilaian
+aviation-gh|小動物|しょうどうぶつ|hewan kecil
+aviation-gh|座席|ざせき|kursi
+aviation-gh|座席以外|ざせきいがい|selain kursi
+aviation-gh|庫内作業|こないさぎょう|pekerjaan di dalam gudang
+aviation-gh|引火点|いんかてん|titik nyala
+aviation-gh|後進|こうしん|mundur
+aviation-gh|手渡し|てわたし|menyerahkan langsung dengan tangan
+aviation-gh|手荷物仕分け|てにもつしわけ|penyortiran bagasi
+aviation-gh|手荷物機移し|てにもつきうつし|pemindahan bagasi antar pesawat
+aviation-gh|承諾|しょうだく|persetujuan
+aviation-gh|指示標示|しじひょうじ|marka petunjuk
+aviation-gh|振替|ふりかえ|pemindahan (ke penerbangan lain)
+aviation-gh|接続口|せつぞくこう|lubang sambungan
+aviation-gh|搬送車|はんそうしゃ|kendaraan angkut
+aviation-gh|搭乗|とうじょう|naik pesawat (boarding)
+aviation-gh|搭乗人数|とうじょうにんずう|jumlah penumpang naik
+aviation-gh|搭乗前|とうじょうまえ|sebelum boarding
+aviation-gh|搭乗手続き|とうじょうてつづき|check-in
+aviation-gh|搭載位置|とうさいいち|posisi muat
+aviation-gh|搭載水量|とうさいすいりょう|jumlah air yang dimuat
+aviation-gh|搭載物|とうさいぶつ|muatan
+aviation-gh|搭降載作業|とうこうさいさぎょう|pekerjaan muat-bongkar
+aviation-gh|放射性物質|ほうしゃせいぶっしつ|zat radioaktif
+aviation-gh|教本|きょうほん|buku pelajaran
+aviation-gh|整備作業|せいびさぎょう|pekerjaan perawatan
+aviation-gh|旅客数|りょかくすう|jumlah penumpang
+aviation-gh|旅客機|りょかくき|pesawat penumpang
+aviation-gh|日焼け|ひやけ|terbakar matahari
+aviation-gh|最低接続時間|さいていせつぞくじかん|waktu sambung minimum (MCT)
+aviation-gh|有害物件|ゆうがいぶっけん|benda berbahaya
+aviation-gh|横積み|よこづみ|menumpuk menyamping
+aviation-gh|機体|きたい|badan pesawat
+aviation-gh|機内|きない|dalam pesawat
+aviation-gh|機内清掃作業|きないせいそうさぎょう|pekerjaan pembersihan kabin
+aviation-gh|機内誌|きないし|majalah dalam pesawat
+aviation-gh|機外|きがい|luar pesawat
+aviation-gh|機材装着|きざいそうちゃく|pemasangan peralatan ke pesawat
+aviation-gh|機移し|きうつし|pemindahan langsung antar pesawat
+aviation-gh|段数|だんすう|jumlah tingkat/tumpukan
+aviation-gh|毒物類|どくぶつるい|zat beracun
+aviation-gh|水濡れ|みずぬれ|basah terkena air
+aviation-gh|汚水用|おすいよう|untuk air kotor
+aviation-gh|清掃係|せいそうがかり|petugas kebersihan
+aviation-gh|清水用|せいすいよう|untuk air bersih
+aviation-gh|照合|しょうごう|pencocokan
+aviation-gh|爆発物|ばくはつぶつ|bahan peledak
+aviation-gh|爆破|ばくは|peledakan
+aviation-gh|特例|とくれい|pengecualian khusus
+aviation-gh|特殊貨物|とくしゅかもつ|kargo khusus
+aviation-gh|発電機|はつでんき|generator listrik
+aviation-gh|目的空港|もくてきくうこう|bandara tujuan
+aviation-gh|真後ろ|まうしろ|tepat di belakang
+aviation-gh|着眼点|ちゃくがんてん|titik perhatian
+aviation-gh|磁石|じしゃく|magnet
+aviation-gh|移動距離|いどうきょり|jarak perpindahan
+aviation-gh|税関|ぜいかん|bea cukai
+aviation-gh|税関法|ぜいかんほう|undang-undang bea cukai
+aviation-gh|稼働区域|かどうくいき|area kerja (jangkauan gerak)
+aviation-gh|精密機械|せいみつきかい|mesin presisi
+aviation-gh|経由地|けいゆち|tempat transit
+aviation-gh|給水後|きゅうすいご|setelah pengisian air
+aviation-gh|給油車|きゅうゆしゃ|truk pengisi bahan bakar
+aviation-gh|罰金|ばっきん|denda
+aviation-gh|翼端|よくたん|ujung sayap
+aviation-gh|腐食性物質|ふしょくせいぶっしつ|zat korosif
+aviation-gh|航空会社|こうくうがいしゃ|maskapai penerbangan
+aviation-gh|航空券|こうくうけん|tiket pesawat
+aviation-gh|航空輸送|こうくうゆそう|angkutan udara
+aviation-gh|航続距離|こうぞくきょり|jarak jelajah
+aviation-gh|荷役中|にやくちゅう|sedang bongkar muat
+aviation-gh|行先|ゆきさき|tujuan
+aviation-gh|見守り|みまもり|pengawasan; menjaga
+aviation-gh|規定値|きていち|nilai ketentuan
+aviation-gh|視界|しかい|jarak pandang
+aviation-gh|誘導路横断待機区域|ゆうどうろおうだんたいきくいき|area tunggu penyeberangan taxiway
+aviation-gh|誤送|ごそう|salah kirim
+aviation-gh|貨物専用機|かもつせんようき|pesawat khusus kargo
+aviation-gh|販売品|はんばいひん|barang jualan
+aviation-gh|車両通路|しゃりょうつうろ|jalur kendaraan
+aviation-gh|車輪止め|しゃりんどめ|ganjal roda (chock)
+aviation-gh|輸送方法|ゆそうほうほう|cara pengangkutan
+aviation-gh|返却|へんきゃく|pengembalian
+aviation-gh|運転許可|うんてんきょか|izin mengemudi
+aviation-gh|運送|うんそう|pengangkutan
+aviation-gh|運送事業者|うんそうじぎょうしゃ|perusahaan angkutan
+aviation-gh|運送状|うんそうじょう|surat muatan
+aviation-gh|遵守|じゅんしゅ|kepatuhan
+aviation-gh|酸化性物質類|さんかせいぶっしつるい|zat pengoksidasi
+aviation-gh|銃砲刀剣類|じゅうほうとうけんるい|senjata api dan senjata tajam
+aviation-gh|関係部署|かんけいぶしょ|bagian terkait
+aviation-gh|降雪|こうせつ|turun salju
+aviation-gh|離着陸|りちゃくりく|lepas landas dan mendarat
+aviation-gh|静電気除去|せいでんきじょきょ|penghilangan listrik statis
+aviation-gh|風通し|かぜとおし|sirkulasi udara
+aviation-gh|風速|ふうそく|kecepatan angin
+aviation-gh|飛行前|ひこうまえ|sebelum terbang
+aviation-gh|飛行後|ひこうご|setelah terbang
+aviation-gh|駐機場所|ちゅうきばしょ|tempat parkir pesawat
+aviation-gh|騒音性難聴|そうおんせいなんちょう|tuli akibat bising
+aviation-gh|高温多湿|こうおんたしつ|panas dan lembap
+aviation-gh|黄色回転灯|きいろかいてんとう|lampu putar kuning
+forestry|伐木等特別教育|ばつぼくとうとくべつきょういく|pendidikan khusus penebangan pohon
+forestry|丸太輪切り|まるたわぎり|memotong kayu gelondongan melintang
+forestry|人工数|にんくすう|jumlah tenaga kerja (orang-hari)
+forestry|伐倒前|ばっとうまえ|sebelum menebang
+forestry|正三角形植え|せいさんかっけいうえ|penanaman pola segitiga sama sisi
+forestry|筋刈り地拵え|すじがりじごしらえ|penyiapan lahan dengan tebas jalur
+forestry|組み立て作業|くみたてさぎょう|pekerjaan perakitan
+forestry|肩掛式刈払機|かたかけしきかりばらいき|mesin pemotong rumput gendong bahu
+forestry|転動|てんどう|menggelinding
+linen-supply|仕上げ作業|しあげさぎょう|pekerjaan finishing
+linen-supply|事由別分類|じゆうべつぶんるい|klasifikasi menurut penyebab
+linen-supply|日本リネンサプライ協会|にほんりねんさぷらいきょうかい|Asosiasi Linen Supply Jepang
+linen-supply|病院寝具|びょういんしんぐ|perlengkapan tidur rumah sakit
+linen-supply|試験基準|しけんきじゅん|standar ujian
+logistics|値札|ねふだ|label harga
+logistics|先入れ先出し|さきいれさきだし|masuk pertama keluar pertama (FIFO)
+logistics|受け取り|うけとり|penerimaan
+logistics|品番|ひんばん|nomor barang
+logistics|国土交通大臣|こくどこうつうだいじん|Menteri MLIT
+logistics|平積み|ひらづみ|tumpuk datar
+logistics|段数|だんすう|jumlah tingkat tumpukan
+logistics|積み重ね|つみかさね|menumpuk
+logistics|荷受け|にうけ|penerimaan barang
+logistics|追加|ついか|penambahan
+railway-vehicle|じん肺|じんぱい|pneumokoniosis (penyakit paru akibat debu)
+railway-vehicle|アーク溶接|あーくようせつ|las busur listrik
+railway-vehicle|ガス溶接|がすようせつ|las gas
+railway-vehicle|シングルアーム式|しんぐるあーむしき|tipe lengan tunggal (pantograf)
+railway-vehicle|トルク管理|とるくかんり|manajemen torsi
+railway-vehicle|プリセット式|ぷりせっとしき|tipe preset (kunci torsi)
+railway-vehicle|元空気タンク管|もとくうきたんくかん|pipa tangki udara utama
+railway-vehicle|制御装置|せいぎょそうち|perangkat kontrol
+railway-vehicle|品質検証|ひんしつけんしょう|verifikasi mutu
+railway-vehicle|員数|いんずう|jumlah buah (hitungan)
+railway-vehicle|実体配線図|じったいはいせんず|diagram pengawatan nyata
+railway-vehicle|床上運転式|ゆかうえうんてんしき|tipe dioperasikan dari lantai (crane)
+railway-vehicle|抵抗溶接|ていこうようせつ|las resistansi
+railway-vehicle|摩擦撹拌接合|まさつかくはんせつごう|friction stir welding
+railway-vehicle|整流子|せいりゅうし|komutator
+railway-vehicle|有機溶剤作業主任者|ゆうきようざいさぎょうしゅにんしゃ|penanggung jawab kerja pelarut organik
+railway-vehicle|架橋ポリエチレン|かきょうぽりえちれん|polietilena ikat silang (XLPE)
+railway-vehicle|直読式|ちょくどくしき|tipe baca langsung
+railway-vehicle|補機|ほき|peralatan bantu
+railway-vehicle|車側灯|しゃそくとう|lampu samping kereta
+railway-vehicle|防じんマスク|ぼうじんますく|masker debu
+railway-vehicle|防毒マスク|ぼうどくますく|masker gas
+railway-vehicle|集電装置|しゅうでんそうち|perangkat pengumpul arus (pantograf)
+railway-vehicle|電動発電機|でんどうはつでんき|motor-generator
+railway-vehicle|電気製図|でんきせいず|gambar teknik listrik
+railway-vehicle|静止型インバーター|せいしがたいんばーたー|inverter statis (SIV)
+recycling|事業活動|じぎょうかつどう|kegiatan usaha
+recycling|係長|かかりちょう|kepala seksi
+recycling|実務|じつむ|praktik kerja
+recycling|実務者|じつむしゃ|praktisi
+recycling|床上|ゆかうえ|di atas lantai
+recycling|役に立つ|やくにたつ|berguna
+recycling|推進者|すいしんしゃ|penggerak; promotor
+recycling|玉掛け|たまかけ|pengaitan beban (rigging crane)
+recycling|産廃|さんぱい|limbah industri (singkatan)
+recycling|開始時|かいしじ|saat mulai
+wood-industry|ねじ締め|ねじしめ|pengencangan sekrup
+wood-industry|サイクロン式|さいくろんしき|tipe siklon (penyaring debu)
+wood-industry|バグフィルター式|ばぐふぃるたーしき|tipe filter kantong
+wood-industry|中割り|なかわり|penggergajian menengah
+wood-industry|大割り|おおわり|penggergajian kasar (awal)
+wood-industry|小割り|こわり|penggergajian halus (akhir)
+wood-industry|中断|ちゅうだん|penghentian sementara
+wood-industry|乾燥機|かんそうき|mesin pengering
+wood-industry|全乾|ぜんかん|kering mutlak (oven-dry)
+wood-industry|円柱|えんちゅう|silinder
+wood-industry|円盤|えんばん|cakram
+wood-industry|再塗装|さいとそう|pengecatan ulang
+wood-industry|切欠き|きりかき|takik; potongan coak
+wood-industry|前掛け|まえかけ|celemek
+wood-industry|厚物|あつもの|bahan tebal
+wood-industry|厚物構造用合板|あつものこうぞうようごうはん|kayu lapis struktural tebal
+wood-industry|原木|げんぼく|kayu gelondongan (bahan mentah)
+wood-industry|取り外し|とりはずし|pelepasan
+wood-industry|取り除く|とりのぞく|menyingkirkan
+wood-industry|圧締|あってい|pengepresan (perekatan)
+wood-industry|奇数|きすう|bilangan ganjil
+wood-industry|平衡|へいこう|keseimbangan
+wood-industry|接線方向|せっせんほうこう|arah tangensial
+wood-industry|早材|そうざい|kayu awal (earlywood)
+wood-industry|晩材|ばんざい|kayu akhir (latewood)
+wood-industry|木取り|きどり|pola pemotongan kayu
+wood-industry|木目|もくめ|serat kayu
+wood-industry|木表|きおもて|sisi luar papan (dekat kulit)
+wood-industry|木裏|きうら|sisi dalam papan (dekat hati)
+wood-industry|板目面|いためめん|permukaan serat tangensial
+wood-industry|柾目面|まさめめん|permukaan serat radial
+wood-industry|模様|もよう|pola; motif
+wood-industry|樹皮|じゅひ|kulit kayu
+wood-industry|機械等級区分|きかいとうきゅうくぶん|penggolongan mutu dengan mesin
+wood-industry|欠点|けってん|cacat
+wood-industry|死傷者|ししょうしゃ|korban tewas dan luka
+wood-industry|炭素|たんそ|karbon
+wood-industry|玉切り|たまぎり|memotong gelondongan sesuai panjang
+wood-industry|直角方向|ちょっかくほうこう|arah tegak lurus
+wood-industry|短辺|たんぺん|sisi pendek
+wood-industry|長辺|ちょうへん|sisi panjang
+wood-industry|等級|とうきゅう|kelas mutu
+wood-industry|組み合わせ|くみあわせ|kombinasi
+wood-industry|組み立て|くみたて|perakitan
+wood-industry|蒸気式|じょうきしき|tipe uap
+wood-industry|製品チップ|せいひんちっぷ|serpih kayu produk
+wood-industry|製材所|せいざいしょ|penggergajian kayu (sawmill)
+wood-industry|製紙|せいし|pembuatan kertas
+wood-industry|設計支援|せっけいしえん|dukungan desain
+wood-industry|軸材|じくざい|kayu batang (struktur)
+wood-industry|間違い|まちがい|kesalahan
+wood-industry|防護|ぼうご|perlindungan
+wood-industry|高周波|こうしゅうは|frekuensi tinggi
+wood-industry|歩止まり|ぶどまり|rendemen (tingkat hasil)
