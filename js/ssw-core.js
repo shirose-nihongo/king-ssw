@@ -352,37 +352,83 @@ export const EXAM_SPEC = {
   "accommodation": { n: 36, img: 4, mb: 10, info: "Resmi (宿泊業技能試験センター): tulis 30 + praktik 6 = 36 soal, 60 menit." },
   "kaigo": { n: 45, img: 0, mb: 0, info: "Resmi (MHLW): 45 soal / 60 menit (tulis 40 + praktik 5), lulus ≥60%." },
   "kaigo-jp": { n: 45, img: 4, mb: 0, info: "Resmi (MHLW): 45 soal / 60 menit (tulis 40 + praktik 5), lulus ≥60%." },
-  "fishery": { n: 30, img: 0, mb: 12, info: "Ujian Latihan KING SSW (bukan format resmi): jumlah soal dan durasi ujian resmi tidak dipublikasikan. Info resmi: ambang lulus ujian 漁業 tercatat 65% (laporan pelaksanaan ujian MAFF)." },
+  "fishery": { n: 30, img: 0, mb: 12, info: "Format resmi (実施要領 1号漁業, rev. Feb 2024): tulis = benar/salah (○×), praktik = pilihan ganda (gambar/ilustrasi); lulus ≥65% total. Jumlah soal & durasi tidak dicantumkan di pedoman resmi → ujian di sini Ujian Latihan KING SSW 30 soal (NEED VERIFICATION)." },
   "auto-maintenance": { n: 30, img: 0, mb: 30, info: "Ujian Latihan KING SSW (bukan format resmi). Info resmi (MLIT): ujian tulis 30 soal ○× / 60 menit, lulus ≥65%; ujian praktik 3 tugas / 20 menit, lulus ≥60%." },
   "jaim-machine-metal": { n: 40, img: 0, mb: 30, info: "Resmi (JAIM/METI): 製造分野特定技能1号評価試験 CBT 80 menit, 40 soal (tulis 30 soal benar/salah + praktik 10 pilihan ganda), lulus tulis ≥65% dan praktik ≥60%. Soal latihan = soal resmi dari buku JAIM (hasil ekstraksi otomatis)." },
   "jaim-elec-electronic": { n: 40, img: 0, mb: 30, info: "Resmi (JAIM/METI): 製造分野特定技能1号評価試験 CBT 80 menit, 40 soal (tulis 30 soal benar/salah + praktik 10 pilihan ganda), lulus tulis ≥65% dan praktik ≥60%. Soal latihan = soal resmi dari buku JAIM (hasil ekstraksi otomatis)." },
   "jaim-metal-surface": { n: 40, img: 0, mb: 30, info: "Resmi (JAIM/METI): 製造分野特定技能1号評価試験 CBT 80 menit, 40 soal (tulis 30 soal benar/salah + praktik 10 pilihan ganda), lulus tulis ≥65% dan praktik ≥60%. Soal latihan = soal resmi dari buku JAIM (hasil ekstraksi otomatis)." },
   "forestry": { n: 30, img: 0, mb: 30, info: "Resmi (林業技能向上センター/林野庁): tulis 30 soal ○× (≥65% benar; panduan 2026 menulis 30 menit, contoh soal 2025 menulis 60 menit) + praktik chainsaw 3 tugas (tiap tugas ≥40%, total ≥60%). Soal latihan: soal contoh resmi (27 dari 30, tanpa soal bergambar) + soal buatan Shirose dari aturan praktik 2026 (perlu review ahli)." },
-  "linen-supply": { n: 20, img: 0, mb: 20, info: "Ujian Latihan KING SSW (bukan format resmi): ujian 特定技能1号 Linen Supply baru dan pedoman rincinya belum dipublikasikan. Acuan: ujian lama 技能実習評価試験 (JLSA) — tulis ○× (lembar jawab contoh 初級 20 soal, 専門級 30 soal) + praktik 仕上げ作業; syarat bahasa 1号 setara A2.2." },
+  "linen-supply": { n: 20, img: 0, mb: 20, info: "Ujian Latihan KING SSW (bukan format resmi). Pedoman ujian resmi リネンサプライ 1号 masih 準備中 → jumlah soal NEED VERIFICATION. Acuan sementara: ujian lama 技能実習評価試験 (JLSA) ○×." },
   "railway-vehicle": { n: 50, img: 0, mb: 30, info: "Resmi (JARi/MLIT 鉄道分野 車両製造 1号): ujian kertas 学科 30 soal ○× + 実技 20 soal pilihan ganda 4 opsi, total 80 menit, lulus ≥65/100 di tiap bagian. Soal latihan = buatan Shirose dari teks resmi JARi (perlu review ahli)." },
-  "aviation-gh": { n: 30, img: 0, mb: 30, info: "Resmi (JAEA): 特定技能評価試験 空港グランドハンドリング. Latihan = soal buatan Shirose dari teks resmi JAEA (bukan soal resmi) + 6 soal contoh resmi JAEA. Teks 1 (Safety & Quality) belum dimasukkan; jumlah soal & durasi ujian resmi belum diverifikasi." },
-  "aviation-am": { n: 30, img: 0, mb: 30, info: "Resmi (JAEA): 特定技能評価試験 航空機整備 — 3 科目: 基本技術(締結・電気計測), 作業安全・品質, 航空機概要. Latihan = soal buatan Shirose dari teks resmi JAEA (bukan soal resmi) + 5 soal contoh resmi JAEA; jumlah soal & durasi ujian resmi belum diverifikasi." },
-  "logistics": { n: 30, img: 0, mb: 30, info: "Ujian Latihan KING SSW (bukan soal resmi). Info resmi (MLIT): ujian 物流倉庫 1号, kertas 80 menit via perusahaan; CBT mulai Des 2026; jumlah soal resmi belum diverifikasi." },
-  "recycling": { n: 20, img: 0, mb: 20, info: "Ujian Latihan KING SSW (bukan soal resmi). Pedoman ujian resmi 資源循環 1号 belum diterbitkan pemerintah; bank soal ini masih kecil." },
+  "aviation-gh": { n: 45, img: 0, mb: 30, info: "Resmi (JAEA, ujian 1号 Ground Handling): tulis ±30 soal (○× dan pilihan, 45 menit) + praktik ±15 soal (foto/ilustrasi, 30 menit); lulus ≥65% di tiap bagian. Latihan = soal buatan Shirose dari teks resmi JAEA + 6 soal contoh resmi JAEA." },
+  "aviation-am": { n: 30, img: 0, mb: 30, info: "Resmi (JAEA, ujian 1号 Aircraft Maintenance): tulis ±30 soal (○× atau pilihan, 60 menit) + praktik foto/ilustrasi (30 menit, jumlah soal belum dipublikasikan); lulus ≥65% di tiap bagian. Full Test di sini = bagian tulis saja. Latihan = soal buatan Shirose dari teks resmi JAEA + 5 soal contoh resmi JAEA." },
+  "logistics": { n: 50, img: 0, mb: 0, info: "Resmi (MLIT, 物流倉庫分野特定技能1号評価試験実施要領 26 Okt 2026): tulis 30 soal (40 menit) + praktik 20 soal (40 menit), semua pilihan ganda; lulus tulis ≥18/30 dan praktik ≥12/20 (60%). Soal latihan = buatan Shirose (bukan soal resmi)." },
+  "recycling": { n: 20, img: 0, mb: 20, info: "Ujian Latihan KING SSW (bukan soal resmi). Pedoman ujian resmi 資源循環 1号 masih 準備中 (belum terbit per dokumen pemerintah Juli 2026) → jumlah soal NEED VERIFICATION." },
   "wood-industry": { n: 35, img: 0, mb: 32, info: "Ujian Latihan KING SSW (bukan soal resmi). Format resmi 木材産業特定技能1号測定試験: CBT, 60 menit, 35 soal (tulis 32 soal ○× + praktik 3 soal pertimbangan); huruf kanji berfurigana." },
-  "auto-transport": { n: 30, img: 0, mb: 30, info: "Ujian Latihan KING SSW (bukan format resmi; jumlah soal resmi tidak diverifikasi). Soal ditulis Shirose dari teks belajar resmi JTA (truk) dan Asosiasi Bus Jepang (bus)." },
+  "auto-transport": { n: 50, img: 0, mb: 30, opts: 3, info: "Resmi (MLIT, 実施要領 Des 2024; sama untuk truk/taksi/bus): tulis 30 soal ○× + praktik 20 soal pilihan ganda 3 opsi, total 80 menit; lulus ≥60% di tiap bagian. Soal latihan ditulis Shirose dari teks belajar resmi JTA (truk) dan Asosiasi Bus Jepang (bus)." },
 };
-/** 10 ujian penuh = sampel deterministik dari seluruh bank soal; komposisi mengikuti ujian resmi bidangnya. */
-export function fullQuizzes(pack, perQuizArg, count = 10) {
+/** Soal tambahan dari data yang sudah ada (tidak dikarang): 1 soal per kosakata (arti dari vocab.json) dan 1 soal per gambar buku (subbab asal dari figs.json). */
+export function extraItems(pack, limit = Infinity) {
+  const out = [], strip = (t) => String(t || "").replace(/\{([^|}]*)\|[^}]*\}/g, "$1");
+  const rnd = seeded(`${pack.slug}-extra`);
+  const subOf = {}; for (const ch of pack.chapters) for (const s of (ch.subs || [])) subOf[s.id] = { bab: ch.id, t: s.title || {} };
+  const vocab = (pack.vocab || []).filter(v => v.kata && v.arti);
+  const artis = [...new Set(vocab.map(v => v.arti))], kanas = [...new Set(vocab.map(v => v.kana).filter(Boolean))];
+  const cntA = {}; for (const v of vocab) cntA[v.arti] = (cntA[v.arti] || 0) + 1;
+  const seenK = new Set();
+  // ambil k elemen acak berbeda yang lolos filter, tanpa mengacak seluruh larik (cepat untuk kosakata ribuan)
+  const sample = (arr, k, ok) => { const r = [], tried = new Set(); for (let t = 0; r.length < k && t < k * 30 && tried.size < arr.length; t++) { const j = Math.floor(rnd() * arr.length); if (tried.has(j)) continue; tried.add(j); if (ok(arr[j], r)) r.push(arr[j]); } return r; };
+  for (const v of shuffle(vocab, rnd)) {
+    if (out.length >= limit) break;
+    if (seenK.has(v.kata) || artis.length < 4) continue; seenK.add(v.kata);
+    const bab = v.bab && pack.chapters.some(c => c.id === v.bab) ? v.bab : (subOf[(v.src || [])[0]]?.bab || pack.chapters[0]?.id);
+    const read = v.kana && v.kana !== v.kata ? `{${v.kata}|${v.kana}}` : v.kata, kn = v.kana && v.kana !== v.kata ? ` (${v.kana})` : "";
+    // 1) Jepang → arti
+    { const opts = shuffle([v.arti, ...sample(artis, 3, (a, r) => a !== v.arti && !r.includes(a))], rnd);
+      out.push({ q: { id: `Apa arti 「${v.kata}」${kn}?`, jp: `「${read}」の{意味|いみ}は？` }, opts: opts.map(o => ({ id: o })), a: opts.indexOf(v.arti), exp: { id: `${v.kata}${kn} = ${v.arti}.` }, bab, gen: "kosakata" }); }
+    // 2) arti → Jepang (hanya bila arti tidak dipakai kata lain, agar jawaban tunggal)
+    if (cntA[v.arti] === 1) { const others = sample(vocab, 3, (o, r) => o.kata !== v.kata && o.arti !== v.arti && !r.some(z => z.kata === o.kata || z.arti === o.arti));
+      if (others.length === 3) { const opts = shuffle([v, ...others], rnd);
+        out.push({ q: { id: `Kata Jepang untuk “${v.arti}” adalah…`, jp: `「${v.arti}」は{日本語|にほんご}で？` }, opts: opts.map(o => ({ id: o.kata, jp: o.kana && o.kana !== o.kata ? `{${o.kata}|${o.kana}}` : o.kata })), a: opts.indexOf(v), exp: { id: `${v.arti} = ${v.kata}${kn}.` }, bab, gen: "kosakata" }); } }
+    // 3) cara baca kanji
+    if (/[一-鿿]/.test(v.kata) && v.kana && v.kana !== v.kata && kanas.length >= 4) {
+      const opts = shuffle([v.kana, ...sample(kanas, 3, (k, r) => k !== v.kana && !r.includes(k) && Math.abs(k.length - v.kana.length) <= 2)], rnd);
+      out.push({ q: { id: `Cara baca 「${v.kata}」 adalah…`, jp: `「${v.kata}」の{読|よ}み{方|かた}は？` }, opts: opts.map(o => ({ id: o })), a: opts.indexOf(v.kana), exp: { id: `${v.kata} dibaca ${v.kana} (${v.arti}).` }, bab, gen: "kosakata" });
+    }
+  }
+  const figs = (pack.figs || []).filter(f => f.src && subOf[f.sub]);
+  const subs = [...new Set(figs.map(f => f.sub))];
+  if (subs.length >= 4) for (const f of figs) {
+    const opts = shuffle([f.sub, ...shuffle(subs.filter(x => x !== f.sub), rnd).slice(0, 3)], rnd);
+    out.push({ q: { id: "Gambar ini berasal dari materi subbab mana?", jp: "この{図|ず}はどの{項目|こうもく}の{内容|ないよう}ですか。" }, img: { src: f.src }, opts: opts.map(x => ({ id: strip(subOf[x].t.id), jp: subOf[x].t.jp })), a: opts.indexOf(f.sub), exp: { id: `Gambar dari subbab “${strip(subOf[f.sub].t.id)}”${f.page ? ` (buku hal. ${f.page})` : ""}.` }, bab: subOf[f.sub].bab, gen: "gambar" });
+  }
+  return out;
+}
+/** Ujian penuh: tiap soal hanya muncul di SATU paket (tidak ada soal sama antar paket). Bank resmi/latihan dipakai dulu;
+ *  bila kurang untuk 20 paket, ditambah soal kosakata & gambar (extraItems). Komposisi (gambar, ○×, opsi) mengikuti EXAM_SPEC. */
+export function fullQuizzes(pack, perQuizArg, countArg) {
   const spec = EXAM_SPEC[pack.slug] || {};
   const perQuiz = perQuizArg || spec.n || 20;
-  const pool = [];
-  for (const ch of pack.chapters) for (const q of (pack.quiz.bab?.[ch.id] || [])) { if (q.rev) continue; for (const it of q.items) pool.push({ ...it, bab: ch.id }); }   // q.rev = kuis ulangan (soalnya sudah ada di kuis subbab)
-  if (!pool.length) return [];
-  const out = [];
+  const want = countArg || 20;
+  let base = [];
+  for (const ch of pack.chapters) for (const q of (pack.quiz.bab?.[ch.id] || [])) { if (q.rev || q.kosakata) continue; for (const it of q.items) base.push({ ...it, bab: ch.id }); }   // q.rev = kuis ulangan (soalnya sudah ada di kuis subbab)
+  if (!base.length) for (const ch of pack.chapters) for (const q of (pack.quiz.bab?.[ch.id] || [])) if (!q.kosakata) for (const it of q.items) base.push({ ...it, bab: ch.id });
+  // buang soal yang teksnya kembar
+  const key = (x) => String(x.q?.id || "") + "|" + String(x.q?.jp || "");
+  const seenQ = new Set(); base = base.filter(x => !seenQ.has(key(x)) && seenQ.add(key(x)));
+  const extra = base.length >= perQuiz * want ? [] : extraItems(pack, (perQuiz * want - base.length) * 1.3 + 20).filter(x => !seenQ.has(key(x)) && seenQ.add(key(x)));
+  const all = [...base, ...extra];
+  if (!all.length) return [];
+  const count = Math.max(1, Math.min(want, Math.floor(all.length / perQuiz)));
+  const size = Math.min(perQuiz, all.length);
+  const rndG = seeded(`${pack.slug}-full`);
   const isImg = (x) => !!x.img, isMB = (x) => !!x.mb && !x.img, isMC = (x) => !x.mb && !x.img;
   const stripTags = (t) => String(t || "").replace(/\{([^|}]*)\|[^}]*\}/g, "$1");
-  /** ○× dari pilihan ganda: pasangkan soal dengan satu jawaban (benar / salah) */
   const toMB = (it, truth, rnd) => {
     const k = truth ? it.a : shuffle(it.opts.map((_, j) => j).filter(j => j !== it.a), rnd)[0];
     if (k == null) return null;
     const o = it.opts[k];
-    return { q: { id: `Benar atau salah? Soal: “${it.q.id}” Jawaban: “${o.id}”`, jp: `○か×か。「${stripTags(it.q.jp)}」→「${stripTags(o.jp)}」` },
+    return { q: { id: `Benar atau salah? Soal: “${it.q.id}” Jawaban: “${o.id}”`, jp: `○か×か。「${stripTags(it.q.jp)}」→「${stripTags(o.jp || o.id)}」` },
       opts: [{ id: "Benar (○)", jp: "○ {正|ただ}しい" }, { id: "Salah (×)", jp: "× {間違|まちが}い" }], a: truth ? 0 : 1, exp: it.exp, mb: true, bab: it.bab, ref: it.ref };
   };
   const cut = (it, nOpt, rnd) => {   // kurangi opsi (ujian resmi FM/FS: 3 pilihan)
@@ -391,21 +437,31 @@ export function fullQuizzes(pack, perQuizArg, count = 10) {
     const keep = [it.a, ...wrong].sort((x, y) => x - y);
     return { ...it, opts: keep.map(j => it.opts[j]), a: keep.indexOf(it.a) };
   };
+  // antrean global: soal asli dulu (urutan acak tetap), soal tambahan di belakang
+  const q = (f) => [...shuffle(base.filter(f), rndG), ...shuffle(extra.filter(f), rndG)];
+  const Q = { img: q(isImg), mb: q(isMB), mc: q(isMC) };
+  const out = [];
   for (let n = 1; n <= count; n++) {
     const rnd = seeded(`${pack.slug}-full-${n}`);
-    const take = (arr, k, used) => shuffle(arr.filter(x => !used.has(x)), rnd).slice(0, k);
-    const used = new Set(), pick = [];
-    const nImg = Math.min(spec.img ?? 4, pool.filter(isImg).length), nMB = spec.mb ?? 6;
-    const mbReal = take(pool.filter(isMB), nMB, used);
-    for (const grp of [take(pool.filter(isImg), nImg, used), mbReal]) for (const x of grp) { used.add(x); pick.push(x); }
-    // kekurangan ○× dibuat dari pilihan ganda (setengah benar, setengah salah)
-    const need = nMB - mbReal.length;
-    if (need > 0) for (const [i, x] of take(pool.filter(isMC), need, used).entries()) { const m = toMB(x, i % 2 === 0, rnd); if (m) { used.add(x); pick.push(m); } }
-    // sisanya pilihan ganda, dibagi merata antar bab
-    const byBab = {}; for (const it of pool.filter(x => isMC(x) && !used.has(x))) (byBab[it.bab] = byBab[it.bab] || []).push(it);
-    const keys = Object.keys(byBab).map(k => shuffle(byBab[k], rnd)); let i = 0;
-    while (pick.length < Math.min(perQuiz, pool.length) && keys.some(a => a.length)) { const it = keys[i++ % keys.length].shift(); if (it) pick.push(it); }
-    out.push({ id: `full-q${n}`, title: { id: `Ujian Penuh ${n}`, jp: `総合テスト ${n}` }, items: shuffle(pick.map(x => cut(x, spec.opts, rnd)), rnd) });
+    const left = count - n + 1, pick = [];
+    const share = (arr, k) => Math.min(k, Math.ceil(arr.length / left));
+    for (const x of Q.img.splice(0, share(Q.img, spec.img ?? 4))) pick.push(x);
+    const nMB = Math.min(spec.mb ?? 6, size - pick.length);
+    for (const x of Q.mb.splice(0, share(Q.mb, nMB))) pick.push(x);
+    let need = nMB - pick.filter(isMB).length, flip = 0;
+    while (need-- > 0 && Q.mc.length > (size - pick.length) * (left - 1)) { const m = toMB(Q.mc.shift(), flip++ % 2 === 0, rnd); if (m) pick.push(m); }
+    // sisanya pilihan ganda, merata antar bab
+    const byBab = {}; for (const it of Q.mc) (byBab[it.bab] = byBab[it.bab] || []).push(it);
+    const babs = Object.keys(byBab); let i = 0, guard = 0;
+    while (pick.length < size && Q.mc.length && guard++ < 100000) {
+      const b = byBab[babs[i++ % babs.length]]; const it = b && b.shift(); if (!it) continue;
+      Q.mc.splice(Q.mc.indexOf(it), 1); pick.push(it);
+    }
+    // kekurangan diisi dari gambar/○× sisa (tetap tanpa pengulangan)
+    for (const arr of [Q.img, Q.mb]) while (pick.length < size && arr.length) pick.push(arr.shift());
+    if (pick.length < Math.min(size, 10)) break;
+    const nn = String(n).padStart(2, "0");
+    out.push({ id: `full-q${n}`, title: { id: `Full Test ${nn}`, jp: `{総合|そうごう}テスト ${nn}` }, items: shuffle(pick.map(x => cut(x, spec.opts, rnd)), rnd) });
   }
   return out;
 }
