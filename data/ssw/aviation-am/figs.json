@@ -1,0 +1,1326 @@
+{
+ "slug": "aviation-am",
+ "note": "Gambar diekstrak otomatis dari PDF buku resmi (tools/ssw/fig_extract.py); auto:true = perlu penyuntingan manusia.",
+ "figs": [
+  {
+   "id": "aviation-am-jp-p006-0",
+   "sub": "b1s1",
+   "book": "jp",
+   "page": 6,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p006-0.webp",
+   "w": 859,
+   "h": 769,
+   "cap": {
+    "id": "Baut (Bolt)",
+    "jp": "ボルト"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 6, untuk subbab «Baut (Bolt)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト6ページ「ボルト」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p007-0",
+   "sub": "b1s1",
+   "book": "jp",
+   "page": 7,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p007-0.webp",
+   "w": 900,
+   "h": 402,
+   "cap": {
+    "id": "Baut (Bolt)",
+    "jp": "ボルト"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 7, untuk subbab «Baut (Bolt)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト7ページ「ボルト」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p007-1",
+   "sub": "b1s1",
+   "book": "jp",
+   "page": 7,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p007-1.webp",
+   "w": 507,
+   "h": 224,
+   "cap": {
+    "id": "Baut (Bolt)",
+    "jp": "ボルト"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 7, untuk subbab «Baut (Bolt)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト7ページ「ボルト」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p008-0",
+   "sub": "b1s2",
+   "book": "jp",
+   "page": 8,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p008-0.webp",
+   "w": 900,
+   "h": 204,
+   "cap": {
+    "id": "Mur (Nut)",
+    "jp": "ナット"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 8, untuk subbab «Mur (Nut)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト8ページ「ナット」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p011-0",
+   "sub": "b1s3",
+   "book": "jp",
+   "page": 11,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p011-0.webp",
+   "w": 900,
+   "h": 635,
+   "cap": {
+    "id": "Sekrup (Screw)",
+    "jp": "スクリュー"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 11, untuk subbab «Sekrup (Screw)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト11ページ「スクリュー」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p011-1",
+   "sub": "b1s3",
+   "book": "jp",
+   "page": 11,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p011-1.webp",
+   "w": 900,
+   "h": 170,
+   "cap": {
+    "id": "Sekrup (Screw)",
+    "jp": "スクリュー"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 11, untuk subbab «Sekrup (Screw)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト11ページ「スクリュー」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p014-0",
+   "sub": "b1s5",
+   "book": "jp",
+   "page": 14,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p014-0.webp",
+   "w": 900,
+   "h": 275,
+   "cap": {
+    "id": "Torsi Pengencangan & Torque Wrench",
+    "jp": "締付けトルクとトルク・レンチ"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 14, untuk subbab «Torsi Pengencangan & Torque Wrench». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト14ページ「締付けトルクとトルク・レンチ」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p016-0",
+   "sub": "b1s6",
+   "book": "jp",
+   "page": 16,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p016-0.webp",
+   "w": 811,
+   "h": 227,
+   "cap": {
+    "id": "Safety Wire",
+    "jp": "安全線のかけ方"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 16, untuk subbab «Safety Wire». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト16ページ「安全線のかけ方」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p016-1",
+   "sub": "b1s6",
+   "book": "jp",
+   "page": 16,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p016-1.webp",
+   "w": 245,
+   "h": 205,
+   "cap": {
+    "id": "Safety Wire",
+    "jp": "安全線のかけ方"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 16, untuk subbab «Safety Wire». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト16ページ「安全線のかけ方」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p017-0",
+   "sub": "b1s6",
+   "book": "jp",
+   "page": 17,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p017-0.webp",
+   "w": 696,
+   "h": 511,
+   "cap": {
+    "id": "Safety Wire",
+    "jp": "安全線のかけ方"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 17, untuk subbab «Safety Wire». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト17ページ「安全線のかけ方」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p017-1",
+   "sub": "b1s6",
+   "book": "jp",
+   "page": 17,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p017-1.webp",
+   "w": 542,
+   "h": 164,
+   "cap": {
+    "id": "Safety Wire",
+    "jp": "安全線のかけ方"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 17, untuk subbab «Safety Wire». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト17ページ「安全線のかけ方」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p017-2",
+   "sub": "b1s6",
+   "book": "jp",
+   "page": 17,
+   "y": 0.5,
+   "src": "./assets/ssw/aviation-am/fig/jp-p017-2.webp",
+   "w": 245,
+   "h": 347,
+   "cap": {
+    "id": "Safety Wire",
+    "jp": "安全線のかけ方"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 17, untuk subbab «Safety Wire». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト17ページ「安全線のかけ方」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p017-3",
+   "sub": "b1s6",
+   "book": "jp",
+   "page": 17,
+   "y": 0.65,
+   "src": "./assets/ssw/aviation-am/fig/jp-p017-3.webp",
+   "w": 292,
+   "h": 291,
+   "cap": {
+    "id": "Safety Wire",
+    "jp": "安全線のかけ方"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 17, untuk subbab «Safety Wire». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト17ページ「安全線のかけ方」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p017-4",
+   "sub": "b1s6",
+   "book": "jp",
+   "page": 17,
+   "y": 0.8,
+   "src": "./assets/ssw/aviation-am/fig/jp-p017-4.webp",
+   "w": 300,
+   "h": 301,
+   "cap": {
+    "id": "Safety Wire",
+    "jp": "安全線のかけ方"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 17, untuk subbab «Safety Wire». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト17ページ「安全線のかけ方」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p018-0",
+   "sub": "b1s7",
+   "book": "jp",
+   "page": 18,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p018-0.webp",
+   "w": 523,
+   "h": 303,
+   "cap": {
+    "id": "Cotter Pin (割ピン)",
+    "jp": "コッター・ピンによる回り止め"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 18, untuk subbab «Cotter Pin (割ピン)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト18ページ「コッター・ピンによる回り止め」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p019-0",
+   "sub": "b1s7",
+   "book": "jp",
+   "page": 19,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p019-0.webp",
+   "w": 900,
+   "h": 220,
+   "cap": {
+    "id": "Cotter Pin (割ピン)",
+    "jp": "コッター・ピンによる回り止め"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 19, untuk subbab «Cotter Pin (割ピン)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト19ページ「コッター・ピンによる回り止め」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p020-0",
+   "sub": "b1s7",
+   "book": "jp",
+   "page": 20,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p020-0.webp",
+   "w": 392,
+   "h": 373,
+   "cap": {
+    "id": "Cotter Pin (割ピン)",
+    "jp": "コッター・ピンによる回り止め"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 20, untuk subbab «Cotter Pin (割ピン)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト20ページ「コッター・ピンによる回り止め」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p021-0",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 21,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p021-0.webp",
+   "w": 442,
+   "h": 296,
+   "cap": {
+    "id": "Tester & Pengukuran Tegangan",
+    "jp": "テスター・電圧の測定"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 21, untuk subbab «Tester & Pengukuran Tegangan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト21ページ「テスター・電圧の測定」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p021-1",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 21,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p021-1.webp",
+   "w": 398,
+   "h": 397,
+   "cap": {
+    "id": "Tester & Pengukuran Tegangan",
+    "jp": "テスター・電圧の測定"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 21, untuk subbab «Tester & Pengukuran Tegangan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト21ページ「テスター・電圧の測定」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p021-2",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 21,
+   "y": 0.5,
+   "src": "./assets/ssw/aviation-am/fig/jp-p021-2.webp",
+   "w": 399,
+   "h": 345,
+   "cap": {
+    "id": "Tester & Pengukuran Tegangan",
+    "jp": "テスター・電圧の測定"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 21, untuk subbab «Tester & Pengukuran Tegangan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト21ページ「テスター・電圧の測定」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p021-3",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 21,
+   "y": 0.65,
+   "src": "./assets/ssw/aviation-am/fig/jp-p021-3.webp",
+   "w": 347,
+   "h": 403,
+   "cap": {
+    "id": "Tester & Pengukuran Tegangan",
+    "jp": "テスター・電圧の測定"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 21, untuk subbab «Tester & Pengukuran Tegangan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト21ページ「テスター・電圧の測定」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p022-0",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 22,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p022-0.webp",
+   "w": 528,
+   "h": 592,
+   "cap": {
+    "id": "Tester & Pengukuran Tegangan",
+    "jp": "テスター・電圧の測定"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 22, untuk subbab «Tester & Pengukuran Tegangan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト22ページ「テスター・電圧の測定」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p022-1",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 22,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p022-1.webp",
+   "w": 745,
+   "h": 502,
+   "cap": {
+    "id": "Tester & Pengukuran Tegangan",
+    "jp": "テスター・電圧の測定"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 22, untuk subbab «Tester & Pengukuran Tegangan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト22ページ「テスター・電圧の測定」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p032-0",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 32,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p032-0.webp",
+   "w": 707,
+   "h": 297,
+   "cap": {
+    "id": "Tujuan, Penyebab Kecelakaan",
+    "jp": "作業安全の目的・事故はなぜ起こるか"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 32, untuk subbab «Tujuan, Penyebab Kecelakaan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト32ページ「作業安全の目的・事故はなぜ起こるか」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p032-1",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 32,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p032-1.webp",
+   "w": 707,
+   "h": 300,
+   "cap": {
+    "id": "Tujuan, Penyebab Kecelakaan",
+    "jp": "作業安全の目的・事故はなぜ起こるか"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 32, untuk subbab «Tujuan, Penyebab Kecelakaan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト32ページ「作業安全の目的・事故はなぜ起こるか」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p032-2",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 32,
+   "y": 0.5,
+   "src": "./assets/ssw/aviation-am/fig/jp-p032-2.webp",
+   "w": 817,
+   "h": 495,
+   "cap": {
+    "id": "Tujuan, Penyebab Kecelakaan",
+    "jp": "作業安全の目的・事故はなぜ起こるか"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 32, untuk subbab «Tujuan, Penyebab Kecelakaan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト32ページ「作業安全の目的・事故はなぜ起こるか」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p032-3",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 32,
+   "y": 0.65,
+   "src": "./assets/ssw/aviation-am/fig/jp-p032-3.webp",
+   "w": 723,
+   "h": 366,
+   "cap": {
+    "id": "Tujuan, Penyebab Kecelakaan",
+    "jp": "作業安全の目的・事故はなぜ起こるか"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 32, untuk subbab «Tujuan, Penyebab Kecelakaan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト32ページ「作業安全の目的・事故はなぜ起こるか」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p033-0",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 33,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p033-0.webp",
+   "w": 668,
+   "h": 542,
+   "cap": {
+    "id": "Pemeriksaan Diri (1): Kesehatan, APD, Alat Pengaman, 5S",
+    "jp": "自己点検：健康管理・保護具・安全装置・整理整頓"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 33, untuk subbab «Pemeriksaan Diri (1): Kesehatan, APD, Alat Pengaman, 5S». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト33ページ「自己点検：健康管理・保護具・安全装置・整理整頓」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p033-1",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 33,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p033-1.webp",
+   "w": 411,
+   "h": 286,
+   "cap": {
+    "id": "Pemeriksaan Diri (1): Kesehatan, APD, Alat Pengaman, 5S",
+    "jp": "自己点検：健康管理・保護具・安全装置・整理整頓"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 33, untuk subbab «Pemeriksaan Diri (1): Kesehatan, APD, Alat Pengaman, 5S». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト33ページ「自己点検：健康管理・保護具・安全装置・整理整頓」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p033-2",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 33,
+   "y": 0.5,
+   "src": "./assets/ssw/aviation-am/fig/jp-p033-2.webp",
+   "w": 705,
+   "h": 539,
+   "cap": {
+    "id": "Pemeriksaan Diri (1): Kesehatan, APD, Alat Pengaman, 5S",
+    "jp": "自己点検：健康管理・保護具・安全装置・整理整頓"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 33, untuk subbab «Pemeriksaan Diri (1): Kesehatan, APD, Alat Pengaman, 5S». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト33ページ「自己点検：健康管理・保護具・安全装置・整理整頓」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p033-3",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 33,
+   "y": 0.65,
+   "src": "./assets/ssw/aviation-am/fig/jp-p033-3.webp",
+   "w": 449,
+   "h": 283,
+   "cap": {
+    "id": "Pemeriksaan Diri (1): Kesehatan, APD, Alat Pengaman, 5S",
+    "jp": "自己点検：健康管理・保護具・安全装置・整理整頓"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 33, untuk subbab «Pemeriksaan Diri (1): Kesehatan, APD, Alat Pengaman, 5S». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト33ページ「自己点検：健康管理・保護具・安全装置・整理整頓」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p033-4",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 33,
+   "y": 0.8,
+   "src": "./assets/ssw/aviation-am/fig/jp-p033-4.webp",
+   "w": 226,
+   "h": 223,
+   "cap": {
+    "id": "Pemeriksaan Diri (1): Kesehatan, APD, Alat Pengaman, 5S",
+    "jp": "自己点検：健康管理・保護具・安全装置・整理整頓"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 33, untuk subbab «Pemeriksaan Diri (1): Kesehatan, APD, Alat Pengaman, 5S». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト33ページ「自己点検：健康管理・保護具・安全装置・整理整頓」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p034-0",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 34,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p034-0.webp",
+   "w": 900,
+   "h": 581,
+   "cap": {
+    "id": "Pemeriksaan Diri (1): Kesehatan, APD, Alat Pengaman, 5S",
+    "jp": "自己点検：健康管理・保護具・安全装置・整理整頓"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 34, untuk subbab «Pemeriksaan Diri (1): Kesehatan, APD, Alat Pengaman, 5S». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト34ページ「自己点検：健康管理・保護具・安全装置・整理整頓」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p035-0",
+   "sub": "b3s3",
+   "book": "jp",
+   "page": 35,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p035-0.webp",
+   "w": 339,
+   "h": 204,
+   "cap": {
+    "id": "Pemeriksaan Diri (2): Api, Cahaya, Bahan Berbahaya, Benda Berputar, Tangki, Bising",
+    "jp": "自己点検：火気・照明・有害物・回転体・タンク内・騒音"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 35, untuk subbab «Pemeriksaan Diri (2): Api, Cahaya, Bahan Berbahaya, Benda Berputar, Tangki, Bising». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト35ページ「自己点検：火気・照明・有害物・回転体・タンク内・騒音」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p035-1",
+   "sub": "b3s3",
+   "book": "jp",
+   "page": 35,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p035-1.webp",
+   "w": 340,
+   "h": 255,
+   "cap": {
+    "id": "Pemeriksaan Diri (2): Api, Cahaya, Bahan Berbahaya, Benda Berputar, Tangki, Bising",
+    "jp": "自己点検：火気・照明・有害物・回転体・タンク内・騒音"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 35, untuk subbab «Pemeriksaan Diri (2): Api, Cahaya, Bahan Berbahaya, Benda Berputar, Tangki, Bising». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト35ページ「自己点検：火気・照明・有害物・回転体・タンク内・騒音」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p036-0",
+   "sub": "b3s3",
+   "book": "jp",
+   "page": 36,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p036-0.webp",
+   "w": 254,
+   "h": 633,
+   "cap": {
+    "id": "Pemeriksaan Diri (2): Api, Cahaya, Bahan Berbahaya, Benda Berputar, Tangki, Bising",
+    "jp": "自己点検：火気・照明・有害物・回転体・タンク内・騒音"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 36, untuk subbab «Pemeriksaan Diri (2): Api, Cahaya, Bahan Berbahaya, Benda Berputar, Tangki, Bising». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト36ページ「自己点検：火気・照明・有害物・回転体・タンク内・騒音」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p037-0",
+   "sub": "b4s1",
+   "book": "jp",
+   "page": 37,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p037-0.webp",
+   "w": 165,
+   "h": 220,
+   "cap": {
+    "id": "Kualitas Perawatan & Cacat",
+    "jp": "整備品質と不具合の関係"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 37, untuk subbab «Kualitas Perawatan & Cacat». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト37ページ「整備品質と不具合の関係」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p037-1",
+   "sub": "b4s1",
+   "book": "jp",
+   "page": 37,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p037-1.webp",
+   "w": 256,
+   "h": 221,
+   "cap": {
+    "id": "Kualitas Perawatan & Cacat",
+    "jp": "整備品質と不具合の関係"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 37, untuk subbab «Kualitas Perawatan & Cacat». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト37ページ「整備品質と不具合の関係」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p037-2",
+   "sub": "b4s1",
+   "book": "jp",
+   "page": 37,
+   "y": 0.5,
+   "src": "./assets/ssw/aviation-am/fig/jp-p037-2.webp",
+   "w": 470,
+   "h": 291,
+   "cap": {
+    "id": "Kualitas Perawatan & Cacat",
+    "jp": "整備品質と不具合の関係"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 37, untuk subbab «Kualitas Perawatan & Cacat». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト37ページ「整備品質と不具合の関係」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p038-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 38,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p038-0.webp",
+   "w": 606,
+   "h": 359,
+   "cap": {
+    "id": "Kualitas Peralatan & Manajemen Keandalan",
+    "jp": "機材品質と信頼性管理"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 38, untuk subbab «Kualitas Peralatan & Manajemen Keandalan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト38ページ「機材品質と信頼性管理」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p038-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 38,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p038-1.webp",
+   "w": 411,
+   "h": 321,
+   "cap": {
+    "id": "Kualitas Peralatan & Manajemen Keandalan",
+    "jp": "機材品質と信頼性管理"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 38, untuk subbab «Kualitas Peralatan & Manajemen Keandalan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト38ページ「機材品質と信頼性管理」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p039-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 39,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p039-0.webp",
+   "w": 823,
+   "h": 402,
+   "cap": {
+    "id": "Kualitas Peralatan & Manajemen Keandalan",
+    "jp": "機材品質と信頼性管理"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 39, untuk subbab «Kualitas Peralatan & Manajemen Keandalan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト39ページ「機材品質と信頼性管理」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p039-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 39,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p039-1.webp",
+   "w": 529,
+   "h": 334,
+   "cap": {
+    "id": "Kualitas Peralatan & Manajemen Keandalan",
+    "jp": "機材品質と信頼性管理"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 39, untuk subbab «Kualitas Peralatan & Manajemen Keandalan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト39ページ「機材品質と信頼性管理」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p040-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 40,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p040-0.webp",
+   "w": 900,
+   "h": 467,
+   "cap": {
+    "id": "Human Factor & Peningkatan Kualitas Kerja",
+    "jp": "作業品質とヒューマンファクター"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 40, untuk subbab «Human Factor & Peningkatan Kualitas Kerja». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト40ページ「作業品質とヒューマンファクター」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p041-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 41,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p041-0.webp",
+   "w": 390,
+   "h": 361,
+   "cap": {
+    "id": "Human Factor & Peningkatan Kualitas Kerja",
+    "jp": "作業品質とヒューマンファクター"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 41, untuk subbab «Human Factor & Peningkatan Kualitas Kerja». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト41ページ「作業品質とヒューマンファクター」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p042-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 42,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p042-0.webp",
+   "w": 866,
+   "h": 495,
+   "cap": {
+    "id": "Human Factor & Peningkatan Kualitas Kerja",
+    "jp": "作業品質とヒューマンファクター"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 42, untuk subbab «Human Factor & Peningkatan Kualitas Kerja». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト42ページ「作業品質とヒューマンファクター」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p042-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 42,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p042-1.webp",
+   "w": 632,
+   "h": 372,
+   "cap": {
+    "id": "Human Factor & Peningkatan Kualitas Kerja",
+    "jp": "作業品質とヒューマンファクター"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 42, untuk subbab «Human Factor & Peningkatan Kualitas Kerja». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト42ページ「作業品質とヒューマンファクター」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p053-0",
+   "sub": "b5s1",
+   "book": "jp",
+   "page": 53,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p053-0.webp",
+   "w": 718,
+   "h": 406,
+   "cap": {
+    "id": "Sistem Listrik (Electrical Power System)",
+    "jp": "電気システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 53, untuk subbab «Sistem Listrik (Electrical Power System)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト53ページ「電気システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p053-1",
+   "sub": "b5s1",
+   "book": "jp",
+   "page": 53,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p053-1.webp",
+   "w": 716,
+   "h": 446,
+   "cap": {
+    "id": "Sistem Listrik (Electrical Power System)",
+    "jp": "電気システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 53, untuk subbab «Sistem Listrik (Electrical Power System)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト53ページ「電気システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p054-0",
+   "sub": "b5s1",
+   "book": "jp",
+   "page": 54,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p054-0.webp",
+   "w": 900,
+   "h": 197,
+   "cap": {
+    "id": "Sistem Listrik (Electrical Power System)",
+    "jp": "電気システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 54, untuk subbab «Sistem Listrik (Electrical Power System)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト54ページ「電気システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p054-1",
+   "sub": "b5s1",
+   "book": "jp",
+   "page": 54,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p054-1.webp",
+   "w": 780,
+   "h": 174,
+   "cap": {
+    "id": "Sistem Listrik (Electrical Power System)",
+    "jp": "電気システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 54, untuk subbab «Sistem Listrik (Electrical Power System)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト54ページ「電気システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p056-0",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 56,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p056-0.webp",
+   "w": 897,
+   "h": 486,
+   "cap": {
+    "id": "Sistem Kontrol Penerbangan (Flight Control)",
+    "jp": "操縦システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 56, untuk subbab «Sistem Kontrol Penerbangan (Flight Control)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト56ページ「操縦システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p057-0",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 57,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p057-0.webp",
+   "w": 900,
+   "h": 752,
+   "cap": {
+    "id": "Sistem Kontrol Penerbangan (Flight Control)",
+    "jp": "操縦システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Sistem Kontrol Penerbangan (Flight Control)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「操縦システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p057-1",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 57,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p057-1.webp",
+   "w": 208,
+   "h": 183,
+   "cap": {
+    "id": "Sistem Kontrol Penerbangan (Flight Control)",
+    "jp": "操縦システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Sistem Kontrol Penerbangan (Flight Control)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「操縦システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p057-2",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 57,
+   "y": 0.5,
+   "src": "./assets/ssw/aviation-am/fig/jp-p057-2.webp",
+   "w": 361,
+   "h": 529,
+   "cap": {
+    "id": "Sistem Kontrol Penerbangan (Flight Control)",
+    "jp": "操縦システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Sistem Kontrol Penerbangan (Flight Control)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「操縦システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p057-3",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 57,
+   "y": 0.65,
+   "src": "./assets/ssw/aviation-am/fig/jp-p057-3.webp",
+   "w": 176,
+   "h": 219,
+   "cap": {
+    "id": "Sistem Kontrol Penerbangan (Flight Control)",
+    "jp": "操縦システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Sistem Kontrol Penerbangan (Flight Control)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「操縦システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p057-4",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 57,
+   "y": 0.8,
+   "src": "./assets/ssw/aviation-am/fig/jp-p057-4.webp",
+   "w": 284,
+   "h": 461,
+   "cap": {
+    "id": "Sistem Kontrol Penerbangan (Flight Control)",
+    "jp": "操縦システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Sistem Kontrol Penerbangan (Flight Control)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「操縦システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p057-5",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 57,
+   "y": 0.95,
+   "src": "./assets/ssw/aviation-am/fig/jp-p057-5.webp",
+   "w": 517,
+   "h": 164,
+   "cap": {
+    "id": "Sistem Kontrol Penerbangan (Flight Control)",
+    "jp": "操縦システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Sistem Kontrol Penerbangan (Flight Control)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「操縦システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p058-0",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 58,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p058-0.webp",
+   "w": 900,
+   "h": 822,
+   "cap": {
+    "id": "Sistem Kontrol Penerbangan (Flight Control)",
+    "jp": "操縦システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 58, untuk subbab «Sistem Kontrol Penerbangan (Flight Control)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト58ページ「操縦システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p058-1",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 58,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p058-1.webp",
+   "w": 311,
+   "h": 195,
+   "cap": {
+    "id": "Sistem Kontrol Penerbangan (Flight Control)",
+    "jp": "操縦システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 58, untuk subbab «Sistem Kontrol Penerbangan (Flight Control)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト58ページ「操縦システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p059-0",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 59,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p059-0.webp",
+   "w": 900,
+   "h": 353,
+   "cap": {
+    "id": "Sistem Kontrol Penerbangan (Flight Control)",
+    "jp": "操縦システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 59, untuk subbab «Sistem Kontrol Penerbangan (Flight Control)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト59ページ「操縦システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p060-0",
+   "sub": "b5s3",
+   "book": "jp",
+   "page": 60,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p060-0.webp",
+   "w": 800,
+   "h": 756,
+   "cap": {
+    "id": "Sistem Hidrolik (Hydraulic)",
+    "jp": "油圧システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 60, untuk subbab «Sistem Hidrolik (Hydraulic)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト60ページ「油圧システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p060-1",
+   "sub": "b5s3",
+   "book": "jp",
+   "page": 60,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-am/fig/jp-p060-1.webp",
+   "w": 900,
+   "h": 533,
+   "cap": {
+    "id": "Sistem Hidrolik (Hydraulic)",
+    "jp": "油圧システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 60, untuk subbab «Sistem Hidrolik (Hydraulic)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト60ページ「油圧システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p062-0",
+   "sub": "b5s4",
+   "book": "jp",
+   "page": 62,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p062-0.webp",
+   "w": 900,
+   "h": 219,
+   "cap": {
+    "id": "Sistem Udara Bertekanan (Pneumatic)",
+    "jp": "圧縮空気システム"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 62, untuk subbab «Sistem Udara Bertekanan (Pneumatic)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト62ページ「圧縮空気システム」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p065-0",
+   "sub": "b5s5",
+   "book": "jp",
+   "page": 65,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p065-0.webp",
+   "w": 434,
+   "h": 283,
+   "cap": {
+    "id": "Pengetahuan Umum Sistem Pesawat",
+    "jp": "航空機各システム一般知識"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 65, untuk subbab «Pengetahuan Umum Sistem Pesawat». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト65ページ「航空機各システム一般知識」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-am-jp-p066-0",
+   "sub": "b5s5",
+   "book": "jp",
+   "page": 66,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-am/fig/jp-p066-0.webp",
+   "w": 434,
+   "h": 294,
+   "cap": {
+    "id": "Pengetahuan Umum Sistem Pesawat",
+    "jp": "航空機各システム一般知識"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 66, untuk subbab «Pengetahuan Umum Sistem Pesawat». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト66ページ「航空機各システム一般知識」の図。"
+   },
+   "terms": [],
+   "auto": true
+  }
+ ]
+}

@@ -2126,6007 +2126,7024 @@
    "sumber": "JARi 学習テキスト(初版)"
   },
   {
-   "id": "rw-1577",
+   "id": "rw-3589",
    "kata": "キャンバー",
    "kana": "キャンバー",
    "arti": "camber",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "rw-1578",
+   "id": "rw-3590",
    "kata": "ダブルスキン",
    "kana": "ダブルスキン",
    "arti": "profil ekstrusi dua lapis, biaya turun",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "rw-1579",
+   "id": "rw-3591",
    "kata": "制御装置",
    "kana": "せいぎょそうち",
    "arti": "Kontrol",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "rw-1580",
+   "id": "rw-3592",
    "kata": "手前",
    "kana": "てまえてめえ",
    "arti": "sisi dekat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "rw-1581",
+   "id": "rw-3593",
    "kata": "溶接",
    "kana": "ようせつ",
    "arti": "Pengelasan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "rw-1582",
+   "id": "rw-3594",
    "kata": "自動",
    "kana": "じどう",
    "arti": "automatic",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "rw-1583",
+   "id": "rw-3595",
    "kata": "車体",
    "kana": "しゃたい",
    "arti": "Badan kereta",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "rw-1584",
+   "id": "rw-3596",
    "kata": "じん肺",
    "kana": "じんぱい",
    "arti": "pneumokoniosis (penyakit paru akibat debu)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1585",
+   "id": "rw-3597",
    "kata": "アーク溶接",
    "kana": "あーくようせつ",
    "arti": "las busur listrik",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1586",
+   "id": "rw-3598",
    "kata": "ガス溶接",
    "kana": "がすようせつ",
    "arti": "las gas",
    "cat": "Kosakata dari teks materi",
-   "bab": "bab1",
-   "src": [],
+   "bab": "bab7",
+   "src": [
+    "b7s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1587",
+   "id": "rw-3599",
    "kata": "シングルアーム式",
    "kana": "しんぐるあーむしき",
    "arti": "tipe lengan tunggal (pantograf)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1588",
+   "id": "rw-3600",
    "kata": "トルク管理",
    "kana": "とるくかんり",
    "arti": "manajemen torsi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1589",
+   "id": "rw-3601",
    "kata": "プリセット式",
    "kana": "ぷりせっとしき",
    "arti": "tipe preset (kunci torsi)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1590",
+   "id": "rw-3602",
    "kata": "元空気タンク管",
    "kana": "もとくうきたんくかん",
    "arti": "pipa tangki udara utama",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1591",
+   "id": "rw-3603",
    "kata": "品質検証",
    "kana": "ひんしつけんしょう",
    "arti": "verifikasi mutu",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1592",
+   "id": "rw-3604",
    "kata": "員数",
    "kana": "いんずう",
    "arti": "jumlah buah (hitungan)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1593",
+   "id": "rw-3605",
    "kata": "実体配線図",
    "kana": "じったいはいせんず",
    "arti": "diagram pengawatan nyata",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1594",
+   "id": "rw-3606",
    "kata": "床上運転式",
    "kana": "ゆかうえうんてんしき",
    "arti": "tipe dioperasikan dari lantai (crane)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1595",
+   "id": "rw-3607",
    "kata": "抵抗溶接",
    "kana": "ていこうようせつ",
    "arti": "las resistansi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1596",
+   "id": "rw-3608",
    "kata": "摩擦撹拌接合",
    "kana": "まさつかくはんせつごう",
    "arti": "friction stir welding",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1597",
+   "id": "rw-3609",
    "kata": "整流子",
    "kana": "せいりゅうし",
    "arti": "komutator",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1598",
+   "id": "rw-3610",
    "kata": "有機溶剤作業主任者",
    "kana": "ゆうきようざいさぎょうしゅにんしゃ",
    "arti": "penanggung jawab kerja pelarut organik",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1599",
+   "id": "rw-3611",
    "kata": "架橋ポリエチレン",
    "kana": "かきょうぽりえちれん",
    "arti": "polietilena ikat silang (XLPE)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1600",
+   "id": "rw-3612",
    "kata": "直読式",
    "kana": "ちょくどくしき",
    "arti": "tipe baca langsung",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1601",
+   "id": "rw-3613",
    "kata": "補機",
    "kana": "ほき",
    "arti": "peralatan bantu",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1602",
+   "id": "rw-3614",
    "kata": "車側灯",
    "kana": "しゃそくとう",
    "arti": "lampu samping kereta",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1603",
+   "id": "rw-3615",
    "kata": "集電装置",
    "kana": "しゅうでんそうち",
    "arti": "perangkat pengumpul arus (pantograf)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1604",
+   "id": "rw-3616",
    "kata": "電動発電機",
    "kana": "でんどうはつでんき",
    "arti": "motor-generator",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1605",
+   "id": "rw-3617",
    "kata": "電気製図",
    "kana": "でんきせいず",
    "arti": "gambar teknik listrik",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1606",
+   "id": "rw-3618",
    "kata": "静止型インバーター",
    "kana": "せいしがたいんばーたー",
    "arti": "inverter statis (SIV)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "rw-1607",
+   "id": "rw-3619",
    "kata": "ディーゼル機関車",
    "kana": "でぃーぜるきかんしゃ",
    "arti": "lokomotif diesel (Kereta api bermesin diesel)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1608",
+   "id": "rw-3620",
    "kata": "ブレーキ装置",
    "kana": "ぶれーきそうち",
    "arti": "sistem rem",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1609",
+   "id": "rw-3621",
    "kata": "プレス加工",
    "kana": "ぷれすかこう",
    "arti": "proses tekan (pembuatan dengan tekanan)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1610",
+   "id": "rw-3622",
    "kata": "一体化",
    "kana": "いったいか",
    "arti": "penyatuan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1611",
+   "id": "rw-3623",
    "kata": "一文字",
    "kana": "ひともじ",
    "arti": "satu karakter",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1612",
+   "id": "rw-3624",
    "kata": "一気",
    "kana": "いっき",
    "arti": "sekaligus",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1613",
+   "id": "rw-3625",
    "kata": "一致",
    "kana": "いっち",
    "arti": "kesepakatan; kesesuaian; keselarasan; kecocokan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1614",
+   "id": "rw-3626",
    "kata": "一般",
    "kana": "いっぱん",
    "arti": "umum",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1615",
+   "id": "rw-3627",
    "kata": "一般社団法人",
    "kana": "いっぱんしゃだんほうじん",
    "arti": "Asosiasi General Incorporated",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1616",
+   "id": "rw-3628",
    "kata": "一部",
    "kana": "いちぶ",
    "arti": "sebagian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1617",
+   "id": "rw-3629",
    "kata": "三面",
    "kana": "さんめん",
    "arti": "tiga sisi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1618",
+   "id": "rw-3630",
    "kata": "上目",
    "kana": "うわめ",
    "arti": "pandangan dari atas; pandangan superior",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1619",
+   "id": "rw-3631",
    "kata": "下地",
    "kana": "したじ",
    "arti": "tanah dasar; fondasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1620",
+   "id": "rw-3632",
    "kata": "下記",
    "kana": "かき",
    "arti": "berikut; ↔Mata di atas",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1621",
+   "id": "rw-3633",
    "kata": "不備",
    "kana": "ふび",
    "arti": "ketidaklengkapan; kekurangan; kesalahan dalam dokumen",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1622",
+   "id": "rw-3634",
    "kata": "不具合",
    "kana": "ふぐあい",
    "arti": "kerusakan; gangguan fungsi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1623",
+   "id": "rw-3635",
    "kata": "不安",
    "kana": "ふあん",
    "arti": "cemas; ragu",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1624",
+   "id": "rw-3636",
    "kata": "不安定",
    "kana": "ふあんてい",
    "arti": "tidak stabil",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1625",
+   "id": "rw-3637",
    "kata": "不完全",
    "kana": "ふかんぜん",
    "arti": "tidak lengkap; cacat",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1626",
+   "id": "rw-3638",
    "kata": "不明",
    "kana": "ふめい",
    "arti": "Tidak jelas; tidak diketahui; tidak dapat dipahami; ambigu",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1627",
+   "id": "rw-3639",
    "kata": "不正行為",
    "kana": "ふせいこうい",
    "arti": "tindakan curang; pelanggaran",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1628",
+   "id": "rw-3640",
    "kata": "不活性ガス",
    "kana": "ふかっせいがす",
    "arti": "gas inert",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1629",
+   "id": "rw-3641",
    "kata": "不要",
    "kana": "ふよう",
    "arti": "tidak perlu",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1630",
+   "id": "rw-3642",
    "kata": "不足",
    "kana": "ふそく",
    "arti": "kekurangan; kekurangan jumlah atau kuantitas; insufisiensi (dalam konteks kesehatan atau gizi)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1631",
+   "id": "rw-3643",
    "kata": "主軸",
    "kana": "しゅじく",
    "arti": "poros utama; sumbu utama",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1632",
+   "id": "rw-3644",
    "kata": "事前",
    "kana": "じぜん",
    "arti": "sebelumnya; sebelum kejadian; sebelumnya dalam persiapan; pra (sebelum suatu acara atau kejadian)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1633",
+   "id": "rw-3645",
    "kata": "事態",
    "kana": "じたい",
    "arti": "keadaan; situasi; keadaan darurat",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1634",
+   "id": "rw-3646",
    "kata": "事項",
    "kana": "じこう",
    "arti": "hal; butir ketentuan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1635",
+   "id": "rw-3647",
    "kata": "交付",
    "kana": "こうふ",
    "arti": "pemberian; distribusi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1636",
+   "id": "rw-3648",
    "kata": "交差",
    "kana": "こうさ",
    "arti": "persilangan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1637",
+   "id": "rw-3649",
    "kata": "仕上",
    "kana": "しあ",
    "arti": "menyelesaikan; finishing",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1638",
+   "id": "rw-3650",
    "kata": "仕様",
    "kana": "しよう",
    "arti": "spesifikasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1639",
+   "id": "rw-3651",
    "kata": "仕組",
    "kana": "しく",
    "arti": "struktur; konstruksi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1640",
+   "id": "rw-3652",
    "kata": "付加",
    "kana": "ふか",
    "arti": "penambahan; tambahan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1641",
+   "id": "rw-3653",
    "kata": "付近",
    "kana": "ふきん",
    "arti": "sekitar; dekat; lingkungan; area di sekitar suatu tempat",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1642",
+   "id": "rw-3654",
    "kata": "付随",
    "kana": "ふずい",
    "arti": "menyertai; terkait",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1643",
+   "id": "rw-3655",
    "kata": "以前",
    "kana": "いぜん",
    "arti": "yang lalu; sejak; sebelum",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1644",
+   "id": "rw-3656",
    "kata": "以降",
    "kana": "いこう",
    "arti": "mulai dari sekarang",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1645",
+   "id": "rw-3657",
    "kata": "任意",
    "kana": "にんい",
    "arti": "bebas; sembarang",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1646",
+   "id": "rw-3658",
    "kata": "会話",
    "kana": "かいわ",
    "arti": "percakapan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1647",
+   "id": "rw-3659",
    "kata": "位置",
    "kana": "いち",
    "arti": "posisi; tempat; lokasi; posisi tertentu dalam ruang atau waktu",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1648",
+   "id": "rw-3660",
    "kata": "低下",
    "kana": "ていか",
    "arti": "penurunan; kemerosotan dalam kualitas, fungsi, atau tingkat; pengurangan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1649",
+   "id": "rw-3661",
    "kata": "何度",
    "kana": "なんど",
    "arti": "berapa kali",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1650",
+   "id": "rw-3662",
    "kata": "余裕",
    "kana": "よゆう",
    "arti": "kelonggaran; toleransi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1651",
+   "id": "rw-3663",
    "kata": "作動",
    "kana": "さどう",
    "arti": "pengoperasian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1652",
+   "id": "rw-3664",
    "kata": "作図",
    "kana": "さくず",
    "arti": "menggambar; membuat gambar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1653",
+   "id": "rw-3665",
    "kata": "作業",
    "kana": "さぎょう",
    "arti": "pekerjaan; tugas; proses kerja",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1654",
+   "id": "rw-3666",
    "kata": "作業場",
    "kana": "さぎょうば",
    "arti": "pekerjaan; bengkel",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1655",
+   "id": "rw-3667",
    "kata": "作業後",
    "kana": "さぎょうご",
    "arti": "setelah bekerja",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1656",
+   "id": "rw-3668",
    "kata": "作用",
    "kana": "さよう",
    "arti": "tindakan; efek; pengaruh; fungsi (suatu hal dalam konteks tertentu)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1657",
+   "id": "rw-3669",
    "kata": "使用",
    "kana": "しよう",
    "arti": "penggunaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1658",
+   "id": "rw-3670",
    "kata": "使用前",
    "kana": "しようまえ",
    "arti": "sebelum dipakai",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1659",
+   "id": "rw-3671",
    "kata": "使用後",
    "kana": "しようご",
    "arti": "setelah digunakan; setelah terjadi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1660",
+   "id": "rw-3672",
    "kata": "使用時",
    "kana": "しようじ",
    "arti": "saat digunakan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1661",
+   "id": "rw-3673",
    "kata": "保守",
    "kana": "ほしゅ",
    "arti": "pemeliharaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1662",
+   "id": "rw-3674",
    "kata": "保持",
    "kana": "ほじ",
    "arti": "menahan; mempertahankan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1663",
+   "id": "rw-3675",
    "kata": "保管",
    "kana": "ほかん",
    "arti": "penyimpanan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1664",
+   "id": "rw-3676",
    "kata": "保管場所",
    "kana": "ほかんばしょ",
    "arti": "tempat penyimpanan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1665",
+   "id": "rw-3677",
    "kata": "保護",
    "kana": "ほご",
    "arti": "perlindungan; pengamanan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1666",
+   "id": "rw-3678",
    "kata": "保護メガネ",
    "kana": "ほごメガネ",
    "arti": "kacamata pelindung",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1667",
+   "id": "rw-3679",
    "kata": "個人",
    "kana": "こじん",
    "arti": "individu; orang pribadi; pribadi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1668",
+   "id": "rw-3680",
    "kata": "個数",
    "kana": "こすう",
    "arti": "jumlah; banyaknya",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1669",
+   "id": "rw-3681",
    "kata": "停止",
    "kana": "ていし",
    "arti": "berhenti",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1670",
+   "id": "rw-3682",
    "kata": "側面図",
    "kana": "そくめんず",
    "arti": "Tampak Samping (Side View)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1671",
+   "id": "rw-3683",
    "kata": "先端部",
    "kana": "せんたんぶ",
    "arti": "bagian ujung",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1672",
+   "id": "rw-3684",
    "kata": "光源",
    "kana": "こうげん",
    "arti": "sumber cahaya",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1673",
+   "id": "rw-3685",
    "kata": "具体的",
    "kana": "ぐたいてき",
    "arti": "secara konkret",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1674",
+   "id": "rw-3686",
    "kata": "内部",
    "kana": "ないぶ",
    "arti": "bagian dalam",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1675",
+   "id": "rw-3687",
    "kata": "再度",
    "kana": "さいど",
    "arti": "dua kali; lagi; kedua kalinya",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1676",
+   "id": "rw-3688",
    "kata": "処理",
    "kana": "しょり",
    "arti": "pemrosesan; pengolahan; penanganan; pengendalian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1677",
+   "id": "rw-3689",
    "kata": "出入口",
    "kana": "でいりぐち",
    "arti": "pintu keluar masuk",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1678",
+   "id": "rw-3690",
    "kata": "出来",
    "kana": "でき",
    "arti": "pengerjaan; keahlian; eksekusi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1679",
+   "id": "rw-3691",
    "kata": "刃先",
    "kana": "はさき",
    "arti": "ujung mata pisau",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1680",
+   "id": "rw-3692",
    "kata": "刃物",
    "kana": "はもの",
    "arti": "alat bermata; Alat makan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1681",
+   "id": "rw-3693",
    "kata": "分岐",
    "kana": "ぶんき",
    "arti": "percabangan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1682",
+   "id": "rw-3694",
    "kata": "分布",
    "kana": "ぶんぷ",
    "arti": "sebaran",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1683",
+   "id": "rw-3695",
    "kata": "分野",
    "kana": "ぶんや",
    "arti": "bidang; area; disiplin (ilmu)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1684",
+   "id": "rw-3696",
    "kata": "分離",
    "kana": "ぶんり",
    "arti": "memisahkan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1685",
+   "id": "rw-3697",
    "kata": "切削",
    "kana": "せっさく",
    "arti": "pemotongan; penyayatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1686",
+   "id": "rw-3698",
    "kata": "切断",
    "kana": "せつだん",
    "arti": "pemotongan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1687",
+   "id": "rw-3699",
    "kata": "切替",
    "kana": "きりかえ",
    "arti": "peralihan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1688",
+   "id": "rw-3700",
    "kata": "初版",
    "kana": "しょはん",
    "arti": "Edisi Pertama",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1689",
+   "id": "rw-3701",
    "kata": "別紙",
    "kana": "べっし",
    "arti": "lembar terpisah; dokumen tambahan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1690",
+   "id": "rw-3702",
    "kata": "利用",
    "kana": "りよう",
    "arti": "menggunakan; pemanfaatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1691",
+   "id": "rw-3703",
    "kata": "制御",
    "kana": "せいぎょ",
    "arti": "kontrol; pengendalian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1692",
+   "id": "rw-3704",
    "kata": "制止",
    "kana": "せいし",
    "arti": "penghentian; pencegahan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1693",
+   "id": "rw-3705",
    "kata": "前後",
    "kana": "ぜんご",
    "arti": "maju-mundur",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1694",
+   "id": "rw-3706",
    "kata": "前後左右",
    "kana": "ぜんごさゆう",
    "arti": "depan belakang kiri kanan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1695",
+   "id": "rw-3707",
    "kata": "加圧",
    "kana": "かあつ",
    "arti": "penekanan; pemberian tekanan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1696",
+   "id": "rw-3708",
    "kata": "加圧力",
    "kana": "かあつりょく",
    "arti": "gaya tekan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1697",
+   "id": "rw-3709",
    "kata": "加工",
    "kana": "かこう",
    "arti": "Pengolahan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1698",
+   "id": "rw-3710",
    "kata": "加工精度",
    "kana": "かこうせいど",
    "arti": "Presisi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1699",
+   "id": "rw-3711",
    "kata": "加減",
    "kana": "かげん",
    "arti": "penyesuaian; derajat; keseimbangan; volume",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1700",
+   "id": "rw-3712",
    "kata": "加熱",
    "kana": "かねつ",
    "arti": "pemanas; aplikasi panas",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1701",
+   "id": "rw-3713",
    "kata": "劣化",
    "kana": "れっか",
    "arti": "kerusakan; degradasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1702",
+   "id": "rw-3714",
    "kata": "効果",
    "kana": "こうか",
    "arti": "efek",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1703",
+   "id": "rw-3715",
    "kata": "効率化",
    "kana": "こうりつか",
    "arti": "efisiensi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1704",
+   "id": "rw-3716",
    "kata": "動作",
    "kana": "どうさ",
    "arti": "gerakan, bekerja (mesin)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1705",
+   "id": "rw-3717",
    "kata": "動機",
    "kana": "どうき",
    "arti": "dorongan atau motivasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1706",
+   "id": "rw-3718",
    "kata": "勝手",
    "kana": "かって",
    "arti": "seenaknya",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1707",
+   "id": "rw-3719",
    "kata": "区分",
    "kana": "くぶん",
    "arti": "divisi; bagian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1708",
+   "id": "rw-3720",
    "kata": "区別",
    "kana": "くべつ",
    "arti": "perbedaan; diferensiasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1709",
+   "id": "rw-3721",
    "kata": "区間",
    "kana": "くかん",
    "arti": "interval; jarak antar titik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1710",
+   "id": "rw-3722",
    "kata": "印加",
    "kana": "いんか",
    "arti": "India (nama negara)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1711",
+   "id": "rw-3723",
    "kata": "危険性",
    "kana": "きけんせい",
    "arti": "berisiko; (level) bahaya",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1712",
+   "id": "rw-3724",
    "kata": "危険物",
    "kana": "きけんぶつ",
    "arti": "barang berbahaya",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1713",
+   "id": "rw-3725",
    "kata": "原理",
    "kana": "げんり",
    "arti": "prinsip",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1714",
+   "id": "rw-3726",
    "kata": "取付",
    "kana": "とりつ",
    "arti": "instalasi; pemasangan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1715",
+   "id": "rw-3727",
    "kata": "取換",
    "kana": "とりか",
    "arti": "penggantian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1716",
+   "id": "rw-3728",
    "kata": "取替",
    "kana": "とかわ",
    "arti": "penggantian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1717",
+   "id": "rw-3729",
    "kata": "取組",
    "kana": "とりくみ",
    "arti": "pertarungan (dalam olahraga, dll.); cocok",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1718",
+   "id": "rw-3730",
    "kata": "受入",
    "kana": "うけいれ",
    "arti": "menerima; penerimaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1719",
+   "id": "rw-3731",
    "kata": "口座",
    "kana": "こうざ",
    "arti": "rekening bank",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1720",
+   "id": "rw-3732",
    "kata": "可変",
    "kana": "かへん",
    "arti": "dapat diubah",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1721",
+   "id": "rw-3733",
    "kata": "可燃性",
    "kana": "かねんせい",
    "arti": "mudah terbakar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1722",
+   "id": "rw-3734",
    "kata": "可燃性ガス",
    "kana": "かねんせいがす",
    "arti": "gas mudah terbakar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1723",
+   "id": "rw-3735",
    "kata": "可能",
    "kana": "かのう",
    "arti": "mungkin; potensi; praktis",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1724",
+   "id": "rw-3736",
    "kata": "可能性",
    "kana": "かのうせい",
    "arti": "kemampuan; kemungkinan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1725",
+   "id": "rw-3737",
    "kata": "各部",
    "kana": "かくぶ",
    "arti": "tiap bagian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1726",
+   "id": "rw-3738",
    "kata": "合否",
    "kana": "ごうひ",
    "arti": "Lulus atau tidak",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1727",
+   "id": "rw-3739",
    "kata": "合図",
    "kana": "あいず",
    "arti": "isyarat; tanda",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1728",
+   "id": "rw-3740",
    "kata": "合致",
    "kana": "がっち",
    "arti": "kesesuaian; kecocokan; persesuaian; sesuai",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1729",
+   "id": "rw-3741",
    "kata": "同士",
    "kana": "どうし",
    "arti": "sesama; teman; pasangan (dalam konteks hubungan antarpersonal)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1730",
+   "id": "rw-3742",
    "kata": "同時",
    "kana": "どうじ",
    "arti": "bersamaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1731",
+   "id": "rw-3743",
    "kata": "同期",
    "kana": "どうき",
    "arti": "rekan kerja",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1732",
+   "id": "rw-3744",
    "kata": "呼称",
    "kana": "こしょう",
    "arti": "Sebutan; nama",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1733",
+   "id": "rw-3745",
    "kata": "品質",
    "kana": "ひんしつ",
    "arti": "Kualitas",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1734",
+   "id": "rw-3746",
    "kata": "回目",
    "kana": "かいめ",
    "arti": "ke-… kali",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1735",
+   "id": "rw-3747",
    "kata": "回路",
    "kana": "かいろ",
    "arti": "sirkuit",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1736",
+   "id": "rw-3748",
    "kata": "回路図",
    "kana": "かいろず",
    "arti": "diagram rangkaian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1737",
+   "id": "rw-3749",
    "kata": "回転",
    "kana": "かいてん",
    "arti": "putaran",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1738",
+   "id": "rw-3750",
    "kata": "回転子",
    "kana": "かいてんし",
    "arti": "rotor",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1739",
+   "id": "rw-3751",
    "kata": "図形",
    "kana": "づけい",
    "arti": "bentuk; figur",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1740",
+   "id": "rw-3752",
    "kata": "図示",
    "kana": "ずし",
    "arti": "ilustrasi; gambaran",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1741",
+   "id": "rw-3753",
    "kata": "図面",
    "kana": "ずめん",
    "arti": "gambar kerja",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1742",
+   "id": "rw-3754",
    "kata": "固定",
    "kana": "こてい",
    "arti": "menetapkan, mengunci",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1743",
+   "id": "rw-3755",
    "kata": "国土",
    "kana": "こくど",
    "arti": "Wilayah negara",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1744",
+   "id": "rw-3756",
    "kata": "土台",
    "kana": "どだい",
    "arti": "dasar; fondasi; struktur dasar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1745",
+   "id": "rw-3757",
    "kata": "圧延",
    "kana": "あつえん",
    "arti": "pelipatan logam; penekanan logam (dalam industri)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1746",
+   "id": "rw-3758",
    "kata": "圧延鋼",
    "kana": "あつえんこう",
    "arti": "baja yang diproses melalui penekanan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1747",
+   "id": "rw-3759",
    "kata": "圧接",
    "kana": "あっせつ",
    "arti": "pengelasan tekan (sambungan tulangan)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1748",
+   "id": "rw-3760",
    "kata": "地面",
    "kana": "じめん",
    "arti": "permukaan tanah",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1749",
+   "id": "rw-3761",
    "kata": "基本",
    "kana": "きほん",
    "arti": "dasar; prinsip; pokok",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1750",
+   "id": "rw-3762",
    "kata": "基本ルール",
    "kana": "きほんるーる",
    "arti": "aturan dasar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1751",
+   "id": "rw-3763",
    "kata": "基本的",
    "kana": "きほんてき",
    "arti": "bersifat dasar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1752",
+   "id": "rw-3764",
    "kata": "基点",
    "kana": "きてん",
    "arti": "titik dasar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1753",
+   "id": "rw-3765",
    "kata": "基礎",
    "kana": "きそ",
    "arti": "dasar; fondasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1754",
+   "id": "rw-3766",
    "kata": "場合",
    "kana": "ばあい",
    "arti": "dalam hal, kalau",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1755",
+   "id": "rw-3767",
    "kata": "場面",
    "kana": "ばめん",
    "arti": "adegan; pengaturan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1756",
+   "id": "rw-3768",
    "kata": "塑性",
    "kana": "そせい",
    "arti": "Plastisitas",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1757",
+   "id": "rw-3769",
    "kata": "塗布",
    "kana": "とふ",
    "arti": "pengolesan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1758",
+   "id": "rw-3770",
    "kata": "塗装",
    "kana": "とそう",
    "arti": "pengecatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1759",
+   "id": "rw-3771",
    "kata": "塩化ビニル",
    "kana": "えんかびにる",
    "arti": "vinil klorida (PVC)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1760",
+   "id": "rw-3772",
    "kata": "増加",
    "kana": "ぞうか",
    "arti": "meningkatkan; bangkit; pertumbuhan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1761",
+   "id": "rw-3773",
    "kata": "変化",
    "kana": "へんか",
    "arti": "perubahan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1762",
+   "id": "rw-3774",
    "kata": "変圧器",
    "kana": "へんあつき",
    "arti": "Trafo",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1763",
+   "id": "rw-3775",
    "kata": "変速機",
    "kana": "へんそくき",
    "arti": "transmisi; gear",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1764",
+   "id": "rw-3776",
    "kata": "外形",
    "kana": "がいけい",
    "arti": "bentuk luar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b6s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1765",
+   "id": "rw-3777",
    "kata": "多機能",
    "kana": "たきのう",
    "arti": "Multifungsi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1766",
+   "id": "rw-3778",
    "kata": "姿勢",
    "kana": "しせい",
    "arti": "sikap tubuh",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1767",
+   "id": "rw-3779",
    "kata": "学科試験",
    "kana": "がっかしけん",
    "arti": "ujian tulis",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1768",
+   "id": "rw-3780",
    "kata": "安定化",
    "kana": "あんていか",
    "arti": "penstabilan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1769",
+   "id": "rw-3781",
    "kata": "定期",
    "kana": "ていき",
    "arti": "periode tetap; Istilah tetap; biasa",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1770",
+   "id": "rw-3782",
    "kata": "定期的",
    "kana": "ていきてき",
    "arti": "secara teratur; berkala",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1771",
+   "id": "rw-3783",
    "kata": "実務",
    "kana": "じつむ",
    "arti": "praktik kerja; tugas nyata",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1772",
+   "id": "rw-3784",
    "kata": "実技試験",
    "kana": "じつぎしけん",
    "arti": "ujian praktik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1773",
+   "id": "rw-3785",
    "kata": "実施",
    "kana": "じっし",
    "arti": "pelaksanaan; pelaksanaan suatu rencana atau kebijakan; implementasi; penerapan suatu proyek atau tindakan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1774",
+   "id": "rw-3786",
    "kata": "実用化",
    "kana": "じつようか",
    "arti": "komersialisasi; penerapan nyata",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1775",
+   "id": "rw-3787",
    "kata": "容易",
    "kana": "ようい",
    "arti": "mudah",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1776",
+   "id": "rw-3788",
    "kata": "密度",
    "kana": "みつど",
    "arti": "kepadatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1777",
+   "id": "rw-3789",
    "kata": "寸法",
    "kana": "すんぽう",
    "arti": "Dimensi — Hal tentang panjang",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1778",
+   "id": "rw-3790",
    "kata": "小指",
    "kana": "こゆび",
    "arti": "jari kelingking",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1779",
+   "id": "rw-3791",
    "kata": "屋根",
    "kana": "やね",
    "arti": "Atap",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1780",
+   "id": "rw-3792",
    "kata": "工具",
    "kana": "こうぐ",
    "arti": "perkakas; alat kerja",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1781",
+   "id": "rw-3793",
    "kata": "工夫",
    "kana": "くふう",
    "arti": "usaha atau kreativitas",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1782",
+   "id": "rw-3794",
    "kata": "工業",
    "kana": "こうぎょう",
    "arti": "industri",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1783",
+   "id": "rw-3795",
    "kata": "左右",
    "kana": "さゆう",
    "arti": "kiri dan kanan; dua arah; pergerakan ke kiri dan ke kanan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1784",
+   "id": "rw-3796",
    "kata": "差異",
    "kana": "さい",
    "arti": "perbedaan; selisih",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1785",
+   "id": "rw-3797",
    "kata": "差込",
    "kana": "さしこみ",
    "arti": "penyisipan; plug; outlet",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1786",
+   "id": "rw-3798",
    "kata": "希望",
    "kana": "きぼう",
    "arti": "Harapan; keinginan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1787",
+   "id": "rw-3799",
    "kata": "平面図",
    "kana": "へいめんず",
    "arti": "Tampak Atas (Top View)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1788",
+   "id": "rw-3800",
    "kata": "座面",
    "kana": "ざめん",
    "arti": "Tempat duduk; alas duduk",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1789",
+   "id": "rw-3801",
    "kata": "廃棄",
    "kana": "はいき",
    "arti": "pembuangan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1790",
+   "id": "rw-3802",
    "kata": "形骸化",
    "kana": "けいがいか",
    "arti": "kehilangan bentuk (pengaburan bentuk)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1791",
+   "id": "rw-3803",
    "kata": "役目",
    "kana": "やくめ",
    "arti": "peran; tugas; kewajiban",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1792",
+   "id": "rw-3804",
    "kata": "後部",
    "kana": "こうぶ",
    "arti": "bagian belakang",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1793",
+   "id": "rw-3805",
    "kata": "御回",
    "kana": "ごかい",
    "arti": "putaran suci",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1794",
+   "id": "rw-3806",
    "kata": "復帰",
    "kana": "ふっき",
    "arti": "kembali; pemulihan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1795",
+   "id": "rw-3807",
    "kata": "心地",
    "kana": "ここち",
    "arti": "perasaan; sensasi; suasana hati",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1796",
+   "id": "rw-3808",
    "kata": "必須",
    "kana": "ひっす",
    "arti": "wajib",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1797",
+   "id": "rw-3809",
    "kata": "悪化",
    "kana": "あっか",
    "arti": "memburuk",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1798",
+   "id": "rw-3810",
    "kata": "意図",
    "kana": "いと",
    "arti": "niat; tujuan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1799",
+   "id": "rw-3811",
    "kata": "意外",
    "kana": "いがい",
    "arti": "tak terduga; tidak disangka",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1800",
+   "id": "rw-3812",
    "kata": "意識",
    "kana": "いしき",
    "arti": "kesadaran; pengertian; perhatian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1801",
+   "id": "rw-3813",
    "kata": "手作業",
    "kana": "てさぎょう",
    "arti": "kerja manual",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1802",
+   "id": "rw-3814",
    "kata": "手抜",
    "kana": "てぬ",
    "arti": "menghilangkan langkah -langkah penting; memotong sudut",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1803",
+   "id": "rw-3815",
    "kata": "手持",
    "kana": "ても",
    "arti": "di tangan; di tangan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1804",
+   "id": "rw-3816",
    "kata": "手間",
    "kana": "てま",
    "arti": "waktu dan tenaga",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1805",
+   "id": "rw-3817",
    "kata": "打撃",
    "kana": "だげき",
    "arti": "pukulan; terkejut",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1806",
+   "id": "rw-3818",
    "kata": "技能",
    "kana": "ぎのう",
    "arti": "keterampilan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1807",
+   "id": "rw-3819",
    "kata": "把握",
    "kana": "はあく",
    "arti": "memahami; grasp; pengendalian; penguasaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1808",
+   "id": "rw-3820",
    "kata": "抵抗",
    "kana": "ていこう",
    "arti": "resistansi / resistor",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s4",
+    "b7s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1809",
+   "id": "rw-3821",
    "kata": "抵抗値",
    "kana": "ていこうち",
    "arti": "nilai hambatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1810",
+   "id": "rw-3822",
    "kata": "抵抗器",
    "kana": "ていこうき",
    "arti": "resistor",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1811",
+   "id": "rw-3823",
    "kata": "指令",
    "kana": "しれい",
    "arti": "perintah; instruksi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s5"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1812",
+   "id": "rw-3824",
    "kata": "指定",
    "kana": "してい",
    "arti": "ditentukan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1813",
+   "id": "rw-3825",
    "kata": "指導",
    "kana": "しどう",
    "arti": "bimbingan; petunjuk",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1814",
+   "id": "rw-3826",
    "kata": "指示",
    "kana": "しじ",
    "arti": "instruksi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1815",
+   "id": "rw-3827",
    "kata": "指示書",
    "kana": "しじしょ",
    "arti": "lembar instruksi kerja",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1816",
+   "id": "rw-3828",
    "kata": "指針",
    "kana": "ししん",
    "arti": "panduan; petunjuk",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1817",
+   "id": "rw-3829",
    "kata": "振込",
    "kana": "ふりこみ",
    "arti": "transfer (uang)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1818",
+   "id": "rw-3830",
    "kata": "掃除",
    "kana": "そうじ",
    "arti": "bersih-bersih",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1819",
+   "id": "rw-3831",
    "kata": "接地",
    "kana": "せっち",
    "arti": "Pentanahan/grounding — Menyambungkan peralatan listrik atau sirkuit ke tanah secara elektrik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1820",
+   "id": "rw-3832",
    "kata": "接続",
    "kana": "せつぞく",
    "arti": "koneksi; penghubungan; penyambungan (dalam konteks jaringan atau perangkat)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1821",
+   "id": "rw-3833",
    "kata": "措置",
    "kana": "そち",
    "arti": "tindakan; langkah",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1822",
+   "id": "rw-3834",
    "kata": "換気",
    "kana": "かんき",
    "arti": "pertukaran udara; ventilasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1823",
+   "id": "rw-3835",
    "kata": "摩擦",
    "kana": "まさつ",
    "arti": "gesekan; gosokan; racun",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b7s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1824",
+   "id": "rw-3836",
    "kata": "摩耗",
    "kana": "まもう",
    "arti": "keausan; aus",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1825",
+   "id": "rw-3837",
    "kata": "操作",
    "kana": "そうさ",
    "arti": "pengoperasian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1826",
+   "id": "rw-3838",
    "kata": "支持",
    "kana": "しじ",
    "arti": "dukungan; penyokong; sponsor",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1827",
+   "id": "rw-3839",
    "kata": "改善",
    "kana": "かいぜん",
    "arti": "perbaikan; peningkatan; pembenahan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1828",
+   "id": "rw-3840",
    "kata": "放置",
    "kana": "ほうち",
    "arti": "pergi seperti apa adanya; pergi sendiri; berangkat untuk kebetulan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1829",
+   "id": "rw-3841",
    "kata": "数値",
    "kana": "すうち",
    "arti": "nilai numerik; angka",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1830",
+   "id": "rw-3842",
    "kata": "数値制御",
    "kana": "すうちせいぎょ",
    "arti": "kontrol numerik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1831",
+   "id": "rw-3843",
    "kata": "数値化",
    "kana": "すうちか",
    "arti": "numerisasi; pengukuran angka",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1832",
+   "id": "rw-3844",
    "kata": "数字",
    "kana": "すうじ",
    "arti": "angka; karakter numerik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1833",
+   "id": "rw-3845",
    "kata": "文字盤",
    "kana": "もじばん",
    "arti": "Dial tulisan (jam atau alat pengukur)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1834",
+   "id": "rw-3846",
    "kata": "文章",
    "kana": "ぶんしょう",
    "arti": "teks; kalimat",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1835",
+   "id": "rw-3847",
    "kata": "断面図",
    "kana": "だんめんず",
    "arti": "gambar potongan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1836",
+   "id": "rw-3848",
    "kata": "方式",
    "kana": "ほうしき",
    "arti": "metode; sistem",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1837",
+   "id": "rw-3849",
    "kata": "施工",
    "kana": "せこう",
    "arti": "pelaksanaan konstruksi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1838",
+   "id": "rw-3850",
    "kata": "旅客",
    "kana": "りょかく",
    "arti": "penumpang",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1839",
+   "id": "rw-3851",
    "kata": "明記",
    "kana": "めいき",
    "arti": "tertulis dengan jelas",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1840",
+   "id": "rw-3852",
    "kata": "時期",
    "kana": "じき",
    "arti": "waktu; musim",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1841",
+   "id": "rw-3853",
    "kata": "最大値",
    "kana": "さいだいち",
    "arti": "nilai maksimum",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1842",
+   "id": "rw-3854",
    "kata": "有機",
    "kana": "ゆうき",
    "arti": "organik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1843",
+   "id": "rw-3855",
    "kata": "有無",
    "kana": "うむ",
    "arti": "ada atau tidak ada; keberadaan atau ketidakberadaan; kehadiran atau ketidakhadiran",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1844",
+   "id": "rw-3856",
    "kata": "期間",
    "kana": "きかん",
    "arti": "jangka waktu",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1845",
+   "id": "rw-3857",
    "kata": "未満",
    "kana": "みまん",
    "arti": "kurang dari",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1846",
+   "id": "rw-3858",
    "kata": "検査",
    "kana": "けんさ",
    "arti": "pemeriksaan; inspeksi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b5s2",
+    "b5s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1847",
+   "id": "rw-3859",
    "kata": "検査員",
    "kana": "けんさいん",
    "arti": "petugas pemeriksa; inspektur",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1848",
+   "id": "rw-3860",
    "kata": "業務",
    "kana": "ぎょうむ",
    "arti": "pekerjaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1849",
+   "id": "rw-3861",
    "kata": "構造",
    "kana": "こうぞう",
    "arti": "struktur; konstruksi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1850",
+   "id": "rw-3862",
    "kata": "機器",
    "kana": "きき",
    "arti": "perangkat; peralatan; mesin",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1851",
+   "id": "rw-3863",
    "kata": "機材",
    "kana": "きざい",
    "arti": "bagian mesin; mesin",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1852",
+   "id": "rw-3864",
    "kata": "機械",
    "kana": "きかい",
    "arti": "mesin",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b3s2",
+    "b4s3",
+    "b6s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1853",
+   "id": "rw-3865",
    "kata": "機械加工",
    "kana": "きかいかこう",
    "arti": "Pemesinan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1854",
+   "id": "rw-3866",
    "kata": "機械的",
    "kana": "きかいてき",
    "arti": "secara mekanis",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1855",
+   "id": "rw-3867",
    "kata": "機構",
    "kana": "きこう",
    "arti": "mekanisme; lembaga",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1856",
+   "id": "rw-3868",
    "kata": "機種",
    "kana": "きしゅ",
    "arti": "Model; tipe",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1857",
+   "id": "rw-3869",
    "kata": "機能",
    "kana": "きのう",
    "arti": "fungsi; kemampuan; fitur",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1858",
+   "id": "rw-3870",
    "kata": "機関",
    "kana": "きかん",
    "arti": "lembaga; mesin",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1859",
+   "id": "rw-3871",
    "kata": "機関車",
    "kana": "きかんしゃ",
    "arti": "lokomotif",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1860",
+   "id": "rw-3872",
    "kata": "次元",
    "kana": "じげん",
    "arti": "dimensi; tingkat",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1861",
+   "id": "rw-3873",
    "kata": "歩行",
    "kana": "ほこう",
    "arti": "berjalan kaki",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1862",
+   "id": "rw-3874",
    "kata": "段差",
    "kana": "だんさ",
    "arti": "perbedaan kelas (mis. Dalam go, shoji, dll; Perbedaan level",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1863",
+   "id": "rw-3875",
    "kata": "母材",
    "kana": "ぼざい",
    "arti": "logam dasar (base metal)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1864",
+   "id": "rw-3876",
    "kata": "比例",
    "kana": "ひれい",
    "arti": "proporsi; rasio",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1865",
+   "id": "rw-3877",
    "kata": "比較",
    "kana": "ひかく",
    "arti": "perbandingan; membandingkan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1866",
+   "id": "rw-3878",
    "kata": "比較的",
    "kana": "ひかくてき",
    "arti": "relatif",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1867",
+   "id": "rw-3879",
    "kata": "氏名",
    "kana": "しめい",
    "arti": "nama lengkap",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1868",
+   "id": "rw-3880",
    "kata": "気付",
    "kana": "きつけ",
    "arti": "menyadari; memperhatikan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1869",
+   "id": "rw-3881",
    "kata": "気圧",
    "kana": "きあつ",
    "arti": "tekanan udara; tekanan atmosfer",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1870",
+   "id": "rw-3882",
    "kata": "気密性",
    "kana": "きみつせい",
    "arti": "kekedapan udara",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1871",
+   "id": "rw-3883",
    "kata": "気管",
    "kana": "きかん",
    "arti": "saluran napas; tenggorokan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1872",
+   "id": "rw-3884",
    "kata": "水漏",
    "kana": "みずも",
    "arti": "(Air) bocor",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1873",
+   "id": "rw-3885",
    "kata": "水素",
    "kana": "すいそ",
    "arti": "hidrogen",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1874",
+   "id": "rw-3886",
    "kata": "油分",
    "kana": "ゆぶん",
    "arti": "kandungan minyak",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1875",
+   "id": "rw-3887",
    "kata": "油圧",
    "kana": "ゆあつ",
    "arti": "tekanan hidrolik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1876",
+   "id": "rw-3888",
    "kata": "治工具",
    "kana": "じこうぐ",
    "arti": "jig dan alat",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1877",
+   "id": "rw-3889",
    "kata": "波形",
    "kana": "はけい",
    "arti": "bentuk gelombang",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1878",
+   "id": "rw-3890",
    "kata": "添付",
    "kana": "てんぷ",
    "arti": "Lampiran; pelampiran",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1879",
+   "id": "rw-3891",
    "kata": "温度",
    "kana": "おんど",
    "arti": "suhu",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1880",
+   "id": "rw-3892",
    "kata": "測定",
    "kana": "そくてい",
    "arti": "pengukuran",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1881",
+   "id": "rw-3893",
    "kata": "測定値",
    "kana": "そくていち",
    "arti": "nilai ukur",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1882",
+   "id": "rw-3894",
    "kata": "測定器",
    "kana": "そくていき",
    "arti": "alat ukur",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1883",
+   "id": "rw-3895",
    "kata": "湿度",
    "kana": "しつど",
    "arti": "tingkat kelembaban",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1884",
+   "id": "rw-3896",
    "kata": "湿気",
    "kana": "しっけ",
    "arti": "kelembapan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1885",
+   "id": "rw-3897",
    "kata": "溶接部",
    "kana": "ようせつぶ",
    "arti": "bagian las",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1886",
+   "id": "rw-3898",
    "kata": "火気",
    "kana": "かき",
    "arti": "api terbuka",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1887",
+   "id": "rw-3899",
    "kata": "火災",
    "kana": "かさい",
    "arti": "Kebakaran",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1888",
+   "id": "rw-3900",
    "kata": "火花",
    "kana": "ひばな",
    "arti": "percikan api",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1889",
+   "id": "rw-3901",
    "kata": "炭素",
    "kana": "たんそ",
    "arti": "karbon",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1890",
+   "id": "rw-3902",
    "kata": "炭素鋼",
    "kana": "たんそこう",
    "arti": "baja karbon",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1891",
+   "id": "rw-3903",
    "kata": "無効",
    "kana": "むこう",
    "arti": "tidak berlaku; tidak sah",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1892",
+   "id": "rw-3904",
    "kata": "片刃",
    "kana": "かたは",
    "arti": "pisau bermata satu; pisau satu sisi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1893",
+   "id": "rw-3905",
    "kata": "片手",
    "kana": "かたて",
    "arti": "satu tangan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1894",
+   "id": "rw-3906",
    "kata": "物理的",
    "kana": "ぶつりてき",
    "arti": "secara fisik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1895",
+   "id": "rw-3907",
    "kata": "特別",
    "kana": "とくべつ",
    "arti": "khusus",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1896",
+   "id": "rw-3908",
    "kata": "特定技能",
    "kana": "とくていぎのう",
    "arti": "keterampilan khusus (TOKUTEI GINOU)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1897",
+   "id": "rw-3909",
    "kata": "独自",
    "kana": "どくじ",
    "arti": "keunikan, keistimewaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1898",
+   "id": "rw-3910",
    "kata": "現場",
    "kana": "げんば",
    "arti": "lokasi kerja",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1899",
+   "id": "rw-3911",
    "kata": "理解",
    "kana": "りかい",
    "arti": "memahami",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1900",
+   "id": "rw-3912",
    "kata": "用具",
    "kana": "ようぐ",
    "arti": "alat; melaksanakan; instrumen",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1901",
+   "id": "rw-3913",
    "kata": "用器具",
    "kana": "ようきぐ",
    "arti": "alat; perkakas",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1902",
+   "id": "rw-3914",
    "kata": "用語",
    "kana": "ようご",
    "arti": "istilah",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1903",
+   "id": "rw-3915",
    "kata": "用途",
    "kana": "ようと",
    "arti": "Tujuan penggunaan; Kegunaan; fungsi dari suatu barang atau kegiatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1904",
+   "id": "rw-3916",
    "kata": "異物",
    "kana": "いぶつ",
    "arti": "benda asing",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1905",
+   "id": "rw-3917",
    "kata": "疑問",
    "kana": "ぎもん",
    "arti": "pertanyaan; keraguan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1906",
+   "id": "rw-3918",
    "kata": "発揮",
    "kana": "はっき",
    "arti": "menunjukkan (kemampuan)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1907",
+   "id": "rw-3919",
    "kata": "発電機",
    "kana": "はつでんき",
    "arti": "generator listrik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1908",
+   "id": "rw-3920",
    "kata": "目安",
    "kana": "めやす",
    "arti": "patokan; acuan; ukuran",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1909",
+   "id": "rw-3921",
    "kata": "目盛",
    "kana": "めもり",
    "arti": "skala",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1910",
+   "id": "rw-3922",
    "kata": "目視",
    "kana": "もくし",
    "arti": "pengecekan dengan mata",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1911",
+   "id": "rw-3923",
    "kata": "知識",
    "kana": "ちしき",
    "arti": "pengetahuan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1912",
+   "id": "rw-3924",
    "kata": "短時間",
    "kana": "たんじかん",
    "arti": "waktu singkat",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1913",
+   "id": "rw-3925",
    "kata": "短期",
    "kana": "たんき",
    "arti": "jangka pendek",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1914",
+   "id": "rw-3926",
    "kata": "研磨",
    "kana": "けんま",
    "arti": "pengasahan; penggerindaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1915",
+   "id": "rw-3927",
    "kata": "研磨剤",
    "kana": "けんまざい",
    "arti": "bahan penggosok",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1916",
+   "id": "rw-3928",
    "kata": "研磨加工",
    "kana": "けんまかこう",
    "arti": "Penggerindaan dan pemolesan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1917",
+   "id": "rw-3929",
    "kata": "砥石",
    "kana": "といし",
    "arti": "batu asah",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1918",
+   "id": "rw-3930",
    "kata": "破壊",
    "kana": "はかい",
    "arti": "penghancuran; kehancuran; menghancurkan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1919",
+   "id": "rw-3931",
    "kata": "破損",
    "kana": "はそん",
    "arti": "kerusakan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1920",
+   "id": "rw-3932",
    "kata": "破断",
    "kana": "はだん",
    "arti": "putus; patah",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1921",
+   "id": "rw-3933",
    "kata": "破棄",
    "kana": "はき",
    "arti": "pembatalan; pembongkaran",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1922",
+   "id": "rw-3934",
    "kata": "破片",
    "kana": "はへん",
    "arti": "fragmen; Potongan yang rusak",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1923",
+   "id": "rw-3935",
    "kata": "硬化",
    "kana": "こうか",
    "arti": "pengerasan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1924",
+   "id": "rw-3936",
    "kata": "硬度",
    "kana": "こうど",
    "arti": "kekerasan; tingkat kekerasan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1925",
+   "id": "rw-3937",
    "kata": "確保",
    "kana": "かくほ",
    "arti": "memastikan; mempertahankan; menjamin",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1926",
+   "id": "rw-3938",
    "kata": "禁止",
    "kana": "きんし",
    "arti": "larangan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1927",
+   "id": "rw-3939",
    "kata": "移動",
    "kana": "いどう",
    "arti": "Perpindahan; Mobilitas; Pergerakan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1928",
+   "id": "rw-3940",
    "kata": "移動式",
    "kana": "いどうしき",
    "arti": "tipe bergerak",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1929",
+   "id": "rw-3941",
    "kata": "移行",
    "kana": "いこう",
    "arti": "Peralihan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1930",
+   "id": "rw-3942",
    "kata": "程度",
    "kana": "ていど",
    "arti": "Tingkat; derajat; taraf; kondisi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1931",
+   "id": "rw-3943",
    "kata": "種類",
    "kana": "しゅるい",
    "arti": "jenis",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1932",
+   "id": "rw-3944",
    "kata": "稼働",
    "kana": "かどう",
    "arti": "operasi (mesin); beroperasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1933",
+   "id": "rw-3945",
    "kata": "空冷",
    "kana": "くうれい",
    "arti": "pendinginan udara",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1934",
+   "id": "rw-3946",
    "kata": "空気タンク",
    "kana": "くうきたんく",
    "arti": "tabung udara",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s5"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1935",
+   "id": "rw-3947",
    "kata": "立入",
    "kana": "たちい",
    "arti": "masuk; pergi ke",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1936",
+   "id": "rw-3948",
    "kata": "立場",
    "kana": "たちば",
    "arti": "posisi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1937",
+   "id": "rw-3949",
    "kata": "端子",
    "kana": "たんし",
    "arti": "terminal",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b5s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1938",
+   "id": "rw-3950",
    "kata": "端部",
    "kana": "たんぶ",
    "arti": "bagian ujung",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1939",
+   "id": "rw-3951",
    "kata": "箇所",
    "kana": "かしょ",
    "arti": "bagian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1940",
+   "id": "rw-3952",
    "kata": "管理",
    "kana": "かんり",
    "arti": "pengelolaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b4s1",
+    "b5s1",
+    "b5s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1941",
+   "id": "rw-3953",
    "kata": "範囲",
    "kana": "はんい",
    "arti": "area; jangkauan; batas; ruang lingkup",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1942",
+   "id": "rw-3954",
    "kata": "粗目",
    "kana": "ざらめ",
    "arti": "kasar (tekstur); besar (ukuran)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1943",
+   "id": "rw-3955",
    "kata": "精度",
    "kana": "せいど",
    "arti": "ketelitian; presisi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1944",
+   "id": "rw-3956",
    "kata": "納付",
    "kana": "のうふ",
    "arti": "pembayaran; penyerahan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1945",
+   "id": "rw-3957",
    "kata": "納付期限",
    "kana": "のうふきげん",
    "arti": "batas pembayaran",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1946",
+   "id": "rw-3958",
    "kata": "納期",
    "kana": "のうき",
    "arti": "tenggat waktu pengiriman",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1947",
+   "id": "rw-3959",
    "kata": "素子",
    "kana": "そし",
    "arti": "elemen; komponen",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1948",
+   "id": "rw-3960",
    "kata": "素材",
    "kana": "そざい",
    "arti": "bahan; materi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1949",
+   "id": "rw-3961",
    "kata": "細工",
    "kana": "さいく",
    "arti": "Pekerjaan tangan; kerajinan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1950",
+   "id": "rw-3962",
    "kata": "細目",
    "kana": "さいめ",
    "arti": "mata jaring halus",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1951",
+   "id": "rw-3963",
    "kata": "組立",
    "kana": "くみた",
    "arti": "konstruksi; kerangka",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1952",
+   "id": "rw-3964",
    "kata": "組織",
    "kana": "そしき",
    "arti": "organisasi; susunan; struktur",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1953",
+   "id": "rw-3965",
    "kata": "経路",
    "kana": "けいろ",
    "arti": "rute",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1954",
+   "id": "rw-3966",
    "kata": "経過",
    "kana": "けいか",
    "arti": "waktu yang berlalu",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1955",
+   "id": "rw-3967",
    "kata": "結果",
    "kana": "けっか",
    "arti": "hasil; konsekuensi; memengaruhi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1956",
+   "id": "rw-3968",
    "kata": "絶縁",
    "kana": "ぜつえん",
    "arti": "Isolasi — Mencegah arus mengalir dari suatu bagian di mana listrik mengalir ke bagian lain",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1957",
+   "id": "rw-3969",
    "kata": "継手",
    "kana": "つぎて",
    "arti": "sambungan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1958",
+   "id": "rw-3970",
    "kata": "維持",
    "kana": "いじ",
    "arti": "mempertahankan; mempertahankan kondisi; menjaga",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1959",
+   "id": "rw-3971",
    "kata": "締付",
    "kana": "しめづけ",
    "arti": "pengikatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1960",
+   "id": "rw-3972",
    "kata": "締込",
    "kana": "しめこみ",
    "arti": "ikatan (pakaian)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1961",
+   "id": "rw-3973",
    "kata": "置換",
    "kana": "ちかん",
    "arti": "penggantian; substitusi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1962",
+   "id": "rw-3974",
    "kata": "義務",
    "kana": "ぎむ",
    "arti": "kewajiban; tanggung jawab",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1963",
+   "id": "rw-3975",
    "kata": "耐候性",
    "kana": "たいこうせい",
    "arti": "tahan cuaca",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1964",
+   "id": "rw-3976",
    "kata": "自体",
    "kana": "じたい",
    "arti": "sendiri; tubuh sendiri",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1965",
+   "id": "rw-3977",
    "kata": "自分",
    "kana": "じぶん",
    "arti": "diri sendiri",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1966",
+   "id": "rw-3978",
    "kata": "自動化",
    "kana": "じどうか",
    "arti": "otomatisasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1967",
+   "id": "rw-3979",
    "kata": "自動的",
    "kana": "じどうてき",
    "arti": "otomatis",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1968",
+   "id": "rw-3980",
    "kata": "自由自在",
    "kana": "じゆうじざい",
    "arti": "bebas; leluasa",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1969",
+   "id": "rw-3981",
    "kata": "自身",
    "kana": "じしん",
    "arti": "diri sendiri",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1970",
+   "id": "rw-3982",
    "kata": "英語",
    "kana": "えいご",
    "arti": "bahasa Inggris",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1971",
+   "id": "rw-3983",
    "kata": "落下",
    "kana": "らっか",
    "arti": "penempatan; penataan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1972",
+   "id": "rw-3984",
    "kata": "落下防止",
    "kana": "らっかぼうし",
    "arti": "pencegahan jatuh benda",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1973",
+   "id": "rw-3985",
    "kata": "蓄電池",
    "kana": "ちくでんち",
    "arti": "aki",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1974",
+   "id": "rw-3986",
    "kata": "薄刃",
    "kana": "うすば",
    "arti": "pisau tipis",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1975",
+   "id": "rw-3987",
    "kata": "薄肉",
    "kana": "うすにく",
    "arti": "merah muda",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1976",
+   "id": "rw-3988",
    "kata": "衣服",
    "kana": "いふく",
    "arti": "pakaian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1977",
+   "id": "rw-3989",
    "kata": "被覆",
    "kana": "ひふく",
    "arti": "Pelapis — Mengacu pada bagian vinil atau isolasi yang menutupi kawat inti",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1978",
+   "id": "rw-3990",
    "kata": "被覆材",
    "kana": "ひふくざい",
    "arti": "bahan pelapis",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1979",
+   "id": "rw-3991",
    "kata": "装備",
    "kana": "そうび",
    "arti": "perlengkapan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1980",
+   "id": "rw-3992",
    "kata": "装置",
    "kana": "そうち",
    "arti": "perangkat; alat",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1981",
+   "id": "rw-3993",
    "kata": "補助",
    "kana": "ほじょ",
    "arti": "bantuan; pembantu",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1982",
+   "id": "rw-3994",
    "kata": "補助記号",
    "kana": "ほじょきごう",
    "arti": "tanda bantu; simbol tambahan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1983",
+   "id": "rw-3995",
    "kata": "製図",
    "kana": "せいず",
    "arti": "Gambar Teknik (Drafting)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b6s1",
+    "b6s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1984",
+   "id": "rw-3996",
    "kata": "製造",
    "kana": "せいぞう",
    "arti": "produksi; pembuatan; hasil pembuatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1985",
+   "id": "rw-3997",
    "kata": "要素",
    "kana": "ようそ",
    "arti": "elemen; unsur; faktor",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1986",
+   "id": "rw-3998",
    "kata": "見落",
    "kana": "みお",
    "arti": "pengawasan; kelalaian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1987",
+   "id": "rw-3999",
    "kata": "見込",
    "kana": "みこみ",
    "arti": "harapan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1988",
+   "id": "rw-4000",
    "kata": "規定",
    "kana": "きてい",
    "arti": "peraturan; ketentuan; norma",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1989",
+   "id": "rw-4001",
    "kata": "規格",
    "kana": "きかく",
    "arti": "standar; norma",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1990",
+   "id": "rw-4002",
    "kata": "視差",
    "kana": "しさ",
    "arti": "parallax; perbedaan sudut pandang",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1991",
+   "id": "rw-4003",
    "kata": "視点",
    "kana": "してん",
    "arti": "sudut pandang",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1992",
+   "id": "rw-4004",
    "kata": "視覚的",
    "kana": "しかくてき",
    "arti": "visual; yang berkaitan dengan penglihatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1993",
+   "id": "rw-4005",
    "kata": "角度",
    "kana": "かくど",
    "arti": "sudut; perspektif; pemahaman",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1994",
+   "id": "rw-4006",
    "kata": "解答欄",
    "kana": "かいとうらん",
    "arti": "kolom jawaban",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1995",
+   "id": "rw-4007",
    "kata": "言語",
    "kana": "げんご",
    "arti": "bahasa; bahasa manusia",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1996",
+   "id": "rw-4008",
    "kata": "記入",
    "kana": "きにゅう",
    "arti": "menulis (mengisi)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1997",
+   "id": "rw-4009",
    "kata": "記号",
    "kana": "きごう",
    "arti": "simbol",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b6s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1998",
+   "id": "rw-4010",
    "kata": "記憶",
    "kana": "きおく",
    "arti": "ingatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-1999",
+   "id": "rw-4011",
    "kata": "記載",
    "kana": "きさい",
    "arti": "sebutkan (dalam dokumen); catatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2000",
+   "id": "rw-4012",
    "kata": "記録",
    "kana": "きろく",
    "arti": "rekaman; menit",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2001",
+   "id": "rw-4013",
    "kata": "設定",
    "kana": "せってい",
    "arti": "Pengaturan; setelan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2002",
+   "id": "rw-4014",
    "kata": "設置",
    "kana": "せっち",
    "arti": "Pemasangan; penempatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2003",
+   "id": "rw-4015",
    "kata": "設計図",
    "kana": "せっけいず",
    "arti": "gambar rencana",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2004",
+   "id": "rw-4016",
    "kata": "許可",
    "kana": "きょか",
    "arti": "izin; persetujuan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2005",
+   "id": "rw-4017",
    "kata": "評価試験",
    "kana": "ひょうかしけん",
    "arti": "ujian penilaian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2006",
+   "id": "rw-4018",
    "kata": "試運転",
    "kana": "しうんてん",
    "arti": "uji coba mesin",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2007",
+   "id": "rw-4019",
    "kata": "試験",
    "kana": "しけん",
    "arti": "ujian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2008",
+   "id": "rw-4020",
    "kata": "試験片",
    "kana": "しけんへん",
    "arti": "sampel ujian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2009",
+   "id": "rw-4021",
    "kata": "試験科目",
    "kana": "しけんかもく",
    "arti": "Mata pelajaran ujian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2010",
+   "id": "rw-4022",
    "kata": "試験結果",
    "kana": "しけんけっか",
    "arti": "hasil pengujian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2011",
+   "id": "rw-4023",
    "kata": "誘導電動機",
    "kana": "ゆうどうでんどうき",
    "arti": "motor induksi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2012",
+   "id": "rw-4024",
    "kata": "誤差",
    "kana": "ごさ",
    "arti": "galat; selisih",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2013",
+   "id": "rw-4025",
    "kata": "説明",
    "kana": "せつめい",
    "arti": "penjelasan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2014",
+   "id": "rw-4026",
    "kata": "読取",
    "kana": "よみと",
    "arti": "pembacaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2015",
+   "id": "rw-4027",
    "kata": "読図",
    "kana": "どくず",
    "arti": "membaca peta (membaca peta)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2016",
+   "id": "rw-4028",
    "kata": "議会",
    "kana": "ぎかい",
    "arti": "dewan legislatif; parlemen",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2017",
+   "id": "rw-4029",
    "kata": "負担",
    "kana": "ふたん",
    "arti": "beban; tanggung jawab",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2018",
+   "id": "rw-4030",
    "kata": "負荷",
    "kana": "ふか",
    "arti": "beban; beban (mis. Waktu CPU, listrik, dll.)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2019",
+   "id": "rw-4031",
    "kata": "貨物",
    "kana": "かもつ",
    "arti": "barang muatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2020",
+   "id": "rw-4032",
    "kata": "貨物車",
    "kana": "かもつしゃ",
    "arti": "gerbong barang",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2021",
+   "id": "rw-4033",
    "kata": "責務",
    "kana": "せきむ",
    "arti": "kewajiban",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2022",
+   "id": "rw-4034",
    "kata": "資材",
    "kana": "しざい",
    "arti": "material",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2023",
+   "id": "rw-4035",
    "kata": "資格",
    "kana": "しかく",
    "arti": "kualifikasi; sertifikat",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2024",
+   "id": "rw-4036",
    "kata": "距離",
    "kana": "きょり",
    "arti": "jarak",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2025",
+   "id": "rw-4037",
    "kata": "路線",
    "kana": "ろせん",
    "arti": "rute; garis; jalur yang ditentukan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2026",
+   "id": "rw-4038",
    "kata": "身体",
    "kana": "からだ",
    "arti": "tubuh",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2027",
+   "id": "rw-4039",
    "kata": "身分事項",
    "kana": "みぶんじこう",
    "arti": "data identitas",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2028",
+   "id": "rw-4040",
    "kata": "車両",
    "kana": "しゃりょう",
    "arti": "rolling stock; mobil kereta api",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2029",
+   "id": "rw-4041",
    "kata": "車軸",
    "kana": "しゃじく",
    "arti": "poros roda",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2030",
+   "id": "rw-4042",
    "kata": "車輌",
    "kana": "しゃりょう",
    "arti": "kendaraan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2031",
+   "id": "rw-4043",
    "kata": "軌道",
    "kana": "きどう",
    "arti": "orbit; jalur",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2032",
+   "id": "rw-4044",
    "kata": "軟鋼",
    "kana": "なんこう",
    "arti": "baja lunak",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2033",
+   "id": "rw-4045",
    "kata": "輪子",
    "kana": "わこ",
    "arti": "roda",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2034",
+   "id": "rw-4046",
    "kata": "送付",
    "kana": "そうふ",
    "arti": "pengiriman; pengiriman dokumen",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2035",
+   "id": "rw-4047",
    "kata": "通知",
    "kana": "つうち",
    "arti": "pemberitahuan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2036",
+   "id": "rw-4048",
    "kata": "通過",
    "kana": "つうか",
    "arti": "melewati (terowongan, stasiun, kota, dll.); lewat (mis. dari topan)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2037",
+   "id": "rw-4049",
    "kata": "速度",
    "kana": "そくど",
    "arti": "kecepatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2038",
+   "id": "rw-4050",
    "kata": "過程",
    "kana": "かてい",
    "arti": "proses; tahapan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2039",
+   "id": "rw-4051",
    "kata": "適合",
    "kana": "てきごう",
    "arti": "sesuai; cocok",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2040",
+   "id": "rw-4052",
    "kata": "部分",
    "kana": "ぶぶん",
    "arti": "bagian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2041",
+   "id": "rw-4053",
    "kata": "部品",
    "kana": "ぶひん",
    "arti": "bagian; aksesoris",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2042",
+   "id": "rw-4054",
    "kata": "部材",
    "kana": "ぶざい",
    "arti": "komponen; elemen struktur",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2043",
+   "id": "rw-4055",
    "kata": "部門",
    "kana": "ぶもん",
    "arti": "divisi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2044",
+   "id": "rw-4056",
    "kata": "配線図",
    "kana": "はいせんず",
    "arti": "diagram rangkaian listrik (Skema kabel)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2045",
+   "id": "rw-4057",
    "kata": "配置",
    "kana": "はいち",
    "arti": "pengaturan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2046",
+   "id": "rw-4058",
    "kata": "酸素",
    "kana": "さんそ",
    "arti": "oksigen (o)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2047",
+   "id": "rw-4059",
    "kata": "金具",
    "kana": "かなぐ",
    "arti": "besi aksesori",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2048",
+   "id": "rw-4060",
    "kata": "鉄工",
    "kana": "てっこう",
    "arti": "pekerjaan besi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2049",
+   "id": "rw-4061",
    "kata": "鉄道",
    "kana": "てつどう",
    "arti": "kereta api",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2050",
+   "id": "rw-4062",
    "kata": "開始",
    "kana": "かいし",
    "arti": "mulai; permulaan; pengenalan; awal",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2051",
+   "id": "rw-4063",
    "kata": "開始時刻",
    "kana": "かいしじこく",
    "arti": "waktu mulai",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2052",
+   "id": "rw-4064",
    "kata": "防止",
    "kana": "ぼうし",
    "arti": "pencegahan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2053",
+   "id": "rw-4065",
    "kata": "限度",
    "kana": "げんど",
    "arti": "membatasi; batas",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2054",
+   "id": "rw-4066",
    "kata": "隙間",
    "kana": "すきま",
    "arti": "celah",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2055",
+   "id": "rw-4067",
    "kata": "雇用",
    "kana": "こよう",
    "arti": "ketenagakerjaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2056",
+   "id": "rw-4068",
    "kata": "難易度",
    "kana": "なんいど",
    "arti": "tingkat kesulitan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2057",
+   "id": "rw-4069",
    "kata": "電動",
    "kana": "でんどう",
    "arti": "elektrik; bertenaga listrik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s4",
+    "b4s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2058",
+   "id": "rw-4070",
    "kata": "電動機",
    "kana": "でんどうき",
    "arti": "motor listrik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2059",
+   "id": "rw-4071",
    "kata": "電化",
    "kana": "でんか",
    "arti": "elektrifikasi; pengaliran listrik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2060",
+   "id": "rw-4072",
    "kata": "電子メール",
    "kana": "でんしめーる",
    "arti": "email",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2061",
+   "id": "rw-4073",
    "kata": "電子機器",
    "kana": "でんしきき",
    "arti": "perangkat elektronik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2062",
+   "id": "rw-4074",
    "kata": "電子部品",
    "kana": "でんしぶひん",
    "arti": "Komponen Elektronik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2063",
+   "id": "rw-4075",
    "kata": "電機",
    "kana": "でんき",
    "arti": "mesin listrik; motor",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2064",
+   "id": "rw-4076",
    "kata": "電気回路",
    "kana": "でんきかいろ",
    "arti": "sirkuit listrik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2065",
+   "id": "rw-4077",
    "kata": "電気式",
    "kana": "でんきしき",
    "arti": "listrik; berbasis listrik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2066",
+   "id": "rw-4078",
    "kata": "電気機器",
    "kana": "でんききき",
    "arti": "peralatan listrik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2067",
+   "id": "rw-4079",
    "kata": "電気機関車",
    "kana": "でんききかんしゃ",
    "arti": "lokomotif listrik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2068",
+   "id": "rw-4080",
    "kata": "電気用",
    "kana": "でんきよう",
    "arti": "untuk kelistrikan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2069",
+   "id": "rw-4081",
    "kata": "電気的",
    "kana": "でんきてき",
    "arti": "secara elektrik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2070",
+   "id": "rw-4082",
    "kata": "電磁",
    "kana": "でんじ",
    "arti": "elektromagnetik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2071",
+   "id": "rw-4083",
    "kata": "静止",
    "kana": "せいし",
    "arti": "berhenti; diam",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2072",
+   "id": "rw-4084",
    "kata": "項目",
    "kana": "こうもく",
    "arti": "butir; item",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2073",
+   "id": "rw-4085",
    "kata": "順番",
    "kana": "じゅんばん",
    "arti": "urutan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2074",
+   "id": "rw-4086",
    "kata": "頭部",
    "kana": "とうぶ",
    "arti": "bagian kepala",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2075",
+   "id": "rw-4087",
    "kata": "飛散",
    "kana": "ひさん",
    "arti": "terbang/drift",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2076",
+   "id": "rw-4088",
    "kata": "駆動",
    "kana": "くどう",
    "arti": "penggerak",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2077",
+   "id": "rw-4089",
    "kata": "骨組",
    "kana": "ほねぐ",
    "arti": "bingkai kerangka; kerangka",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2078",
+   "id": "rw-4090",
    "kata": "高精度",
    "kana": "こうせいど",
    "arti": "presisi tinggi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "rw-2079",
+   "id": "rw-4091",
    "kata": "黄色",
    "kana": "きいろ",
    "arti": "Kuning",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"

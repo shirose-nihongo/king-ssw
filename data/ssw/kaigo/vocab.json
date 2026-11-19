@@ -4099,156 +4099,188 @@
    ]
   },
   {
-   "id": "kg-309",
+   "id": "kg-365",
    "kata": "介護",
    "kana": "かいご",
    "arti": "perawatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "k1s1",
+    "k1s2",
+    "k1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "kg-310",
+   "id": "kg-366",
    "kata": "保持",
    "kana": "ほじ",
    "arti": "menahan; mempertahankan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "k1s1",
+    "k1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "kg-311",
+   "id": "kg-367",
    "kata": "嚥下障害",
    "kana": "えんかしょうがい",
    "arti": "gangguan menelan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "k4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "kg-312",
+   "id": "kg-368",
    "kata": "基本",
    "kana": "きほん",
    "arti": "dasar; prinsip; pokok",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "k3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "kg-313",
+   "id": "kg-369",
    "kata": "安全",
    "kana": "あんぜん",
    "arti": "keselamatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "k1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "kg-314",
+   "id": "kg-370",
    "kata": "座位",
    "kana": "ざい",
    "arti": "duduk",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "k4s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "kg-315",
+   "id": "kg-371",
    "kata": "役割",
    "kana": "やくわり",
    "arti": "berperan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "k1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "kg-316",
+   "id": "kg-372",
    "kata": "技術",
    "kana": "ぎじゅつ",
    "arti": "teknik; teknologi; keterampilan; metode",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "bab3-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "kg-317",
+   "id": "kg-373",
    "kata": "摂食",
    "kana": "としょく",
    "arti": "makan; makan secara umum",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "k4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "kg-318",
+   "id": "kg-374",
    "kata": "理解",
    "kana": "りかい",
    "arti": "memahami",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "k2s1",
+    "k2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "kg-319",
+   "id": "kg-375",
    "kata": "確保",
    "kana": "かくほ",
    "arti": "memastikan; mempertahankan; menjamin",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "k1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "kg-320",
+   "id": "kg-376",
    "kata": "言語",
    "kana": "げんご",
    "arti": "bahasa; bahasa manusia",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "k3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "kg-321",
+   "id": "kg-377",
    "kata": "食事",
    "kana": "しょくじ",
    "arti": "Makan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "k4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "kg-322",
+   "id": "kg-378",
    "kata": "生活支援",
    "kana": "せいかつしえん",
    "arti": "dukungan hidup",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "bab4-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"

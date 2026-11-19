@@ -3114,425 +3114,505 @@
    ]
   },
   {
-   "id": "ag-290",
+   "id": "ag-442",
    "kata": "作物",
    "kana": "さくもつ",
    "arti": "hasil pertanian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "a1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-291",
+   "id": "ag-443",
    "kata": "健康",
    "kana": "けんこう",
    "arti": "kesehatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "bab2-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-292",
+   "id": "ag-444",
    "kata": "全般",
    "kana": "ぜんぱん",
    "arti": "secara umum; secara keseluruhan; dalam semua aspek",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-293",
+   "id": "ag-445",
    "kata": "写真",
    "kana": "しゃしん",
    "arti": "foto",
    "cat": "Kosakata dari teks materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "a7s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-294",
+   "id": "ag-446",
    "kata": "出荷",
    "kana": "しゅっか",
    "arti": "pengiriman barang",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "a3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-295",
+   "id": "ag-447",
    "kata": "土壌",
    "kana": "どじょう",
    "arti": "tanah; tempat berkembang biak",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "a6s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-296",
+   "id": "ag-448",
    "kata": "基本",
    "kana": "きほん",
    "arti": "dasar; prinsip; pokok",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "a1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-297",
+   "id": "ag-449",
    "kata": "性質",
    "kana": "せいしつ",
    "arti": "sifat; karakteristik",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "a1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-298",
+   "id": "ag-450",
    "kata": "施肥",
    "kana": "せひ",
    "arti": "pemupukan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "a1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ag-299",
+   "id": "ag-451",
    "kata": "施設",
    "kana": "しせつ",
    "arti": "Fasilitas",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "a5s1",
+    "a5s2",
+    "a5s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-300",
+   "id": "ag-452",
    "kata": "果樹園",
    "kana": "かじゅえん",
    "arti": "kebun buah; perkebunan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "a6s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ag-301",
+   "id": "ag-453",
    "kata": "果樹栽培",
    "kana": "かじゅさいばい",
    "arti": "budidaya buah",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "bab6-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ag-302",
+   "id": "ag-454",
    "kata": "果物",
    "kana": "くだもの",
    "arti": "buah-buahan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "a7s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-303",
+   "id": "ag-455",
    "kata": "栽培",
    "kana": "さいばい",
    "arti": "Penanaman; Budidaya (tanaman)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "a1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-304",
+   "id": "ag-456",
    "kata": "機械",
    "kana": "きかい",
    "arti": "mesin",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "a6s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-305",
+   "id": "ag-457",
    "kata": "特徴",
    "kana": "とくちょう",
    "arti": "Ciri-ciri",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "a4s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-306",
+   "id": "ag-458",
    "kata": "生育",
    "kana": "せいいく",
    "arti": "pertumbuhan; perkembangan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "a1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ag-307",
+   "id": "ag-459",
    "kata": "用語",
    "kana": "ようご",
    "arti": "istilah",
    "cat": "Kosakata dari teks materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "a7s1",
+    "a7s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-308",
+   "id": "ag-460",
    "kata": "田植",
    "kana": "たうえ",
    "arti": "penanaman padi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "a3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ag-309",
+   "id": "ag-461",
    "kata": "畑作",
    "kana": "はたさく",
    "arti": "pertanian ladang; bercocok tanam",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "bab4-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ag-310",
+   "id": "ag-462",
    "kata": "病害虫",
    "kana": "びょうがいちゅう",
    "arti": "hama dan penyakit tanaman",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "a1s8"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ag-311",
+   "id": "ag-463",
    "kata": "種子",
    "kana": "しゅし",
    "arti": "biji; benih",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "a4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-312",
+   "id": "ag-464",
    "kata": "種類",
    "kana": "しゅるい",
    "arti": "jenis",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "a5s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-313",
+   "id": "ag-465",
    "kata": "稲作",
    "kana": "いなさく",
    "arti": "budidaya padi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "bab3-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ag-314",
+   "id": "ag-466",
    "kata": "管理",
    "kana": "かんり",
    "arti": "pengelolaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "a3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-315",
+   "id": "ag-467",
    "kata": "苗木",
    "kana": "なえぎ",
    "arti": "bibit pohon",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "a6s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ag-316",
+   "id": "ag-468",
    "kata": "設備",
    "kana": "せつび",
    "arti": "peralatan; fasilitas; instalasi; perlengkapan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "a5s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-317",
+   "id": "ag-469",
    "kata": "診断",
    "kana": "しんだん",
    "arti": "diagnosa; Pemeriksaan Medis",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "a5s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-318",
+   "id": "ag-470",
    "kata": "資材",
    "kana": "しざい",
    "arti": "material",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "a6s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-319",
+   "id": "ag-471",
    "kata": "農作業",
    "kana": "のうさぎょう",
    "arti": "pekerjaan pertanian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "a7s1",
+    "a7s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ag-320",
+   "id": "ag-472",
    "kata": "道具",
    "kana": "どうぐ",
    "arti": "Peralatan; alat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "a2s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ag-321",
+   "id": "ag-473",
    "kata": "露地野菜",
    "kana": "ろじやさい",
    "arti": "sayuran terbuka",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "bab4-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ag-322",
+   "id": "ag-474",
    "kata": "主要",
    "kana": "しゅよう",
    "arti": "ketua; utama",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "a6s6"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "ag-323",
+   "id": "ag-475",
    "kata": "園芸",
    "kana": "えんげい",
    "arti": "berkebun",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "a5s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "ag-324",
+   "id": "ag-476",
    "kata": "環境",
    "kana": "かんきょう",
    "arti": "lingkungan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "a5s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "ag-325",
+   "id": "ag-477",
    "kata": "耕種",
    "kana": "こうしゅ",
    "arti": "bercocok tanam (bertani)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "ag-326",
+   "id": "ag-478",
    "kata": "被覆",
    "kana": "ひふく",
    "arti": "Pelapis — Mengacu pada bagian vinil atau isolasi yang menutupi kawat inti",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "a1s8"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "ag-327",
+   "id": "ag-479",
    "kata": "農業",
    "kana": "のうぎょう",
    "arti": "pertanian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "a2s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"

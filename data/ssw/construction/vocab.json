@@ -45665,7 +45665,9 @@
    "arti": "membuat seruan semangat bersama (menunjuk dan menyebut)",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "contoh": "{決定|けってい}した{行動目標|こうどうもくひょう}について、それを{書|か}き{込|こ}んだKYボードに{向|む}かって、{全員|ぜんいん}で「{指差|しさ}{呼称|こしょう}」をして、{次|つぎ}のように{復唱|ふくしょう}します。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45678,7 +45680,9 @@
    "arti": "pekerjaan bendungan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "contoh": "ダムは、{河川|かせん}に{流|なが}れる{水|みず}の{量|りょう}を{調整|ちょうせい}するために{作|つく}られます。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45691,7 +45695,9 @@
    "arti": "pekerjaan sungai dan pantai",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "contoh": "{河川|かせん}や{海|うみ}に{対|たい}する{各種工事|かくしゅこうじ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45704,7 +45710,10 @@
    "arti": "pekerjaan terowongan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s2"
+   ],
    "contoh": "トンネルは、{鉄道|てつどう}、{道路|どうろ}、{水路|すいろ}、およびその{他|た}のインフラ{設備|せつび}の{建設|けんせつ}に{使用|しよう}されています。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45717,7 +45726,9 @@
    "arti": "terowongan gunung",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "contoh": "{山岳|さんがく}トンネルは、{主|しゅ}として{山岳部|さんがくぶ}の{硬岩|こうがん}を{掘削|くっさく}するトンネル{工法|こうほう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45730,7 +45741,9 @@
    "arti": "terowongan galian terbuka",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "contoh": "{開削|かいさく}トンネルとは、{地表面|ちひょうめん}から{土留|どど}め{支保工|しほこう}で{地山|じやま}の{崩壊|ほうかい}を{防|ふせ}ぎながら、{掘削|くっさく}します。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45743,7 +45756,10 @@
    "arti": "terowongan dorong (jacking)",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s2"
+   ],
    "contoh": "{推進|すいしん}トンネルとは、{発進立坑|はっしんたてこう}、{到達立坑間|とうたつたてこうかん}において、{工場|こうじょう}で{製造|せいぞう}された{推進管|すいしんかん}の{先端|せんたん}に{掘進機|くっしんき}・{先導体|せんどうたい}または{刃口|はぐち}を{取付|とりつ}け、{発進立坑|はっしんたてこう}のジャッキ{推進力|すいしんりょく}{等|とう}によって{推進管|すいしんかん}を{地中|ちちゅう}に{圧入|あつにゅう}してトンネルを{構築|こうちく}する{工法|こうほう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45756,7 +45772,9 @@
    "arti": "pekerjaan sipil lain",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "contoh": "その{他|た}、{空港建設工事|くうこうけんせつこうじ}、{土地|とち}{区画整理工事|くかくせいりこうじ}、{農業土木工事|のうぎょうどぼくこうじ}、{砂防工事|さぼうこうじ}、{森林土木|しんりんどぼく}{工事|こうじ}などがあります。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45769,7 +45787,9 @@
    "arti": "pekerjaan penahan tanah galian",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "contoh": "{掘削工事|くっさくこうじ}によって{土|つち}の{壁|かべ}が{崩|くず}れないようにすることを「{山留|やまど}め」と{言|い}います。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45782,7 +45802,9 @@
    "arti": "pekerjaan finishing dalam dan luar bangunan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "contoh": "{躯体工事|くたいこうじ}が{終|お}わると、{建物|たてもの}の{外装工事|がいそうこうじ}が{始|はじ}まります。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45795,7 +45817,9 @@
    "arti": "pekerjaan gas kota",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "contoh": "{大型|おおがた}のタンカーで{輸送|ゆそう}された{液体天然|えきたいてんねん}ガスは、{貯蔵|ちょぞう}タンクに{入|い}れられます。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45808,7 +45832,9 @@
    "arti": "pekerjaan penimbunan kembali",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "contoh": "{埋|う}め{戻|もど}し{作業|さぎょう}とは、{地面|じめん}を{掘削|くっさく}して{地下工事|ちかこうじ}や{基礎工事|きそこうじ}が{終|お}わった{後|あと}、{構造物|こうぞうぶつ}や、そのまわりにできた{余分|よぶん}な{空間|くうかん}を、{土|つち}で{埋|う}める{作業|さぎょう}のことです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45821,7 +45847,9 @@
    "arti": "pekerjaan pemadatan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "contoh": "{地面|じめん}が{沈下|ちんか}しないように{叩|たた}いたり{振動|しんどう}を{加|くわ}たりすることで、{土砂|どしゃ}の{隙間|すきま}を{少|すく}なくする{作業|さぎょう}を「{締固|しめかた}め」と{言|い}います。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45834,7 +45862,9 @@
    "arti": "penimbunan dan pemadatan tanah",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "contoh": "{平地|へいち}はブルドーザを{使|つか}って{盛|も}り{土|ど}を{行|おこな}い、{締固|しめかた}めを{行|おこな}います。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45847,7 +45877,9 @@
    "arti": "metode tiang bor cor di tempat",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "contoh": "{工事現場|こうじげんば}で{杭|くい}を{作|つく}る{工法|こうほう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45860,7 +45892,9 @@
    "arti": "pekerja baja struktur (tobi)",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "contoh": "{鉄骨部材|てっこつぶざい}を{使|つか}って、{高層|こうそう}ビルやマンションの{骨組|ほねぐ}みを{組|く}み{上|あ}げていく{作業|さぎょう}をします。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45873,7 +45907,9 @@
    "arti": "pekerja jembatan (tobi)",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "contoh": "{橋|はし}やダム、{鉄塔|てっとう}、{高速道路|こうそくどうろ}の{鉄骨|てっこつ}を{組|く}む{作業|さぎょう}をします。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45886,7 +45922,9 @@
    "arti": "pekerja angkat berat (tobi)",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "contoh": "{数百|すうひゃく}トンの{機械|きかい}や{設備|せつび}を{運|はこ}び、{設置|せっち}する{据付作業|すえつけさぎょう}をします。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45899,7 +45937,9 @@
    "arti": "pekerja jaringan transmisi (tobi)",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "contoh": "{鉄塔|てっとう}の{送電線|そうでんせん}を{引|ひ}く{工事|こうじ}や、{送電線|そうでんせん}の{点検|てんけん}・{保守|ほしゅ}など、{高所|こうしょ}での{電気工事|でんきこうじ}をします。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45912,7 +45952,9 @@
    "arti": "tobi perancah pemukiman",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "contoh": "{住宅|じゅうたく}やマンションなど、{特|とく}に{地域|ちいき}の{建築物|けんちくぶつ}の{足場|あしば}を{組|く}む{仕事|しごと}をするとびを「{町場|まちば}とび」と{呼|よ}びます。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45925,7 +45967,9 @@
    "arti": "sambungan las tekan gas",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "contoh": "ガス{圧接継手|あっせつつぎて}は、{鉄筋|てっきん}と{鉄筋|てっきん}のつなぐ{部分|ぶぶん}を{加熱|かねつ}して、{軸方向|じくほうこう}に{圧力|あつりょく}をかけて{接合|せつごう}する{工法|こうほう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45938,7 +45982,9 @@
    "arti": "sambungan tumpang (rebar)",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "contoh": "{細|ほそ}い{鉄筋|てっきん}で{用|もち}いられる{工法|こうほう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45951,7 +45997,9 @@
    "arti": "brazing (pematrian)",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "contoh": "{母材|ぼざい}より{溶|と}ける{温度|おんど}が{低|ひく}い{溶剤|ようざい}を{溶|と}かして、{接着剤|せっちゃくざい}の{役割|やくわり}を{持|も}たせて{接合|せつごう}する{溶接方法|ようせつほうほう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45964,7 +46012,9 @@
    "arti": "pengecatan dengan kuas",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "contoh": "「はけ」という{道具|どうぐ}を{使|つか}って{塗装|とそう}する{塗装方法|とそうほうほう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45977,7 +46027,9 @@
    "arti": "pengecatan dengan roller",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "contoh": "ローラーブラシを{使|つか}う{塗装方法|とそうほうほう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -45990,7 +46042,9 @@
    "arti": "pengecatan semprot udara",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "contoh": "{塗料|とりょう}を{霧|きり}のようにして、{塗装|とそう}{面|めん}に{吹|ふ}き{付|つ}ける{方法|ほうほう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46003,7 +46057,9 @@
    "arti": "penggantian atap",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "{古|ふる}い{屋根材|やねざい}や{防水|ぼうすい}シートを{取|と}り{除|のぞ}き、{新|あたら}しい{屋根材|やねざい}をふきます。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46016,7 +46072,9 @@
    "arti": "pelapisan atap baru di atas yang lama",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "{既|すで}にある{屋根|やね}の{上|うえ}に{新|あたら}しく{屋根材|やねざい}をふく{工事|こうじ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46029,7 +46087,9 @@
    "arti": "penggantian talang air",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "{壊|こわ}れた{雨|あま}どいを{交換|こうかん}します。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46042,7 +46102,9 @@
    "arti": "pekerjaan saluran udara (duct)",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "{空気|くうき}を{運|はこ}ぶ{管|かん}をダクトといいます。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46055,7 +46117,9 @@
    "arti": "papan nama dan perangkat logam",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "{看板|かんばん}や{色々|いろいろ}な{場所|ばしょ}で{使|つか}われる{金物|かなもの}の、{加工|かこう}と{工事|こうじ}を{行|おこな}うのも{建築板金|けんちくばんきん}の{仕事|しごと}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46068,7 +46132,9 @@
    "arti": "pemasangan papan gipsum",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "{鋼製下地|こうせいしたじ}の{上|うえ}に、{石膏|せっこう}ボード(プラスタボード)を{貼|は}る{工事|こうじ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46081,7 +46147,9 @@
    "arti": "pemasangan wallpaper (kurosu)",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "{石膏|せっこう}ボードによる{下地|したじ}の{上|うえ}に、{仕上|しあ}げ{材|ざい}であるクロスを{貼|は}る{工事|こうじ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46094,7 +46162,9 @@
    "arti": "finishing dengan cat",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "クロスの{代|か}わりに、{塗料|とりょう}を{使|つか}って{仕上|しあ}げる{工事|こうじ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46107,7 +46177,9 @@
    "arti": "finishing lantai",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "{床|ゆか}に、タイル、カーペット、{畳|たたみ}などを{敷|し}き{込|こ}む{工事|こうじ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46120,7 +46192,9 @@
    "arti": "pekerjaan tirai",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "{生地|きじ}を{裁断|さいだん}して{縫|ぬ}い{合|あ}わせてカーテンを{作|つく}り、{取|と}り{付|つ}けを{行|おこな}います。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46133,7 +46207,9 @@
    "arti": "finishing dinding (wallpaper)",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "{石膏|せっこう}ボードの{上|うえ}に、クロスを{貼|は}ります。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46146,7 +46222,9 @@
    "arti": "finishing plafon (wallpaper)",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "{上|うえ}を{向|む}いての{仕事|しごと}であることと、クロスを{曲|ま}がりなく{広|ひろ}げて{貼|は}る{技術|ぎじゅつ}が{必要|ひつよう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46159,7 +46237,9 @@
    "arti": "pekerjaan waterproofing urethane",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "{液状|えきじょう}の{防水材|ぼうすいざい}を、{施工面|せこうめん}に{塗|ぬ}ることで{防水|ぼうすい}する{工法|こうほう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46172,7 +46252,9 @@
    "arti": "pekerjaan waterproofing FRP",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "ガラス{繊維|せんい}のマットを{敷|し}き、その{上|うえ}からポリエステル{樹脂|じゅし}を{塗|ぬ}る{工法|こうほう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46185,7 +46267,9 @@
    "arti": "pekerjaan waterproofing lembaran",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "{合成|ごうせい}ゴム{系|けい}や{合成樹脂系|ごうせいじゅしけい}のシートを{接着剤|せっちゃくざい}で{貼|は}り{付|つ}ける{工法|こうほう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46198,7 +46282,9 @@
    "arti": "pekerjaan waterproofing aspal",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "{合成繊維|ごうせいせんい}の{布|ぬの}に、アスファルトをしみこませたシートを{下地|したじ}に{張|は}り{付|つ}ける{工法|こうほう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46211,7 +46297,9 @@
    "arti": "pekerjaan waterproofing sealant",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "{部材間|ぶざいかん}の{接合部|せつごうぶ}の{隙間|すきま}を{防水|ぼうすい}するための{工法|こうほう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46224,7 +46312,9 @@
    "arti": "instalasi pembuangan dan ventilasi",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "トイレやキッチンからの{汚|よご}れた{水|みず}を、{下水道本管|げすいどうほんかん}に{流|なが}す{設備|せつび}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46237,7 +46327,9 @@
    "arti": "tungku peleburan aluminium",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "contoh": "アルミのくずや、インゴットを{溶|と}かして{製品|せいひん}を{作|つく}るための{炉|ろ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46250,7 +46342,9 @@
    "arti": "garis pusat (as) bangunan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "contoh": "{中心|ちゅうしん}を{通|とお}る{線|せん}のことです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46263,7 +46357,9 @@
    "arti": "timbunan tanah",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "contoh": "{斜面|しゃめん}や{平坦|へいたん}でない{土地|とち}、{低|ひく}い{土地|とち}に{土砂|どしゃ}を{盛|も}り{上|あ}げて、{平|たい}らな{地表|ちひょう}を{作|つく}ることです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46276,7 +46372,9 @@
    "arti": "tebal selimut beton",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "contoh": "{鉄筋|てっきん}とこれを{覆|おお}うコンクリートの{表面|ひょうめん}までの{距離|きょり}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46289,7 +46387,9 @@
    "arti": "pengecoran (uchikomi)",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "contoh": "コンクリートを{型枠内|かたわくない}に{流|なが}し{込|こ}こんで、{隙間|すきま}なく{詰|つ}め{込|こ}むことです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46302,7 +46402,9 @@
    "arti": "pertemuan antar material (toriai)",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "contoh": "2つ{以上|いじょう}の{異|こと}なる{部材|ぶざい}が{出会|であ}う{部分|ぶぶん}、またはその{部分|ぶぶん}の{処置|しょち}のことです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46315,7 +46417,9 @@
    "arti": "garis/permukaan cembung (mukuri)",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "contoh": "{凸状態|とつじょうたい}になった{線|せん}や{曲面|きょくめん}を{指|さ}す{言葉|ことば}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46328,7 +46432,9 @@
    "arti": "mengikuti/mengeluarkan dimensi dari acuan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "contoh": "{基準|きじゅん}となる{位置|いち}から{寸法|すんぽう}を{出|だ}していくことです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46341,7 +46447,9 @@
    "arti": "memasang pipa pelindung kabel",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "contoh": "ケーブルを{通|とお}す{管|かん}を{取|と}り{付|つ}けることです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46354,7 +46462,9 @@
    "arti": "pentanahan (grounding)",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "contoh": "{電気機器|でんききき}や{回路|かいろ}と{大地|だいち}を{電気的|でんきてき}に{接続|せつぞく}することです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46367,7 +46477,9 @@
    "arti": "memeriksa (ataru)",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "contoh": "{何|なに}かを{調|しら}べることを「あたる」と{言|い}います。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46380,7 +46492,9 @@
    "arti": "menjepit/mengencangkan dengan crimping (kashimeru)",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "contoh": "{圧着|あっちゃく}ペンチなどを{用|もち}いて、リングスリーブなどの{圧着端子|あっちゃくたんし}をつぶして{電線|でんせん}の{接合部|せつごうぶ}を{固|かた}く{止|と}めることです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46393,7 +46507,9 @@
    "arti": "breaker terlepas (jatuh)",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "contoh": "ブレーカーが{作動|さどう}して、{回路|かいろ}が{解放|かいほう}されることです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46406,7 +46522,9 @@
    "arti": "burr (sisa tajam hasil pengerjaan)",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "contoh": "{金属|きんぞく}やプラスチックの{加工過程|かこうかてい}で、{製品|せいひん}の{縁|ふち}などにはみ{出|だ}したりしてできる{余分|よぶん}な{部分|ぶぶん}のことです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46419,7 +46537,9 @@
    "arti": "ekskavator hidrolik (backhoe)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{油圧|ゆあつ}シリンダにより{動作|どうさ}するブーム、アーム、バケットの{動作|どうさ}と{上部旋回体|じょうぶせんかいたい}の{旋回|せんかい}により、{掘削|くっさく}・{積込作業|つみこみさぎょう}を{行|おこな}う{機械|きかい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46432,7 +46552,9 @@
    "arti": "kapal keruk pompa",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{船|ふね}の{先端|せんたん}に{取|と}り{付|つ}けたカッターヘッドと{言|い}われる{回転|かいてん}して{土砂|どしゃ}をけずる{機械|きかい}を{海底|かいてい}におろして、けずった{土砂|どしゃ}と{海|うみ}の{水|みず}をまとめて{吸|す}って、{海底|かいてい}を{掘|ほ}る{作業船|さぎょうせん}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46445,7 +46567,9 @@
    "arti": "jangkar",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{船|ふね}の{位置|いち}を{固定|こてい}するために、{海底|かいてい}に{設置|せっち}するおもりのことです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46458,7 +46582,9 @@
    "arti": "pipa casing",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{二重管|にじゅうかん}ウェルポイントで{施工|せこう}するときに、ライザー{管|かん}の{外側|そとがわ}になる{管|かん}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46471,7 +46597,9 @@
    "arti": "bor tanah (earth drill)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{場所打|ばしょう}ち{杭工法|くいこうほう}で{用|もち}いられる{杭|くい}を{立|た}てる{穴|あな}を{掘|ほ}る{機械|きかい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46484,7 +46612,9 @@
    "arti": "hammer grab",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "ケーシングチューブ{内|ない}の{土砂|どしゃ}をつかみ{上|あ}げ、{地上|ちじょう}に{排出|はいしゅつ}するためのバケットです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46497,7 +46627,9 @@
    "arti": "komponen perancah rangka",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "「{枠組|わくぐ}み{足場|あしば}」とは、{門型|もんがた}の{建枠|たてわく}を{中心|ちゅうしん}にジャッキ・{筋交|すじかい}・{鋼製|こうせい}{布板|ぬのいた}などの{基本部材|きほんぶざい}を{組|く}み{立|た}てるタイプの{足場|あしば}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46510,7 +46642,9 @@
    "arti": "pengaku diagonal (sujikai)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{構造|こうぞう}を{補強|ほきょう}し、{風|かぜ}などで{足場|あしば}が{倒|たお}れないようにするための{部材|ぶざい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46523,7 +46657,9 @@
    "arti": "papan pengaman kaki (habaki)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{足場板|あしばいた}の{外側|そとがわ}に{取|と}り{付|つ}けられる{板材|いたざい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46536,7 +46672,9 @@
    "arti": "shino (alat pengikat kawat)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{先端|せんたん}がとがっていて{曲|ま}がった{形|かたち}の{工具|こうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46549,7 +46687,9 @@
    "arti": "kunci pas/kunci inggris",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "ボルトやナットを{回転|かいてん}させて{締|し}めつけたり{緩|ゆる}めたりするために{使用|しよう}する{工具|こうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46562,7 +46702,9 @@
    "arti": "pemotong tulangan",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{鉄筋|てっきん}を{切断|せつだん}するための{工具|こうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46575,7 +46717,9 @@
    "arti": "mesin tekuk tulangan stasioner",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{主|おも}に{鉄筋加工場|てっきんかこうば}で{用|もち}いられる{定置型|ていちがた}の{鉄筋曲|てっきんま}げ{機|き}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46588,7 +46732,9 @@
    "arti": "mesin las busur berselubung",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{金属|きんぞく}の{芯線|しんせん}に{被覆材|ひふくざい}(「フラックス」といいます)をかぶせた{溶接棒|ようせつぼう}を{使|つか}う{溶接機|ようせつき}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46601,7 +46747,9 @@
    "arti": "helm dengan pelindung wajah",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "ヘルメットと{顔全体|かおぜんたい}を{保護|ほご}するシールドが{一体|いったい}になっているヘルメットです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46614,7 +46762,9 @@
    "arti": "separator bulat (sepa)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{通称|つうしょう}セパ、{丸|まる}セパといわれ、コンクリートの{厚|あつ}みを{施工図|せこうず}どおりに{確保|かくほ}するため、{向|む}かい{合|あ}う{型枠|かたわく}と{型枠|かたわく}の{間|あいだ}に{入|い}れる{部材|ぶざい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46627,7 +46777,9 @@
    "arti": "pipa tunggal / pipa baja",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{型枠|かたわく}の{強度|きょうど}を{高|たか}めるために{使用|しよう}する{部材|ぶざい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46640,7 +46792,9 @@
    "arti": "papan bekisting (sekiita)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{型枠|かたわく}を{作|つく}るための、{型枠用合板|かたわくようごうばん}のことです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46653,7 +46807,9 @@
    "arti": "bekisting panel",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{合板|ごうばん}に{桟木|さんぎ}を{釘止|くぎど}めして1{枚|まい}のパネルに{加工|かこう}したパネル{状|じょう}の{型枠|かたわく}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46666,7 +46822,9 @@
    "arti": "turnbuckle dan rantai",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "ターンバックルとチェーンは、{引|ひ}っ{張|ぱ}ることにより、{型枠|かたわく}の{倒壊防止|とうかいぼうし}や{建|た}て{入|い}れ({柱|はしら}や{梁|はり}の{水平|すいへい}・{垂直|すいちょく}を{正確|せいかく}にとること)を{調整|ちょうせい}するときに{使用|しよう}します。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46679,7 +46837,9 @@
    "arti": "alat boom (pipa pengantar beton)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "コンクリートを{打|う}ち{込|こ}む{場所|ばしょ}まで、{輸送管|ゆそうかん}を{持|も}っていくための{装置|そうち}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46692,7 +46852,9 @@
    "arti": "kuas cat (hake)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{木|き}やプラスチックの{柄|え}の{先|さき}に{毛|け}が{取|と}り{付|つ}けられた{塗装用|とそうよう}の{道具|どうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46705,7 +46867,9 @@
    "arti": "dempul (pate)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "{下地|したじ}の{表面|ひょうめん}の{凸凹|でこぼこ}を{無|な}くして{平|たい}らにする(「パテ{処理|しょり}」といいます)ための、ペースト{状|じょう}の{材料|ざいりょう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46718,7 +46882,9 @@
    "arti": "spatula resin",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "contoh": "パテの{混|ま}ぜ{合|あ}わせ、パテ{埋|う}め{作業|さぎょう}、{接着剤|せっちゃくざい}の{塗|ぬ}り{広|ひろ}げ、マスキングテープの{圧着|あっちゃく}などに{使|つか}います。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46731,7 +46897,9 @@
    "arti": "pisau kulit (kawasuki)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "もとは{皮|かわ}を{薄|うす}くするための{道具|どうぐ}ですが、{鋭|するど}い{刃|は}があるため、{塗装工事|とそうこうじ}における「ケレン{作業|さぎょう}」にも{用|もち}いられます。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46744,7 +46912,9 @@
    "arti": "gunting pangkas pagar",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{生|い}け{垣|がき}や{低|ひく}い{庭木|にわき}の{葉|は}や{枝|えだ}を{切|き}って、{形|かたち}を{整|ととの}えるはさみです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46757,7 +46927,9 @@
    "arti": "gunting pemangkas ranting",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{太|ふと}い{枝|えだ}を{切|き}るはさみです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46770,7 +46942,9 @@
    "arti": "mesin pemotong rumput",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{雑草|ざっそう}を{刈|か}るための{道具|どうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46783,7 +46957,9 @@
    "arti": "gergaji bundar",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{合板|ごうばん}などの{材料|ざいりょう}をまっすぐに{切|き}るための{電動工具|でんどうこうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46796,7 +46972,9 @@
    "arti": "sekop runcing",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{上部|じょうぶ}に{足|あし}をかけて{地面|じめん}を{掘|ほ}るための{道具|どうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46809,7 +46987,9 @@
    "arti": "sekop persegi",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{土|つち}やアスファルトなどをすくって{運|はこ}ぶための{道具|どうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46822,7 +47002,9 @@
    "arti": "pot tinta (sumitsubo)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{材料|ざいりょう}の{表面|ひょうめん}に{長|なが}い{直線|ちょくせん}を{墨付|すみつ}け({墨打|すみう}ち)するのに{用|もち}いる{道具|どうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46835,7 +47017,9 @@
    "arti": "sumisashi (pena tinta bambu)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{墨|すみ}さし{部分|ぶぶん}で、{平|たい}らの{部位|ぶい}は{線|せん}を{引|ひ}くのに{用|もち}い、{丸|まる}い{部位|ぶい}({穂|ほ})は{筆|ふで}と{同様|どうよう}に{使|つか}う{道具|どうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46848,7 +47032,9 @@
    "arti": "alat laser penanda",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "レーザー{光|こう}を{壁面|へきめん}、{天井|てんじょう}、{床|ゆか}に{照射|しょうしゃ}して、{水平|すいへい}や{垂直|すいちょく}などの{施工|せこう}の{基準線|きじゅんせん}を{出|だ}す{機械|きかい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46861,7 +47047,9 @@
    "arti": "waterpass (level)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{水準測量|すいじゅんそくりょう}の{機械|きかい}で、{作業|さぎょう}するのに{必要|ひつよう}な{高|たか}さを{出|だ}すのに{使用|しよう}します。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46874,7 +47062,9 @@
    "arti": "bandul unting-unting",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{柱|はしら}などの{垂直|すいちょく}を{確認|かくにん}するために{使|つか}われる{先端|せんたん}が{円錐状|えんすいじょう}に{尖|とが}ったおもりです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46887,7 +47077,9 @@
    "arti": "penggaris/pelurus",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{長|なが}さを{測|はか}ったり、{直線|ちょくせん}を{引|ひ}いたりするきに{使|つか}われる{道具|どうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46900,7 +47092,9 @@
    "arti": "tang pemotong (kuigiri)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "くい{切|き}りは、{刃|は}ではさんで{物|もの}を{切|き}る{道具|どうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46913,7 +47107,9 @@
    "arti": "kunci L heksagonal",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{六角形|ろっかくけい}の{穴|あな}がついたボルトを{回|まわ}す{工具|こうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46926,7 +47122,9 @@
    "arti": "obeng",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "ネジを{回|まわ}すための{工具|こうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46939,7 +47137,9 @@
    "arti": "bak adukan (torobako)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "コンクリートやモルタルを{作|つく}るための{材料|ざいりょう}を{入|い}れて{練|ね}り{混|ま}ぜるための{丈夫|じょうぶ}な{箱|はこ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46952,7 +47152,9 @@
    "arti": "jaring anti-terbang",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{建物全体|たてものぜんたい}を{覆|おお}う、{足場用|あしばよう}のメッシュ{状|じょう}のシートです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46965,7 +47167,9 @@
    "arti": "jaring pengaman horizontal",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{建築現場|けんちくげんば}において、{高所|こうしょ}からの{人体|じんたい}や{資材|しざい}の{落下|らっか}を{回避|かいひ}するためのネットです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46978,7 +47182,9 @@
    "arti": "ember",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{水|みず}を{入|い}れて{運|はこ}ぶための、{取|と}っ{手|て}がついた{容器|ようき}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -46991,7 +47197,9 @@
    "arti": "gayung",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{柄|え}のついた{水汲|みずく}み{用|よう}の{道具|どうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47004,7 +47212,9 @@
    "arti": "troli",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "{台|だい}に4つのキャスターをつけたもので、{物|もの}を{運|はこ}ぶために{使|つか}われます。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47017,7 +47227,9 @@
    "arti": "tangga lipat (kyatatsu)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "2つのはしごを{組|く}み{合|あ}わせた{形|かたち}の{道具|どうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47030,7 +47242,9 @@
    "arti": "sapu",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "はいて{掃除|そうじ}するための{道具|どうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47043,7 +47257,9 @@
    "arti": "pengki",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "contoh": "ほうきで{集|あつ}めたごみやちりを{集|あつ}めるための{道具|どうぐ}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47056,7 +47272,9 @@
    "arti": "pekerjaan pengaitan beban (tamakake)",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "contoh": "クレーンを{使|つか}って{荷物|にもつ}を{吊|つ}り{上|あ}げるとき、{荷物|にもつ}にワイヤを{取|と}り{付|つ}けたり、はずしたりする{作業|さぎょう}のことです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47069,7 +47287,9 @@
    "arti": "pekerjaan crane",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "contoh": "クレーン{作業|さぎょう}は、{重|おも}いものをつり{上|あ}げて、{場所|ばしょ}を{移動|いどう}して、{違|ちが}う{場所|ばしょ}に{下|お}ろす{作業|さぎょう}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47082,7 +47302,9 @@
    "arti": "pekerjaan winch",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "contoh": "ウインチは、ワイヤを{巻|ま}き{上|あ}げたり、{送|おく}り{出|だ}したりすることができる{機械|きかい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47095,7 +47317,9 @@
    "arti": "jatuh dari ketinggian",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1"
+   ],
    "contoh": "高所からの落下や、工事中の吹き抜けや掘削中の穴など転落する事によって起こる労働災害です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47108,7 +47332,9 @@
    "arti": "terjatuh (tersandung)",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1"
+   ],
    "contoh": "{物|もの}などにつまずいて{転|ころ}んだり、バランスを{崩|くず}して{転|ころ}ぶことによって{起|お}こる{労働|ろうどう}{災害|さいがい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47121,7 +47347,9 @@
    "arti": "benda terbang/jatuh",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1"
+   ],
    "contoh": "クレーンで{吊|つ}り{上|あ}げ{中|ちゅう}の{荷物|にもつ}の{落下|らっか}や、{高所|こうしょ}から{工具|こうぐ}や{部材|ぶざい}が{落下|らっか}することによって{起|お}こる{労働災害|ろうどうさいがい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47134,7 +47362,9 @@
    "arti": "runtuh/roboh",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1"
+   ],
    "contoh": "{足場|あしば}などが{崩|くず}れたり、{解体中|かいたいちゅう}の{建物|たてもの}が{倒|たお}れることによって{起|お}こる{労働|ろうどう}{災害|さいがい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47147,7 +47377,9 @@
    "arti": "tertabrak",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1"
+   ],
    "contoh": "{走行中|そうこうちゅう}の{重機|じゅうき}や、{旋回中|せんかいちゅう}のバケットなどに{激突|げきとつ}されて{起|お}こる{労働災害|ろうどうさいがい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47160,7 +47392,9 @@
    "arti": "terjepit/terlilit",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1"
+   ],
    "contoh": "{機械|きかい}にはさまれたり、{巻|ま}き{込|こ}まれたりすることで{起|お}こる{労働災害|ろうどうさいがい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47173,7 +47407,9 @@
    "arti": "kontak dengan zat berbahaya",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1"
+   ],
    "contoh": "{化学物質|かがくぶっしつ}などの{有害物質|ゆうがいぶっしつ}が、{人体|じんたい}に{触|ふ}れることで{起|お}こる{労働災害|ろうどうさいがい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47186,7 +47422,10 @@
    "arti": "kebakaran",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1",
+    "b7s2"
+   ],
    "contoh": "さまざまな{原因|げんいん}で{発生|はっせい}する{火災|かさい}に{巻|ま}き{込|こ}まれることによって{起|お}こる{労働災害|ろうどうさいがい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47199,7 +47438,9 @@
    "arti": "kecelakaan lalu lintas (jalan)",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1"
+   ],
    "contoh": "{工事現場|こうじげんば}で{通勤中|つうきんちゅう}に{起|お}こる{交通事故|こうつうじこ}や、{道路|どうろ}に{面|めん}した{場所|ばしょ}での{工事中|こうじちゅう}に{一般|いっぱん}の{自動車|じどうしゃ}に{巻|ま}き{込|こ}まれて{起|お}こる{労働災害|ろうどうさいがい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47212,7 +47453,9 @@
    "arti": "tenggelam",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1"
+   ],
    "contoh": "{海|うみ}や{河川|かせん}、{下水道工事|げすいどうこうじ}などの{水|みず}を{扱|あつか}う{場所|ばしょ}で、{水中|すいちゅう}に{落|お}ちる{事|こと}で{起|お}こる{労働|ろうどう}{災害|さいがい}です。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47225,7 +47468,9 @@
    "arti": "pelaksanaan pendidikan pekerja baru",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "contoh": "関係請負人は、その雇用する労働者が建設現場で新たに作業に従事することとなった場合には、当該作業従事前に当該建設現場の特性を踏まえて、次の事項を職長等から周知するとともに、元方事業者にその結果を報告すること。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47238,7 +47483,9 @@
    "arti": "kacamata pelindung",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "contoh": "{工事現場|こうじげんば}や{材料|ざいりょう}の{加工現場|かこうげんば}で{発生|はっせい}する、{金属|きんぞく}や{木|き}の{粉|ふん}じん、{火花|ひばな}、{熱|ねつ}、{煙|けむり}({有毒|ゆうどく}ガスを{含|ふく}む)、レーザーなどの{有害光線|ゆうがいこうせん}などから{目|め}を{守|まも}るためのメガネです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47251,7 +47498,9 @@
    "arti": "masker pelindung",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "contoh": "ホコリなどのちりを{防|ふせ}ぐためのマスクです。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47264,7 +47513,9 @@
    "arti": "sarung tangan",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "contoh": "{切削|せっさく}・{切断加工|せつだんかこう}や{塗装工事|とそうこうじ}、{各種取付工事|かくしゅとりつけこうじ}、{化学物質|かがくぶっしつ}を{扱|あつか}う{工事|こうじ}などを{行|おこな}うときに、{手|て}を{保護|ほご}するために{用|もち}います。",
    "auto": true,
    "arti_src": "Claude (diterjemahkan dari definisi buku JP)"
@@ -47277,7 +47528,10 @@
    "arti": "pekerjaan; kegiatan kerja",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47289,7 +47543,9 @@
    "arti": "perlu; diperlukan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47301,7 +47557,9 @@
    "arti": "bangunan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47313,7 +47571,9 @@
    "arti": "kasus; keadaan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47325,7 +47585,10 @@
    "arti": "pengecekan; konfirmasi",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47337,7 +47600,9 @@
    "arti": "bagian",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47349,7 +47614,10 @@
    "arti": "penggunaan; memakai",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47361,7 +47629,9 @@
    "arti": "kecelakaan; insiden",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47373,7 +47643,9 @@
    "arti": "mesin",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47385,7 +47657,10 @@
    "arti": "jenis; macam",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47397,7 +47672,9 @@
    "arti": "keselamatan; aman",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47409,7 +47686,10 @@
    "arti": "tempat; Lokasi",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47421,7 +47701,11 @@
    "arti": "terjadi; timbul",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47433,7 +47717,10 @@
    "arti": "bahan; bahan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47445,7 +47732,9 @@
    "arti": "alat; perkakas",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47457,7 +47746,10 @@
    "arti": "pengolahan; pengerjaan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47469,7 +47761,11 @@
    "arti": "lokasi kerja; lapangan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47481,7 +47777,9 @@
    "arti": "pemasangan; mendirikan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47493,7 +47791,10 @@
    "arti": "memasang tetap; mengunci",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1",
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47505,7 +47806,11 @@
    "arti": "peralatan; fasilitas",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47517,7 +47822,11 @@
    "arti": "kata; bahasa",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47529,7 +47838,10 @@
    "arti": "istilah; terminologi",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1",
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47541,7 +47853,11 @@
    "arti": "hukum",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s2",
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47553,7 +47869,11 @@
    "arti": "metode; proses",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47565,7 +47885,10 @@
    "arti": "listrik; (listrik) cahaya",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47577,7 +47900,9 @@
    "arti": "bahaya; bahaya",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47589,7 +47914,9 @@
    "arti": "tujuan; sasaran",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47601,7 +47928,11 @@
    "arti": "jepang",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47613,7 +47944,9 @@
    "arti": "bekerja; pekerjaan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47625,7 +47958,10 @@
    "arti": "penting; diperlukan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47637,7 +47973,11 @@
    "arti": "udara; suasana",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s3",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47649,7 +47989,9 @@
    "arti": "kondisi; keadaan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47661,7 +48003,11 @@
    "arti": "standar; acuan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s2",
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47673,7 +48019,9 @@
    "arti": "peringatan; berhati -hati",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47685,7 +48033,10 @@
    "arti": "pabrik; tanaman",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47697,7 +48048,9 @@
    "arti": "horisontal; tingkat",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47709,7 +48062,10 @@
    "arti": "karyawan; pekerja",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47721,7 +48077,10 @@
    "arti": "permukaan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47733,7 +48092,9 @@
    "arti": "pencegahan; memeriksa",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47745,7 +48106,9 @@
    "arti": "teman; mitra",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47757,7 +48120,9 @@
    "arti": "endapan; Bumi dan Pasir",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47769,7 +48134,11 @@
    "arti": "memastikan; mengamankan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s2",
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47781,7 +48150,10 @@
    "arti": "menyebabkan; asal",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47793,7 +48165,9 @@
    "arti": "cedera atau kematian terkait pekerjaan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47805,7 +48179,10 @@
    "arti": "celah; retakan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47817,7 +48194,9 @@
    "arti": "vertikal; tegak lurus",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47829,7 +48208,9 @@
    "arti": "perasaan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47841,7 +48222,9 @@
    "arti": "kegiatan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47853,7 +48236,10 @@
    "arti": "posisi; letak",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2",
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47865,7 +48251,9 @@
    "arti": "atap",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47877,7 +48265,11 @@
    "arti": "menggunakan; pemanfaatan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s2",
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47889,7 +48281,9 @@
    "arti": "jatuh; Crash (mis. Pesawat)",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47901,7 +48295,9 @@
    "arti": "memahami; pemahaman",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47913,7 +48309,11 @@
    "arti": "bencana; bencana",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47925,7 +48325,9 @@
    "arti": "memasok; persediaan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47937,7 +48339,9 @@
    "arti": "drainase; Menguras",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47949,7 +48353,9 @@
    "arti": "pekerjaan dasar; dasar",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47961,7 +48367,10 @@
    "arti": "bersih; higienis",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47973,7 +48382,11 @@
    "arti": "diriku sendiri; dirimu sendiri",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47985,7 +48398,9 @@
    "arti": "tidak kurang dari; dan banyak lagi",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -47997,7 +48412,10 @@
    "arti": "kualifikasi; persyaratan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48009,7 +48427,9 @@
    "arti": "pengetahuan; informasi",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48021,7 +48441,9 @@
    "arti": "penting; sangat penting",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48033,7 +48455,10 @@
    "arti": "pengaturan; peraturan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48045,7 +48470,11 @@
    "arti": "teknisi",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48057,7 +48486,9 @@
    "arti": "kualitas (materi)",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48069,7 +48500,9 @@
    "arti": "lengkap; penyelesaian",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48081,7 +48514,9 @@
    "arti": "proses; operasi",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48093,7 +48528,9 @@
    "arti": "pembersihan; pembersihan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48105,7 +48542,11 @@
    "arti": "(seseorang) Penggunaan eksklusif; penggunaan pribadi",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s2",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48117,7 +48558,11 @@
    "arti": "institusi; pembentukan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48129,7 +48574,11 @@
    "arti": "arti; makna",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1",
+    "b4s2",
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48141,7 +48590,9 @@
    "arti": "teknologi; rekayasa",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48153,7 +48604,9 @@
    "arti": "tempat tinggi; ketinggian tinggi",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48165,7 +48618,9 @@
    "arti": "waktu; jam",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48177,7 +48632,9 @@
    "arti": "rencana; proyek",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48189,7 +48646,10 @@
    "arti": "gerakan",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1",
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48201,7 +48661,9 @@
    "arti": "merapikan (seiri); memilah",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48213,7 +48675,9 @@
    "arti": "menata (seiton)",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48225,7 +48689,10 @@
    "arti": "plot tanah; banyak",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48237,7 +48704,10 @@
    "arti": "pelaksanaan; pelaksanaan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48249,7 +48719,9 @@
    "arti": "jarak; jangkauan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48261,7 +48733,9 @@
    "arti": "ujung",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48273,7 +48747,9 @@
    "arti": "kontrol; Manajemen (mis. Bisnis)",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48285,7 +48761,9 @@
    "arti": "langkah penanggulangan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48297,7 +48775,9 @@
    "arti": "prosedur; urutan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48309,7 +48789,9 @@
    "arti": "pemeriksaan; inspeksi",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48321,7 +48803,9 @@
    "arti": "ujian; uji",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48333,7 +48817,9 @@
    "arti": "cukup; memadai",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48345,7 +48831,9 @@
    "arti": "persiapan; pengaturan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48357,7 +48845,9 @@
    "arti": "tidak sopan; permisi",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48369,7 +48859,10 @@
    "arti": "putaran; berputar",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1",
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48381,7 +48874,11 @@
    "arti": "ketentuan; aturan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48393,7 +48890,10 @@
    "arti": "indikasi; denotasi",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48405,7 +48905,9 @@
    "arti": "langit -langit; harga plafon",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48417,7 +48919,9 @@
    "arti": "penanganan; pengolahan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48429,7 +48933,9 @@
    "arti": "kesadaran",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48441,7 +48947,9 @@
    "arti": "titik; tempat",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48453,7 +48961,9 @@
    "arti": "barang bawaan; muatan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48465,7 +48975,11 @@
    "arti": "mandor",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48477,7 +48991,10 @@
    "arti": "penguatan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48489,7 +49006,10 @@
    "arti": "kebisingan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48501,7 +49021,9 @@
    "arti": "kegunaan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48513,7 +49035,9 @@
    "arti": "jatuh; jatuh",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48525,7 +49049,9 @@
    "arti": "kota",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48537,7 +49063,9 @@
    "arti": "menyusun (mis. Dokumen hukum, kontrak, kehendak, dll.); mempersiapkan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48549,7 +49077,9 @@
    "arti": "gerakan; transfer",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48561,7 +49091,9 @@
    "arti": "materi limbah; limbah",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48573,7 +49105,9 @@
    "arti": "penurunan; menurun",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48585,7 +49119,9 @@
    "arti": "umum; sama-sama",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48597,7 +49133,9 @@
    "arti": "pengolesan; pelapisan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48609,7 +49147,10 @@
    "arti": "gempa bumi",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48621,7 +49162,9 @@
    "arti": "larangan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48633,7 +49176,9 @@
    "arti": "beberapa; jamak",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48645,7 +49190,9 @@
    "arti": "garis lurus",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48657,7 +49204,11 @@
    "arti": "penyelidikan; survei",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48669,7 +49220,10 @@
    "arti": "(Bangunan) Batu",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48681,7 +49235,9 @@
    "arti": "izin; lisensi",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48693,7 +49249,9 @@
    "arti": "prinsip; aturan pokok",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48705,7 +49263,10 @@
    "arti": "posnya; tempat kerja",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b7s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48717,7 +49278,9 @@
    "arti": "senior (di tempat kerja atau sekolah); unggul",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48729,7 +49292,10 @@
    "arti": "pengalaman",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48741,7 +49307,9 @@
    "arti": "tindakan; perilaku",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48753,7 +49321,10 @@
    "arti": "kamar; ruangan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1",
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48765,7 +49336,11 @@
    "arti": "kesehatan; sehat",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48777,7 +49352,10 @@
    "arti": "informasi; berita",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48789,7 +49367,9 @@
    "arti": "pakaian",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48801,7 +49381,10 @@
    "arti": "garis besar; ringkasan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48813,7 +49396,11 @@
    "arti": "umum; publik",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2",
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48825,7 +49412,9 @@
    "arti": "desain; perancangan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48837,7 +49426,9 @@
    "arti": "satuan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48849,7 +49440,9 @@
    "arti": "susunan; komposisi",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48861,7 +49454,9 @@
    "arti": "mendasar; dasar",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48873,7 +49468,11 @@
    "arti": "bangunan; arsitektur",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2",
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48885,7 +49484,9 @@
    "arti": "pertimbangan; penyelidikan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48897,7 +49498,10 @@
    "arti": "mobil; mobil",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48909,7 +49513,10 @@
    "arti": "sudut kanan; tegak lurus",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2",
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48921,7 +49528,9 @@
    "arti": "memasang; mengenakan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48933,7 +49542,10 @@
    "arti": "otomatis",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48945,7 +49557,10 @@
    "arti": "keunggulan; ciri khas",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48957,7 +49572,9 @@
    "arti": "lereng; permukaan miring",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48969,7 +49586,9 @@
    "arti": "kepastian; keandalan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48981,7 +49600,10 @@
    "arti": "pemanas; aplikasi panas",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -48993,7 +49615,11 @@
    "arti": "isi; isi",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49005,7 +49631,9 @@
    "arti": "kiri dan kanan; kanan dan kiri",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49017,7 +49645,10 @@
    "arti": "lingkar; pinggiran",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49029,7 +49660,10 @@
    "arti": "menerapkan (mis. Teknologi); adopsi",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49041,7 +49675,9 @@
    "arti": "daya tahan; → Seksual [SEI] 4, daya tahan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49053,7 +49689,9 @@
    "arti": "mudah; sederhana",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49065,7 +49703,9 @@
    "arti": "di tengah jalan; tengah-tengah",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49077,7 +49717,9 @@
    "arti": "sinyal; pensinyalan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49089,7 +49731,9 @@
    "arti": "bahan; material",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49101,7 +49745,10 @@
    "arti": "beterbangan; berhamburan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49113,7 +49760,9 @@
    "arti": "skala; ukuran",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49125,7 +49774,9 @@
    "arti": "hari ini; hari ini",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49137,7 +49788,9 @@
    "arti": "pencegahan; tindakan pencegahan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49149,7 +49802,9 @@
    "arti": "unggul; atasan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49161,7 +49816,9 @@
    "arti": "untuk dihubungi; untuk menghubungi",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49173,7 +49830,9 @@
    "arti": "pemecatan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49185,7 +49844,9 @@
    "arti": "tugas; pekerjaan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49197,7 +49858,9 @@
    "arti": "nyaman",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49209,7 +49872,10 @@
    "arti": "pengaturan; pembatasan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49221,7 +49887,10 @@
    "arti": "orang (dari suatu negara); bangsa",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49233,7 +49902,10 @@
    "arti": "perawatan; pemeliharaan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49245,7 +49917,9 @@
    "arti": "tukang kayu",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49257,7 +49931,10 @@
    "arti": "lingkungan; lingkungan",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s1",
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49269,7 +49946,9 @@
    "arti": "pengoperasian; mengemudi",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49281,7 +49960,9 @@
    "arti": "panggilan telepon; panggilan telepon",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49293,7 +49974,9 @@
    "arti": "persiapan; pengaturan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49305,7 +49988,10 @@
    "arti": "rolling stock; mobil kereta api",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1",
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49317,7 +50003,9 @@
    "arti": "jalan; jalan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49329,7 +50017,10 @@
    "arti": "pembatasan; pengekangan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49341,7 +50032,9 @@
    "arti": "mengenakan; memakai",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49353,7 +50046,9 @@
    "arti": "klasifikasi; kategorisasi",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49365,7 +50060,9 @@
    "arti": "ketinggian; bangkit",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49377,7 +50074,9 @@
    "arti": "luar; di luar",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49389,7 +50088,9 @@
    "arti": "tidak melebihi; dan ke bawah",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49401,7 +50102,11 @@
    "arti": "hidup; hidup (keberadaan sehari -hari seseorang)",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49413,7 +50118,9 @@
    "arti": "perlindungan sementara (yōjō); perawatan",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49425,7 +50132,9 @@
    "arti": "kelebihan; sisa",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49437,7 +50146,9 @@
    "arti": "stabilitas; kemantapan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49449,7 +50160,11 @@
    "arti": "penyelamatan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49461,7 +50176,9 @@
    "arti": "kemampuan; pertunjukan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49473,7 +50190,9 @@
    "arti": "sekarang; saat ini",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49485,7 +50204,9 @@
    "arti": "tanda; penunjukan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49497,7 +50218,9 @@
    "arti": "resin",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49509,7 +50232,10 @@
    "arti": "sumber Listrik; daya listrik",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49521,7 +50247,9 @@
    "arti": "awal; permulaan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49533,7 +50261,10 @@
    "arti": "barang manufaktur; barang jadi",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49545,7 +50276,9 @@
    "arti": "kebebasan; kebebasan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49557,7 +50290,10 @@
    "arti": "penggantian; pertukaran",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49569,7 +50305,9 @@
    "arti": "kuat; kokoh",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49581,7 +50319,9 @@
    "arti": "meja kerja; meja kerja",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49593,7 +50333,11 @@
    "arti": "pengawas; pengawasan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49605,7 +50349,11 @@
    "arti": "keterampilan teknis; kemampuan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49617,7 +50365,10 @@
    "arti": "penilaian",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49629,7 +50380,9 @@
    "arti": "nama; Nama yang diberikan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49641,7 +50394,9 @@
    "arti": "berbagi; dimiliki bersama",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49653,7 +50408,9 @@
    "arti": "akhir; kesimpulan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49665,7 +50422,10 @@
    "arti": "hidup bersama; kehidupan komunal",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1",
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49677,7 +50437,9 @@
    "arti": "sehat; bersemangat",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49689,7 +50451,11 @@
    "arti": "lingkungan; keadaan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49701,7 +50467,9 @@
    "arti": "pendidikan; sekolah",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49713,7 +50481,9 @@
    "arti": "istirahat; merusak",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49725,7 +50495,9 @@
    "arti": "merokok; → Tidak merokok 1",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49737,7 +50509,10 @@
    "arti": "air limbah",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49749,7 +50524,11 @@
    "arti": "kesejahteraan; kesejahteraan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s2",
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49761,7 +50540,9 @@
    "arti": "pemeliharaan; mempertahankan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49773,7 +50554,9 @@
    "arti": "tiang penopang",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49785,7 +50568,9 @@
    "arti": "depan belakang; sekitar",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49797,7 +50582,9 @@
    "arti": "relasi; hubungan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49809,7 +50596,9 @@
    "arti": "di dalam; pedalaman",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49821,7 +50610,9 @@
    "arti": "efisiensi",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49833,7 +50624,9 @@
    "arti": "bermacam-macam; bervariasi",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49845,7 +50638,9 @@
    "arti": "menempel; lengket",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49857,7 +50652,9 @@
    "arti": "pengoperasian",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49869,7 +50666,10 @@
    "arti": "basement; gudang di bawah tanah",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49881,7 +50681,10 @@
    "arti": "atap; → taman atap [okujoteen]",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49893,7 +50696,10 @@
    "arti": "pedalaman; di dalam",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49905,7 +50711,10 @@
    "arti": "ruang angkasa; ruang",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49917,7 +50726,9 @@
    "arti": "kedua ujungnya; keduanya akhir",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49929,7 +50740,9 @@
    "arti": "ada tidaknya",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49941,7 +50754,9 @@
    "arti": "pengeringan; kering",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49953,7 +50768,9 @@
    "arti": "perkiraan; prediksi",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49965,7 +50782,9 @@
    "arti": "foto; foto",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49977,7 +50796,9 @@
    "arti": "pekerjaan dalam proses; keadaan kerja",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -49989,7 +50810,9 @@
    "arti": "beban; memuat",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50001,7 +50824,9 @@
    "arti": "memahami; menguasai",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50013,7 +50838,9 @@
    "arti": "selesai; berakhir",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50025,7 +50852,10 @@
    "arti": "rintangan; gangguan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50037,7 +50867,10 @@
    "arti": "menahan panas; insulasi",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50049,7 +50882,9 @@
    "arti": "koridor; lorong",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50061,7 +50896,9 @@
    "arti": "sudut",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50073,7 +50910,9 @@
    "arti": "pendinginan; pendinginan",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50085,7 +50924,9 @@
    "arti": "cakupan; jangkauan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50097,7 +50938,9 @@
    "arti": "bagian atas",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50109,7 +50952,10 @@
    "arti": "spesialisasi; keahlian",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50121,7 +50967,10 @@
    "arti": "umum",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50133,7 +50982,9 @@
    "arti": "berkala; biasa",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50145,7 +50996,10 @@
    "arti": "peran; tugas",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50157,7 +51011,10 @@
    "arti": "dengan pengecualian; kecuali",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50169,7 +51026,10 @@
    "arti": "penghilangan; menyingkirkan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50181,7 +51041,10 @@
    "arti": "sedang dibangun",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2",
+    "b6s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50193,7 +51056,9 @@
    "arti": "pembuatan; produksi",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50205,7 +51070,9 @@
    "arti": "benda; properti",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50217,7 +51084,9 @@
    "arti": "efisien",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50229,7 +51098,9 @@
    "arti": "pertimbangan; perhatian",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50241,7 +51112,9 @@
    "arti": "situasi; keadaan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50253,7 +51126,9 @@
    "arti": "keduanya; kedua belah pihak",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50265,7 +51140,9 @@
    "arti": "lalu lintas; lewat",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50277,7 +51154,9 @@
    "arti": "dasar",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50289,7 +51168,9 @@
    "arti": "penopangan; dukungan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50301,7 +51182,9 @@
    "arti": "cuci baskom; Cuci mangkuk (termasuk mangkuk portabel di kamar mandi umum)",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50313,7 +51196,9 @@
    "arti": "bagian (tubuh/alat)",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50325,7 +51210,9 @@
    "arti": "penggaris",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50337,7 +51224,9 @@
    "arti": "atas dan bawah; tinggi dan rendah",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50349,7 +51238,9 @@
    "arti": "pembersihan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50361,7 +51252,9 @@
    "arti": "tuntutan; permintaan perusahaan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50373,7 +51266,10 @@
    "arti": "perusahaan; perusahaan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50385,7 +51281,9 @@
    "arti": "publikasi; masalah (jurnal, koran, dll.)",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50397,7 +51295,9 @@
    "arti": "musik",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50409,7 +51309,9 @@
    "arti": "perkenalan; presentasi",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50421,7 +51323,9 @@
    "arti": "penemuan; deteksi",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50433,7 +51337,9 @@
    "arti": "terima kasih; rasa syukur",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50445,7 +51351,9 @@
    "arti": "kantor",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50457,7 +51365,9 @@
    "arti": "kepadatan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50469,7 +51379,9 @@
    "arti": "huruf (alfabet); karakter",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50481,7 +51393,9 @@
    "arti": "tingkat; perbandingan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50493,7 +51407,9 @@
    "arti": "penyerapan; pengisapan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50505,7 +51421,9 @@
    "arti": "penyimpanan; penjagaan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50517,7 +51435,9 @@
    "arti": "disinfeksi; sterilisasi",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50529,7 +51449,9 @@
    "arti": "terbuka; terekspos",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50541,7 +51463,9 @@
    "arti": "pakaian kerja; pakaian kerja",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50553,7 +51477,9 @@
    "arti": "mantel; jubah",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50565,7 +51491,9 @@
    "arti": "laporan; informasi",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50577,7 +51505,9 @@
    "arti": "konsultasi; diskusi",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50589,7 +51519,11 @@
    "arti": "tubuh; → Tubuh [Shintai]",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50601,7 +51535,9 @@
    "arti": "bertindak; akta",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50613,7 +51549,9 @@
    "arti": "pembaruan; perpanjangan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50625,7 +51563,9 @@
    "arti": "lembur",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50637,7 +51577,9 @@
    "arti": "penyakit (Usu. Tidak termasuk penyakit ringan, mis. Pilek); penyakit",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50649,7 +51591,9 @@
    "arti": "setiap tahun; tahunan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50661,7 +51605,10 @@
    "arti": "betterment; peningkatan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50673,7 +51620,10 @@
    "arti": "proyek; perusahaan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50685,7 +51635,9 @@
    "arti": "bergabung (klub, organisasi, dll.); menjadi anggota",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50697,7 +51649,9 @@
    "arti": "bagus; Bagus",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50709,7 +51663,11 @@
    "arti": "pedagang; pedagang",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50721,7 +51679,10 @@
    "arti": "pengurangan; pengurangan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50733,7 +51694,10 @@
    "arti": "pengangkutan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50745,7 +51709,9 @@
    "arti": "berlindung; menemukan tempat berlindung",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50757,7 +51723,10 @@
    "arti": "higienis; sanitasi",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50769,7 +51738,9 @@
    "arti": "tempat tinggal; perumahan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50781,7 +51752,9 @@
    "arti": "halaman rumput; rumput",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50793,7 +51766,10 @@
    "arti": "invasi; serangan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50805,7 +51781,9 @@
    "arti": "sengatan panas",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50817,7 +51795,9 @@
    "arti": "bersama -sama; → itu sama",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50829,7 +51809,9 @@
    "arti": "manusia; orang",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50841,7 +51823,9 @@
    "arti": "kelelahan; kelelahan",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50853,7 +51837,9 @@
    "arti": "di kaki seseorang; Di bawah kaki",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50865,7 +51851,9 @@
    "arti": "alam; alami",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50877,7 +51865,9 @@
    "arti": "penyebutan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50889,7 +51879,9 @@
    "arti": "tanaman; vegetasi",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50901,7 +51893,9 @@
    "arti": "seluruh permukaan; menyeluruh",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50913,7 +51907,10 @@
    "arti": "derajat; jumlah",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50925,7 +51922,9 @@
    "arti": "penahanan; pengendalian",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50937,7 +51936,9 @@
    "arti": "pemilahan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50949,7 +51950,9 @@
    "arti": "konsentrasi; kepekatan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50961,7 +51964,9 @@
    "arti": "fungsi; fasilitas",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50973,7 +51978,9 @@
    "arti": "tampilan yang bagus; pemandangan yang indah",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50985,7 +51992,9 @@
    "arti": "pemampatan; kompresi",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -50997,7 +52006,9 @@
    "arti": "ketidakpercayaan; kekasaran",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51009,7 +52020,10 @@
    "arti": "pada dasarnya; semula",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1",
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51021,7 +52035,9 @@
    "arti": "darurat",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51033,7 +52049,9 @@
    "arti": "penghancuran; gangguan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51045,7 +52063,9 @@
    "arti": "satu napas; Chug!",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51057,7 +52077,9 @@
    "arti": "tanah; bumi",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51069,7 +52091,9 @@
    "arti": "penyediaan; pemberian",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51081,7 +52105,10 @@
    "arti": "daya listrik",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51093,7 +52120,9 @@
    "arti": "pengaturan; penetapan",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51105,7 +52134,9 @@
    "arti": "reaksi",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51117,7 +52148,10 @@
    "arti": "utuh; keseluruhan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51129,7 +52163,9 @@
    "arti": "luas",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51141,7 +52177,9 @@
    "arti": "kamar mandi",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51153,7 +52191,9 @@
    "arti": "bimbingan; kepemimpinan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51165,7 +52205,9 @@
    "arti": "rencana; pengaturan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51177,7 +52219,9 @@
    "arti": "penilaian; keputusan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51189,7 +52233,9 @@
    "arti": "bagian bawah; substruktur",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51201,7 +52247,9 @@
    "arti": "kuil Shinto",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51213,7 +52261,9 @@
    "arti": "tanah liat",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51225,7 +52275,9 @@
    "arti": "pengisian",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51237,7 +52289,10 @@
    "arti": "alam; spontanitas",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51249,7 +52304,10 @@
    "arti": "isyarat; tanda",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1",
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51261,7 +52319,10 @@
    "arti": "pasokan air; Layanan Air",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51273,7 +52334,9 @@
    "arti": "pemangkasan",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51285,7 +52348,9 @@
    "arti": "pegangan tangan; railing",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51297,7 +52362,10 @@
    "arti": "aLAT PEMADAM API",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51309,7 +52377,9 @@
    "arti": "sebagian besar",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51321,7 +52391,9 @@
    "arti": "produksi; pembuatan",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51333,7 +52405,9 @@
    "arti": "medan; Fitur Geografis",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51345,7 +52419,9 @@
    "arti": "musim; waktu tahun",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51357,7 +52433,9 @@
    "arti": "unsur; faktor",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51369,7 +52447,9 @@
    "arti": "syarat; anggapan",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51381,7 +52461,9 @@
    "arti": "proses; tahapan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51393,7 +52475,9 @@
    "arti": "tenaga kerja; usaha",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51405,7 +52489,9 @@
    "arti": "dana; modal",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51417,7 +52503,9 @@
    "arti": "tempat yang sebenarnya; lokal",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51429,7 +52517,9 @@
    "arti": "dibawa; ponsel",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51441,7 +52531,9 @@
    "arti": "pertanyaan (mis. Pada tes); masalah",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51453,7 +52545,9 @@
    "arti": "dekat; sehari-hari",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51465,7 +52559,9 @@
    "arti": "saya pasti; sangat",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51477,7 +52573,9 @@
    "arti": "ketidakcukupan; kekurangan",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51489,7 +52587,9 @@
    "arti": "empat sudut; empat arah ordinal",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51501,7 +52601,9 @@
    "arti": "pemberhentian; berhenti",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51513,7 +52615,9 @@
    "arti": "lingkungan; lingkungan",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51525,7 +52629,9 @@
    "arti": "sama; serupa",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51537,7 +52643,9 @@
    "arti": "berkelanjutan; bertahan",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51549,7 +52657,9 @@
    "arti": "wadah; wadah",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51561,7 +52671,9 @@
    "arti": "penerapan",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51573,7 +52685,9 @@
    "arti": "roda gigi",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51585,7 +52699,9 @@
    "arti": "sistem; struktur",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51597,7 +52713,9 @@
    "arti": "organisasi",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51609,7 +52727,9 @@
    "arti": "pribadi; non-pemerintah",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51621,7 +52741,9 @@
    "arti": "posisi; situasi",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51633,7 +52755,9 @@
    "arti": "perwujudan; realisasi",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51645,7 +52769,9 @@
    "arti": "penyebaran; meluas",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51657,7 +52783,9 @@
    "arti": "setiap hari",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51669,7 +52797,9 @@
    "arti": "nomor satu; Pertama",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51681,7 +52811,9 @@
    "arti": "latihan; pelatihan fisik",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51693,7 +52825,9 @@
    "arti": "pernyataan; berbicara",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51705,7 +52839,9 @@
    "arti": "penunjukan; menunjuk",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51717,7 +52853,9 @@
    "arti": "presentasi; pengumuman",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51729,7 +52867,10 @@
    "arti": "satu orang; Sendirian",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51741,7 +52882,9 @@
    "arti": "tanda; tujuan",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51753,7 +52896,9 @@
    "arti": "efek; efektivitas",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51765,7 +52910,9 @@
    "arti": "membalas; menjawab",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51777,7 +52924,9 @@
    "arti": "tata krama; kesopanan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51789,7 +52938,9 @@
    "arti": "hambatan; rintangan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51801,7 +52952,9 @@
    "arti": "negara bagian; keadaan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51813,7 +52966,9 @@
    "arti": "amandemen; koreksi",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51825,7 +52980,9 @@
    "arti": "kerusakan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51837,7 +52994,9 @@
    "arti": "derajat Celsius",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51849,7 +53008,9 @@
    "arti": "ekspresi; presentasi",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51861,7 +53022,9 @@
    "arti": "pertemuan; konferensi",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51873,7 +53036,9 @@
    "arti": "makan; makan malam",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51885,7 +53050,9 @@
    "arti": "abstain dari merokok; berhenti merokok",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51897,7 +53064,9 @@
    "arti": "kehilangan; hilang",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51909,7 +53078,9 @@
    "arti": "pengumuman; papan pengumuman",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51921,7 +53092,9 @@
    "arti": "kebiasaan; (sosial) adat",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51933,7 +53106,9 @@
    "arti": "mencuci; cucian",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51945,7 +53120,9 @@
    "arti": "pergelangan tangan; → Kepala pergelangan tangan",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51957,7 +53134,9 @@
    "arti": "penanganan; menanggapi",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51969,7 +53148,9 @@
    "arti": "sama sekali; semuanya",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51981,7 +53162,9 @@
    "arti": "kewarganegaraan; kewarganegaraan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -51993,7 +53176,9 @@
    "arti": "alasan; dalih",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52005,7 +53190,9 @@
    "arti": "tidak adil; tidak sah",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52017,7 +53204,9 @@
    "arti": "cara; sarana",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52029,7 +53218,9 @@
    "arti": "maksud; mengharapkan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52041,7 +53232,9 @@
    "arti": "paksaan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52053,7 +53246,9 @@
    "arti": "nyeri; rasa sakit",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52065,7 +53260,9 @@
    "arti": "pengunduran diri; pensiun",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52077,7 +53274,11 @@
    "arti": "kontrak; kompak",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s2",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52089,7 +53290,9 @@
    "arti": "pemberitahuan sebelumnya",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52101,7 +53304,9 @@
    "arti": "setiap bulan; setiap bulan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52113,7 +53318,9 @@
    "arti": "serentak",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52125,7 +53332,9 @@
    "arti": "tahun fiskal (Usu. April hingga Maret di Jepang); tahun keuangan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52137,7 +53346,9 @@
    "arti": "pencegahan kecelakaan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52149,7 +53360,9 @@
    "arti": "naungan; bayangan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52161,7 +53374,9 @@
    "arti": "karyawan; pekerja",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52173,7 +53388,9 @@
    "arti": "dokter; dokter",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52185,7 +53402,9 @@
    "arti": "harga komoditas; Harga (secara umum)",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52197,7 +53416,9 @@
    "arti": "cedera; luka",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52209,7 +53430,9 @@
    "arti": "rSUD",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52221,7 +53444,9 @@
    "arti": "menjadi korban (beberapa bencana); menderita",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52233,7 +53458,9 @@
    "arti": "sepeda; sepeda",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52245,7 +53472,9 @@
    "arti": "keamanan; keamanan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52257,7 +53486,9 @@
    "arti": "setiap orang; rakyat",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52269,7 +53500,9 @@
    "arti": "pembuangan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52281,7 +53514,9 @@
    "arti": "serangkaian",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52293,7 +53528,10 @@
    "arti": "sehat; wajar",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2",
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52305,7 +53543,9 @@
    "arti": "laba; keuntungan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52317,7 +53557,9 @@
    "arti": "pengoperasian; pemanfaatan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52329,7 +53571,9 @@
    "arti": "terminal; terminal komputer",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52341,7 +53585,9 @@
    "arti": "tempat parkir; parkir mobil",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52353,7 +53599,9 @@
    "arti": "kotamadya; pemerintah daerah",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52365,7 +53613,9 @@
    "arti": "bandara",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52377,7 +53627,9 @@
    "arti": "topan; Badai",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52389,7 +53641,9 @@
    "arti": "hujan deras; hujan lebat",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52401,7 +53655,9 @@
    "arti": "bencana alam",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52413,7 +53669,9 @@
    "arti": "pemulihan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52425,7 +53683,9 @@
    "arti": "pesisir; pantai",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52437,7 +53697,9 @@
    "arti": "khas",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52449,7 +53711,9 @@
    "arti": "penerangan; penerangan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52461,7 +53725,9 @@
    "arti": "pupuk; pupuk",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52473,7 +53739,9 @@
    "arti": "pegas panas; onsen",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52485,7 +53753,9 @@
    "arti": "penyelesaian (kursus)",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52497,7 +53767,9 @@
    "arti": "di depan; sisi dekat",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52509,7 +53781,9 @@
    "arti": "(Publik) Taman",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52521,7 +53795,9 @@
    "arti": "pemeliharaan; pelatihan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52533,7 +53809,9 @@
    "arti": "rujukan; lihat",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52545,7 +53823,9 @@
    "arti": "berencana; dijadwalkan",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52557,7 +53837,9 @@
    "arti": "berbagai; semua jenis",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52569,7 +53851,9 @@
    "arti": "kain",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52581,7 +53865,9 @@
    "arti": "dunia; masyarakat",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52593,7 +53879,9 @@
    "arti": "setiap tempat; berbagai tempat",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52605,7 +53893,9 @@
    "arti": "freezer",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52617,7 +53907,9 @@
    "arti": "pembongkaran; penguraian",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52629,7 +53921,9 @@
    "arti": "kehidupan sipil",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52641,7 +53935,9 @@
    "arti": "bedpan; pot kencing",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52653,7 +53949,9 @@
    "arti": "bahan bakar",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52665,7 +53963,9 @@
    "arti": "tubuh; obyek",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52677,7 +53977,9 @@
    "arti": "terbakar; melepuh",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52689,7 +53991,9 @@
    "arti": "penghuni; penduduk",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52701,7 +54005,10 @@
    "arti": "pemadam kebakaran; → Api 1",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2",
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52713,7 +54020,9 @@
    "arti": "alarm; peringatan",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52725,7 +54034,9 @@
    "arti": "penuaan; aus",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52737,7 +54048,9 @@
    "arti": "bepergian ke tempat kerja",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52749,7 +54062,9 @@
    "arti": "penyebab utama; faktor utama",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52761,7 +54076,9 @@
    "arti": "pencapaian; pencapaian",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52773,7 +54090,9 @@
    "arti": "orang yang bertanggung jawab (termasuk peran pengawasan untuk staf lain); orang",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52785,7 +54104,9 @@
    "arti": "perangkat pengaman",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52797,7 +54118,9 @@
    "arti": "sepatu bot pengaman; sepatu pengaman",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52809,7 +54132,9 @@
    "arti": "alat bermata; Alat makan",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52821,7 +54146,9 @@
    "arti": "suhu udara",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52833,7 +54160,9 @@
    "arti": "otot",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52845,7 +54174,9 @@
    "arti": "berkeringat; keringat",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52857,7 +54188,9 @@
    "arti": "merasa; suasana hati",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52869,7 +54202,9 @@
    "arti": "gejala; kondisi (dari pasien)",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52881,7 +54216,9 @@
    "arti": "lemari es; kulkas",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52893,7 +54230,9 @@
    "arti": "pembuat es; mesin pembuat es",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52905,7 +54244,9 @@
    "arti": "cedera (ke objek hidup); terluka",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52917,7 +54258,9 @@
    "arti": "pemula",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52929,7 +54272,9 @@
    "arti": "jalan; metode",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52941,7 +54286,9 @@
    "arti": "suasana; suasana hati",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52953,7 +54300,9 @@
    "arti": "pikiran dan tubuh",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52965,7 +54314,9 @@
    "arti": "tidak masuk akal; tidak wajar",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52977,7 +54328,9 @@
    "arti": "postur; pose",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -52989,7 +54342,9 @@
    "arti": "kesadaran diri; Kesadaran diri",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53001,7 +54356,9 @@
    "arti": "tidur",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53013,7 +54370,9 @@
    "arti": "manajemen Kesehatan; pemeliharaan kesehatan",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53025,7 +54384,9 @@
    "arti": "permukaan datar; pesawat",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53037,7 +54398,9 @@
    "arti": "persamaan; keseragaman",
    "cat": "Umum",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53049,7 +54412,10 @@
    "arti": "biasa; biasa",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2",
+    "b6s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53061,7 +54427,10 @@
    "arti": "penamaan; spesifikasi",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2",
+    "b6s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53073,7 +54442,9 @@
    "arti": "dimulainya pekerjaan",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53085,7 +54456,9 @@
    "arti": "awal; awal",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53097,7 +54470,9 @@
    "arti": "tabrakan",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53109,7 +54484,9 @@
    "arti": "pembagian",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53121,7 +54498,9 @@
    "arti": "perhitungan; perhitungan",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53133,7 +54512,9 @@
    "arti": "patokan; perkiraan",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53145,7 +54526,9 @@
    "arti": "tampak luar",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53157,7 +54540,9 @@
    "arti": "ukuran; besar dan kecil (ukuran)",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53169,7 +54554,9 @@
    "arti": "akal; upaya kreatif",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53181,7 +54568,9 @@
    "arti": "di tangan; dekat tangan",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53193,7 +54582,9 @@
    "arti": "cacat",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53205,7 +54596,9 @@
    "arti": "berbasis air; encer",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53217,7 +54610,9 @@
    "arti": "perembesan; meresap",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53229,7 +54624,11 @@
    "arti": "penjelasan; eksposisi",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53241,7 +54640,9 @@
    "arti": "memasukkan/membawa masuk barang",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53253,7 +54654,9 @@
    "arti": "kapten Kapal; juragan",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53265,7 +54668,9 @@
    "arti": "cuaca; elemen -elemennya",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53277,7 +54682,9 @@
    "arti": "tangga; tangga",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53289,7 +54696,9 @@
    "arti": "pilihan; memilih",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53301,7 +54710,9 @@
    "arti": "selesai",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53313,7 +54724,9 @@
    "arti": "budaya; peradaban",
    "cat": "Umum",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53325,7 +54738,9 @@
    "arti": "maju",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53337,7 +54752,9 @@
    "arti": "pintu masuk; pintu masuk",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53349,7 +54766,9 @@
    "arti": "pengumpulan; penarikan kembali",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53361,7 +54780,9 @@
    "arti": "minyak diesel; minyak gas",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53373,7 +54794,9 @@
    "arti": "penyebaran; penyemprotan",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53385,7 +54808,9 @@
    "arti": "gulma",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53397,7 +54822,9 @@
    "arti": "pendekatan; mendekat",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -53409,7 +54836,9 @@
    "arti": "pengamatan",
    "cat": "Umum",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -73153,7 +74582,9 @@
    "arti": "tahapan kerja",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -73164,7 +74595,9 @@
    "arti": "setelah bekerja",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -73175,7 +74608,9 @@
    "arti": "cara kerja; metode kerja",
    "cat": "Kosakata dari teks materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -73186,7 +74621,9 @@
    "arti": "mulai bekerja",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -73197,7 +74634,9 @@
    "arti": "selesai",
    "cat": "Kosakata dari teks materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "bab7-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
@@ -73208,7 +74647,9 @@
    "arti": "cukup hati-hati",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -73219,7 +74660,9 @@
    "arti": "pemeriksaan sebelum mulai kerja",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -73230,7 +74673,9 @@
    "arti": "bentuk huruf",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -73241,7 +74686,9 @@
    "arti": "didorong tangan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -73252,7 +74699,9 @@
    "arti": "dilakukan tiap hari",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -73263,7 +74712,9 @@
    "arti": "hati-hati; teliti",
    "cat": "Kosakata dari teks materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "bab7-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
@@ -73274,7 +74725,9 @@
    "arti": "kepala geladak (bosun)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -73285,7 +74738,9 @@
    "arti": "jam bangun",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
@@ -73296,7 +74751,9 @@
    "arti": "penyumbatan mata",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "bab5-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
@@ -73307,7 +74764,9 @@
    "arti": "saat dibawa",
    "cat": "Kosakata dari teks materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -73318,7 +74777,9 @@
    "arti": "penghalang air",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
@@ -73329,7 +74790,9 @@
    "arti": "kesalahan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "bab2-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
@@ -73340,7 +74803,9 @@
    "arti": "pengumpulan air",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
@@ -73351,7 +74816,9 @@
    "arti": "Usaha keras; semangat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   }

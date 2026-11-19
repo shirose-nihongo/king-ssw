@@ -20114,223 +20114,271 @@
    "arti_contoh": "Ya, saya mengerti."
   },
   {
-   "id": "bc-1200",
+   "id": "bc-1294",
    "kata": "予防",
    "kana": "よぼう",
    "arti": "pencegahan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s7",
+    "b1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "bc-1201",
+   "id": "bc-1295",
    "kata": "仕上",
    "kana": "しあ",
    "arti": "menyelesaikan; finishing",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s13",
+    "b2s14",
+    "b2s15"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "bc-1202",
+   "id": "bc-1296",
    "kata": "仕切",
    "kana": "しきり",
    "arti": "pembagian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s11"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "bc-1203",
+   "id": "bc-1297",
    "kata": "処理",
    "kana": "しょり",
    "arti": "pemrosesan; pengolahan; penanganan; pengendalian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s9"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "bc-1204",
+   "id": "bc-1298",
    "kata": "受入",
    "kana": "うけい",
    "arti": "menerima; penerimaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s8"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "bc-1205",
+   "id": "bc-1299",
    "kata": "定期",
    "kana": "てい",
    "arti": "periode tetap; Istilah tetap; biasa",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s9",
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "bc-1206",
+   "id": "bc-1300",
    "kata": "往復",
    "kana": "おうふく",
    "arti": "pulang pergi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "bc-1207",
+   "id": "bc-1301",
    "kata": "手洗",
    "kana": "てあら",
    "arti": "mencuci tangan; Air (atau baskom, dll.) Untuk mencuci tangan seseorang",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s18"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "bc-1208",
+   "id": "bc-1302",
    "kata": "掃除",
    "kana": "そうじ",
    "arti": "bersih-bersih",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s7",
+    "b1s9"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "bc-1209",
+   "id": "bc-1303",
    "kata": "日常",
    "kana": "にちじょう",
    "arti": "setiap hari; sehari-hari",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s9",
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "bc-1210",
+   "id": "bc-1304",
    "kata": "日焼",
    "kana": "にちしょう",
    "arti": "sunburn; terbakar matahari",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "bc-1211",
+   "id": "bc-1305",
    "kata": "片付け",
    "kana": "かたづけ",
    "arti": "membereskan; merapikan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "bc-1212",
+   "id": "bc-1306",
    "kata": "物語",
    "kana": "ものがたり",
    "arti": "cerita; dongeng",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "bc-1213",
+   "id": "bc-1307",
    "kata": "着崩れ",
    "kana": "きくずれ",
    "arti": "pakaian yang kusut; tidak rapi (karena dipakai lama)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "bc-1214",
+   "id": "bc-1308",
    "kata": "紹介",
    "kana": "しょうかい",
    "arti": "perkenalan; presentasi; rujukan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s8"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "bc-1215",
+   "id": "bc-1309",
    "kata": "裏返る",
    "kana": "うらがえる",
    "arti": "terbalik; berbalik",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "bab2-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "bc-1216",
+   "id": "bc-1310",
    "kata": "長持",
    "kana": "ながもち",
    "arti": "kotak penyimpanan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s7",
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "bc-1217",
+   "id": "bc-1311",
    "kata": "頑張り",
    "kana": "がんばり",
    "arti": "Usaha keras; semangat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "bc-1218",
+   "id": "bc-1312",
    "kata": "一筆",
    "kana": "いっぴつ",
    "arti": "satu goresan; satu tulisan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s6",
+    "b2s10"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "bc-1219",
+   "id": "bc-1313",
    "kata": "礼儀",
    "kana": "れいぎ",
    "arti": "tata krama; kesopanan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"

@@ -9568,7 +9568,9 @@
    "arti": "kontrol; Manajemen (mis. Bisnis)",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -9580,7 +9582,9 @@
    "arti": "pengetahuan mendasar",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "bab5-x"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -9592,7 +9596,9 @@
    "arti": "konkret; pasti",
    "cat": "Umum",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -9604,7 +9610,9 @@
    "arti": "penghindaran",
    "cat": "Umum",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -9616,7 +9624,9 @@
    "arti": "kebersihan; sanitasi",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -9628,7 +9638,9 @@
    "arti": "pembukaan toko",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -9640,7 +9652,9 @@
    "arti": "penutupan toko",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -9652,7 +9666,9 @@
    "arti": "istilah teknis",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -9664,7 +9680,11 @@
    "arti": "melakukan; melakukan diri sendiri",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2",
+    "b1s3",
+    "b1s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -9676,7 +9696,11 @@
    "arti": "ketua; utama; kepala sekolah",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s4"
+   ],
    "auto": true,
    "arti_src": "JMdict / terjemah mesin"
   },
@@ -10383,7 +10407,9 @@
    "arti": "layanan restoran",
    "cat": "Umum",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "bab4-x"
+   ],
    "arti_src": "Terjemahan penyusun"
   },
   {
@@ -16506,7 +16532,9 @@
    "arti": "layanan opsional",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "arti_src": "Terjemahan penyusun"
   },
   {
@@ -16517,7 +16545,9 @@
    "arti": "operator tur",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "arti_src": "Terjemahan penyusun"
   },
   {
@@ -16528,7 +16558,9 @@
    "arti": "paket tur",
    "cat": "Umum",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "arti_src": "Terjemahan penyusun"
   },
   {
@@ -18292,178 +18324,210 @@
    "id": "hg-9131"
   },
   {
-   "id": "ac-9164",
+   "id": "ac-9228",
    "kata": "出来",
    "kana": "でき",
    "arti": "pengerjaan; keahlian; eksekusi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ac-9165",
+   "id": "ac-9229",
    "kata": "初期消火",
    "kana": "しょきしょうか",
    "arti": "pemadaman awal",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ac-9166",
+   "id": "ac-9230",
    "kata": "取扱",
    "kana": "とりあつか",
    "arti": "perlakuan; melayani",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ac-9167",
+   "id": "ac-9231",
    "kata": "基本動作",
    "kana": "きほんどうさ",
    "arti": "gerakan dasar",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ac-9168",
+   "id": "ac-9232",
    "kata": "幅広",
    "kana": "はばひろ",
    "arti": "lebar lebar (mis. kain); luas",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ac-9169",
+   "id": "ac-9233",
    "kata": "手伝い",
    "kana": "てつだい",
    "arti": "bantuan; asisten",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ac-9170",
+   "id": "ac-9234",
    "kata": "施設管理",
    "kana": "しせつかんり",
    "arti": "Pengelolaan fasilitas",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "ac-9171",
+   "id": "ac-9235",
    "kata": "日常業務",
    "kana": "にちじょうぎょうむ",
    "arti": "pekerjaan sehari-hari",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ac-9172",
+   "id": "ac-9236",
    "kata": "清掃作業",
    "kana": "せいそうさぎょう",
    "arti": "pekerjaan membersihkan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ac-9173",
+   "id": "ac-9237",
    "kata": "環境対応",
    "kana": "かんきょうたいおう",
    "arti": "Lingkungan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "ac-9174",
+   "id": "ac-9238",
    "kata": "目指",
    "kana": "めざ",
    "arti": "aIM; sasaran",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ac-9175",
+   "id": "ac-9239",
    "kata": "約束",
    "kana": "やくそく",
    "arti": "janji; ikatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ac-9176",
+   "id": "ac-9240",
    "kata": "自身",
    "kana": "じしん",
    "arti": "diri sendiri",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ac-9177",
+   "id": "ac-9241",
    "kata": "閉店作業",
    "kana": "へいてんさぎょう",
    "arti": "tugas tutup restoran",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ac-9178",
+   "id": "ac-9242",
    "kata": "開店準備",
    "kana": "かいてんじゅんび",
    "arti": "persiapan buka",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ac-9179",
+   "id": "ac-9243",
    "kata": "安全衛生",
    "kana": "あんぜんえいせい",
    "arti": "keselamatan dan kesehatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"

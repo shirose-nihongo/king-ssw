@@ -1,0 +1,1626 @@
+{
+ "slug": "wood-industry",
+ "note": "Gambar diekstrak otomatis dari PDF buku resmi (tools/ssw/fig_extract.py); auto:true = perlu penyuntingan manusia.",
+ "figs": [
+  {
+   "id": "wood-industry-jp-p002-0",
+   "sub": "b1s1",
+   "book": "jp",
+   "page": 2,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p002-0.webp",
+   "w": 355,
+   "h": 292,
+   "cap": {
+    "id": "Hutan dan Industri Kayu Jepang",
+    "jp": "日本の森林と木材産業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 2, untuk subbab «Hutan dan Industri Kayu Jepang». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト2ページ「日本の森林と木材産業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p002-1",
+   "sub": "b1s1",
+   "book": "jp",
+   "page": 2,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p002-1.webp",
+   "w": 402,
+   "h": 309,
+   "cap": {
+    "id": "Hutan dan Industri Kayu Jepang",
+    "jp": "日本の森林と木材産業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 2, untuk subbab «Hutan dan Industri Kayu Jepang». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト2ページ「日本の森林と木材産業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p003-0",
+   "sub": "b1s1",
+   "book": "jp",
+   "page": 3,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p003-0.webp",
+   "w": 900,
+   "h": 614,
+   "cap": {
+    "id": "Hutan dan Industri Kayu Jepang",
+    "jp": "日本の森林と木材産業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 3, untuk subbab «Hutan dan Industri Kayu Jepang». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト3ページ「日本の森林と木材産業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p007-0",
+   "sub": "b1s2",
+   "book": "jp",
+   "page": 7,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p007-0.webp",
+   "w": 325,
+   "h": 249,
+   "cap": {
+    "id": "Dasar-dasar Sifat Kayu",
+    "jp": "木材の基礎知識"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 7, untuk subbab «Dasar-dasar Sifat Kayu». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト7ページ「木材の基礎知識」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p008-0",
+   "sub": "b1s2",
+   "book": "jp",
+   "page": 8,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p008-0.webp",
+   "w": 388,
+   "h": 386,
+   "cap": {
+    "id": "Dasar-dasar Sifat Kayu",
+    "jp": "木材の基礎知識"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 8, untuk subbab «Dasar-dasar Sifat Kayu». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト8ページ「木材の基礎知識」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p008-1",
+   "sub": "b1s2",
+   "book": "jp",
+   "page": 8,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p008-1.webp",
+   "w": 449,
+   "h": 445,
+   "cap": {
+    "id": "Dasar-dasar Sifat Kayu",
+    "jp": "木材の基礎知識"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 8, untuk subbab «Dasar-dasar Sifat Kayu». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト8ページ「木材の基礎知識」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p010-0",
+   "sub": "b1s2",
+   "book": "jp",
+   "page": 10,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p010-0.webp",
+   "w": 395,
+   "h": 395,
+   "cap": {
+    "id": "Dasar-dasar Sifat Kayu",
+    "jp": "木材の基礎知識"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 10, untuk subbab «Dasar-dasar Sifat Kayu». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト10ページ「木材の基礎知識」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p013-0",
+   "sub": "b1s3",
+   "book": "jp",
+   "page": 13,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p013-0.webp",
+   "w": 581,
+   "h": 372,
+   "cap": {
+    "id": "Keselamatan Kerja",
+    "jp": "作業安全の基礎知識"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 13, untuk subbab «Keselamatan Kerja». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト13ページ「作業安全の基礎知識」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p019-0",
+   "sub": "b2s2",
+   "book": "jp",
+   "page": 19,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p019-0.webp",
+   "w": 535,
+   "h": 400,
+   "cap": {
+    "id": "Kayu Laminasi (集成材)",
+    "jp": "集成材"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 19, untuk subbab «Kayu Laminasi (集成材)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト19ページ「集成材」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p019-1",
+   "sub": "b2s2",
+   "book": "jp",
+   "page": 19,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p019-1.webp",
+   "w": 585,
+   "h": 386,
+   "cap": {
+    "id": "Kayu Laminasi (集成材)",
+    "jp": "集成材"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 19, untuk subbab «Kayu Laminasi (集成材)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト19ページ「集成材」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p020-0",
+   "sub": "b2s2",
+   "book": "jp",
+   "page": 20,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p020-0.webp",
+   "w": 820,
+   "h": 321,
+   "cap": {
+    "id": "Kayu Laminasi (集成材)",
+    "jp": "集成材"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 20, untuk subbab «Kayu Laminasi (集成材)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト20ページ「集成材」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p021-0",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 21,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p021-0.webp",
+   "w": 900,
+   "h": 222,
+   "cap": {
+    "id": "Kayu Lapis (合板)",
+    "jp": "合板"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 21, untuk subbab «Kayu Lapis (合板)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト21ページ「合板」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p022-0",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 22,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p022-0.webp",
+   "w": 522,
+   "h": 408,
+   "cap": {
+    "id": "Kayu Lapis (合板)",
+    "jp": "合板"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 22, untuk subbab «Kayu Lapis (合板)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト22ページ「合板」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p022-1",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 22,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p022-1.webp",
+   "w": 549,
+   "h": 408,
+   "cap": {
+    "id": "Kayu Lapis (合板)",
+    "jp": "合板"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 22, untuk subbab «Kayu Lapis (合板)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト22ページ「合板」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p023-0",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 23,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p023-0.webp",
+   "w": 535,
+   "h": 401,
+   "cap": {
+    "id": "Kayu Lapis (合板)",
+    "jp": "合板"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 23, untuk subbab «Kayu Lapis (合板)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト23ページ「合板」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p023-1",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 23,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p023-1.webp",
+   "w": 586,
+   "h": 374,
+   "cap": {
+    "id": "Kayu Lapis (合板)",
+    "jp": "合板"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 23, untuk subbab «Kayu Lapis (合板)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト23ページ「合板」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p024-0",
+   "sub": "b2s4",
+   "book": "jp",
+   "page": 24,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p024-0.webp",
+   "w": 543,
+   "h": 407,
+   "cap": {
+    "id": "LVL (Kayu Veneer Berlapis)",
+    "jp": "LVL（単板積層材）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 24, untuk subbab «LVL (Kayu Veneer Berlapis)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト24ページ「LVL（単板積層材）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p024-1",
+   "sub": "b2s4",
+   "book": "jp",
+   "page": 24,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p024-1.webp",
+   "w": 586,
+   "h": 374,
+   "cap": {
+    "id": "LVL (Kayu Veneer Berlapis)",
+    "jp": "LVL（単板積層材）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 24, untuk subbab «LVL (Kayu Veneer Berlapis)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト24ページ「LVL（単板積層材）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p024-2",
+   "sub": "b2s4",
+   "book": "jp",
+   "page": 24,
+   "y": 0.5,
+   "src": "./assets/ssw/wood-industry/fig/jp-p024-2.webp",
+   "w": 709,
+   "h": 505,
+   "cap": {
+    "id": "LVL (Kayu Veneer Berlapis)",
+    "jp": "LVL（単板積層材）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 24, untuk subbab «LVL (Kayu Veneer Berlapis)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト24ページ「LVL（単板積層材）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p025-0",
+   "sub": "b2s5",
+   "book": "jp",
+   "page": 25,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p025-0.webp",
+   "w": 325,
+   "h": 240,
+   "cap": {
+    "id": "Veneer Hias (ツキ板)",
+    "jp": "ツキ板"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 25, untuk subbab «Veneer Hias (ツキ板)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト25ページ「ツキ板」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p025-1",
+   "sub": "b2s5",
+   "book": "jp",
+   "page": 25,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p025-1.webp",
+   "w": 325,
+   "h": 240,
+   "cap": {
+    "id": "Veneer Hias (ツキ板)",
+    "jp": "ツキ板"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 25, untuk subbab «Veneer Hias (ツキ板)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト25ページ「ツキ板」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p025-2",
+   "sub": "b2s5",
+   "book": "jp",
+   "page": 25,
+   "y": 0.5,
+   "src": "./assets/ssw/wood-industry/fig/jp-p025-2.webp",
+   "w": 325,
+   "h": 240,
+   "cap": {
+    "id": "Veneer Hias (ツキ板)",
+    "jp": "ツキ板"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 25, untuk subbab «Veneer Hias (ツキ板)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト25ページ「ツキ板」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p025-3",
+   "sub": "b2s5",
+   "book": "jp",
+   "page": 25,
+   "y": 0.65,
+   "src": "./assets/ssw/wood-industry/fig/jp-p025-3.webp",
+   "w": 325,
+   "h": 240,
+   "cap": {
+    "id": "Veneer Hias (ツキ板)",
+    "jp": "ツキ板"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 25, untuk subbab «Veneer Hias (ツキ板)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト25ページ「ツキ板」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p026-0",
+   "sub": "b2s5",
+   "book": "jp",
+   "page": 26,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p026-0.webp",
+   "w": 700,
+   "h": 344,
+   "cap": {
+    "id": "Veneer Hias (ツキ板)",
+    "jp": "ツキ板"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 26, untuk subbab «Veneer Hias (ツキ板)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト26ページ「ツキ板」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p026-1",
+   "sub": "b2s5",
+   "book": "jp",
+   "page": 26,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p026-1.webp",
+   "w": 700,
+   "h": 400,
+   "cap": {
+    "id": "Veneer Hias (ツキ板)",
+    "jp": "ツキ板"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 26, untuk subbab «Veneer Hias (ツキ板)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト26ページ「ツキ板」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p027-0",
+   "sub": "b2s6",
+   "book": "jp",
+   "page": 27,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p027-0.webp",
+   "w": 700,
+   "h": 400,
+   "cap": {
+    "id": "Lantai Kayu (フローリング)",
+    "jp": "フローリング"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 27, untuk subbab «Lantai Kayu (フローリング)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト27ページ「フローリング」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p027-1",
+   "sub": "b2s6",
+   "book": "jp",
+   "page": 27,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p027-1.webp",
+   "w": 700,
+   "h": 400,
+   "cap": {
+    "id": "Lantai Kayu (フローリング)",
+    "jp": "フローリング"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 27, untuk subbab «Lantai Kayu (フローリング)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト27ページ「フローリング」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p027-2",
+   "sub": "b2s6",
+   "book": "jp",
+   "page": 27,
+   "y": 0.5,
+   "src": "./assets/ssw/wood-industry/fig/jp-p027-2.webp",
+   "w": 700,
+   "h": 400,
+   "cap": {
+    "id": "Lantai Kayu (フローリング)",
+    "jp": "フローリング"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 27, untuk subbab «Lantai Kayu (フローリング)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト27ページ「フローリング」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p028-0",
+   "sub": "b2s6",
+   "book": "jp",
+   "page": 28,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p028-0.webp",
+   "w": 519,
+   "h": 389,
+   "cap": {
+    "id": "Lantai Kayu (フローリング)",
+    "jp": "フローリング"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 28, untuk subbab «Lantai Kayu (フローリング)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト28ページ「フローリング」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p028-1",
+   "sub": "b2s6",
+   "book": "jp",
+   "page": 28,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p028-1.webp",
+   "w": 708,
+   "h": 528,
+   "cap": {
+    "id": "Lantai Kayu (フローリング)",
+    "jp": "フローリング"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 28, untuk subbab «Lantai Kayu (フローリング)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト28ページ「フローリング」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p028-2",
+   "sub": "b2s6",
+   "book": "jp",
+   "page": 28,
+   "y": 0.5,
+   "src": "./assets/ssw/wood-industry/fig/jp-p028-2.webp",
+   "w": 611,
+   "h": 492,
+   "cap": {
+    "id": "Lantai Kayu (フローリング)",
+    "jp": "フローリング"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 28, untuk subbab «Lantai Kayu (フローリング)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト28ページ「フローリング」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p029-0",
+   "sub": "b2s7",
+   "book": "jp",
+   "page": 29,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p029-0.webp",
+   "w": 520,
+   "h": 390,
+   "cap": {
+    "id": "Chip Kayu (チップ)",
+    "jp": "木材チップ"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 29, untuk subbab «Chip Kayu (チップ)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト29ページ「木材チップ」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p029-1",
+   "sub": "b2s7",
+   "book": "jp",
+   "page": 29,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p029-1.webp",
+   "w": 697,
+   "h": 389,
+   "cap": {
+    "id": "Chip Kayu (チップ)",
+    "jp": "木材チップ"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 29, untuk subbab «Chip Kayu (チップ)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト29ページ「木材チップ」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p029-2",
+   "sub": "b2s7",
+   "book": "jp",
+   "page": 29,
+   "y": 0.5,
+   "src": "./assets/ssw/wood-industry/fig/jp-p029-2.webp",
+   "w": 594,
+   "h": 328,
+   "cap": {
+    "id": "Chip Kayu (チップ)",
+    "jp": "木材チップ"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 29, untuk subbab «Chip Kayu (チップ)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト29ページ「木材チップ」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p031-0",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 31,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p031-0.webp",
+   "w": 200,
+   "h": 150,
+   "cap": {
+    "id": "Proses Penggergajian (製材)",
+    "jp": "製材の工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 31, untuk subbab «Proses Penggergajian (製材)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト31ページ「製材の工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p035-0",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 35,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p035-0.webp",
+   "w": 900,
+   "h": 254,
+   "cap": {
+    "id": "Proses Kayu Laminasi",
+    "jp": "集成材の工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 35, untuk subbab «Proses Kayu Laminasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト35ページ「集成材の工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p036-0",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 36,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p036-0.webp",
+   "w": 618,
+   "h": 412,
+   "cap": {
+    "id": "Proses Kayu Laminasi",
+    "jp": "集成材の工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 36, untuk subbab «Proses Kayu Laminasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト36ページ「集成材の工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p036-1",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 36,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p036-1.webp",
+   "w": 501,
+   "h": 387,
+   "cap": {
+    "id": "Proses Kayu Laminasi",
+    "jp": "集成材の工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 36, untuk subbab «Proses Kayu Laminasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト36ページ「集成材の工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p036-2",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 36,
+   "y": 0.5,
+   "src": "./assets/ssw/wood-industry/fig/jp-p036-2.webp",
+   "w": 365,
+   "h": 325,
+   "cap": {
+    "id": "Proses Kayu Laminasi",
+    "jp": "集成材の工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 36, untuk subbab «Proses Kayu Laminasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト36ページ「集成材の工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p036-3",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 36,
+   "y": 0.65,
+   "src": "./assets/ssw/wood-industry/fig/jp-p036-3.webp",
+   "w": 410,
+   "h": 228,
+   "cap": {
+    "id": "Proses Kayu Laminasi",
+    "jp": "集成材の工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 36, untuk subbab «Proses Kayu Laminasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト36ページ「集成材の工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p036-4",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 36,
+   "y": 0.8,
+   "src": "./assets/ssw/wood-industry/fig/jp-p036-4.webp",
+   "w": 333,
+   "h": 228,
+   "cap": {
+    "id": "Proses Kayu Laminasi",
+    "jp": "集成材の工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 36, untuk subbab «Proses Kayu Laminasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト36ページ「集成材の工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p037-0",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 37,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p037-0.webp",
+   "w": 477,
+   "h": 526,
+   "cap": {
+    "id": "Proses Kayu Laminasi",
+    "jp": "集成材の工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 37, untuk subbab «Proses Kayu Laminasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト37ページ「集成材の工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p039-0",
+   "sub": "b3s3",
+   "book": "jp",
+   "page": 39,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p039-0.webp",
+   "w": 454,
+   "h": 177,
+   "cap": {
+    "id": "Proses Kayu Lapis dan LVL",
+    "jp": "合板・LVLの工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 39, untuk subbab «Proses Kayu Lapis dan LVL». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト39ページ「合板・LVLの工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p039-1",
+   "sub": "b3s3",
+   "book": "jp",
+   "page": 39,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p039-1.webp",
+   "w": 368,
+   "h": 222,
+   "cap": {
+    "id": "Proses Kayu Lapis dan LVL",
+    "jp": "合板・LVLの工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 39, untuk subbab «Proses Kayu Lapis dan LVL». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト39ページ「合板・LVLの工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p039-2",
+   "sub": "b3s3",
+   "book": "jp",
+   "page": 39,
+   "y": 0.5,
+   "src": "./assets/ssw/wood-industry/fig/jp-p039-2.webp",
+   "w": 375,
+   "h": 263,
+   "cap": {
+    "id": "Proses Kayu Lapis dan LVL",
+    "jp": "合板・LVLの工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 39, untuk subbab «Proses Kayu Lapis dan LVL». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト39ページ「合板・LVLの工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p040-0",
+   "sub": "b3s3",
+   "book": "jp",
+   "page": 40,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p040-0.webp",
+   "w": 365,
+   "h": 208,
+   "cap": {
+    "id": "Proses Kayu Lapis dan LVL",
+    "jp": "合板・LVLの工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 40, untuk subbab «Proses Kayu Lapis dan LVL». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト40ページ「合板・LVLの工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p040-1",
+   "sub": "b3s3",
+   "book": "jp",
+   "page": 40,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p040-1.webp",
+   "w": 168,
+   "h": 256,
+   "cap": {
+    "id": "Proses Kayu Lapis dan LVL",
+    "jp": "合板・LVLの工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 40, untuk subbab «Proses Kayu Lapis dan LVL». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト40ページ「合板・LVLの工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p041-0",
+   "sub": "b3s3",
+   "book": "jp",
+   "page": 41,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p041-0.webp",
+   "w": 325,
+   "h": 294,
+   "cap": {
+    "id": "Proses Kayu Lapis dan LVL",
+    "jp": "合板・LVLの工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 41, untuk subbab «Proses Kayu Lapis dan LVL». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト41ページ「合板・LVLの工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p041-1",
+   "sub": "b3s3",
+   "book": "jp",
+   "page": 41,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p041-1.webp",
+   "w": 278,
+   "h": 223,
+   "cap": {
+    "id": "Proses Kayu Lapis dan LVL",
+    "jp": "合板・LVLの工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 41, untuk subbab «Proses Kayu Lapis dan LVL». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト41ページ「合板・LVLの工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p041-2",
+   "sub": "b3s3",
+   "book": "jp",
+   "page": 41,
+   "y": 0.5,
+   "src": "./assets/ssw/wood-industry/fig/jp-p041-2.webp",
+   "w": 249,
+   "h": 268,
+   "cap": {
+    "id": "Proses Kayu Lapis dan LVL",
+    "jp": "合板・LVLの工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 41, untuk subbab «Proses Kayu Lapis dan LVL». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト41ページ「合板・LVLの工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p042-0",
+   "sub": "b3s4",
+   "book": "jp",
+   "page": 42,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p042-0.webp",
+   "w": 296,
+   "h": 184,
+   "cap": {
+    "id": "Proses Veneer Hias",
+    "jp": "ツキ板の工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 42, untuk subbab «Proses Veneer Hias». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト42ページ「ツキ板の工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p042-1",
+   "sub": "b3s4",
+   "book": "jp",
+   "page": 42,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p042-1.webp",
+   "w": 267,
+   "h": 184,
+   "cap": {
+    "id": "Proses Veneer Hias",
+    "jp": "ツキ板の工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 42, untuk subbab «Proses Veneer Hias». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト42ページ「ツキ板の工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p043-0",
+   "sub": "b3s4",
+   "book": "jp",
+   "page": 43,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p043-0.webp",
+   "w": 668,
+   "h": 257,
+   "cap": {
+    "id": "Proses Veneer Hias",
+    "jp": "ツキ板の工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 43, untuk subbab «Proses Veneer Hias». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト43ページ「ツキ板の工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p044-0",
+   "sub": "b3s4",
+   "book": "jp",
+   "page": 44,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p044-0.webp",
+   "w": 197,
+   "h": 199,
+   "cap": {
+    "id": "Proses Veneer Hias",
+    "jp": "ツキ板の工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 44, untuk subbab «Proses Veneer Hias». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト44ページ「ツキ板の工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p044-1",
+   "sub": "b3s4",
+   "book": "jp",
+   "page": 44,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p044-1.webp",
+   "w": 161,
+   "h": 159,
+   "cap": {
+    "id": "Proses Veneer Hias",
+    "jp": "ツキ板の工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 44, untuk subbab «Proses Veneer Hias». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト44ページ「ツキ板の工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p044-2",
+   "sub": "b3s4",
+   "book": "jp",
+   "page": 44,
+   "y": 0.5,
+   "src": "./assets/ssw/wood-industry/fig/jp-p044-2.webp",
+   "w": 193,
+   "h": 188,
+   "cap": {
+    "id": "Proses Veneer Hias",
+    "jp": "ツキ板の工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 44, untuk subbab «Proses Veneer Hias». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト44ページ「ツキ板の工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p045-0",
+   "sub": "b3s5",
+   "book": "jp",
+   "page": 45,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p045-0.webp",
+   "w": 627,
+   "h": 382,
+   "cap": {
+    "id": "Proses Lantai Kayu",
+    "jp": "フローリングの工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 45, untuk subbab «Proses Lantai Kayu». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト45ページ「フローリングの工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p045-1",
+   "sub": "b3s5",
+   "book": "jp",
+   "page": 45,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p045-1.webp",
+   "w": 368,
+   "h": 368,
+   "cap": {
+    "id": "Proses Lantai Kayu",
+    "jp": "フローリングの工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 45, untuk subbab «Proses Lantai Kayu». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト45ページ「フローリングの工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p045-2",
+   "sub": "b3s5",
+   "book": "jp",
+   "page": 45,
+   "y": 0.5,
+   "src": "./assets/ssw/wood-industry/fig/jp-p045-2.webp",
+   "w": 326,
+   "h": 342,
+   "cap": {
+    "id": "Proses Lantai Kayu",
+    "jp": "フローリングの工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 45, untuk subbab «Proses Lantai Kayu». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト45ページ「フローリングの工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p045-3",
+   "sub": "b3s5",
+   "book": "jp",
+   "page": 45,
+   "y": 0.65,
+   "src": "./assets/ssw/wood-industry/fig/jp-p045-3.webp",
+   "w": 384,
+   "h": 390,
+   "cap": {
+    "id": "Proses Lantai Kayu",
+    "jp": "フローリングの工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 45, untuk subbab «Proses Lantai Kayu». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト45ページ「フローリングの工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p047-0",
+   "sub": "b3s6",
+   "book": "jp",
+   "page": 47,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p047-0.webp",
+   "w": 858,
+   "h": 432,
+   "cap": {
+    "id": "Proses Chip Kayu",
+    "jp": "チップの工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 47, untuk subbab «Proses Chip Kayu». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト47ページ「チップの工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p048-0",
+   "sub": "b3s6",
+   "book": "jp",
+   "page": 48,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p048-0.webp",
+   "w": 598,
+   "h": 392,
+   "cap": {
+    "id": "Proses Chip Kayu",
+    "jp": "チップの工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 48, untuk subbab «Proses Chip Kayu». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト48ページ「チップの工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p049-0",
+   "sub": "b3s7",
+   "book": "jp",
+   "page": 49,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p049-0.webp",
+   "w": 237,
+   "h": 203,
+   "cap": {
+    "id": "Proses Precut",
+    "jp": "プレカットの工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 49, untuk subbab «Proses Precut». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト49ページ「プレカットの工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p050-0",
+   "sub": "b3s7",
+   "book": "jp",
+   "page": 50,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p050-0.webp",
+   "w": 200,
+   "h": 150,
+   "cap": {
+    "id": "Proses Precut",
+    "jp": "プレカットの工程"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 50, untuk subbab «Proses Precut». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト50ページ「プレカットの工程」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p055-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 55,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p055-0.webp",
+   "w": 362,
+   "h": 272,
+   "cap": {
+    "id": "Mesin Kayu Laminasi",
+    "jp": "集成材の機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 55, untuk subbab «Mesin Kayu Laminasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト55ページ「集成材の機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p055-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 55,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p055-1.webp",
+   "w": 245,
+   "h": 193,
+   "cap": {
+    "id": "Mesin Kayu Laminasi",
+    "jp": "集成材の機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 55, untuk subbab «Mesin Kayu Laminasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト55ページ「集成材の機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p055-2",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 55,
+   "y": 0.5,
+   "src": "./assets/ssw/wood-industry/fig/jp-p055-2.webp",
+   "w": 274,
+   "h": 206,
+   "cap": {
+    "id": "Mesin Kayu Laminasi",
+    "jp": "集成材の機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 55, untuk subbab «Mesin Kayu Laminasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト55ページ「集成材の機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p056-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 56,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p056-0.webp",
+   "w": 428,
+   "h": 331,
+   "cap": {
+    "id": "Mesin Kayu Laminasi",
+    "jp": "集成材の機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 56, untuk subbab «Mesin Kayu Laminasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト56ページ「集成材の機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p056-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 56,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p056-1.webp",
+   "w": 403,
+   "h": 277,
+   "cap": {
+    "id": "Mesin Kayu Laminasi",
+    "jp": "集成材の機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 56, untuk subbab «Mesin Kayu Laminasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト56ページ「集成材の機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p057-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 57,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p057-0.webp",
+   "w": 670,
+   "h": 331,
+   "cap": {
+    "id": "Mesin Kayu Laminasi",
+    "jp": "集成材の機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Mesin Kayu Laminasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「集成材の機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p057-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 57,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p057-1.webp",
+   "w": 670,
+   "h": 331,
+   "cap": {
+    "id": "Mesin Kayu Laminasi",
+    "jp": "集成材の機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Mesin Kayu Laminasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「集成材の機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p057-2",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 57,
+   "y": 0.5,
+   "src": "./assets/ssw/wood-industry/fig/jp-p057-2.webp",
+   "w": 427,
+   "h": 331,
+   "cap": {
+    "id": "Mesin Kayu Laminasi",
+    "jp": "集成材の機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Mesin Kayu Laminasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「集成材の機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p057-3",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 57,
+   "y": 0.65,
+   "src": "./assets/ssw/wood-industry/fig/jp-p057-3.webp",
+   "w": 427,
+   "h": 331,
+   "cap": {
+    "id": "Mesin Kayu Laminasi",
+    "jp": "集成材の機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Mesin Kayu Laminasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「集成材の機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p058-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 58,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p058-0.webp",
+   "w": 427,
+   "h": 331,
+   "cap": {
+    "id": "Mesin Kayu Lapis, LVL, dan Veneer",
+    "jp": "合板・LVL・ツキ板の機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 58, untuk subbab «Mesin Kayu Lapis, LVL, dan Veneer». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト58ページ「合板・LVL・ツキ板の機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p058-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 58,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p058-1.webp",
+   "w": 428,
+   "h": 331,
+   "cap": {
+    "id": "Mesin Kayu Lapis, LVL, dan Veneer",
+    "jp": "合板・LVL・ツキ板の機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 58, untuk subbab «Mesin Kayu Lapis, LVL, dan Veneer». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト58ページ「合板・LVL・ツキ板の機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p059-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 59,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p059-0.webp",
+   "w": 706,
+   "h": 464,
+   "cap": {
+    "id": "Mesin Kayu Lapis, LVL, dan Veneer",
+    "jp": "合板・LVL・ツキ板の機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 59, untuk subbab «Mesin Kayu Lapis, LVL, dan Veneer». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト59ページ「合板・LVL・ツキ板の機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p060-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 60,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p060-0.webp",
+   "w": 567,
+   "h": 425,
+   "cap": {
+    "id": "Mesin Kayu Lapis, LVL, dan Veneer",
+    "jp": "合板・LVL・ツキ板の機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 60, untuk subbab «Mesin Kayu Lapis, LVL, dan Veneer». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト60ページ「合板・LVL・ツキ板の機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p062-0",
+   "sub": "b4s5",
+   "book": "jp",
+   "page": 62,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p062-0.webp",
+   "w": 361,
+   "h": 230,
+   "cap": {
+    "id": "Mesin Chip Kayu",
+    "jp": "チップの機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 62, untuk subbab «Mesin Chip Kayu». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト62ページ「チップの機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p062-1",
+   "sub": "b4s5",
+   "book": "jp",
+   "page": 62,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p062-1.webp",
+   "w": 496,
+   "h": 297,
+   "cap": {
+    "id": "Mesin Chip Kayu",
+    "jp": "チップの機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 62, untuk subbab «Mesin Chip Kayu». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト62ページ「チップの機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p063-0",
+   "sub": "b4s6",
+   "book": "jp",
+   "page": 63,
+   "y": 0.2,
+   "src": "./assets/ssw/wood-industry/fig/jp-p063-0.webp",
+   "w": 869,
+   "h": 412,
+   "cap": {
+    "id": "Mesin Precut",
+    "jp": "プレカットの機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 63, untuk subbab «Mesin Precut». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト63ページ「プレカットの機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "wood-industry-jp-p063-1",
+   "sub": "b4s6",
+   "book": "jp",
+   "page": 63,
+   "y": 0.35,
+   "src": "./assets/ssw/wood-industry/fig/jp-p063-1.webp",
+   "w": 577,
+   "h": 314,
+   "cap": {
+    "id": "Mesin Precut",
+    "jp": "プレカットの機械"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 63, untuk subbab «Mesin Precut». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト63ページ「プレカットの機械」の図。"
+   },
+   "terms": [],
+   "auto": true
+  }
+ ]
+}

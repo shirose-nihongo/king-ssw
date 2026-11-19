@@ -1,0 +1,1566 @@
+{
+ "slug": "aviation-gh",
+ "note": "Gambar diekstrak otomatis dari PDF buku resmi (tools/ssw/fig_extract.py); auto:true = perlu penyuntingan manusia.",
+ "figs": [
+  {
+   "id": "aviation-gh-jp-p006-0",
+   "sub": "b1s1",
+   "book": "jp",
+   "page": 6,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p006-0.webp",
+   "w": 714,
+   "h": 596,
+   "cap": {
+    "id": "Apa itu Ground Handling & Proses Kerja",
+    "jp": "グランドハンドリングとは・工程管理"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 6, untuk subbab «Apa itu Ground Handling & Proses Kerja». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト6ページ「グランドハンドリングとは・工程管理」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p008-0",
+   "sub": "b1s2",
+   "book": "jp",
+   "page": 8,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p008-0.webp",
+   "w": 306,
+   "h": 165,
+   "cap": {
+    "id": "Informasi Penerbangan & Muatan",
+    "jp": "情報の入手"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 8, untuk subbab «Informasi Penerbangan & Muatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト8ページ「情報の入手」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p008-1",
+   "sub": "b1s2",
+   "book": "jp",
+   "page": 8,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p008-1.webp",
+   "w": 900,
+   "h": 172,
+   "cap": {
+    "id": "Informasi Penerbangan & Muatan",
+    "jp": "情報の入手"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 8, untuk subbab «Informasi Penerbangan & Muatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト8ページ「情報の入手」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p009-0",
+   "sub": "b1s2",
+   "book": "jp",
+   "page": 9,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p009-0.webp",
+   "w": 900,
+   "h": 678,
+   "cap": {
+    "id": "Informasi Penerbangan & Muatan",
+    "jp": "情報の入手"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 9, untuk subbab «Informasi Penerbangan & Muatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト9ページ「情報の入手」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p010-0",
+   "sub": "b1s2",
+   "book": "jp",
+   "page": 10,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p010-0.webp",
+   "w": 254,
+   "h": 724,
+   "cap": {
+    "id": "Informasi Penerbangan & Muatan",
+    "jp": "情報の入手"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 10, untuk subbab «Informasi Penerbangan & Muatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト10ページ「情報の入手」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p011-0",
+   "sub": "b1s2",
+   "book": "jp",
+   "page": 11,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p011-0.webp",
+   "w": 286,
+   "h": 212,
+   "cap": {
+    "id": "Informasi Penerbangan & Muatan",
+    "jp": "情報の入手"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 11, untuk subbab «Informasi Penerbangan & Muatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト11ページ「情報の入手」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p012-0",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 12,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p012-0.webp",
+   "w": 489,
+   "h": 521,
+   "cap": {
+    "id": "GSE Pengangkutan",
+    "jp": "搬送作業のGSE"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 12, untuk subbab «GSE Pengangkutan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト12ページ「搬送作業のGSE」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p012-1",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 12,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p012-1.webp",
+   "w": 155,
+   "h": 185,
+   "cap": {
+    "id": "GSE Pengangkutan",
+    "jp": "搬送作業のGSE"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 12, untuk subbab «GSE Pengangkutan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト12ページ「搬送作業のGSE」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p013-0",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 13,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p013-0.webp",
+   "w": 421,
+   "h": 342,
+   "cap": {
+    "id": "GSE Pengangkutan",
+    "jp": "搬送作業のGSE"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 13, untuk subbab «GSE Pengangkutan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト13ページ「搬送作業のGSE」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p013-1",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 13,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p013-1.webp",
+   "w": 425,
+   "h": 597,
+   "cap": {
+    "id": "GSE Pengangkutan",
+    "jp": "搬送作業のGSE"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 13, untuk subbab «GSE Pengangkutan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト13ページ「搬送作業のGSE」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p013-2",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 13,
+   "y": 0.5,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p013-2.webp",
+   "w": 337,
+   "h": 369,
+   "cap": {
+    "id": "GSE Pengangkutan",
+    "jp": "搬送作業のGSE"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 13, untuk subbab «GSE Pengangkutan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト13ページ「搬送作業のGSE」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p014-0",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 14,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p014-0.webp",
+   "w": 619,
+   "h": 544,
+   "cap": {
+    "id": "GSE Pengangkutan",
+    "jp": "搬送作業のGSE"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 14, untuk subbab «GSE Pengangkutan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト14ページ「搬送作業のGSE」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p014-1",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 14,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p014-1.webp",
+   "w": 466,
+   "h": 466,
+   "cap": {
+    "id": "GSE Pengangkutan",
+    "jp": "搬送作業のGSE"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 14, untuk subbab «GSE Pengangkutan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト14ページ「搬送作業のGSE」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p015-0",
+   "sub": "b2s2",
+   "book": "jp",
+   "page": 15,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p015-0.webp",
+   "w": 494,
+   "h": 627,
+   "cap": {
+    "id": "Persiapan & Memuat/Menurunkan ULD",
+    "jp": "事前準備とULDの搭降載"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 15, untuk subbab «Persiapan & Memuat/Menurunkan ULD». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト15ページ「事前準備とULDの搭降載」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p017-0",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 17,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p017-0.webp",
+   "w": 349,
+   "h": 420,
+   "cap": {
+    "id": "Memuat Bulk & Menangani Muatan",
+    "jp": "バルクの搭降載・搭載物の取扱い"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 17, untuk subbab «Memuat Bulk & Menangani Muatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト17ページ「バルクの搭降載・搭載物の取扱い」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p018-0",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 18,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p018-0.webp",
+   "w": 661,
+   "h": 661,
+   "cap": {
+    "id": "Memuat Bulk & Menangani Muatan",
+    "jp": "バルクの搭降載・搭載物の取扱い"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 18, untuk subbab «Memuat Bulk & Menangani Muatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト18ページ「バルクの搭降載・搭載物の取扱い」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p019-0",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 19,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p019-0.webp",
+   "w": 514,
+   "h": 602,
+   "cap": {
+    "id": "Memuat Bulk & Menangani Muatan",
+    "jp": "バルクの搭降載・搭載物の取扱い"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 19, untuk subbab «Memuat Bulk & Menangani Muatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト19ページ「バルクの搭降載・搭載物の取扱い」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p019-1",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 19,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p019-1.webp",
+   "w": 514,
+   "h": 580,
+   "cap": {
+    "id": "Memuat Bulk & Menangani Muatan",
+    "jp": "バルクの搭降載・搭載物の取扱い"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 19, untuk subbab «Memuat Bulk & Menangani Muatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト19ページ「バルクの搭降載・搭載物の取扱い」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p020-0",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 20,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p020-0.webp",
+   "w": 382,
+   "h": 227,
+   "cap": {
+    "id": "Water Service (Air Minum)",
+    "jp": "ウォーター・サービス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 20, untuk subbab «Water Service (Air Minum)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト20ページ「ウォーター・サービス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p020-1",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 20,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p020-1.webp",
+   "w": 900,
+   "h": 230,
+   "cap": {
+    "id": "Water Service (Air Minum)",
+    "jp": "ウォーター・サービス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 20, untuk subbab «Water Service (Air Minum)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト20ページ「ウォーター・サービス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p020-2",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 20,
+   "y": 0.5,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p020-2.webp",
+   "w": 726,
+   "h": 287,
+   "cap": {
+    "id": "Water Service (Air Minum)",
+    "jp": "ウォーター・サービス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 20, untuk subbab «Water Service (Air Minum)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト20ページ「ウォーター・サービス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p020-3",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 20,
+   "y": 0.65,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p020-3.webp",
+   "w": 900,
+   "h": 281,
+   "cap": {
+    "id": "Water Service (Air Minum)",
+    "jp": "ウォーター・サービス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 20, untuk subbab «Water Service (Air Minum)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト20ページ「ウォーター・サービス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p020-4",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 20,
+   "y": 0.8,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p020-4.webp",
+   "w": 900,
+   "h": 257,
+   "cap": {
+    "id": "Water Service (Air Minum)",
+    "jp": "ウォーター・サービス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 20, untuk subbab «Water Service (Air Minum)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト20ページ「ウォーター・サービス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p020-5",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 20,
+   "y": 0.95,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p020-5.webp",
+   "w": 900,
+   "h": 265,
+   "cap": {
+    "id": "Water Service (Air Minum)",
+    "jp": "ウォーター・サービス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 20, untuk subbab «Water Service (Air Minum)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト20ページ「ウォーター・サービス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p021-0",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 21,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p021-0.webp",
+   "w": 372,
+   "h": 330,
+   "cap": {
+    "id": "Water Service (Air Minum)",
+    "jp": "ウォーター・サービス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 21, untuk subbab «Water Service (Air Minum)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト21ページ「ウォーター・サービス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p021-1",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 21,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p021-1.webp",
+   "w": 347,
+   "h": 364,
+   "cap": {
+    "id": "Water Service (Air Minum)",
+    "jp": "ウォーター・サービス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 21, untuk subbab «Water Service (Air Minum)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト21ページ「ウォーター・サービス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p021-2",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 21,
+   "y": 0.5,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p021-2.webp",
+   "w": 362,
+   "h": 353,
+   "cap": {
+    "id": "Water Service (Air Minum)",
+    "jp": "ウォーター・サービス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 21, untuk subbab «Water Service (Air Minum)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト21ページ「ウォーター・サービス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p021-3",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 21,
+   "y": 0.65,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p021-3.webp",
+   "w": 347,
+   "h": 289,
+   "cap": {
+    "id": "Water Service (Air Minum)",
+    "jp": "ウォーター・サービス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 21, untuk subbab «Water Service (Air Minum)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト21ページ「ウォーター・サービス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p021-4",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 21,
+   "y": 0.8,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p021-4.webp",
+   "w": 361,
+   "h": 303,
+   "cap": {
+    "id": "Water Service (Air Minum)",
+    "jp": "ウォーター・サービス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 21, untuk subbab «Water Service (Air Minum)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト21ページ「ウォーター・サービス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p022-0",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 22,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p022-0.webp",
+   "w": 401,
+   "h": 226,
+   "cap": {
+    "id": "Lavatory Service (Toilet)",
+    "jp": "ラバトリー・サービス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 22, untuk subbab «Lavatory Service (Toilet)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト22ページ「ラバトリー・サービス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p024-0",
+   "sub": "b3s4",
+   "book": "jp",
+   "page": 24,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p024-0.webp",
+   "w": 461,
+   "h": 227,
+   "cap": {
+    "id": "Listrik Darat (GPU)",
+    "jp": "地上電源供給作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 24, untuk subbab «Listrik Darat (GPU)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト24ページ「地上電源供給作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p024-1",
+   "sub": "b3s4",
+   "book": "jp",
+   "page": 24,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p024-1.webp",
+   "w": 157,
+   "h": 150,
+   "cap": {
+    "id": "Listrik Darat (GPU)",
+    "jp": "地上電源供給作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 24, untuk subbab «Listrik Darat (GPU)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト24ページ「地上電源供給作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p024-2",
+   "sub": "b3s4",
+   "book": "jp",
+   "page": 24,
+   "y": 0.5,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p024-2.webp",
+   "w": 191,
+   "h": 266,
+   "cap": {
+    "id": "Listrik Darat (GPU)",
+    "jp": "地上電源供給作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 24, untuk subbab «Listrik Darat (GPU)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト24ページ「地上電源供給作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p026-0",
+   "sub": "b4s1",
+   "book": "jp",
+   "page": 26,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p026-0.webp",
+   "w": 900,
+   "h": 616,
+   "cap": {
+    "id": "Penyortiran Bagasi (手荷物仕分け)",
+    "jp": "手荷物仕分け作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 26, untuk subbab «Penyortiran Bagasi (手荷物仕分け)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト26ページ「手荷物仕分け作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p027-0",
+   "sub": "b4s1",
+   "book": "jp",
+   "page": 27,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p027-0.webp",
+   "w": 900,
+   "h": 819,
+   "cap": {
+    "id": "Penyortiran Bagasi (手荷物仕分け)",
+    "jp": "手荷物仕分け作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 27, untuk subbab «Penyortiran Bagasi (手荷物仕分け)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト27ページ「手荷物仕分け作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p035-0",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 35,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p035-0.webp",
+   "w": 720,
+   "h": 609,
+   "cap": {
+    "id": "Perlengkapan Kabin (客室用品の搭降載)",
+    "jp": "客室用品の搭降載作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 35, untuk subbab «Perlengkapan Kabin (客室用品の搭降載)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト35ページ「客室用品の搭降載作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p037-0",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 37,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p037-0.webp",
+   "w": 765,
+   "h": 355,
+   "cap": {
+    "id": "Perlengkapan Kabin (客室用品の搭降載)",
+    "jp": "客室用品の搭降載作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 37, untuk subbab «Perlengkapan Kabin (客室用品の搭降載)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト37ページ「客室用品の搭降載作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p037-1",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 37,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p037-1.webp",
+   "w": 712,
+   "h": 597,
+   "cap": {
+    "id": "Perlengkapan Kabin (客室用品の搭降載)",
+    "jp": "客室用品の搭降載作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 37, untuk subbab «Perlengkapan Kabin (客室用品の搭降載)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト37ページ「客室用品の搭降載作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p037-2",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 37,
+   "y": 0.5,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p037-2.webp",
+   "w": 687,
+   "h": 476,
+   "cap": {
+    "id": "Perlengkapan Kabin (客室用品の搭降載)",
+    "jp": "客室用品の搭降載作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 37, untuk subbab «Perlengkapan Kabin (客室用品の搭降載)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト37ページ「客室用品の搭降載作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p038-0",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 38,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p038-0.webp",
+   "w": 710,
+   "h": 613,
+   "cap": {
+    "id": "Pengisian Bahan Bakar",
+    "jp": "給油作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 38, untuk subbab «Pengisian Bahan Bakar». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト38ページ「給油作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p039-0",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 39,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p039-0.webp",
+   "w": 845,
+   "h": 583,
+   "cap": {
+    "id": "Pengisian Bahan Bakar",
+    "jp": "給油作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 39, untuk subbab «Pengisian Bahan Bakar». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト39ページ「給油作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p039-1",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 39,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p039-1.webp",
+   "w": 845,
+   "h": 543,
+   "cap": {
+    "id": "Pengisian Bahan Bakar",
+    "jp": "給油作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 39, untuk subbab «Pengisian Bahan Bakar». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト39ページ「給油作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p040-0",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 40,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p040-0.webp",
+   "w": 844,
+   "h": 478,
+   "cap": {
+    "id": "Pengisian Bahan Bakar",
+    "jp": "給油作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 40, untuk subbab «Pengisian Bahan Bakar». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト40ページ「給油作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p040-1",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 40,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p040-1.webp",
+   "w": 844,
+   "h": 652,
+   "cap": {
+    "id": "Pengisian Bahan Bakar",
+    "jp": "給油作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 40, untuk subbab «Pengisian Bahan Bakar». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト40ページ「給油作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p040-2",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 40,
+   "y": 0.5,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p040-2.webp",
+   "w": 845,
+   "h": 689,
+   "cap": {
+    "id": "Pengisian Bahan Bakar",
+    "jp": "給油作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 40, untuk subbab «Pengisian Bahan Bakar». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト40ページ「給油作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p041-0",
+   "sub": "b7s1",
+   "book": "jp",
+   "page": 41,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p041-0.webp",
+   "w": 844,
+   "h": 468,
+   "cap": {
+    "id": "Layanan Keberangkatan",
+    "jp": "出発時のサービス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 41, untuk subbab «Layanan Keberangkatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト41ページ「出発時のサービス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p041-1",
+   "sub": "b7s1",
+   "book": "jp",
+   "page": 41,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p041-1.webp",
+   "w": 844,
+   "h": 485,
+   "cap": {
+    "id": "Layanan Keberangkatan",
+    "jp": "出発時のサービス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 41, untuk subbab «Layanan Keberangkatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト41ページ「出発時のサービス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p043-0",
+   "sub": "b7s1",
+   "book": "jp",
+   "page": 43,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p043-0.webp",
+   "w": 900,
+   "h": 469,
+   "cap": {
+    "id": "Layanan Keberangkatan",
+    "jp": "出発時のサービス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 43, untuk subbab «Layanan Keberangkatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト43ページ「出発時のサービス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p044-0",
+   "sub": "b7s2",
+   "book": "jp",
+   "page": 44,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p044-0.webp",
+   "w": 900,
+   "h": 598,
+   "cap": {
+    "id": "Kedatangan, Transit, Special Assistance, Irregular",
+    "jp": "到着・乗り継ぎ・スペシャルアシスタンス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 44, untuk subbab «Kedatangan, Transit, Special Assistance, Irregular». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト44ページ「到着・乗り継ぎ・スペシャルアシスタンス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p047-0",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 47,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p047-0.webp",
+   "w": 688,
+   "h": 703,
+   "cap": {
+    "id": "Kode Bandara 3 Huruf / Maskapai 2 Huruf",
+    "jp": "スリーレター・コード（Reference）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 47, untuk subbab «Kode Bandara 3 Huruf / Maskapai 2 Huruf». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト47ページ「スリーレター・コード（Reference）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p047-1",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 47,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p047-1.webp",
+   "w": 830,
+   "h": 576,
+   "cap": {
+    "id": "Kode Bandara 3 Huruf / Maskapai 2 Huruf",
+    "jp": "スリーレター・コード（Reference）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 47, untuk subbab «Kode Bandara 3 Huruf / Maskapai 2 Huruf». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト47ページ「スリーレター・コード（Reference）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p047-2",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 47,
+   "y": 0.5,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p047-2.webp",
+   "w": 813,
+   "h": 502,
+   "cap": {
+    "id": "Kode Bandara 3 Huruf / Maskapai 2 Huruf",
+    "jp": "スリーレター・コード（Reference）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 47, untuk subbab «Kode Bandara 3 Huruf / Maskapai 2 Huruf». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト47ページ「スリーレター・コード（Reference）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p048-0",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 48,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p048-0.webp",
+   "w": 829,
+   "h": 580,
+   "cap": {
+    "id": "Kode Bandara 3 Huruf / Maskapai 2 Huruf",
+    "jp": "スリーレター・コード（Reference）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 48, untuk subbab «Kode Bandara 3 Huruf / Maskapai 2 Huruf». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト48ページ「スリーレター・コード（Reference）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p049-0",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 49,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p049-0.webp",
+   "w": 836,
+   "h": 516,
+   "cap": {
+    "id": "Kode Bandara 3 Huruf / Maskapai 2 Huruf",
+    "jp": "スリーレター・コード（Reference）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 49, untuk subbab «Kode Bandara 3 Huruf / Maskapai 2 Huruf». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト49ページ「スリーレター・コード（Reference）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p050-0",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 50,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p050-0.webp",
+   "w": 837,
+   "h": 654,
+   "cap": {
+    "id": "Kode Bandara 3 Huruf / Maskapai 2 Huruf",
+    "jp": "スリーレター・コード（Reference）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 50, untuk subbab «Kode Bandara 3 Huruf / Maskapai 2 Huruf». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト50ページ「スリーレター・コード（Reference）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p050-1",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 50,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p050-1.webp",
+   "w": 837,
+   "h": 584,
+   "cap": {
+    "id": "Kode Bandara 3 Huruf / Maskapai 2 Huruf",
+    "jp": "スリーレター・コード（Reference）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 50, untuk subbab «Kode Bandara 3 Huruf / Maskapai 2 Huruf». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト50ページ「スリーレター・コード（Reference）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p051-0",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 51,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p051-0.webp",
+   "w": 787,
+   "h": 612,
+   "cap": {
+    "id": "Kode Bandara 3 Huruf / Maskapai 2 Huruf",
+    "jp": "スリーレター・コード（Reference）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 51, untuk subbab «Kode Bandara 3 Huruf / Maskapai 2 Huruf». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト51ページ「スリーレター・コード（Reference）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p057-0",
+   "sub": "b8s1",
+   "book": "jp",
+   "page": 57,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p057-0.webp",
+   "w": 236,
+   "h": 241,
+   "cap": {
+    "id": "Keselamatan Maskapai & Tujuan Keselamatan Operasi",
+    "jp": "航空会社の安全・安全運航の目的"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Keselamatan Maskapai & Tujuan Keselamatan Operasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「航空会社の安全・安全運航の目的」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p057-1",
+   "sub": "b8s1",
+   "book": "jp",
+   "page": 57,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p057-1.webp",
+   "w": 272,
+   "h": 259,
+   "cap": {
+    "id": "Keselamatan Maskapai & Tujuan Keselamatan Operasi",
+    "jp": "航空会社の安全・安全運航の目的"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Keselamatan Maskapai & Tujuan Keselamatan Operasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「航空会社の安全・安全運航の目的」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p057-2",
+   "sub": "b8s1",
+   "book": "jp",
+   "page": 57,
+   "y": 0.5,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p057-2.webp",
+   "w": 277,
+   "h": 277,
+   "cap": {
+    "id": "Keselamatan Maskapai & Tujuan Keselamatan Operasi",
+    "jp": "航空会社の安全・安全運航の目的"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Keselamatan Maskapai & Tujuan Keselamatan Operasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「航空会社の安全・安全運航の目的」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p057-3",
+   "sub": "b8s1",
+   "book": "jp",
+   "page": 57,
+   "y": 0.65,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p057-3.webp",
+   "w": 277,
+   "h": 277,
+   "cap": {
+    "id": "Keselamatan Maskapai & Tujuan Keselamatan Operasi",
+    "jp": "航空会社の安全・安全運航の目的"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Keselamatan Maskapai & Tujuan Keselamatan Operasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「航空会社の安全・安全運航の目的」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p057-4",
+   "sub": "b8s1",
+   "book": "jp",
+   "page": 57,
+   "y": 0.8,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p057-4.webp",
+   "w": 277,
+   "h": 277,
+   "cap": {
+    "id": "Keselamatan Maskapai & Tujuan Keselamatan Operasi",
+    "jp": "航空会社の安全・安全運航の目的"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Keselamatan Maskapai & Tujuan Keselamatan Operasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「航空会社の安全・安全運航の目的」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p057-5",
+   "sub": "b8s1",
+   "book": "jp",
+   "page": 57,
+   "y": 0.95,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p057-5.webp",
+   "w": 277,
+   "h": 277,
+   "cap": {
+    "id": "Keselamatan Maskapai & Tujuan Keselamatan Operasi",
+    "jp": "航空会社の安全・安全運航の目的"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Keselamatan Maskapai & Tujuan Keselamatan Operasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「航空会社の安全・安全運航の目的」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p057-6",
+   "sub": "b8s1",
+   "book": "jp",
+   "page": 57,
+   "y": 1.1,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p057-6.webp",
+   "w": 277,
+   "h": 292,
+   "cap": {
+    "id": "Keselamatan Maskapai & Tujuan Keselamatan Operasi",
+    "jp": "航空会社の安全・安全運航の目的"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Keselamatan Maskapai & Tujuan Keselamatan Operasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「航空会社の安全・安全運航の目的」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p058-0",
+   "sub": "b8s2",
+   "book": "jp",
+   "page": 58,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p058-0.webp",
+   "w": 896,
+   "h": 573,
+   "cap": {
+    "id": "Prioritas Pesawat: Visibilitas, Isyarat Watchman, Tanda Keberangkatan",
+    "jp": "航空機優先・視界・合図・出発発見の着眼点"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 58, untuk subbab «Prioritas Pesawat: Visibilitas, Isyarat Watchman, Tanda Keberangkatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト58ページ「航空機優先・視界・合図・出発発見の着眼点」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p059-0",
+   "sub": "b8s2",
+   "book": "jp",
+   "page": 59,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p059-0.webp",
+   "w": 837,
+   "h": 828,
+   "cap": {
+    "id": "Prioritas Pesawat: Visibilitas, Isyarat Watchman, Tanda Keberangkatan",
+    "jp": "航空機優先・視界・合図・出発発見の着眼点"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 59, untuk subbab «Prioritas Pesawat: Visibilitas, Isyarat Watchman, Tanda Keberangkatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト59ページ「航空機優先・視界・合図・出発発見の着眼点」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p059-1",
+   "sub": "b8s2",
+   "book": "jp",
+   "page": 59,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p059-1.webp",
+   "w": 837,
+   "h": 590,
+   "cap": {
+    "id": "Prioritas Pesawat: Visibilitas, Isyarat Watchman, Tanda Keberangkatan",
+    "jp": "航空機優先・視界・合図・出発発見の着眼点"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 59, untuk subbab «Prioritas Pesawat: Visibilitas, Isyarat Watchman, Tanda Keberangkatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト59ページ「航空機優先・視界・合図・出発発見の着眼点」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p060-0",
+   "sub": "b8s2",
+   "book": "jp",
+   "page": 60,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p060-0.webp",
+   "w": 743,
+   "h": 797,
+   "cap": {
+    "id": "Prioritas Pesawat: Visibilitas, Isyarat Watchman, Tanda Keberangkatan",
+    "jp": "航空機優先・視界・合図・出発発見の着眼点"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 60, untuk subbab «Prioritas Pesawat: Visibilitas, Isyarat Watchman, Tanda Keberangkatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト60ページ「航空機優先・視界・合図・出発発見の着眼点」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p060-1",
+   "sub": "b8s2",
+   "book": "jp",
+   "page": 60,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p060-1.webp",
+   "w": 837,
+   "h": 788,
+   "cap": {
+    "id": "Prioritas Pesawat: Visibilitas, Isyarat Watchman, Tanda Keberangkatan",
+    "jp": "航空機優先・視界・合図・出発発見の着眼点"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 60, untuk subbab «Prioritas Pesawat: Visibilitas, Isyarat Watchman, Tanda Keberangkatan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト60ページ「航空機優先・視界・合図・出発発見の着眼点」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p062-0",
+   "sub": "b8s4",
+   "book": "jp",
+   "page": 62,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p062-0.webp",
+   "w": 740,
+   "h": 1445,
+   "cap": {
+    "id": "Barang Berbahaya, Weight & Balance, Keamanan Penerbangan",
+    "jp": "危険物輸送・ウエイト・アンド・バランス・航空保安"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 62, untuk subbab «Barang Berbahaya, Weight & Balance, Keamanan Penerbangan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト62ページ「危険物輸送・ウエイト・アンド・バランス・航空保安」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p063-0",
+   "sub": "b8s4",
+   "book": "jp",
+   "page": 63,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p063-0.webp",
+   "w": 563,
+   "h": 503,
+   "cap": {
+    "id": "Barang Berbahaya, Weight & Balance, Keamanan Penerbangan",
+    "jp": "危険物輸送・ウエイト・アンド・バランス・航空保安"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 63, untuk subbab «Barang Berbahaya, Weight & Balance, Keamanan Penerbangan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト63ページ「危険物輸送・ウエイト・アンド・バランス・航空保安」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p063-1",
+   "sub": "b8s4",
+   "book": "jp",
+   "page": 63,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p063-1.webp",
+   "w": 602,
+   "h": 461,
+   "cap": {
+    "id": "Barang Berbahaya, Weight & Balance, Keamanan Penerbangan",
+    "jp": "危険物輸送・ウエイト・アンド・バランス・航空保安"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 63, untuk subbab «Barang Berbahaya, Weight & Balance, Keamanan Penerbangan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト63ページ「危険物輸送・ウエイト・アンド・バランス・航空保安」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p064-0",
+   "sub": "b8s5",
+   "book": "jp",
+   "page": 64,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p064-0.webp",
+   "w": 643,
+   "h": 608,
+   "cap": {
+    "id": "Keselamatan Kerja: Aturan, Cuaca, Seragam & APD",
+    "jp": "規定の遵守・天候・作業員の服装"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 64, untuk subbab «Keselamatan Kerja: Aturan, Cuaca, Seragam & APD». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト64ページ「規定の遵守・天候・作業員の服装」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p065-0",
+   "sub": "b8s5",
+   "book": "jp",
+   "page": 65,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p065-0.webp",
+   "w": 740,
+   "h": 874,
+   "cap": {
+    "id": "Keselamatan Kerja: Aturan, Cuaca, Seragam & APD",
+    "jp": "規定の遵守・天候・作業員の服装"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 65, untuk subbab «Keselamatan Kerja: Aturan, Cuaca, Seragam & APD». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト65ページ「規定の遵守・天候・作業員の服装」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p067-0",
+   "sub": "b8s6",
+   "book": "jp",
+   "page": 67,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p067-0.webp",
+   "w": 514,
+   "h": 404,
+   "cap": {
+    "id": "Mengemudi Kendaraan & Memandu Kendaraan",
+    "jp": "車両の運転・車両の誘導"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 67, untuk subbab «Mengemudi Kendaraan & Memandu Kendaraan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト67ページ「車両の運転・車両の誘導」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p068-0",
+   "sub": "b8s7",
+   "book": "jp",
+   "page": 68,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p068-0.webp",
+   "w": 448,
+   "h": 376,
+   "cap": {
+    "id": "Kualitas Transportasi Udara & Dasar Cara Kerja",
+    "jp": "航空輸送の品質・作業の基本的な考え方"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 68, untuk subbab «Kualitas Transportasi Udara & Dasar Cara Kerja». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト68ページ「航空輸送の品質・作業の基本的な考え方」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p069-0",
+   "sub": "b8s7",
+   "book": "jp",
+   "page": 69,
+   "y": 0.2,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p069-0.webp",
+   "w": 274,
+   "h": 271,
+   "cap": {
+    "id": "Kualitas Transportasi Udara & Dasar Cara Kerja",
+    "jp": "航空輸送の品質・作業の基本的な考え方"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 69, untuk subbab «Kualitas Transportasi Udara & Dasar Cara Kerja». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト69ページ「航空輸送の品質・作業の基本的な考え方」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "aviation-gh-jp-p069-1",
+   "sub": "b8s7",
+   "book": "jp",
+   "page": 69,
+   "y": 0.35,
+   "src": "./assets/ssw/aviation-gh/fig/jp-p069-1.webp",
+   "w": 267,
+   "h": 254,
+   "cap": {
+    "id": "Kualitas Transportasi Udara & Dasar Cara Kerja",
+    "jp": "航空輸送の品質・作業の基本的な考え方"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 69, untuk subbab «Kualitas Transportasi Udara & Dasar Cara Kerja». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト69ページ「航空輸送の品質・作業の基本的な考え方」の図。"
+   },
+   "terms": [],
+   "auto": true
+  }
+ ]
+}

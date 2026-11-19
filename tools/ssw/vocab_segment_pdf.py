@@ -61,15 +61,20 @@ for s in sorted(os.listdir("data/ssw")):
     cnt = Counter(w for p in pdfs for run in RUN.findall(pdf_text(p)) for w in segment(run))
     for w, c in cnt.items():
         if c >= 2 and w not in BASIC: cand.setdefault(w, (first, "pdf"))
+    # OCR halaman scan buku (tools/ssw/ocr_pages.py): lebih ketat karena salah baca OCR -> >=3x, tanpa huruf kembar (人人), bukan scan dokumen administrasi
+    if os.environ.get("OCR_PAGES") == "1" and s not in ("logistics", "recycling"):   # default MATI: hasil kecil & banyak salah baca (teks bidang ini sudah diketik di website)
+        oc = Counter(w for f in sorted(glob.glob(f"tools/ssw/src/ocr/pages/{s}-*.txt")) for run in RUN.findall(open(f).read()) for w in segment(run))
+        for w, c in oc.items():
+            if c >= 3 and w not in BASIC and len(set(w)) > 1: cand.setdefault(w, (first, "ocr"))
     pre = re.match(r"(.*?)(\d+)$", L[0]["id"]); prefix, width = pre.group(1), len(pre.group(2))
     n = max(int(re.sub(r"\D", "", x["id"].replace(prefix, "")) or 0) for x in L)
-    add = {"frasa": 0, "pdf": 0}
+    add = {"frasa": 0, "pdf": 0, "ocr": 0}
     for w, (bab, how) in sorted(cand.items()):
         if w in have: continue
         kana, arti, asal = lookup(w); have.add(w); n += 1; add[how] += 1
         L.append({"id": f"{prefix}{n:0{width}d}", "kata": w, "kana": kana, "arti": arti, "cat": "Kosakata dari teks/PDF materi",
-                  "bab": bab, "src": [], "sumber": "panen-pdf", "asal_arti": asal, "asal_kata": "pecahan frasa teks" if how == "frasa" else "PDF bidang"})
+                  "bab": bab, "src": [], "sumber": "panen-pdf", "asal_arti": asal, "asal_kata": {"frasa": "pecahan frasa teks", "pdf": "PDF bidang", "ocr": "OCR halaman buku"}[how]})
     json.dump(V, open(P, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     tot += sum(add.values())
-    print(f"{s:22} pdf {len(pdfs):2}  +dari-frasa {add['frasa']:5}  +dari-pdf {add['pdf']:5}  total {len(L)}")
+    print(f"{s:22} pdf {len(pdfs):2} ocr-hal {len(glob.glob(f'tools/ssw/src/ocr/pages/{s}-*.txt')):3}  +dari-frasa {add['frasa']:5}  +dari-pdf {add['pdf']:5}  +ocr {add['ocr']:4}  total {len(L)}")
 print("TOTAL baru", tot)

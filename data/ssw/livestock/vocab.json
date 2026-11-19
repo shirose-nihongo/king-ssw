@@ -649,236 +649,280 @@
    ]
   },
   {
-   "id": "ls-097",
+   "id": "ls-181",
    "kata": "乳用牛",
    "kana": "ちちよううし",
    "arti": "sapi penghasil susu",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ls-098",
+   "id": "ls-182",
    "kata": "作業",
    "kana": "さぎょう",
    "arti": "pekerjaan; tugas; proses kerja",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2",
+    "b3s3",
+    "b3s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ls-099",
+   "id": "ls-183",
    "kata": "基礎知識",
    "kana": "きそちしき",
    "arti": "pengetahuan mendasar",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "bab2-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ls-100",
+   "id": "ls-184",
    "kata": "安全管理",
    "kana": "あんぜんかんり",
    "arti": "manajemen keselamatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ls-101",
+   "id": "ls-185",
    "kata": "実技試験",
    "kana": "じつぎしけん",
    "arti": "ujian praktik",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ls-102",
+   "id": "ls-186",
    "kata": "家畜",
    "kana": "かちく",
    "arti": "ternak; hewan peliharaan (ternak)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "bab2-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ls-103",
+   "id": "ls-187",
    "kata": "採卵鶏",
    "kana": "さいらんにわとり",
    "arti": "ayam petelur (ayam penghasil telur)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ls-104",
+   "id": "ls-188",
    "kata": "毎日",
    "kana": "まいにち",
    "arti": "setiap hari",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "bab3-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ls-105",
+   "id": "ls-189",
    "kata": "特徴",
    "kana": "とくちょう",
    "arti": "Ciri-ciri",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ls-106",
+   "id": "ls-190",
    "kata": "畜産",
    "kana": "ちくさん",
    "arti": "peternakan; Industri ternak",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ls-107",
+   "id": "ls-191",
    "kata": "衛生管理",
    "kana": "えいせいかんり",
    "arti": "pengelolaan kebersihan/kesehatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ls-108",
+   "id": "ls-192",
    "kata": "観察",
    "kana": "かんさつ",
    "arti": "pengamatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "ls-109",
+   "id": "ls-193",
    "kata": "酪農",
    "kana": "らくのう",
    "arti": "peternakan susu",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ls-110",
+   "id": "ls-194",
    "kata": "飼料",
    "kana": "しりょう",
    "arti": "pakan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "bab2-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ls-111",
+   "id": "ls-195",
    "kata": "養蜂",
    "kana": "ようほう",
    "arti": "beternak lebah",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ls-112",
+   "id": "ls-196",
    "kata": "養豚",
    "kana": "ようとん",
    "arti": "peternakan babi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ls-113",
+   "id": "ls-197",
    "kata": "養鶏",
    "kana": "ようけい",
    "arti": "peternakan ayam",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "ls-114",
+   "id": "ls-198",
    "kata": "種馬",
    "kana": "たねうま",
    "arti": "kuda pembiakan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "ls-115",
+   "id": "ls-199",
    "kata": "管理",
    "kana": "かんり",
    "arti": "pengelolaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "ls-116",
+   "id": "ls-200",
    "kata": "肉用",
    "kana": "にくよう",
    "arti": "untuk daging",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "ls-117",
+   "id": "ls-201",
    "kata": "飼養",
    "kana": "しよう",
    "arti": "pemeliharaan; pembiakan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "bab3-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"

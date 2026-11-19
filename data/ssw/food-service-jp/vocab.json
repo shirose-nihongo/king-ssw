@@ -8761,252 +8761,299 @@
    ]
   },
   {
-   "id": "fj-680",
+   "id": "fj-768",
    "kata": "労働安全衛生",
    "kana": "ろうどうあんぜんえいせい",
    "arti": "keselamatan dan kesehatan kerja",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "j2s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fj-681",
+   "id": "fj-769",
    "kata": "原材料",
    "kana": "げんざいりょう",
    "arti": "bahan baku; bahan-bahan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "j1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fj-682",
+   "id": "fj-770",
    "kata": "参考資料",
    "kana": "さんこうしりょう",
    "arti": "data referensi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "j1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fj-683",
+   "id": "fj-771",
    "kata": "器具",
    "kana": "きぐ",
    "arti": "perkakas; aparat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "j2s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fj-684",
+   "id": "fj-772",
    "kata": "基礎",
    "kana": "きそ",
    "arti": "dasar; fondasi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "j1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fj-685",
+   "id": "fj-773",
    "kata": "対応",
    "kana": "たいおう",
    "arti": "Tanggapan; Penanganan; Menghadapi; Respon terhadap sesuatu",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "j3s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fj-686",
+   "id": "fj-774",
    "kata": "手洗",
    "kana": "てあら",
    "arti": "mencuci tangan; Air (atau baskom, dll.) Untuk mencuci tangan seseorang",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "j1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fj-687",
+   "id": "fj-775",
    "kata": "洗浄",
    "kana": "せんじょう",
    "arti": "pembersihan dengan air",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "j1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fj-688",
+   "id": "fj-776",
    "kata": "知識",
    "kana": "ちしき",
    "arti": "pengetahuan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "j3s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fj-689",
+   "id": "fj-777",
    "kata": "管理",
    "kana": "かんり",
    "arti": "pengelolaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "j1s3",
+    "j1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fj-690",
+   "id": "fj-778",
    "kata": "緊急時",
    "kana": "きんきゅうじ",
    "arti": "saat darurat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "j3s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fj-691",
+   "id": "fj-779",
    "kata": "衛生管理",
    "kana": "えいせいかんり",
    "arti": "pengelolaan kebersihan/kesehatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fj-692",
+   "id": "fj-780",
    "kata": "食材",
    "kana": "しょくざい",
    "arti": "bahan; bahan makanan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "j2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fj-693",
+   "id": "fj-781",
    "kata": "全般",
    "kana": "ぜんぱん",
    "arti": "secara umum; secara keseluruhan; dalam semua aspek",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "bab3-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fj-694",
+   "id": "fj-782",
    "kata": "基本",
    "kana": "きほん",
    "arti": "dasar; prinsip; pokok",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "j3s1",
+    "j3s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fj-695",
+   "id": "fj-783",
    "kata": "店舗",
    "kana": "てんぽ",
    "arti": "toko; toko",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "j3s5"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fj-696",
+   "id": "fj-784",
    "kata": "機器",
    "kana": "きき",
    "arti": "perangkat; peralatan; mesin",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "j2s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fj-697",
+   "id": "fj-785",
    "kata": "用語",
    "kana": "ようご",
    "arti": "istilah",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "j3s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fj-698",
+   "id": "fj-786",
    "kata": "計測",
    "kana": "けいそく",
    "arti": "pengukuran",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "j2s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fj-699",
+   "id": "fj-787",
    "kata": "調理",
    "kana": "ちょうり",
    "arti": "memasak; persiapan makanan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "j2s3",
+    "j2s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fj-700",
+   "id": "fj-788",
    "kata": "防止",
    "kana": "ぼうし",
    "arti": "pencegahan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "j2s5"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fj-701",
+   "id": "fj-789",
    "kata": "飲食物",
    "kana": "いんしょくぶつ",
    "arti": "makanan dan minuman",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "bab2-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"

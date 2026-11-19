@@ -551,7 +551,9 @@
    "arti": "satu orang; sendiri; tunggal",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -562,7 +564,9 @@
    "arti": "Serangkaian; urutan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -573,7 +577,9 @@
    "arti": "Ketua; kepala",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -584,7 +590,9 @@
    "arti": "pengeringan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -595,7 +603,9 @@
    "arti": "kegiatan usaha",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
@@ -606,7 +616,10 @@
    "arti": "pekerjaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -617,7 +630,9 @@
    "arti": "volume",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -628,7 +643,9 @@
    "arti": "pekerjaan; tugas; proses kerja",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -639,7 +656,9 @@
    "arti": "kepala bagian; kepala penghubung",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -650,7 +669,9 @@
    "arti": "perlindungan; pengamanan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -661,7 +682,9 @@
    "arti": "perbaikan, reparasi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -672,7 +695,9 @@
    "arti": "isi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -683,7 +708,10 @@
    "arti": "pemrosesan; pengolahan; penanganan; pengendalian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -694,7 +722,9 @@
    "arti": "cara penanganan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -705,7 +735,9 @@
    "arti": "bidang; area; disiplin (ilmu)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -716,7 +748,9 @@
    "arti": "tingkat dasar",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -727,7 +761,9 @@
    "arti": "divisi; bagian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -738,7 +774,9 @@
    "arti": "dasar; prinsip; pokok",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -749,7 +787,9 @@
    "arti": "dasar; fondasi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -760,7 +800,9 @@
    "arti": "melapor; laporan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -771,7 +813,10 @@
    "arti": "penting; serius",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -782,7 +827,10 @@
    "arti": "keselamatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -793,7 +841,10 @@
    "arti": "keselamatan dan kesehatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -804,7 +855,9 @@
    "arti": "sepatu bot pengaman; sepatu pengaman",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -815,7 +868,9 @@
    "arti": "praktik kerja; tugas nyata",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -826,7 +881,9 @@
    "arti": "praktisi; pelaku",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
@@ -837,7 +894,9 @@
    "arti": "Rumah tangga; keluarga",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -848,7 +907,9 @@
    "arti": "proses, tahapan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -859,7 +920,9 @@
    "arti": "tahun ke- (pengalaman usia)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
@@ -870,7 +933,9 @@
    "arti": "di atas lantai; di atas tempat tidur",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
@@ -881,7 +946,9 @@
    "arti": "pembentukan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -892,7 +959,9 @@
    "arti": "berguna",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "bab3-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
@@ -903,7 +972,9 @@
    "arti": "sarung tangan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -914,7 +985,9 @@
    "arti": "teknik; teknologi; keterampilan; metode",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -925,7 +998,9 @@
    "arti": "bersih-bersih",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -936,7 +1011,9 @@
    "arti": "pendukung; pendorong",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
@@ -947,7 +1024,9 @@
    "arti": "pengoperasian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -958,7 +1037,10 @@
    "arti": "pendidikan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -969,7 +1051,9 @@
    "arti": "Fasilitas",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -980,7 +1064,9 @@
    "arti": "bahasa Jepang",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -991,7 +1077,9 @@
    "arti": "pekerjaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -1002,7 +1090,9 @@
    "arti": "mesin",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -1013,7 +1103,9 @@
    "arti": "kadar air",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -1024,7 +1116,9 @@
    "arti": "tingkat; standar; kualitas (dalam konteks kehidupan atau kemampuan)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "bab2-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -1035,7 +1129,9 @@
    "arti": "Kebakaran",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -1046,7 +1142,9 @@
    "arti": "lokasi kerja",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -1057,7 +1155,9 @@
    "arti": "memahami",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -1068,7 +1168,9 @@
    "arti": "limbah industri",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
@@ -1079,7 +1181,10 @@
    "arti": "istilah",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -1090,7 +1195,9 @@
    "arti": "jenis",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -1101,7 +1208,9 @@
    "arti": "pengelola",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -1112,7 +1221,9 @@
    "arti": "pengalaman",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -1123,7 +1234,9 @@
    "arti": "pembinaan; pelatihan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -1134,7 +1247,10 @@
    "arti": "Kesehatan; kebersihan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -1145,7 +1261,9 @@
    "arti": "ujian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -1156,7 +1274,9 @@
    "arti": "penanggung jawab (PIC); atasan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -1167,7 +1287,9 @@
    "arti": "saat mulai",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   }

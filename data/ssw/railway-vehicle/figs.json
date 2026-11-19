@@ -1,0 +1,6586 @@
+{
+ "slug": "railway-vehicle",
+ "note": "Gambar diekstrak otomatis dari PDF buku resmi (tools/ssw/fig_extract.py); auto:true = perlu penyuntingan manusia.",
+ "figs": [
+  {
+   "id": "railway-vehicle-jp-p013-0",
+   "sub": "b1s2",
+   "book": "jp",
+   "page": 13,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p013-0.webp",
+   "w": 700,
+   "h": 510,
+   "cap": {
+    "id": "Kesadaran keselamatan & 5S",
+    "jp": "安全意識の徹底と5S活動"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 13, untuk subbab «Kesadaran keselamatan & 5S». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト13ページ「安全意識の徹底と5S活動」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p013-1",
+   "sub": "b1s2",
+   "book": "jp",
+   "page": 13,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p013-1.webp",
+   "w": 548,
+   "h": 472,
+   "cap": {
+    "id": "Kesadaran keselamatan & 5S",
+    "jp": "安全意識の徹底と5S活動"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 13, untuk subbab «Kesadaran keselamatan & 5S». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト13ページ「安全意識の徹底と5S活動」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p014-0",
+   "sub": "b1s3",
+   "book": "jp",
+   "page": 14,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p014-0.webp",
+   "w": 595,
+   "h": 446,
+   "cap": {
+    "id": "Pakaian kerja & APD (保護具)",
+    "jp": "服装と保護具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 14, untuk subbab «Pakaian kerja & APD (保護具)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト14ページ「服装と保護具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p014-1",
+   "sub": "b1s3",
+   "book": "jp",
+   "page": 14,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p014-1.webp",
+   "w": 789,
+   "h": 447,
+   "cap": {
+    "id": "Pakaian kerja & APD (保護具)",
+    "jp": "服装と保護具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 14, untuk subbab «Pakaian kerja & APD (保護具)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト14ページ「服装と保護具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p014-2",
+   "sub": "b1s3",
+   "book": "jp",
+   "page": 14,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p014-2.webp",
+   "w": 640,
+   "h": 427,
+   "cap": {
+    "id": "Pakaian kerja & APD (保護具)",
+    "jp": "服装と保護具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 14, untuk subbab «Pakaian kerja & APD (保護具)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト14ページ「服装と保護具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p015-0",
+   "sub": "b1s3",
+   "book": "jp",
+   "page": 15,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p015-0.webp",
+   "w": 900,
+   "h": 270,
+   "cap": {
+    "id": "Pakaian kerja & APD (保護具)",
+    "jp": "服装と保護具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 15, untuk subbab «Pakaian kerja & APD (保護具)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト15ページ「服装と保護具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p015-1",
+   "sub": "b1s3",
+   "book": "jp",
+   "page": 15,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p015-1.webp",
+   "w": 625,
+   "h": 379,
+   "cap": {
+    "id": "Pakaian kerja & APD (保護具)",
+    "jp": "服装と保護具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 15, untuk subbab «Pakaian kerja & APD (保護具)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト15ページ「服装と保護具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p016-0",
+   "sub": "b1s3",
+   "book": "jp",
+   "page": 16,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p016-0.webp",
+   "w": 602,
+   "h": 402,
+   "cap": {
+    "id": "Pakaian kerja & APD (保護具)",
+    "jp": "服装と保護具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 16, untuk subbab «Pakaian kerja & APD (保護具)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト16ページ「服装と保護具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p016-1",
+   "sub": "b1s3",
+   "book": "jp",
+   "page": 16,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p016-1.webp",
+   "w": 507,
+   "h": 218,
+   "cap": {
+    "id": "Pakaian kerja & APD (保護具)",
+    "jp": "服装と保護具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 16, untuk subbab «Pakaian kerja & APD (保護具)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト16ページ「服装と保護具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p017-0",
+   "sub": "b1s3",
+   "book": "jp",
+   "page": 17,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p017-0.webp",
+   "w": 493,
+   "h": 493,
+   "cap": {
+    "id": "Pakaian kerja & APD (保護具)",
+    "jp": "服装と保護具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 17, untuk subbab «Pakaian kerja & APD (保護具)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト17ページ「服装と保護具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p017-1",
+   "sub": "b1s3",
+   "book": "jp",
+   "page": 17,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p017-1.webp",
+   "w": 350,
+   "h": 234,
+   "cap": {
+    "id": "Pakaian kerja & APD (保護具)",
+    "jp": "服装と保護具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 17, untuk subbab «Pakaian kerja & APD (保護具)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト17ページ「服装と保護具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p017-2",
+   "sub": "b1s3",
+   "book": "jp",
+   "page": 17,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p017-2.webp",
+   "w": 732,
+   "h": 496,
+   "cap": {
+    "id": "Pakaian kerja & APD (保護具)",
+    "jp": "服装と保護具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 17, untuk subbab «Pakaian kerja & APD (保護具)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト17ページ「服装と保護具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p017-3",
+   "sub": "b1s3",
+   "book": "jp",
+   "page": 17,
+   "y": 0.65,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p017-3.webp",
+   "w": 630,
+   "h": 411,
+   "cap": {
+    "id": "Pakaian kerja & APD (保護具)",
+    "jp": "服装と保護具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 17, untuk subbab «Pakaian kerja & APD (保護具)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト17ページ「服装と保護具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p018-0",
+   "sub": "b1s4",
+   "book": "jp",
+   "page": 18,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p018-0.webp",
+   "w": 564,
+   "h": 344,
+   "cap": {
+    "id": "Alat pengaman, alat tangan, jalur, tangga lipat",
+    "jp": "安全装置・工具・通路・脚立"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 18, untuk subbab «Alat pengaman, alat tangan, jalur, tangga lipat». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト18ページ「安全装置・工具・通路・脚立」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p019-0",
+   "sub": "b1s4",
+   "book": "jp",
+   "page": 19,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p019-0.webp",
+   "w": 331,
+   "h": 219,
+   "cap": {
+    "id": "Alat pengaman, alat tangan, jalur, tangga lipat",
+    "jp": "安全装置・工具・通路・脚立"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 19, untuk subbab «Alat pengaman, alat tangan, jalur, tangga lipat». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト19ページ「安全装置・工具・通路・脚立」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p019-1",
+   "sub": "b1s4",
+   "book": "jp",
+   "page": 19,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p019-1.webp",
+   "w": 291,
+   "h": 218,
+   "cap": {
+    "id": "Alat pengaman, alat tangan, jalur, tangga lipat",
+    "jp": "安全装置・工具・通路・脚立"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 19, untuk subbab «Alat pengaman, alat tangan, jalur, tangga lipat». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト19ページ「安全装置・工具・通路・脚立」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p020-0",
+   "sub": "b1s4",
+   "book": "jp",
+   "page": 20,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p020-0.webp",
+   "w": 800,
+   "h": 313,
+   "cap": {
+    "id": "Alat pengaman, alat tangan, jalur, tangga lipat",
+    "jp": "安全装置・工具・通路・脚立"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 20, untuk subbab «Alat pengaman, alat tangan, jalur, tangga lipat». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト20ページ「安全装置・工具・通路・脚立」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p020-1",
+   "sub": "b1s4",
+   "book": "jp",
+   "page": 20,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p020-1.webp",
+   "w": 640,
+   "h": 480,
+   "cap": {
+    "id": "Alat pengaman, alat tangan, jalur, tangga lipat",
+    "jp": "安全装置・工具・通路・脚立"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 20, untuk subbab «Alat pengaman, alat tangan, jalur, tangga lipat». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト20ページ「安全装置・工具・通路・脚立」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p021-0",
+   "sub": "b1s4",
+   "book": "jp",
+   "page": 21,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p021-0.webp",
+   "w": 419,
+   "h": 195,
+   "cap": {
+    "id": "Alat pengaman, alat tangan, jalur, tangga lipat",
+    "jp": "安全装置・工具・通路・脚立"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 21, untuk subbab «Alat pengaman, alat tangan, jalur, tangga lipat». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト21ページ「安全装置・工具・通路・脚立」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p021-1",
+   "sub": "b1s4",
+   "book": "jp",
+   "page": 21,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p021-1.webp",
+   "w": 413,
+   "h": 550,
+   "cap": {
+    "id": "Alat pengaman, alat tangan, jalur, tangga lipat",
+    "jp": "安全装置・工具・通路・脚立"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 21, untuk subbab «Alat pengaman, alat tangan, jalur, tangga lipat». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト21ページ「安全装置・工具・通路・脚立」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p021-2",
+   "sub": "b1s4",
+   "book": "jp",
+   "page": 21,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p021-2.webp",
+   "w": 565,
+   "h": 423,
+   "cap": {
+    "id": "Alat pengaman, alat tangan, jalur, tangga lipat",
+    "jp": "安全装置・工具・通路・脚立"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 21, untuk subbab «Alat pengaman, alat tangan, jalur, tangga lipat». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト21ページ「安全装置・工具・通路・脚立」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p022-0",
+   "sub": "b1s4",
+   "book": "jp",
+   "page": 22,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p022-0.webp",
+   "w": 900,
+   "h": 506,
+   "cap": {
+    "id": "Alat pengaman, alat tangan, jalur, tangga lipat",
+    "jp": "安全装置・工具・通路・脚立"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 22, untuk subbab «Alat pengaman, alat tangan, jalur, tangga lipat». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト22ページ「安全装置・工具・通路・脚立」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p022-1",
+   "sub": "b1s4",
+   "book": "jp",
+   "page": 22,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p022-1.webp",
+   "w": 270,
+   "h": 295,
+   "cap": {
+    "id": "Alat pengaman, alat tangan, jalur, tangga lipat",
+    "jp": "安全装置・工具・通路・脚立"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 22, untuk subbab «Alat pengaman, alat tangan, jalur, tangga lipat». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト22ページ「安全装置・工具・通路・脚立」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p022-2",
+   "sub": "b1s4",
+   "book": "jp",
+   "page": 22,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p022-2.webp",
+   "w": 564,
+   "h": 412,
+   "cap": {
+    "id": "Alat pengaman, alat tangan, jalur, tangga lipat",
+    "jp": "安全装置・工具・通路・脚立"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 22, untuk subbab «Alat pengaman, alat tangan, jalur, tangga lipat». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト22ページ「安全装置・工具・通路・脚立」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p023-0",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 23,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p023-0.webp",
+   "w": 621,
+   "h": 345,
+   "cap": {
+    "id": "Batas kendaraan & struktur badan kereta",
+    "jp": "車両限界・建築限界・車体"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 23, untuk subbab «Batas kendaraan & struktur badan kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト23ページ「車両限界・建築限界・車体」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p023-1",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 23,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p023-1.webp",
+   "w": 621,
+   "h": 345,
+   "cap": {
+    "id": "Batas kendaraan & struktur badan kereta",
+    "jp": "車両限界・建築限界・車体"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 23, untuk subbab «Batas kendaraan & struktur badan kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト23ページ「車両限界・建築限界・車体」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p023-2",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 23,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p023-2.webp",
+   "w": 564,
+   "h": 313,
+   "cap": {
+    "id": "Batas kendaraan & struktur badan kereta",
+    "jp": "車両限界・建築限界・車体"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 23, untuk subbab «Batas kendaraan & struktur badan kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト23ページ「車両限界・建築限界・車体」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p023-3",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 23,
+   "y": 0.65,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p023-3.webp",
+   "w": 621,
+   "h": 345,
+   "cap": {
+    "id": "Batas kendaraan & struktur badan kereta",
+    "jp": "車両限界・建築限界・車体"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 23, untuk subbab «Batas kendaraan & struktur badan kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト23ページ「車両限界・建築限界・車体」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p024-0",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 24,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p024-0.webp",
+   "w": 600,
+   "h": 519,
+   "cap": {
+    "id": "Batas kendaraan & struktur badan kereta",
+    "jp": "車両限界・建築限界・車体"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 24, untuk subbab «Batas kendaraan & struktur badan kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト24ページ「車両限界・建築限界・車体」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p025-0",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 25,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p025-0.webp",
+   "w": 330,
+   "h": 285,
+   "cap": {
+    "id": "Batas kendaraan & struktur badan kereta",
+    "jp": "車両限界・建築限界・車体"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 25, untuk subbab «Batas kendaraan & struktur badan kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト25ページ「車両限界・建築限界・車体」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p025-1",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 25,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p025-1.webp",
+   "w": 640,
+   "h": 356,
+   "cap": {
+    "id": "Batas kendaraan & struktur badan kereta",
+    "jp": "車両限界・建築限界・車体"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 25, untuk subbab «Batas kendaraan & struktur badan kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト25ページ「車両限界・建築限界・車体」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p026-0",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 26,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p026-0.webp",
+   "w": 900,
+   "h": 600,
+   "cap": {
+    "id": "Batas kendaraan & struktur badan kereta",
+    "jp": "車両限界・建築限界・車体"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 26, untuk subbab «Batas kendaraan & struktur badan kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト26ページ「車両限界・建築限界・車体」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p026-1",
+   "sub": "b2s1",
+   "book": "jp",
+   "page": 26,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p026-1.webp",
+   "w": 357,
+   "h": 300,
+   "cap": {
+    "id": "Batas kendaraan & struktur badan kereta",
+    "jp": "車両限界・建築限界・車体"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 26, untuk subbab «Batas kendaraan & struktur badan kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト26ページ「車両限界・建築限界・車体」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p027-0",
+   "sub": "b2s2",
+   "book": "jp",
+   "page": 27,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p027-0.webp",
+   "w": 900,
+   "h": 311,
+   "cap": {
+    "id": "Bogie (台車)",
+    "jp": "台車の構造"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 27, untuk subbab «Bogie (台車)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト27ページ「台車の構造」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p027-1",
+   "sub": "b2s2",
+   "book": "jp",
+   "page": 27,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p027-1.webp",
+   "w": 325,
+   "h": 177,
+   "cap": {
+    "id": "Bogie (台車)",
+    "jp": "台車の構造"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 27, untuk subbab «Bogie (台車)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト27ページ「台車の構造」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p028-0",
+   "sub": "b2s2",
+   "book": "jp",
+   "page": 28,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p028-0.webp",
+   "w": 800,
+   "h": 500,
+   "cap": {
+    "id": "Bogie (台車)",
+    "jp": "台車の構造"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 28, untuk subbab «Bogie (台車)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト28ページ「台車の構造」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p029-0",
+   "sub": "b2s2",
+   "book": "jp",
+   "page": 29,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p029-0.webp",
+   "w": 640,
+   "h": 307,
+   "cap": {
+    "id": "Bogie (台車)",
+    "jp": "台車の構造"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 29, untuk subbab «Bogie (台車)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト29ページ「台車の構造」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p029-1",
+   "sub": "b2s2",
+   "book": "jp",
+   "page": 29,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p029-1.webp",
+   "w": 693,
+   "h": 256,
+   "cap": {
+    "id": "Bogie (台車)",
+    "jp": "台車の構造"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 29, untuk subbab «Bogie (台車)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト29ページ「台車の構造」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p030-0",
+   "sub": "b2s2",
+   "book": "jp",
+   "page": 30,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p030-0.webp",
+   "w": 640,
+   "h": 316,
+   "cap": {
+    "id": "Bogie (台車)",
+    "jp": "台車の構造"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 30, untuk subbab «Bogie (台車)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト30ページ「台車の構造」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p030-1",
+   "sub": "b2s2",
+   "book": "jp",
+   "page": 30,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p030-1.webp",
+   "w": 230,
+   "h": 173,
+   "cap": {
+    "id": "Bogie (台車)",
+    "jp": "台車の構造"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 30, untuk subbab «Bogie (台車)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト30ページ「台車の構造」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p031-0",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 31,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p031-0.webp",
+   "w": 731,
+   "h": 548,
+   "cap": {
+    "id": "Rel, elektrifikasi, jenis kereta",
+    "jp": "線路と電化方式・車両の分類"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 31, untuk subbab «Rel, elektrifikasi, jenis kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト31ページ「線路と電化方式・車両の分類」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p031-1",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 31,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p031-1.webp",
+   "w": 567,
+   "h": 377,
+   "cap": {
+    "id": "Rel, elektrifikasi, jenis kereta",
+    "jp": "線路と電化方式・車両の分類"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 31, untuk subbab «Rel, elektrifikasi, jenis kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト31ページ「線路と電化方式・車両の分類」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p032-0",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 32,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p032-0.webp",
+   "w": 612,
+   "h": 157,
+   "cap": {
+    "id": "Rel, elektrifikasi, jenis kereta",
+    "jp": "線路と電化方式・車両の分類"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 32, untuk subbab «Rel, elektrifikasi, jenis kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト32ページ「線路と電化方式・車両の分類」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p034-0",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 34,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p034-0.webp",
+   "w": 674,
+   "h": 450,
+   "cap": {
+    "id": "Rel, elektrifikasi, jenis kereta",
+    "jp": "線路と電化方式・車両の分類"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 34, untuk subbab «Rel, elektrifikasi, jenis kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト34ページ「線路と電化方式・車両の分類」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p034-1",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 34,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p034-1.webp",
+   "w": 720,
+   "h": 405,
+   "cap": {
+    "id": "Rel, elektrifikasi, jenis kereta",
+    "jp": "線路と電化方式・車両の分類"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 34, untuk subbab «Rel, elektrifikasi, jenis kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト34ページ「線路と電化方式・車両の分類」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p034-2",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 34,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p034-2.webp",
+   "w": 600,
+   "h": 420,
+   "cap": {
+    "id": "Rel, elektrifikasi, jenis kereta",
+    "jp": "線路と電化方式・車両の分類"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 34, untuk subbab «Rel, elektrifikasi, jenis kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト34ページ「線路と電化方式・車両の分類」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p034-3",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 34,
+   "y": 0.65,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p034-3.webp",
+   "w": 650,
+   "h": 384,
+   "cap": {
+    "id": "Rel, elektrifikasi, jenis kereta",
+    "jp": "線路と電化方式・車両の分類"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 34, untuk subbab «Rel, elektrifikasi, jenis kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト34ページ「線路と電化方式・車両の分類」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p035-0",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 35,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p035-0.webp",
+   "w": 701,
+   "h": 394,
+   "cap": {
+    "id": "Rel, elektrifikasi, jenis kereta",
+    "jp": "線路と電化方式・車両の分類"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 35, untuk subbab «Rel, elektrifikasi, jenis kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト35ページ「線路と電化方式・車両の分類」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p035-1",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 35,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p035-1.webp",
+   "w": 900,
+   "h": 527,
+   "cap": {
+    "id": "Rel, elektrifikasi, jenis kereta",
+    "jp": "線路と電化方式・車両の分類"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 35, untuk subbab «Rel, elektrifikasi, jenis kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト35ページ「線路と電化方式・車両の分類」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p035-2",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 35,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p035-2.webp",
+   "w": 685,
+   "h": 461,
+   "cap": {
+    "id": "Rel, elektrifikasi, jenis kereta",
+    "jp": "線路と電化方式・車両の分類"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 35, untuk subbab «Rel, elektrifikasi, jenis kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト35ページ「線路と電化方式・車両の分類」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p035-3",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 35,
+   "y": 0.65,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p035-3.webp",
+   "w": 660,
+   "h": 495,
+   "cap": {
+    "id": "Rel, elektrifikasi, jenis kereta",
+    "jp": "線路と電化方式・車両の分類"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 35, untuk subbab «Rel, elektrifikasi, jenis kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト35ページ「線路と電化方式・車両の分類」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p035-4",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 35,
+   "y": 0.8,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p035-4.webp",
+   "w": 718,
+   "h": 479,
+   "cap": {
+    "id": "Rel, elektrifikasi, jenis kereta",
+    "jp": "線路と電化方式・車両の分類"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 35, untuk subbab «Rel, elektrifikasi, jenis kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト35ページ「線路と電化方式・車両の分類」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p035-5",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 35,
+   "y": 0.95,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p035-5.webp",
+   "w": 684,
+   "h": 513,
+   "cap": {
+    "id": "Rel, elektrifikasi, jenis kereta",
+    "jp": "線路と電化方式・車両の分類"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 35, untuk subbab «Rel, elektrifikasi, jenis kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト35ページ「線路と電化方式・車両の分類」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p035-6",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 35,
+   "y": 1.1,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p035-6.webp",
+   "w": 695,
+   "h": 463,
+   "cap": {
+    "id": "Rel, elektrifikasi, jenis kereta",
+    "jp": "線路と電化方式・車両の分類"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 35, untuk subbab «Rel, elektrifikasi, jenis kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト35ページ「線路と電化方式・車両の分類」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p035-7",
+   "sub": "b2s3",
+   "book": "jp",
+   "page": 35,
+   "y": 1.25,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p035-7.webp",
+   "w": 696,
+   "h": 464,
+   "cap": {
+    "id": "Rel, elektrifikasi, jenis kereta",
+    "jp": "線路と電化方式・車両の分類"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 35, untuk subbab «Rel, elektrifikasi, jenis kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト35ページ「線路と電化方式・車両の分類」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p036-0",
+   "sub": "b2s4",
+   "book": "jp",
+   "page": 36,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p036-0.webp",
+   "w": 510,
+   "h": 374,
+   "cap": {
+    "id": "Peralatan penggerak & kontrol",
+    "jp": "装置の用途と仕組み"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 36, untuk subbab «Peralatan penggerak & kontrol». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト36ページ「装置の用途と仕組み」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p036-1",
+   "sub": "b2s4",
+   "book": "jp",
+   "page": 36,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p036-1.webp",
+   "w": 754,
+   "h": 502,
+   "cap": {
+    "id": "Peralatan penggerak & kontrol",
+    "jp": "装置の用途と仕組み"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 36, untuk subbab «Peralatan penggerak & kontrol». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト36ページ「装置の用途と仕組み」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p037-0",
+   "sub": "b2s4",
+   "book": "jp",
+   "page": 37,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p037-0.webp",
+   "w": 600,
+   "h": 400,
+   "cap": {
+    "id": "Peralatan penggerak & kontrol",
+    "jp": "装置の用途と仕組み"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 37, untuk subbab «Peralatan penggerak & kontrol». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト37ページ「装置の用途と仕組み」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p037-1",
+   "sub": "b2s4",
+   "book": "jp",
+   "page": 37,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p037-1.webp",
+   "w": 900,
+   "h": 342,
+   "cap": {
+    "id": "Peralatan penggerak & kontrol",
+    "jp": "装置の用途と仕組み"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 37, untuk subbab «Peralatan penggerak & kontrol». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト37ページ「装置の用途と仕組み」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p037-2",
+   "sub": "b2s4",
+   "book": "jp",
+   "page": 37,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p037-2.webp",
+   "w": 618,
+   "h": 463,
+   "cap": {
+    "id": "Peralatan penggerak & kontrol",
+    "jp": "装置の用途と仕組み"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 37, untuk subbab «Peralatan penggerak & kontrol». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト37ページ「装置の用途と仕組み」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p038-0",
+   "sub": "b2s4",
+   "book": "jp",
+   "page": 38,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p038-0.webp",
+   "w": 761,
+   "h": 258,
+   "cap": {
+    "id": "Peralatan penggerak & kontrol",
+    "jp": "装置の用途と仕組み"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 38, untuk subbab «Peralatan penggerak & kontrol». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト38ページ「装置の用途と仕組み」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p039-0",
+   "sub": "b2s4",
+   "book": "jp",
+   "page": 39,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p039-0.webp",
+   "w": 900,
+   "h": 325,
+   "cap": {
+    "id": "Peralatan penggerak & kontrol",
+    "jp": "装置の用途と仕組み"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 39, untuk subbab «Peralatan penggerak & kontrol». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト39ページ「装置の用途と仕組み」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p039-1",
+   "sub": "b2s4",
+   "book": "jp",
+   "page": 39,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p039-1.webp",
+   "w": 675,
+   "h": 232,
+   "cap": {
+    "id": "Peralatan penggerak & kontrol",
+    "jp": "装置の用途と仕組み"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 39, untuk subbab «Peralatan penggerak & kontrol». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト39ページ「装置の用途と仕組み」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p040-0",
+   "sub": "b2s4",
+   "book": "jp",
+   "page": 40,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p040-0.webp",
+   "w": 900,
+   "h": 369,
+   "cap": {
+    "id": "Peralatan penggerak & kontrol",
+    "jp": "装置の用途と仕組み"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 40, untuk subbab «Peralatan penggerak & kontrol». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト40ページ「装置の用途と仕組み」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p040-1",
+   "sub": "b2s4",
+   "book": "jp",
+   "page": 40,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p040-1.webp",
+   "w": 444,
+   "h": 420,
+   "cap": {
+    "id": "Peralatan penggerak & kontrol",
+    "jp": "装置の用途と仕組み"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 40, untuk subbab «Peralatan penggerak & kontrol». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト40ページ「装置の用途と仕組み」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p040-2",
+   "sub": "b2s4",
+   "book": "jp",
+   "page": 40,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p040-2.webp",
+   "w": 226,
+   "h": 168,
+   "cap": {
+    "id": "Peralatan penggerak & kontrol",
+    "jp": "装置の用途と仕組み"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 40, untuk subbab «Peralatan penggerak & kontrol». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト40ページ「装置の用途と仕組み」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p041-0",
+   "sub": "b2s4",
+   "book": "jp",
+   "page": 41,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p041-0.webp",
+   "w": 630,
+   "h": 565,
+   "cap": {
+    "id": "Peralatan penggerak & kontrol",
+    "jp": "装置の用途と仕組み"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 41, untuk subbab «Peralatan penggerak & kontrol». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト41ページ「装置の用途と仕組み」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p042-0",
+   "sub": "b2s4",
+   "book": "jp",
+   "page": 42,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p042-0.webp",
+   "w": 809,
+   "h": 523,
+   "cap": {
+    "id": "Peralatan penggerak & kontrol",
+    "jp": "装置の用途と仕組み"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 42, untuk subbab «Peralatan penggerak & kontrol». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト42ページ「装置の用途と仕組み」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p043-0",
+   "sub": "b2s5",
+   "book": "jp",
+   "page": 43,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p043-0.webp",
+   "w": 567,
+   "h": 172,
+   "cap": {
+    "id": "Rem & peralatan penumpang",
+    "jp": "ブレーキ・放送・非常通報"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 43, untuk subbab «Rem & peralatan penumpang». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト43ページ「ブレーキ・放送・非常通報」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p043-1",
+   "sub": "b2s5",
+   "book": "jp",
+   "page": 43,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p043-1.webp",
+   "w": 573,
+   "h": 173,
+   "cap": {
+    "id": "Rem & peralatan penumpang",
+    "jp": "ブレーキ・放送・非常通報"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 43, untuk subbab «Rem & peralatan penumpang». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト43ページ「ブレーキ・放送・非常通報」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p044-0",
+   "sub": "b2s5",
+   "book": "jp",
+   "page": 44,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p044-0.webp",
+   "w": 403,
+   "h": 199,
+   "cap": {
+    "id": "Rem & peralatan penumpang",
+    "jp": "ブレーキ・放送・非常通報"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 44, untuk subbab «Rem & peralatan penumpang». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト44ページ「ブレーキ・放送・非常通報」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p044-1",
+   "sub": "b2s5",
+   "book": "jp",
+   "page": 44,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p044-1.webp",
+   "w": 765,
+   "h": 509,
+   "cap": {
+    "id": "Rem & peralatan penumpang",
+    "jp": "ブレーキ・放送・非常通報"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 44, untuk subbab «Rem & peralatan penumpang». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト44ページ「ブレーキ・放送・非常通報」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p045-0",
+   "sub": "b2s5",
+   "book": "jp",
+   "page": 45,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p045-0.webp",
+   "w": 294,
+   "h": 276,
+   "cap": {
+    "id": "Rem & peralatan penumpang",
+    "jp": "ブレーキ・放送・非常通報"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 45, untuk subbab «Rem & peralatan penumpang». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト45ページ「ブレーキ・放送・非常通報」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p045-1",
+   "sub": "b2s5",
+   "book": "jp",
+   "page": 45,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p045-1.webp",
+   "w": 277,
+   "h": 282,
+   "cap": {
+    "id": "Rem & peralatan penumpang",
+    "jp": "ブレーキ・放送・非常通報"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 45, untuk subbab «Rem & peralatan penumpang». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト45ページ「ブレーキ・放送・非常通報」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p046-0",
+   "sub": "b2s5",
+   "book": "jp",
+   "page": 46,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p046-0.webp",
+   "w": 452,
+   "h": 400,
+   "cap": {
+    "id": "Rem & peralatan penumpang",
+    "jp": "ブレーキ・放送・非常通報"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 46, untuk subbab «Rem & peralatan penumpang». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト46ページ「ブレーキ・放送・非常通報」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p047-0",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 47,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p047-0.webp",
+   "w": 536,
+   "h": 511,
+   "cap": {
+    "id": "Logam untuk badan kereta",
+    "jp": "車体に使用する金属材料"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 47, untuk subbab «Logam untuk badan kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト47ページ「車体に使用する金属材料」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p048-0",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 48,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p048-0.webp",
+   "w": 733,
+   "h": 503,
+   "cap": {
+    "id": "Logam untuk badan kereta",
+    "jp": "車体に使用する金属材料"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 48, untuk subbab «Logam untuk badan kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト48ページ「車体に使用する金属材料」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p049-0",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 49,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p049-0.webp",
+   "w": 832,
+   "h": 624,
+   "cap": {
+    "id": "Logam untuk badan kereta",
+    "jp": "車体に使用する金属材料"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 49, untuk subbab «Logam untuk badan kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト49ページ「車体に使用する金属材料」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p051-0",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 51,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p051-0.webp",
+   "w": 640,
+   "h": 427,
+   "cap": {
+    "id": "Logam untuk badan kereta",
+    "jp": "車体に使用する金属材料"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 51, untuk subbab «Logam untuk badan kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト51ページ「車体に使用する金属材料」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p051-1",
+   "sub": "b3s1",
+   "book": "jp",
+   "page": 51,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p051-1.webp",
+   "w": 576,
+   "h": 575,
+   "cap": {
+    "id": "Logam untuk badan kereta",
+    "jp": "車体に使用する金属材料"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 51, untuk subbab «Logam untuk badan kereta». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト51ページ「車体に使用する金属材料」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p052-0",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 52,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p052-0.webp",
+   "w": 385,
+   "h": 190,
+   "cap": {
+    "id": "Sifat mekanik & uji tarik",
+    "jp": "金属材料の機械的性質"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 52, untuk subbab «Sifat mekanik & uji tarik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト52ページ「金属材料の機械的性質」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p052-1",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 52,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p052-1.webp",
+   "w": 850,
+   "h": 637,
+   "cap": {
+    "id": "Sifat mekanik & uji tarik",
+    "jp": "金属材料の機械的性質"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 52, untuk subbab «Sifat mekanik & uji tarik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト52ページ「金属材料の機械的性質」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p052-2",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 52,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p052-2.webp",
+   "w": 470,
+   "h": 341,
+   "cap": {
+    "id": "Sifat mekanik & uji tarik",
+    "jp": "金属材料の機械的性質"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 52, untuk subbab «Sifat mekanik & uji tarik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト52ページ「金属材料の機械的性質」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p054-0",
+   "sub": "b3s2",
+   "book": "jp",
+   "page": 54,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p054-0.webp",
+   "w": 418,
+   "h": 226,
+   "cap": {
+    "id": "Sifat mekanik & uji tarik",
+    "jp": "金属材料の機械的性質"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 54, untuk subbab «Sifat mekanik & uji tarik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト54ページ「金属材料の機械的性質」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p055-0",
+   "sub": "b3s3",
+   "book": "jp",
+   "page": 55,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p055-0.webp",
+   "w": 659,
+   "h": 364,
+   "cap": {
+    "id": "Perlakuan panas (熱処理)",
+    "jp": "金属材料の熱処理と効果"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 55, untuk subbab «Perlakuan panas (熱処理)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト55ページ「金属材料の熱処理と効果」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p056-0",
+   "sub": "b3s3",
+   "book": "jp",
+   "page": 56,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p056-0.webp",
+   "w": 320,
+   "h": 240,
+   "cap": {
+    "id": "Perlakuan panas (熱処理)",
+    "jp": "金属材料の熱処理と効果"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 56, untuk subbab «Perlakuan panas (熱処理)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト56ページ「金属材料の熱処理と効果」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p057-0",
+   "sub": "b3s3",
+   "book": "jp",
+   "page": 57,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p057-0.webp",
+   "w": 900,
+   "h": 504,
+   "cap": {
+    "id": "Perlakuan panas (熱処理)",
+    "jp": "金属材料の熱処理と効果"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 57, untuk subbab «Perlakuan panas (熱処理)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト57ページ「金属材料の熱処理と効果」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p059-0",
+   "sub": "b4s1",
+   "book": "jp",
+   "page": 59,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p059-0.webp",
+   "w": 703,
+   "h": 527,
+   "cap": {
+    "id": "Manajemen alat & kalibrasi",
+    "jp": "工具の管理と校正"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 59, untuk subbab «Manajemen alat & kalibrasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト59ページ「工具の管理と校正」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p060-0",
+   "sub": "b4s1",
+   "book": "jp",
+   "page": 60,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p060-0.webp",
+   "w": 663,
+   "h": 466,
+   "cap": {
+    "id": "Manajemen alat & kalibrasi",
+    "jp": "工具の管理と校正"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 60, untuk subbab «Manajemen alat & kalibrasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト60ページ「工具の管理と校正」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p060-1",
+   "sub": "b4s1",
+   "book": "jp",
+   "page": 60,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p060-1.webp",
+   "w": 225,
+   "h": 225,
+   "cap": {
+    "id": "Manajemen alat & kalibrasi",
+    "jp": "工具の管理と校正"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 60, untuk subbab «Manajemen alat & kalibrasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト60ページ「工具の管理と校正」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p061-0",
+   "sub": "b4s1",
+   "book": "jp",
+   "page": 61,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p061-0.webp",
+   "w": 768,
+   "h": 455,
+   "cap": {
+    "id": "Manajemen alat & kalibrasi",
+    "jp": "工具の管理と校正"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 61, untuk subbab «Manajemen alat & kalibrasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト61ページ「工具の管理と校正」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p061-1",
+   "sub": "b4s1",
+   "book": "jp",
+   "page": 61,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p061-1.webp",
+   "w": 731,
+   "h": 548,
+   "cap": {
+    "id": "Manajemen alat & kalibrasi",
+    "jp": "工具の管理と校正"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 61, untuk subbab «Manajemen alat & kalibrasi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト61ページ「工具の管理と校正」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p063-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 63,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p063-0.webp",
+   "w": 509,
+   "h": 509,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 63, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト63ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p063-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 63,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p063-1.webp",
+   "w": 510,
+   "h": 510,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 63, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト63ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p064-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 64,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p064-0.webp",
+   "w": 450,
+   "h": 314,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 64, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト64ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p066-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 66,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p066-0.webp",
+   "w": 281,
+   "h": 160,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 66, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト66ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p068-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 68,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p068-0.webp",
+   "w": 623,
+   "h": 271,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 68, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト68ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p068-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 68,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p068-1.webp",
+   "w": 825,
+   "h": 194,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 68, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト68ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p069-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 69,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p069-0.webp",
+   "w": 598,
+   "h": 598,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 69, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト69ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p069-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 69,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p069-1.webp",
+   "w": 176,
+   "h": 155,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 69, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト69ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p069-2",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 69,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p069-2.webp",
+   "w": 202,
+   "h": 164,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 69, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト69ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p069-3",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 69,
+   "y": 0.65,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p069-3.webp",
+   "w": 802,
+   "h": 345,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 69, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト69ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p069-4",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 69,
+   "y": 0.8,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p069-4.webp",
+   "w": 276,
+   "h": 276,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 69, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト69ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p069-5",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 69,
+   "y": 0.95,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p069-5.webp",
+   "w": 212,
+   "h": 187,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 69, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト69ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p070-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 70,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p070-0.webp",
+   "w": 780,
+   "h": 378,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 70, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト70ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p072-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 72,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p072-0.webp",
+   "w": 621,
+   "h": 439,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 72, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト72ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p073-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 73,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p073-0.webp",
+   "w": 544,
+   "h": 537,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 73, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト73ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p073-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 73,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p073-1.webp",
+   "w": 648,
+   "h": 233,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 73, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト73ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p075-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 75,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p075-0.webp",
+   "w": 649,
+   "h": 487,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 75, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト75ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p075-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 75,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p075-1.webp",
+   "w": 800,
+   "h": 600,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 75, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト75ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p076-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 76,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p076-0.webp",
+   "w": 522,
+   "h": 347,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 76, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト76ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p076-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 76,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p076-1.webp",
+   "w": 257,
+   "h": 171,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 76, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト76ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p076-2",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 76,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p076-2.webp",
+   "w": 258,
+   "h": 179,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 76, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト76ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p077-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 77,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p077-0.webp",
+   "w": 219,
+   "h": 156,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 77, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト77ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p077-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 77,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p077-1.webp",
+   "w": 900,
+   "h": 346,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 77, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト77ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p077-2",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 77,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p077-2.webp",
+   "w": 511,
+   "h": 348,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 77, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト77ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p080-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 80,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p080-0.webp",
+   "w": 350,
+   "h": 350,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 80, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト80ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p081-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 81,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p081-0.webp",
+   "w": 334,
+   "h": 237,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 81, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト81ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p082-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 82,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p082-0.webp",
+   "w": 350,
+   "h": 284,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 82, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト82ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p086-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 86,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p086-0.webp",
+   "w": 273,
+   "h": 155,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 86, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト86ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p087-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 87,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p087-0.webp",
+   "w": 297,
+   "h": 199,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 87, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト87ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p088-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 88,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p088-0.webp",
+   "w": 601,
+   "h": 451,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 88, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト88ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p088-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 88,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p088-1.webp",
+   "w": 450,
+   "h": 192,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 88, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト88ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p090-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 90,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p090-0.webp",
+   "w": 275,
+   "h": 204,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 90, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト90ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p090-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 90,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p090-1.webp",
+   "w": 228,
+   "h": 243,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 90, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト90ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p091-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 91,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p091-0.webp",
+   "w": 260,
+   "h": 262,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 91, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト91ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p092-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 92,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p092-0.webp",
+   "w": 249,
+   "h": 301,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 92, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト92ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p092-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 92,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p092-1.webp",
+   "w": 752,
+   "h": 528,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 92, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト92ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p093-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 93,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p093-0.webp",
+   "w": 271,
+   "h": 274,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 93, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト93ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p094-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 94,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p094-0.webp",
+   "w": 350,
+   "h": 350,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 94, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト94ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p095-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 95,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p095-0.webp",
+   "w": 450,
+   "h": 300,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 95, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト95ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p095-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 95,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p095-1.webp",
+   "w": 461,
+   "h": 388,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 95, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト95ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p096-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 96,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p096-0.webp",
+   "w": 450,
+   "h": 300,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 96, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト96ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p096-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 96,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p096-1.webp",
+   "w": 660,
+   "h": 637,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 96, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト96ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p097-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 97,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p097-0.webp",
+   "w": 558,
+   "h": 372,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 97, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト97ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p097-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 97,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p097-1.webp",
+   "w": 558,
+   "h": 372,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 97, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト97ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p098-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 98,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p098-0.webp",
+   "w": 558,
+   "h": 372,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 98, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト98ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p098-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 98,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p098-1.webp",
+   "w": 363,
+   "h": 224,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 98, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト98ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p098-2",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 98,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p098-2.webp",
+   "w": 187,
+   "h": 300,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 98, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト98ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p099-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 99,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p099-0.webp",
+   "w": 466,
+   "h": 558,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 99, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト99ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p100-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 100,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p100-0.webp",
+   "w": 900,
+   "h": 380,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 100, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト100ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p101-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 101,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p101-0.webp",
+   "w": 320,
+   "h": 258,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 101, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト101ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p101-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 101,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p101-1.webp",
+   "w": 509,
+   "h": 333,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 101, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト101ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p101-2",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 101,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p101-2.webp",
+   "w": 484,
+   "h": 340,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 101, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト101ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p102-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 102,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p102-0.webp",
+   "w": 513,
+   "h": 513,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 102, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト102ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p102-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 102,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p102-1.webp",
+   "w": 688,
+   "h": 504,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 102, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト102ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p103-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 103,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p103-0.webp",
+   "w": 500,
+   "h": 324,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 103, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト103ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p103-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 103,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p103-1.webp",
+   "w": 491,
+   "h": 454,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 103, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト103ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p104-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 104,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p104-0.webp",
+   "w": 500,
+   "h": 334,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 104, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト104ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p105-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 105,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p105-0.webp",
+   "w": 500,
+   "h": 334,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 105, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト105ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p105-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 105,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p105-1.webp",
+   "w": 500,
+   "h": 334,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 105, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト105ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p106-0",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 106,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p106-0.webp",
+   "w": 526,
+   "h": 341,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 106, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト106ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p106-1",
+   "sub": "b4s2",
+   "book": "jp",
+   "page": 106,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p106-1.webp",
+   "w": 532,
+   "h": 333,
+   "cap": {
+    "id": "Alat tangan & alat listrik",
+    "jp": "器工具・電動工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 106, untuk subbab «Alat tangan & alat listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト106ページ「器工具・電動工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p107-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 107,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p107-0.webp",
+   "w": 548,
+   "h": 611,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 107, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト107ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p109-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 109,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p109-0.webp",
+   "w": 800,
+   "h": 605,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 109, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト109ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p109-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 109,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p109-1.webp",
+   "w": 587,
+   "h": 440,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 109, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト109ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p110-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 110,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p110-0.webp",
+   "w": 650,
+   "h": 433,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 110, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト110ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p110-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 110,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p110-1.webp",
+   "w": 300,
+   "h": 304,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 110, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト110ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p111-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 111,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p111-0.webp",
+   "w": 793,
+   "h": 580,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 111, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト111ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p111-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 111,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p111-1.webp",
+   "w": 725,
+   "h": 484,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 111, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト111ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p113-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 113,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p113-0.webp",
+   "w": 246,
+   "h": 185,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 113, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト113ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p113-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 113,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p113-1.webp",
+   "w": 224,
+   "h": 179,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 113, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト113ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p114-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 114,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p114-0.webp",
+   "w": 152,
+   "h": 190,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 114, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト114ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p114-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 114,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p114-1.webp",
+   "w": 679,
+   "h": 220,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 114, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト114ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p114-2",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 114,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p114-2.webp",
+   "w": 271,
+   "h": 174,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 114, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト114ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p115-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 115,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p115-0.webp",
+   "w": 459,
+   "h": 252,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 115, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト115ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p116-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 116,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p116-0.webp",
+   "w": 363,
+   "h": 410,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 116, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト116ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p116-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 116,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p116-1.webp",
+   "w": 360,
+   "h": 407,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 116, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト116ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p116-2",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 116,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p116-2.webp",
+   "w": 336,
+   "h": 406,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 116, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト116ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p117-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 117,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p117-0.webp",
+   "w": 738,
+   "h": 493,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 117, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト117ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p118-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 118,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p118-0.webp",
+   "w": 738,
+   "h": 492,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 118, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト118ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p118-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 118,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p118-1.webp",
+   "w": 768,
+   "h": 576,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 118, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト118ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p119-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 119,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p119-0.webp",
+   "w": 640,
+   "h": 480,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 119, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト119ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p119-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 119,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p119-1.webp",
+   "w": 383,
+   "h": 512,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 119, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト119ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p120-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 120,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p120-0.webp",
+   "w": 640,
+   "h": 479,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 120, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト120ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p120-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 120,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p120-1.webp",
+   "w": 206,
+   "h": 198,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 120, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト120ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p121-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 121,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p121-0.webp",
+   "w": 203,
+   "h": 180,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 121, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト121ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p121-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 121,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p121-1.webp",
+   "w": 206,
+   "h": 171,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 121, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト121ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p122-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 122,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p122-0.webp",
+   "w": 206,
+   "h": 163,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 122, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト122ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p122-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 122,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p122-1.webp",
+   "w": 206,
+   "h": 179,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 122, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト122ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p124-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 124,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p124-0.webp",
+   "w": 225,
+   "h": 225,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 124, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト124ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p125-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 125,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p125-0.webp",
+   "w": 572,
+   "h": 728,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 125, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト125ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p125-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 125,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p125-1.webp",
+   "w": 509,
+   "h": 735,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 125, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト125ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p126-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 126,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p126-0.webp",
+   "w": 559,
+   "h": 746,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 126, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト126ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p126-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 126,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p126-1.webp",
+   "w": 650,
+   "h": 658,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 126, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト126ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p127-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 127,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p127-0.webp",
+   "w": 622,
+   "h": 692,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 127, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト127ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p127-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 127,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p127-1.webp",
+   "w": 228,
+   "h": 191,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 127, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト127ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p128-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 128,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p128-0.webp",
+   "w": 246,
+   "h": 195,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 128, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト128ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p128-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 128,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p128-1.webp",
+   "w": 239,
+   "h": 194,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 128, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト128ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p128-2",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 128,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p128-2.webp",
+   "w": 203,
+   "h": 189,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 128, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト128ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p128-3",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 128,
+   "y": 0.65,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p128-3.webp",
+   "w": 193,
+   "h": 190,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 128, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト128ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p131-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 131,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p131-0.webp",
+   "w": 400,
+   "h": 400,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 131, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト131ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p132-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 132,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p132-0.webp",
+   "w": 702,
+   "h": 527,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 132, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト132ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p133-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 133,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p133-0.webp",
+   "w": 500,
+   "h": 419,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 133, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト133ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p133-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 133,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p133-1.webp",
+   "w": 480,
+   "h": 360,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 133, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト133ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p134-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 134,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p134-0.webp",
+   "w": 500,
+   "h": 428,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 134, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト134ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p134-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 134,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p134-1.webp",
+   "w": 422,
+   "h": 503,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 134, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト134ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p136-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 136,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p136-0.webp",
+   "w": 306,
+   "h": 253,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 136, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト136ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p136-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 136,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p136-1.webp",
+   "w": 880,
+   "h": 462,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 136, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト136ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p137-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 137,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p137-0.webp",
+   "w": 510,
+   "h": 340,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 137, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト137ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p137-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 137,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p137-1.webp",
+   "w": 819,
+   "h": 614,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 137, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト137ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p138-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 138,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p138-0.webp",
+   "w": 733,
+   "h": 621,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 138, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト138ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p138-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 138,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p138-1.webp",
+   "w": 755,
+   "h": 509,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 138, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト138ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p139-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 139,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p139-0.webp",
+   "w": 808,
+   "h": 505,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 139, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト139ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p139-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 139,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p139-1.webp",
+   "w": 880,
+   "h": 461,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 139, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト139ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p139-2",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 139,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p139-2.webp",
+   "w": 321,
+   "h": 241,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 139, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト139ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p140-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 140,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p140-0.webp",
+   "w": 900,
+   "h": 302,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 140, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト140ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p141-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 141,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p141-0.webp",
+   "w": 900,
+   "h": 314,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 141, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト141ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p142-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 142,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p142-0.webp",
+   "w": 658,
+   "h": 471,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 142, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト142ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p143-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 143,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p143-0.webp",
+   "w": 560,
+   "h": 431,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 143, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト143ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p143-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 143,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p143-1.webp",
+   "w": 628,
+   "h": 460,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 143, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト143ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p143-2",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 143,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p143-2.webp",
+   "w": 524,
+   "h": 305,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 143, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト143ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p144-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 144,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p144-0.webp",
+   "w": 682,
+   "h": 416,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 144, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト144ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p144-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 144,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p144-1.webp",
+   "w": 736,
+   "h": 294,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 144, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト144ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p144-2",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 144,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p144-2.webp",
+   "w": 468,
+   "h": 288,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 144, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト144ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p144-3",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 144,
+   "y": 0.65,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p144-3.webp",
+   "w": 558,
+   "h": 320,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 144, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト144ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p145-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 145,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p145-0.webp",
+   "w": 596,
+   "h": 482,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 145, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト145ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p145-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 145,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p145-1.webp",
+   "w": 578,
+   "h": 326,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 145, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト145ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p145-2",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 145,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p145-2.webp",
+   "w": 688,
+   "h": 358,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 145, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト145ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p145-3",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 145,
+   "y": 0.65,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p145-3.webp",
+   "w": 548,
+   "h": 330,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 145, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト145ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p146-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 146,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p146-0.webp",
+   "w": 900,
+   "h": 286,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 146, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト146ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p146-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 146,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p146-1.webp",
+   "w": 900,
+   "h": 325,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 146, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト146ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p146-2",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 146,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p146-2.webp",
+   "w": 892,
+   "h": 491,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 146, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト146ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p147-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 147,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p147-0.webp",
+   "w": 520,
+   "h": 494,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 147, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト147ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p147-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 147,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p147-1.webp",
+   "w": 605,
+   "h": 311,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 147, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト147ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p148-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 148,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p148-0.webp",
+   "w": 500,
+   "h": 302,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 148, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト148ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p148-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 148,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p148-1.webp",
+   "w": 520,
+   "h": 260,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 148, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト148ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p149-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 149,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p149-0.webp",
+   "w": 500,
+   "h": 267,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 149, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト149ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p149-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 149,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p149-1.webp",
+   "w": 500,
+   "h": 268,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 149, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト149ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p149-2",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 149,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p149-2.webp",
+   "w": 520,
+   "h": 260,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 149, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト149ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p150-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 150,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p150-0.webp",
+   "w": 527,
+   "h": 260,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 150, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト150ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p150-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 150,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p150-1.webp",
+   "w": 459,
+   "h": 239,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 150, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト150ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p151-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 151,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p151-0.webp",
+   "w": 771,
+   "h": 398,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 151, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト151ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p151-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 151,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p151-1.webp",
+   "w": 900,
+   "h": 554,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 151, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト151ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p152-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 152,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p152-0.webp",
+   "w": 900,
+   "h": 381,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 152, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト152ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p153-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 153,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p153-0.webp",
+   "w": 331,
+   "h": 231,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 153, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト153ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p153-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 153,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p153-1.webp",
+   "w": 331,
+   "h": 214,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 153, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト153ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p153-2",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 153,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p153-2.webp",
+   "w": 242,
+   "h": 178,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 153, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト153ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p155-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 155,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p155-0.webp",
+   "w": 345,
+   "h": 186,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 155, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト155ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p155-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 155,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p155-1.webp",
+   "w": 339,
+   "h": 183,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 155, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト155ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p155-2",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 155,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p155-2.webp",
+   "w": 298,
+   "h": 189,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 155, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト155ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p156-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 156,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p156-0.webp",
+   "w": 350,
+   "h": 350,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 156, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト156ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p157-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 157,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p157-0.webp",
+   "w": 358,
+   "h": 634,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 157, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト157ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p157-1",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 157,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p157-1.webp",
+   "w": 900,
+   "h": 598,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 157, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト157ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p158-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 158,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p158-0.webp",
+   "w": 900,
+   "h": 337,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 158, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト158ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p159-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 159,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p159-0.webp",
+   "w": 318,
+   "h": 377,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 159, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト159ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p160-0",
+   "sub": "b4s3",
+   "book": "jp",
+   "page": 160,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p160-0.webp",
+   "w": 516,
+   "h": 490,
+   "cap": {
+    "id": "Mesin perkakas & alat ukur",
+    "jp": "工作機械と測定工具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 160, untuk subbab «Mesin perkakas & alat ukur». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト160ページ「工作機械と測定工具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p161-0",
+   "sub": "b5s1",
+   "book": "jp",
+   "page": 161,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p161-0.webp",
+   "w": 524,
+   "h": 537,
+   "cap": {
+    "id": "QC, prosedur & kerja standar",
+    "jp": "品質管理・作業手順書・標準作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 161, untuk subbab «QC, prosedur & kerja standar». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト161ページ「品質管理・作業手順書・標準作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p161-1",
+   "sub": "b5s1",
+   "book": "jp",
+   "page": 161,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p161-1.webp",
+   "w": 500,
+   "h": 553,
+   "cap": {
+    "id": "QC, prosedur & kerja standar",
+    "jp": "品質管理・作業手順書・標準作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 161, untuk subbab «QC, prosedur & kerja standar». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト161ページ「品質管理・作業手順書・標準作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p161-2",
+   "sub": "b5s1",
+   "book": "jp",
+   "page": 161,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p161-2.webp",
+   "w": 561,
+   "h": 552,
+   "cap": {
+    "id": "QC, prosedur & kerja standar",
+    "jp": "品質管理・作業手順書・標準作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 161, untuk subbab «QC, prosedur & kerja standar». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト161ページ「品質管理・作業手順書・標準作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p165-0",
+   "sub": "b5s1",
+   "book": "jp",
+   "page": 165,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p165-0.webp",
+   "w": 550,
+   "h": 396,
+   "cap": {
+    "id": "QC, prosedur & kerja standar",
+    "jp": "品質管理・作業手順書・標準作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 165, untuk subbab «QC, prosedur & kerja standar». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト165ページ「品質管理・作業手順書・標準作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p168-0",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 168,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p168-0.webp",
+   "w": 651,
+   "h": 468,
+   "cap": {
+    "id": "Pengecekan akhir (後確認)",
+    "jp": "後確認・自主検査・チェックシート・ダブルチェック"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 168, untuk subbab «Pengecekan akhir (後確認)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト168ページ「後確認・自主検査・チェックシート・ダブルチェック」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p169-0",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 169,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p169-0.webp",
+   "w": 730,
+   "h": 348,
+   "cap": {
+    "id": "Pengecekan akhir (後確認)",
+    "jp": "後確認・自主検査・チェックシート・ダブルチェック"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 169, untuk subbab «Pengecekan akhir (後確認)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト169ページ「後確認・自主検査・チェックシート・ダブルチェック」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p170-0",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 170,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p170-0.webp",
+   "w": 900,
+   "h": 344,
+   "cap": {
+    "id": "Pengecekan akhir (後確認)",
+    "jp": "後確認・自主検査・チェックシート・ダブルチェック"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 170, untuk subbab «Pengecekan akhir (後確認)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト170ページ「後確認・自主検査・チェックシート・ダブルチェック」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p171-0",
+   "sub": "b5s2",
+   "book": "jp",
+   "page": 171,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p171-0.webp",
+   "w": 768,
+   "h": 512,
+   "cap": {
+    "id": "Pengecekan akhir (後確認)",
+    "jp": "後確認・自主検査・チェックシート・ダブルチェック"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 171, untuk subbab «Pengecekan akhir (後確認)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト171ページ「後確認・自主検査・チェックシート・ダブルチェック」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p175-0",
+   "sub": "b5s3",
+   "book": "jp",
+   "page": 175,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p175-0.webp",
+   "w": 300,
+   "h": 203,
+   "cap": {
+    "id": "Baut, terminal, kontinuitas",
+    "jp": "ボルト・端子・導通"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 175, untuk subbab «Baut, terminal, kontinuitas». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト175ページ「ボルト・端子・導通」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p175-1",
+   "sub": "b5s3",
+   "book": "jp",
+   "page": 175,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p175-1.webp",
+   "w": 300,
+   "h": 225,
+   "cap": {
+    "id": "Baut, terminal, kontinuitas",
+    "jp": "ボルト・端子・導通"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 175, untuk subbab «Baut, terminal, kontinuitas». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト175ページ「ボルト・端子・導通」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p177-0",
+   "sub": "b5s3",
+   "book": "jp",
+   "page": 177,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p177-0.webp",
+   "w": 881,
+   "h": 461,
+   "cap": {
+    "id": "Baut, terminal, kontinuitas",
+    "jp": "ボルト・端子・導通"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 177, untuk subbab «Baut, terminal, kontinuitas». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト177ページ「ボルト・端子・導通」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p177-1",
+   "sub": "b5s3",
+   "book": "jp",
+   "page": 177,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p177-1.webp",
+   "w": 479,
+   "h": 412,
+   "cap": {
+    "id": "Baut, terminal, kontinuitas",
+    "jp": "ボルト・端子・導通"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 177, untuk subbab «Baut, terminal, kontinuitas». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト177ページ「ボルト・端子・導通」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p180-0",
+   "sub": "b5s3",
+   "book": "jp",
+   "page": 180,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p180-0.webp",
+   "w": 602,
+   "h": 452,
+   "cap": {
+    "id": "Baut, terminal, kontinuitas",
+    "jp": "ボルト・端子・導通"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 180, untuk subbab «Baut, terminal, kontinuitas». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト180ページ「ボルト・端子・導通」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p180-1",
+   "sub": "b5s3",
+   "book": "jp",
+   "page": 180,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p180-1.webp",
+   "w": 604,
+   "h": 453,
+   "cap": {
+    "id": "Baut, terminal, kontinuitas",
+    "jp": "ボルト・端子・導通"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 180, untuk subbab «Baut, terminal, kontinuitas». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト180ページ「ボルト・端子・導通」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p180-2",
+   "sub": "b5s3",
+   "book": "jp",
+   "page": 180,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p180-2.webp",
+   "w": 709,
+   "h": 341,
+   "cap": {
+    "id": "Baut, terminal, kontinuitas",
+    "jp": "ボルト・端子・導通"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 180, untuk subbab «Baut, terminal, kontinuitas». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト180ページ「ボルト・端子・導通」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p181-0",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 181,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p181-0.webp",
+   "w": 812,
+   "h": 609,
+   "cap": {
+    "id": "Gambar mesin (機械製図)",
+    "jp": "機械製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 181, untuk subbab «Gambar mesin (機械製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト181ページ「機械製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p185-0",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 185,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p185-0.webp",
+   "w": 200,
+   "h": 175,
+   "cap": {
+    "id": "Gambar mesin (機械製図)",
+    "jp": "機械製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 185, untuk subbab «Gambar mesin (機械製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト185ページ「機械製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p186-0",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 186,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p186-0.webp",
+   "w": 310,
+   "h": 195,
+   "cap": {
+    "id": "Gambar mesin (機械製図)",
+    "jp": "機械製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 186, untuk subbab «Gambar mesin (機械製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト186ページ「機械製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p186-1",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 186,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p186-1.webp",
+   "w": 498,
+   "h": 416,
+   "cap": {
+    "id": "Gambar mesin (機械製図)",
+    "jp": "機械製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 186, untuk subbab «Gambar mesin (機械製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト186ページ「機械製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p188-0",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 188,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p188-0.webp",
+   "w": 511,
+   "h": 499,
+   "cap": {
+    "id": "Gambar mesin (機械製図)",
+    "jp": "機械製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 188, untuk subbab «Gambar mesin (機械製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト188ページ「機械製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p188-1",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 188,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p188-1.webp",
+   "w": 878,
+   "h": 518,
+   "cap": {
+    "id": "Gambar mesin (機械製図)",
+    "jp": "機械製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 188, untuk subbab «Gambar mesin (機械製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト188ページ「機械製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p188-2",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 188,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p188-2.webp",
+   "w": 788,
+   "h": 511,
+   "cap": {
+    "id": "Gambar mesin (機械製図)",
+    "jp": "機械製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 188, untuk subbab «Gambar mesin (機械製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト188ページ「機械製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p189-0",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 189,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p189-0.webp",
+   "w": 900,
+   "h": 600,
+   "cap": {
+    "id": "Gambar mesin (機械製図)",
+    "jp": "機械製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 189, untuk subbab «Gambar mesin (機械製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト189ページ「機械製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p189-1",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 189,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p189-1.webp",
+   "w": 900,
+   "h": 600,
+   "cap": {
+    "id": "Gambar mesin (機械製図)",
+    "jp": "機械製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 189, untuk subbab «Gambar mesin (機械製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト189ページ「機械製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p190-0",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 190,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p190-0.webp",
+   "w": 310,
+   "h": 156,
+   "cap": {
+    "id": "Gambar mesin (機械製図)",
+    "jp": "機械製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 190, untuk subbab «Gambar mesin (機械製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト190ページ「機械製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p190-1",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 190,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p190-1.webp",
+   "w": 297,
+   "h": 157,
+   "cap": {
+    "id": "Gambar mesin (機械製図)",
+    "jp": "機械製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 190, untuk subbab «Gambar mesin (機械製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト190ページ「機械製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p191-0",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 191,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p191-0.webp",
+   "w": 338,
+   "h": 158,
+   "cap": {
+    "id": "Gambar mesin (機械製図)",
+    "jp": "機械製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 191, untuk subbab «Gambar mesin (機械製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト191ページ「機械製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p191-1",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 191,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p191-1.webp",
+   "w": 535,
+   "h": 323,
+   "cap": {
+    "id": "Gambar mesin (機械製図)",
+    "jp": "機械製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 191, untuk subbab «Gambar mesin (機械製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト191ページ「機械製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p192-0",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 192,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p192-0.webp",
+   "w": 714,
+   "h": 317,
+   "cap": {
+    "id": "Gambar mesin (機械製図)",
+    "jp": "機械製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 192, untuk subbab «Gambar mesin (機械製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト192ページ「機械製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p192-1",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 192,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p192-1.webp",
+   "w": 289,
+   "h": 236,
+   "cap": {
+    "id": "Gambar mesin (機械製図)",
+    "jp": "機械製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 192, untuk subbab «Gambar mesin (機械製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト192ページ「機械製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p192-2",
+   "sub": "b6s1",
+   "book": "jp",
+   "page": 192,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p192-2.webp",
+   "w": 386,
+   "h": 286,
+   "cap": {
+    "id": "Gambar mesin (機械製図)",
+    "jp": "機械製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 192, untuk subbab «Gambar mesin (機械製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト192ページ「機械製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p194-0",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 194,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p194-0.webp",
+   "w": 237,
+   "h": 210,
+   "cap": {
+    "id": "Gambar listrik (電気製図)",
+    "jp": "電気製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 194, untuk subbab «Gambar listrik (電気製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト194ページ「電気製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p194-1",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 194,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p194-1.webp",
+   "w": 269,
+   "h": 224,
+   "cap": {
+    "id": "Gambar listrik (電気製図)",
+    "jp": "電気製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 194, untuk subbab «Gambar listrik (電気製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト194ページ「電気製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p194-2",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 194,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p194-2.webp",
+   "w": 222,
+   "h": 213,
+   "cap": {
+    "id": "Gambar listrik (電気製図)",
+    "jp": "電気製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 194, untuk subbab «Gambar listrik (電気製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト194ページ「電気製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p194-3",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 194,
+   "y": 0.65,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p194-3.webp",
+   "w": 249,
+   "h": 228,
+   "cap": {
+    "id": "Gambar listrik (電気製図)",
+    "jp": "電気製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 194, untuk subbab «Gambar listrik (電気製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト194ページ「電気製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p194-4",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 194,
+   "y": 0.8,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p194-4.webp",
+   "w": 337,
+   "h": 181,
+   "cap": {
+    "id": "Gambar listrik (電気製図)",
+    "jp": "電気製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 194, untuk subbab «Gambar listrik (電気製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト194ページ「電気製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p197-0",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 197,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p197-0.webp",
+   "w": 183,
+   "h": 153,
+   "cap": {
+    "id": "Gambar listrik (電気製図)",
+    "jp": "電気製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 197, untuk subbab «Gambar listrik (電気製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト197ページ「電気製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p198-0",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 198,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p198-0.webp",
+   "w": 507,
+   "h": 465,
+   "cap": {
+    "id": "Gambar listrik (電気製図)",
+    "jp": "電気製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 198, untuk subbab «Gambar listrik (電気製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト198ページ「電気製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p199-0",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 199,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p199-0.webp",
+   "w": 598,
+   "h": 466,
+   "cap": {
+    "id": "Gambar listrik (電気製図)",
+    "jp": "電気製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 199, untuk subbab «Gambar listrik (電気製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト199ページ「電気製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p200-0",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 200,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p200-0.webp",
+   "w": 734,
+   "h": 390,
+   "cap": {
+    "id": "Gambar listrik (電気製図)",
+    "jp": "電気製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 200, untuk subbab «Gambar listrik (電気製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト200ページ「電気製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p200-1",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 200,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p200-1.webp",
+   "w": 736,
+   "h": 768,
+   "cap": {
+    "id": "Gambar listrik (電気製図)",
+    "jp": "電気製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 200, untuk subbab «Gambar listrik (電気製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト200ページ「電気製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p201-0",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 201,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p201-0.webp",
+   "w": 532,
+   "h": 411,
+   "cap": {
+    "id": "Gambar listrik (電気製図)",
+    "jp": "電気製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 201, untuk subbab «Gambar listrik (電気製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト201ページ「電気製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p201-1",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 201,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p201-1.webp",
+   "w": 655,
+   "h": 525,
+   "cap": {
+    "id": "Gambar listrik (電気製図)",
+    "jp": "電気製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 201, untuk subbab «Gambar listrik (電気製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト201ページ「電気製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p204-0",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 204,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p204-0.webp",
+   "w": 589,
+   "h": 417,
+   "cap": {
+    "id": "Gambar listrik (電気製図)",
+    "jp": "電気製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 204, untuk subbab «Gambar listrik (電気製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト204ページ「電気製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p204-1",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 204,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p204-1.webp",
+   "w": 529,
+   "h": 387,
+   "cap": {
+    "id": "Gambar listrik (電気製図)",
+    "jp": "電気製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 204, untuk subbab «Gambar listrik (電気製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト204ページ「電気製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p205-0",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 205,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p205-0.webp",
+   "w": 300,
+   "h": 208,
+   "cap": {
+    "id": "Gambar listrik (電気製図)",
+    "jp": "電気製図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 205, untuk subbab «Gambar listrik (電気製図)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト205ページ「電気製図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p207-0",
+   "sub": "b7s1",
+   "book": "jp",
+   "page": 207,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p207-0.webp",
+   "w": 592,
+   "h": 603,
+   "cap": {
+    "id": "Baut & ulir",
+    "jp": "ボルトとねじ"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 207, untuk subbab «Baut & ulir». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト207ページ「ボルトとねじ」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p207-1",
+   "sub": "b7s1",
+   "book": "jp",
+   "page": 207,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p207-1.webp",
+   "w": 801,
+   "h": 548,
+   "cap": {
+    "id": "Baut & ulir",
+    "jp": "ボルトとねじ"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 207, untuk subbab «Baut & ulir». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト207ページ「ボルトとねじ」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p208-0",
+   "sub": "b7s1",
+   "book": "jp",
+   "page": 208,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p208-0.webp",
+   "w": 150,
+   "h": 150,
+   "cap": {
+    "id": "Baut & ulir",
+    "jp": "ボルトとねじ"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 208, untuk subbab «Baut & ulir». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト208ページ「ボルトとねじ」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p208-1",
+   "sub": "b7s1",
+   "book": "jp",
+   "page": 208,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p208-1.webp",
+   "w": 150,
+   "h": 150,
+   "cap": {
+    "id": "Baut & ulir",
+    "jp": "ボルトとねじ"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 208, untuk subbab «Baut & ulir». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト208ページ「ボルトとねじ」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p209-0",
+   "sub": "b7s1",
+   "book": "jp",
+   "page": 209,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p209-0.webp",
+   "w": 150,
+   "h": 150,
+   "cap": {
+    "id": "Baut & ulir",
+    "jp": "ボルトとねじ"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 209, untuk subbab «Baut & ulir». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト209ページ「ボルトとねじ」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p209-1",
+   "sub": "b7s1",
+   "book": "jp",
+   "page": 209,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p209-1.webp",
+   "w": 150,
+   "h": 150,
+   "cap": {
+    "id": "Baut & ulir",
+    "jp": "ボルトとねじ"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 209, untuk subbab «Baut & ulir». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト209ページ「ボルトとねじ」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p209-2",
+   "sub": "b7s1",
+   "book": "jp",
+   "page": 209,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p209-2.webp",
+   "w": 150,
+   "h": 150,
+   "cap": {
+    "id": "Baut & ulir",
+    "jp": "ボルトとねじ"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 209, untuk subbab «Baut & ulir». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト209ページ「ボルトとねじ」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p209-3",
+   "sub": "b7s1",
+   "book": "jp",
+   "page": 209,
+   "y": 0.65,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p209-3.webp",
+   "w": 150,
+   "h": 150,
+   "cap": {
+    "id": "Baut & ulir",
+    "jp": "ボルトとねじ"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 209, untuk subbab «Baut & ulir». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト209ページ「ボルトとねじ」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p209-4",
+   "sub": "b7s1",
+   "book": "jp",
+   "page": 209,
+   "y": 0.8,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p209-4.webp",
+   "w": 150,
+   "h": 150,
+   "cap": {
+    "id": "Baut & ulir",
+    "jp": "ボルトとねじ"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 209, untuk subbab «Baut & ulir». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト209ページ「ボルトとねじ」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p210-0",
+   "sub": "b7s2",
+   "book": "jp",
+   "page": 210,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p210-0.webp",
+   "w": 882,
+   "h": 280,
+   "cap": {
+    "id": "Pengelasan (溶接)",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 210, untuk subbab «Pengelasan (溶接)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト210ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p210-1",
+   "sub": "b7s2",
+   "book": "jp",
+   "page": 210,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p210-1.webp",
+   "w": 150,
+   "h": 150,
+   "cap": {
+    "id": "Pengelasan (溶接)",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 210, untuk subbab «Pengelasan (溶接)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト210ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p210-2",
+   "sub": "b7s2",
+   "book": "jp",
+   "page": 210,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p210-2.webp",
+   "w": 150,
+   "h": 150,
+   "cap": {
+    "id": "Pengelasan (溶接)",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 210, untuk subbab «Pengelasan (溶接)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト210ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p210-3",
+   "sub": "b7s2",
+   "book": "jp",
+   "page": 210,
+   "y": 0.65,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p210-3.webp",
+   "w": 150,
+   "h": 150,
+   "cap": {
+    "id": "Pengelasan (溶接)",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 210, untuk subbab «Pengelasan (溶接)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト210ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p210-4",
+   "sub": "b7s2",
+   "book": "jp",
+   "page": 210,
+   "y": 0.8,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p210-4.webp",
+   "w": 267,
+   "h": 247,
+   "cap": {
+    "id": "Pengelasan (溶接)",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 210, untuk subbab «Pengelasan (溶接)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト210ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p210-5",
+   "sub": "b7s2",
+   "book": "jp",
+   "page": 210,
+   "y": 0.95,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p210-5.webp",
+   "w": 276,
+   "h": 266,
+   "cap": {
+    "id": "Pengelasan (溶接)",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 210, untuk subbab «Pengelasan (溶接)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト210ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p210-6",
+   "sub": "b7s2",
+   "book": "jp",
+   "page": 210,
+   "y": 1.1,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p210-6.webp",
+   "w": 805,
+   "h": 282,
+   "cap": {
+    "id": "Pengelasan (溶接)",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 210, untuk subbab «Pengelasan (溶接)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト210ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p212-0",
+   "sub": "b7s2",
+   "book": "jp",
+   "page": 212,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p212-0.webp",
+   "w": 766,
+   "h": 511,
+   "cap": {
+    "id": "Pengelasan (溶接)",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 212, untuk subbab «Pengelasan (溶接)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト212ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p212-1",
+   "sub": "b7s2",
+   "book": "jp",
+   "page": 212,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p212-1.webp",
+   "w": 435,
+   "h": 292,
+   "cap": {
+    "id": "Pengelasan (溶接)",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 212, untuk subbab «Pengelasan (溶接)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト212ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p212-2",
+   "sub": "b7s2",
+   "book": "jp",
+   "page": 212,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p212-2.webp",
+   "w": 445,
+   "h": 312,
+   "cap": {
+    "id": "Pengelasan (溶接)",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 212, untuk subbab «Pengelasan (溶接)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト212ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p212-3",
+   "sub": "b7s2",
+   "book": "jp",
+   "page": 212,
+   "y": 0.65,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p212-3.webp",
+   "w": 757,
+   "h": 504,
+   "cap": {
+    "id": "Pengelasan (溶接)",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 212, untuk subbab «Pengelasan (溶接)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト212ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p212-4",
+   "sub": "b7s2",
+   "book": "jp",
+   "page": 212,
+   "y": 0.8,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p212-4.webp",
+   "w": 880,
+   "h": 425,
+   "cap": {
+    "id": "Pengelasan (溶接)",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 212, untuk subbab «Pengelasan (溶接)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト212ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p213-0",
+   "sub": "b7s2",
+   "book": "jp",
+   "page": 213,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p213-0.webp",
+   "w": 739,
+   "h": 506,
+   "cap": {
+    "id": "Pengelasan (溶接)",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 213, untuk subbab «Pengelasan (溶接)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト213ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p213-1",
+   "sub": "b7s2",
+   "book": "jp",
+   "page": 213,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p213-1.webp",
+   "w": 198,
+   "h": 279,
+   "cap": {
+    "id": "Pengelasan (溶接)",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 213, untuk subbab «Pengelasan (溶接)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト213ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p213-2",
+   "sub": "b7s2",
+   "book": "jp",
+   "page": 213,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p213-2.webp",
+   "w": 417,
+   "h": 197,
+   "cap": {
+    "id": "Pengelasan (溶接)",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 213, untuk subbab «Pengelasan (溶接)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト213ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p214-0",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 214,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p214-0.webp",
+   "w": 392,
+   "h": 179,
+   "cap": {
+    "id": "Perpipaan & sealing",
+    "jp": "配管作業・接着シール作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 214, untuk subbab «Perpipaan & sealing». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト214ページ「配管作業・接着シール作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p214-1",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 214,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p214-1.webp",
+   "w": 387,
+   "h": 184,
+   "cap": {
+    "id": "Perpipaan & sealing",
+    "jp": "配管作業・接着シール作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 214, untuk subbab «Perpipaan & sealing». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト214ページ「配管作業・接着シール作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p214-2",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 214,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p214-2.webp",
+   "w": 389,
+   "h": 165,
+   "cap": {
+    "id": "Perpipaan & sealing",
+    "jp": "配管作業・接着シール作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 214, untuk subbab «Perpipaan & sealing». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト214ページ「配管作業・接着シール作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p214-3",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 214,
+   "y": 0.65,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p214-3.webp",
+   "w": 386,
+   "h": 196,
+   "cap": {
+    "id": "Perpipaan & sealing",
+    "jp": "配管作業・接着シール作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 214, untuk subbab «Perpipaan & sealing». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト214ページ「配管作業・接着シール作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p214-4",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 214,
+   "y": 0.8,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p214-4.webp",
+   "w": 389,
+   "h": 169,
+   "cap": {
+    "id": "Perpipaan & sealing",
+    "jp": "配管作業・接着シール作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 214, untuk subbab «Perpipaan & sealing». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト214ページ「配管作業・接着シール作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p214-5",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 214,
+   "y": 0.95,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p214-5.webp",
+   "w": 385,
+   "h": 172,
+   "cap": {
+    "id": "Perpipaan & sealing",
+    "jp": "配管作業・接着シール作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 214, untuk subbab «Perpipaan & sealing». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト214ページ「配管作業・接着シール作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p216-0",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 216,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p216-0.webp",
+   "w": 560,
+   "h": 409,
+   "cap": {
+    "id": "Perpipaan & sealing",
+    "jp": "配管作業・接着シール作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 216, untuk subbab «Perpipaan & sealing». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト216ページ「配管作業・接着シール作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p216-1",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 216,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p216-1.webp",
+   "w": 800,
+   "h": 600,
+   "cap": {
+    "id": "Perpipaan & sealing",
+    "jp": "配管作業・接着シール作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 216, untuk subbab «Perpipaan & sealing». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト216ページ「配管作業・接着シール作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p218-0",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 218,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p218-0.webp",
+   "w": 312,
+   "h": 231,
+   "cap": {
+    "id": "Perpipaan & sealing",
+    "jp": "配管作業・接着シール作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 218, untuk subbab «Perpipaan & sealing». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト218ページ「配管作業・接着シール作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p218-1",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 218,
+   "y": 0.35,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p218-1.webp",
+   "w": 691,
+   "h": 400,
+   "cap": {
+    "id": "Perpipaan & sealing",
+    "jp": "配管作業・接着シール作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 218, untuk subbab «Perpipaan & sealing». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト218ページ「配管作業・接着シール作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p218-2",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 218,
+   "y": 0.5,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p218-2.webp",
+   "w": 812,
+   "h": 609,
+   "cap": {
+    "id": "Perpipaan & sealing",
+    "jp": "配管作業・接着シール作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 218, untuk subbab «Perpipaan & sealing». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト218ページ「配管作業・接着シール作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "railway-vehicle-jp-p221-0",
+   "sub": "b7s3",
+   "book": "jp",
+   "page": 221,
+   "y": 0.2,
+   "src": "./assets/ssw/railway-vehicle/fig/jp-p221-0.webp",
+   "w": 750,
+   "h": 423,
+   "cap": {
+    "id": "Perpipaan & sealing",
+    "jp": "配管作業・接着シール作業"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 221, untuk subbab «Perpipaan & sealing». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト221ページ「配管作業・接着シール作業」の図。"
+   },
+   "terms": [],
+   "auto": true
+  }
+ ]
+}

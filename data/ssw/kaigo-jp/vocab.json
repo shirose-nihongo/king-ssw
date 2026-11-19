@@ -3223,7 +3223,11 @@
    "arti": "perawatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "j2s1",
+    "j2s2",
+    "j2s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -3234,7 +3238,10 @@
    "arti": "pekerjaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "j3s3",
+    "j3s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -3245,7 +3252,11 @@
    "arti": "percakapan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "j2s1",
+    "j2s2",
+    "j2s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -3256,7 +3267,9 @@
    "arti": "pengguna",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "j3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -3267,7 +3280,11 @@
    "arti": "masalah; pertanyaan; isu; tantangan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "j2s1",
+    "j2s2",
+    "j2s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -3278,7 +3295,9 @@
    "arti": "melapor; laporan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "j3s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -3289,7 +3308,9 @@
    "arti": "adegan; pengaturan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "bab2-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -3300,7 +3321,11 @@
    "arti": "Soal Kalimat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "j3s1",
+    "j3s2",
+    "j3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
@@ -3311,7 +3336,9 @@
    "arti": "penyakit; sakit",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "j1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -3322,7 +3349,11 @@
    "arti": "bagian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "j2s1",
+    "j2s2",
+    "j2s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
@@ -3333,7 +3364,9 @@
    "arti": "Kosakata makan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "j2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   }

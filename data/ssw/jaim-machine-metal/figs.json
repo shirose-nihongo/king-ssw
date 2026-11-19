@@ -1,0 +1,1246 @@
+{
+ "slug": "jaim-machine-metal",
+ "note": "Gambar diekstrak otomatis dari PDF buku resmi (tools/ssw/fig_extract.py); auto:true = perlu penyuntingan manusia.",
+ "figs": [
+  {
+   "id": "jaim-machine-metal-jp-p019-0",
+   "sub": "b2s7",
+   "book": "jp",
+   "page": 19,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p019-0.webp",
+   "w": 234,
+   "h": 231,
+   "cap": {
+    "id": "Edukasi untuk pekerja baru dan saat materi pekerjaan berubah",
+    "jp": "雇い入れ時、作業内容変更時の教育"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 19, untuk subbab «Edukasi untuk pekerja baru dan saat materi pekerjaan berubah». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト19ページ「雇い入れ時、作業内容変更時の教育」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p019-1",
+   "sub": "b2s7",
+   "book": "jp",
+   "page": 19,
+   "y": 0.35,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p019-1.webp",
+   "w": 234,
+   "h": 231,
+   "cap": {
+    "id": "Edukasi untuk pekerja baru dan saat materi pekerjaan berubah",
+    "jp": "雇い入れ時、作業内容変更時の教育"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 19, untuk subbab «Edukasi untuk pekerja baru dan saat materi pekerjaan berubah». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト19ページ「雇い入れ時、作業内容変更時の教育」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p019-2",
+   "sub": "b2s7",
+   "book": "jp",
+   "page": 19,
+   "y": 0.5,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p019-2.webp",
+   "w": 234,
+   "h": 231,
+   "cap": {
+    "id": "Edukasi untuk pekerja baru dan saat materi pekerjaan berubah",
+    "jp": "雇い入れ時、作業内容変更時の教育"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 19, untuk subbab «Edukasi untuk pekerja baru dan saat materi pekerjaan berubah». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト19ページ「雇い入れ時、作業内容変更時の教育」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p022-0",
+   "sub": "b2s10",
+   "book": "jp",
+   "page": 22,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p022-0.webp",
+   "w": 390,
+   "h": 413,
+   "cap": {
+    "id": "Pelatihan Identifikasi Bahaya (Kiken Yochi Training / KYT)",
+    "jp": "危険予知トレーニング（Kiken Yochi Training KYT）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 22, untuk subbab «Pelatihan Identifikasi Bahaya (Kiken Yochi Training / KYT)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト22ページ「危険予知トレーニング（Kiken Yochi Training KYT）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p022-1",
+   "sub": "b2s10",
+   "book": "jp",
+   "page": 22,
+   "y": 0.35,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p022-1.webp",
+   "w": 333,
+   "h": 416,
+   "cap": {
+    "id": "Pelatihan Identifikasi Bahaya (Kiken Yochi Training / KYT)",
+    "jp": "危険予知トレーニング（Kiken Yochi Training KYT）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 22, untuk subbab «Pelatihan Identifikasi Bahaya (Kiken Yochi Training / KYT)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト22ページ「危険予知トレーニング（Kiken Yochi Training KYT）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p022-2",
+   "sub": "b2s10",
+   "book": "jp",
+   "page": 22,
+   "y": 0.5,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p022-2.webp",
+   "w": 372,
+   "h": 414,
+   "cap": {
+    "id": "Pelatihan Identifikasi Bahaya (Kiken Yochi Training / KYT)",
+    "jp": "危険予知トレーニング（Kiken Yochi Training KYT）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 22, untuk subbab «Pelatihan Identifikasi Bahaya (Kiken Yochi Training / KYT)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト22ページ「危険予知トレーニング（Kiken Yochi Training KYT）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p022-3",
+   "sub": "b2s10",
+   "book": "jp",
+   "page": 22,
+   "y": 0.65,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p022-3.webp",
+   "w": 390,
+   "h": 499,
+   "cap": {
+    "id": "Pelatihan Identifikasi Bahaya (Kiken Yochi Training / KYT)",
+    "jp": "危険予知トレーニング（Kiken Yochi Training KYT）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 22, untuk subbab «Pelatihan Identifikasi Bahaya (Kiken Yochi Training / KYT)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト22ページ「危険予知トレーニング（Kiken Yochi Training KYT）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p022-4",
+   "sub": "b2s10",
+   "book": "jp",
+   "page": 22,
+   "y": 0.8,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p022-4.webp",
+   "w": 389,
+   "h": 503,
+   "cap": {
+    "id": "Pelatihan Identifikasi Bahaya (Kiken Yochi Training / KYT)",
+    "jp": "危険予知トレーニング（Kiken Yochi Training KYT）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 22, untuk subbab «Pelatihan Identifikasi Bahaya (Kiken Yochi Training / KYT)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト22ページ「危険予知トレーニング（Kiken Yochi Training KYT）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p024-0",
+   "sub": "b2s12",
+   "book": "jp",
+   "page": 24,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p024-0.webp",
+   "w": 307,
+   "h": 280,
+   "cap": {
+    "id": "Hukum Heinrich",
+    "jp": "ハインリッヒの法則"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 24, untuk subbab «Hukum Heinrich». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト24ページ「ハインリッヒの法則」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p024-1",
+   "sub": "b2s12",
+   "book": "jp",
+   "page": 24,
+   "y": 0.35,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p024-1.webp",
+   "w": 392,
+   "h": 347,
+   "cap": {
+    "id": "Hukum Heinrich",
+    "jp": "ハインリッヒの法則"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 24, untuk subbab «Hukum Heinrich». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト24ページ「ハインリッヒの法則」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p024-2",
+   "sub": "b2s12",
+   "book": "jp",
+   "page": 24,
+   "y": 0.5,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p024-2.webp",
+   "w": 388,
+   "h": 230,
+   "cap": {
+    "id": "Hukum Heinrich",
+    "jp": "ハインリッヒの法則"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 24, untuk subbab «Hukum Heinrich». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト24ページ「ハインリッヒの法則」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p025-0",
+   "sub": "b2s14",
+   "book": "jp",
+   "page": 25,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p025-0.webp",
+   "w": 295,
+   "h": 213,
+   "cap": {
+    "id": "Sistem Manajemen Keselamatan dan Kesehatan Kerja (OSHMS)",
+    "jp": "労働安全衛生マネジメントシステム（OSHMS）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 25, untuk subbab «Sistem Manajemen Keselamatan dan Kesehatan Kerja (OSHMS)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト25ページ「労働安全衛生マネジメントシステム（OSHMS）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p027-0",
+   "sub": "b2s17",
+   "book": "jp",
+   "page": 27,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p027-0.webp",
+   "w": 163,
+   "h": 162,
+   "cap": {
+    "id": "Tanda Perhatian",
+    "jp": "注意表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 27, untuk subbab «Tanda Perhatian». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト27ページ「注意表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p027-1",
+   "sub": "b2s17",
+   "book": "jp",
+   "page": 27,
+   "y": 0.35,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p027-1.webp",
+   "w": 193,
+   "h": 192,
+   "cap": {
+    "id": "Tanda Perhatian",
+    "jp": "注意表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 27, untuk subbab «Tanda Perhatian». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト27ページ「注意表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p027-2",
+   "sub": "b2s17",
+   "book": "jp",
+   "page": 27,
+   "y": 0.5,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p027-2.webp",
+   "w": 192,
+   "h": 190,
+   "cap": {
+    "id": "Tanda Perhatian",
+    "jp": "注意表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 27, untuk subbab «Tanda Perhatian». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト27ページ「注意表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p027-3",
+   "sub": "b2s17",
+   "book": "jp",
+   "page": 27,
+   "y": 0.65,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p027-3.webp",
+   "w": 191,
+   "h": 196,
+   "cap": {
+    "id": "Tanda Perhatian",
+    "jp": "注意表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 27, untuk subbab «Tanda Perhatian». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト27ページ「注意表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p027-4",
+   "sub": "b2s17",
+   "book": "jp",
+   "page": 27,
+   "y": 0.8,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p027-4.webp",
+   "w": 189,
+   "h": 187,
+   "cap": {
+    "id": "Tanda Perhatian",
+    "jp": "注意表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 27, untuk subbab «Tanda Perhatian». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト27ページ「注意表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p027-5",
+   "sub": "b2s17",
+   "book": "jp",
+   "page": 27,
+   "y": 0.95,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p027-5.webp",
+   "w": 185,
+   "h": 186,
+   "cap": {
+    "id": "Tanda Perhatian",
+    "jp": "注意表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 27, untuk subbab «Tanda Perhatian». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト27ページ「注意表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p027-6",
+   "sub": "b2s17",
+   "book": "jp",
+   "page": 27,
+   "y": 1.1,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p027-6.webp",
+   "w": 191,
+   "h": 184,
+   "cap": {
+    "id": "Tanda Perhatian",
+    "jp": "注意表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 27, untuk subbab «Tanda Perhatian». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト27ページ「注意表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p027-7",
+   "sub": "b2s17",
+   "book": "jp",
+   "page": 27,
+   "y": 1.25,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p027-7.webp",
+   "w": 190,
+   "h": 189,
+   "cap": {
+    "id": "Tanda Perhatian",
+    "jp": "注意表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 27, untuk subbab «Tanda Perhatian». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト27ページ「注意表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p027-8",
+   "sub": "b2s17",
+   "book": "jp",
+   "page": 27,
+   "y": 1.4,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p027-8.webp",
+   "w": 183,
+   "h": 180,
+   "cap": {
+    "id": "Tanda Perhatian",
+    "jp": "注意表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 27, untuk subbab «Tanda Perhatian». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト27ページ「注意表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p027-9",
+   "sub": "b2s17",
+   "book": "jp",
+   "page": 27,
+   "y": 1.55,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p027-9.webp",
+   "w": 190,
+   "h": 190,
+   "cap": {
+    "id": "Tanda Perhatian",
+    "jp": "注意表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 27, untuk subbab «Tanda Perhatian». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト27ページ「注意表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p028-0",
+   "sub": "b2s18",
+   "book": "jp",
+   "page": 28,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p028-0.webp",
+   "w": 180,
+   "h": 154,
+   "cap": {
+    "id": "Tanda Zat Kimia Berbahaya / Berdampak Bahaya",
+    "jp": "化学物質の危険有害性の表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 28, untuk subbab «Tanda Zat Kimia Berbahaya / Berdampak Bahaya». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト28ページ「化学物質の危険有害性の表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p028-1",
+   "sub": "b2s18",
+   "book": "jp",
+   "page": 28,
+   "y": 0.35,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p028-1.webp",
+   "w": 165,
+   "h": 152,
+   "cap": {
+    "id": "Tanda Zat Kimia Berbahaya / Berdampak Bahaya",
+    "jp": "化学物質の危険有害性の表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 28, untuk subbab «Tanda Zat Kimia Berbahaya / Berdampak Bahaya». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト28ページ「化学物質の危険有害性の表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p029-0",
+   "sub": "b2s19",
+   "book": "jp",
+   "page": 29,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p029-0.webp",
+   "w": 198,
+   "h": 189,
+   "cap": {
+    "id": "Tanda Lainnya",
+    "jp": "その他の表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 29, untuk subbab «Tanda Lainnya». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト29ページ「その他の表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p029-1",
+   "sub": "b2s19",
+   "book": "jp",
+   "page": 29,
+   "y": 0.35,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p029-1.webp",
+   "w": 206,
+   "h": 206,
+   "cap": {
+    "id": "Tanda Lainnya",
+    "jp": "その他の表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 29, untuk subbab «Tanda Lainnya». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト29ページ「その他の表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p029-2",
+   "sub": "b2s19",
+   "book": "jp",
+   "page": 29,
+   "y": 0.5,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p029-2.webp",
+   "w": 207,
+   "h": 208,
+   "cap": {
+    "id": "Tanda Lainnya",
+    "jp": "その他の表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 29, untuk subbab «Tanda Lainnya». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト29ページ「その他の表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p029-3",
+   "sub": "b2s19",
+   "book": "jp",
+   "page": 29,
+   "y": 0.65,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p029-3.webp",
+   "w": 205,
+   "h": 217,
+   "cap": {
+    "id": "Tanda Lainnya",
+    "jp": "その他の表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 29, untuk subbab «Tanda Lainnya». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト29ページ「その他の表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p029-4",
+   "sub": "b2s19",
+   "book": "jp",
+   "page": 29,
+   "y": 0.8,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p029-4.webp",
+   "w": 209,
+   "h": 207,
+   "cap": {
+    "id": "Tanda Lainnya",
+    "jp": "その他の表示"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 29, untuk subbab «Tanda Lainnya». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト29ページ「その他の表示」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p030-0",
+   "sub": "b2s20",
+   "book": "jp",
+   "page": 30,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p030-0.webp",
+   "w": 150,
+   "h": 152,
+   "cap": {
+    "id": "Poin-Poin Keselamatan untuk Setiap Jenis Pekerjaan",
+    "jp": "個別作業の安全のポイント"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 30, untuk subbab «Poin-Poin Keselamatan untuk Setiap Jenis Pekerjaan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト30ページ「個別作業の安全のポイント」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p030-1",
+   "sub": "b2s20",
+   "book": "jp",
+   "page": 30,
+   "y": 0.35,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p030-1.webp",
+   "w": 151,
+   "h": 150,
+   "cap": {
+    "id": "Poin-Poin Keselamatan untuk Setiap Jenis Pekerjaan",
+    "jp": "個別作業の安全のポイント"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 30, untuk subbab «Poin-Poin Keselamatan untuk Setiap Jenis Pekerjaan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト30ページ「個別作業の安全のポイント」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p031-0",
+   "sub": "b2s20",
+   "book": "jp",
+   "page": 31,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p031-0.webp",
+   "w": 158,
+   "h": 166,
+   "cap": {
+    "id": "Poin-Poin Keselamatan untuk Setiap Jenis Pekerjaan",
+    "jp": "個別作業の安全のポイント"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 31, untuk subbab «Poin-Poin Keselamatan untuk Setiap Jenis Pekerjaan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト31ページ「個別作業の安全のポイント」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p042-0",
+   "sub": "b3s5",
+   "book": "jp",
+   "page": 42,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p042-0.webp",
+   "w": 267,
+   "h": 263,
+   "cap": {
+    "id": "Tujuh Alat QC",
+    "jp": "QC7 つ道具"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 42, untuk subbab «Tujuh Alat QC». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト42ページ「QC7 つ道具」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p043-0",
+   "sub": "b3s6",
+   "book": "jp",
+   "page": 43,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p043-0.webp",
+   "w": 545,
+   "h": 369,
+   "cap": {
+    "id": "ISO (Organisasi Standardisasi Internasional)",
+    "jp": "ISO（国際標準化機構）"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 43, untuk subbab «ISO (Organisasi Standardisasi Internasional)». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト43ページ「ISO（国際標準化機構）」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p072-0",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 72,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p072-0.webp",
+   "w": 579,
+   "h": 238,
+   "cap": {
+    "id": "Jangka sorong",
+    "jp": "ノギス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 72, untuk subbab «Jangka sorong». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト72ページ「ノギス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p073-0",
+   "sub": "b6s2",
+   "book": "jp",
+   "page": 73,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p073-0.webp",
+   "w": 583,
+   "h": 175,
+   "cap": {
+    "id": "Jangka sorong",
+    "jp": "ノギス"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 73, untuk subbab «Jangka sorong». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト73ページ「ノギス」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p075-0",
+   "sub": "b6s3",
+   "book": "jp",
+   "page": 75,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p075-0.webp",
+   "w": 570,
+   "h": 285,
+   "cap": {
+    "id": "Mikrometer",
+    "jp": "マイクロメータ"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 75, untuk subbab «Mikrometer». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト75ページ「マイクロメータ」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p080-0",
+   "sub": "b6s5",
+   "book": "jp",
+   "page": 80,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p080-0.webp",
+   "w": 501,
+   "h": 442,
+   "cap": {
+    "id": "Piranti Ukur Dial",
+    "jp": "ダイヤルゲージ"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 80, untuk subbab «Piranti Ukur Dial». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト80ページ「ダイヤルゲージ」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p082-0",
+   "sub": "b6s6",
+   "book": "jp",
+   "page": 82,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p082-0.webp",
+   "w": 386,
+   "h": 434,
+   "cap": {
+    "id": "Alat Ukur Komparatif Lainnya",
+    "jp": "その他の比較測定器"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 82, untuk subbab «Alat Ukur Komparatif Lainnya». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト82ページ「その他の比較測定器」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p082-1",
+   "sub": "b6s6",
+   "book": "jp",
+   "page": 82,
+   "y": 0.35,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p082-1.webp",
+   "w": 590,
+   "h": 213,
+   "cap": {
+    "id": "Alat Ukur Komparatif Lainnya",
+    "jp": "その他の比較測定器"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 82, untuk subbab «Alat Ukur Komparatif Lainnya». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト82ページ「その他の比較測定器」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p085-0",
+   "sub": "b6s7",
+   "book": "jp",
+   "page": 85,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p085-0.webp",
+   "w": 590,
+   "h": 254,
+   "cap": {
+    "id": "Pengukur Referensi dan Pengukur Batas",
+    "jp": "基準ゲージ・限界ゲージ"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 85, untuk subbab «Pengukur Referensi dan Pengukur Batas». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト85ページ「基準ゲージ・限界ゲージ」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p091-0",
+   "sub": "b7s7",
+   "book": "jp",
+   "page": 91,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p091-0.webp",
+   "w": 589,
+   "h": 310,
+   "cap": {
+    "id": "Gambar Tampak Depan",
+    "jp": "正面図"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 91, untuk subbab «Gambar Tampak Depan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト91ページ「正面図」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p093-0",
+   "sub": "b7s9",
+   "book": "jp",
+   "page": 93,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p093-0.webp",
+   "w": 178,
+   "h": 299,
+   "cap": {
+    "id": "Dasar-dasar Penunjukan Dimensi",
+    "jp": "寸法指示の基本"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 93, untuk subbab «Dasar-dasar Penunjukan Dimensi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト93ページ「寸法指示の基本」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p094-0",
+   "sub": "b7s12",
+   "book": "jp",
+   "page": 94,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p094-0.webp",
+   "w": 586,
+   "h": 158,
+   "cap": {
+    "id": "Penulisan Toleransi",
+    "jp": "公差の表記"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 94, untuk subbab «Penulisan Toleransi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト94ページ「公差の表記」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p095-0",
+   "sub": "b7s12",
+   "book": "jp",
+   "page": 95,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p095-0.webp",
+   "w": 391,
+   "h": 290,
+   "cap": {
+    "id": "Penulisan Toleransi",
+    "jp": "公差の表記"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 95, untuk subbab «Penulisan Toleransi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト95ページ「公差の表記」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p096-0",
+   "sub": "b7s13",
+   "book": "jp",
+   "page": 96,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p096-0.webp",
+   "w": 346,
+   "h": 164,
+   "cap": {
+    "id": "Simbol Bantu Dimensi",
+    "jp": "寸法補助記号"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 96, untuk subbab «Simbol Bantu Dimensi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト96ページ「寸法補助記号」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p098-0",
+   "sub": "b7s15",
+   "book": "jp",
+   "page": 98,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p098-0.webp",
+   "w": 574,
+   "h": 238,
+   "cap": {
+    "id": "Dimensi Referensi",
+    "jp": "参考寸法"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 98, untuk subbab «Dimensi Referensi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト98ページ「参考寸法」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p098-1",
+   "sub": "b7s15",
+   "book": "jp",
+   "page": 98,
+   "y": 0.35,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p098-1.webp",
+   "w": 565,
+   "h": 257,
+   "cap": {
+    "id": "Dimensi Referensi",
+    "jp": "参考寸法"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 98, untuk subbab «Dimensi Referensi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト98ページ「参考寸法」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p099-0",
+   "sub": "b7s15",
+   "book": "jp",
+   "page": 99,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p099-0.webp",
+   "w": 423,
+   "h": 245,
+   "cap": {
+    "id": "Dimensi Referensi",
+    "jp": "参考寸法"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 99, untuk subbab «Dimensi Referensi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト99ページ「参考寸法」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p099-1",
+   "sub": "b7s15",
+   "book": "jp",
+   "page": 99,
+   "y": 0.35,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p099-1.webp",
+   "w": 482,
+   "h": 168,
+   "cap": {
+    "id": "Dimensi Referensi",
+    "jp": "参考寸法"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 99, untuk subbab «Dimensi Referensi». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト99ページ「参考寸法」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p102-0",
+   "sub": "b7s16",
+   "book": "jp",
+   "page": 102,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p102-0.webp",
+   "w": 527,
+   "h": 181,
+   "cap": {
+    "id": "Toleransi Geometris",
+    "jp": "幾何公差"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 102, untuk subbab «Toleransi Geometris». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト102ページ「幾何公差」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p102-1",
+   "sub": "b7s16",
+   "book": "jp",
+   "page": 102,
+   "y": 0.35,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p102-1.webp",
+   "w": 549,
+   "h": 292,
+   "cap": {
+    "id": "Toleransi Geometris",
+    "jp": "幾何公差"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 102, untuk subbab «Toleransi Geometris». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト102ページ「幾何公差」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p103-0",
+   "sub": "b7s17",
+   "book": "jp",
+   "page": 103,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p103-0.webp",
+   "w": 564,
+   "h": 299,
+   "cap": {
+    "id": "Tekstur Permukaan",
+    "jp": "表面性状"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 103, untuk subbab «Tekstur Permukaan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト103ページ「表面性状」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p103-1",
+   "sub": "b7s17",
+   "book": "jp",
+   "page": 103,
+   "y": 0.35,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p103-1.webp",
+   "w": 546,
+   "h": 246,
+   "cap": {
+    "id": "Tekstur Permukaan",
+    "jp": "表面性状"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 103, untuk subbab «Tekstur Permukaan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト103ページ「表面性状」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p104-0",
+   "sub": "b7s18",
+   "book": "jp",
+   "page": 104,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p104-0.webp",
+   "w": 527,
+   "h": 230,
+   "cap": {
+    "id": "Pengelasan",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 104, untuk subbab «Pengelasan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト104ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p105-0",
+   "sub": "b7s18",
+   "book": "jp",
+   "page": 105,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p105-0.webp",
+   "w": 581,
+   "h": 312,
+   "cap": {
+    "id": "Pengelasan",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 105, untuk subbab «Pengelasan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト105ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p105-1",
+   "sub": "b7s18",
+   "book": "jp",
+   "page": 105,
+   "y": 0.35,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p105-1.webp",
+   "w": 527,
+   "h": 294,
+   "cap": {
+    "id": "Pengelasan",
+    "jp": "溶接"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 105, untuk subbab «Pengelasan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト105ページ「溶接」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p107-0",
+   "sub": "b8s1",
+   "book": "jp",
+   "page": 107,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p107-0.webp",
+   "w": 571,
+   "h": 183,
+   "cap": {
+    "id": "Prinsip-prinsip Manajemen Keselamatan dan Kepatuhan hukum",
+    "jp": "安全管理原則と法的遵守"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 107, untuk subbab «Prinsip-prinsip Manajemen Keselamatan dan Kepatuhan hukum». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト107ページ「安全管理原則と法的遵守」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p113-0",
+   "sub": "b8s3",
+   "book": "jp",
+   "page": 113,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p113-0.webp",
+   "w": 321,
+   "h": 335,
+   "cap": {
+    "id": "Penggunaan APD dan Respon Kondisi Abnormal",
+    "jp": "保護具の使用と緊急時対応"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 113, untuk subbab «Penggunaan APD dan Respon Kondisi Abnormal». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト113ページ「保護具の使用と緊急時対応」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p130-0",
+   "sub": "b9s4",
+   "book": "jp",
+   "page": 130,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p130-0.webp",
+   "w": 900,
+   "h": 506,
+   "cap": {
+    "id": "Proses Pemesinan",
+    "jp": "切削加工"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 130, untuk subbab «Proses Pemesinan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト130ページ「切削加工」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p131-0",
+   "sub": "b9s4",
+   "book": "jp",
+   "page": 131,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p131-0.webp",
+   "w": 345,
+   "h": 334,
+   "cap": {
+    "id": "Proses Pemesinan",
+    "jp": "切削加工"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 131, untuk subbab «Proses Pemesinan». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト131ページ「切削加工」の図。"
+   },
+   "terms": [],
+   "auto": true
+  },
+  {
+   "id": "jaim-machine-metal-jp-p144-0",
+   "sub": "b10s2",
+   "book": "jp",
+   "page": 144,
+   "y": 0.2,
+   "src": "./assets/ssw/jaim-machine-metal/fig/jp-p144-0.webp",
+   "w": 343,
+   "h": 224,
+   "cap": {
+    "id": "Mengoperasikan Peralatan Listrik secara Aman dan Mencegah Sengatan Listrik",
+    "jp": "電気機器の安全操作と感電防止"
+   },
+   "exp": {
+    "id": "Gambar dari buku teks resmi, hal. 144, untuk subbab «Mengoperasikan Peralatan Listrik secara Aman dan Mencegah Sengatan Listrik». Ketuk gambar untuk memperbesar; tulisan pada gambar sama dengan buku.",
+    "jp": "テキスト144ページ「電気機器の安全操作と感電防止」の図。"
+   },
+   "terms": [],
+   "auto": true
+  }
+ ]
+}

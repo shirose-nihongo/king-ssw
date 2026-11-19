@@ -1658,4767 +1658,5658 @@
    "halaman": 64
   },
   {
-   "id": "avam-1134",
+   "id": "avam-2806",
    "kata": "一山",
    "kana": "ひとやま",
    "arti": "satu gunung (bukit) atau satu tumpukan (bergantung konteks)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1135",
+   "id": "avam-2807",
    "kata": "一度",
    "kana": "いちど",
    "arti": "sekali; satu kali; satu kesempatan; sekilas",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1136",
+   "id": "avam-2808",
    "kata": "上下",
    "kana": "うえした",
    "arti": "naik-turun",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1137",
+   "id": "avam-2809",
    "kata": "上司",
    "kana": "じょうし",
    "arti": "atasan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1138",
+   "id": "avam-2810",
    "kata": "上面",
    "kana": "じょうめん",
    "arti": "permukaan atas; bagian atas",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1139",
+   "id": "avam-2811",
    "kata": "不要",
    "kana": "ふよう",
    "arti": "tidak perlu",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1140",
+   "id": "avam-2812",
    "kata": "両側",
    "kana": "りょうがわ",
    "arti": "kedua sisi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1141",
+   "id": "avam-2813",
    "kata": "中央",
    "kana": "ちゅうおう",
    "arti": "tengah, pusat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1142",
+   "id": "avam-2814",
    "kata": "中心",
    "kana": "ちゅうしん",
    "arti": "pusat; tengah",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1143",
+   "id": "avam-2815",
    "kata": "主流",
    "kana": "しゅりゅう",
    "arti": "arus utama",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1144",
+   "id": "avam-2816",
    "kata": "主翼",
    "kana": "しゅよく",
    "arti": "sayap utama",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2",
+    "b5s4",
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1145",
+   "id": "avam-2817",
    "kata": "主脚",
    "kana": "しゅあし",
    "arti": "kaki utama",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1146",
+   "id": "avam-2818",
    "kata": "事故",
    "kana": "じこ",
    "arti": "kecelakaan; insiden",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1147",
+   "id": "avam-2819",
    "kata": "交換",
    "kana": "こうかん",
    "arti": "pertukaran, penggantian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1148",
+   "id": "avam-2820",
    "kata": "交流",
    "kana": "こうりゅう",
    "arti": "arus bolak-balik",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1",
+    "b5s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1149",
+   "id": "avam-2821",
    "kata": "仕組",
    "kana": "しく",
    "arti": "struktur; konstruksi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1150",
+   "id": "avam-2822",
    "kata": "以上",
    "kana": "いじょう",
    "arti": "lebih dari; di atas; lebih tinggi dari",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1151",
+   "id": "avam-2823",
    "kata": "以下",
    "kana": "いか",
    "arti": "di bawah; kurang dari; tidak mencapai; berikut",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1152",
+   "id": "avam-2824",
    "kata": "以外",
    "kana": "いがい",
    "arti": "kecuali; selain; diluar dari",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1153",
+   "id": "avam-2825",
    "kata": "仲間",
    "kana": "なかま",
    "arti": "teman, rekan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1154",
+   "id": "avam-2826",
    "kata": "会社",
    "kana": "かいしゃ",
    "arti": "perusahaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1155",
+   "id": "avam-2827",
    "kata": "位置",
    "kana": "いち",
    "arti": "posisi; tempat; lokasi; posisi tertentu dalam ruang atau waktu",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1156",
+   "id": "avam-2828",
    "kata": "体調",
    "kana": "たいちょう",
    "arti": "kondisi fisik; keadaan tubuh",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1157",
+   "id": "avam-2829",
    "kata": "作業",
    "kana": "さぎょう",
    "arti": "pekerjaan; tugas; proses kerja",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s2",
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1158",
+   "id": "avam-2830",
    "kata": "作業安全",
    "kana": "さぎょうあんぜん",
    "arti": "Keselamatan Kerja",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "avam-1159",
+   "id": "avam-2831",
    "kata": "使用時間",
    "kana": "しようじかん",
    "arti": "Waktu penggunaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1160",
+   "id": "avam-2832",
    "kata": "供給源",
    "kana": "きょうきゅうげん",
    "arti": "sumber pasokan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1161",
+   "id": "avam-2833",
    "kata": "信頼性管理方式",
    "kana": "しんらいせいかんりほうしき",
    "arti": "dan Airbus bergeser ke manajemen keandalan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "avam-1162",
+   "id": "avam-2834",
    "kata": "健全",
    "kana": "けんぜん",
    "arti": "sehat; baik; seimbang; bugar (dalam konteks mental dan fisik)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1163",
+   "id": "avam-2835",
    "kata": "健康管理",
    "kana": "けんこうかんり",
    "arti": "manajemen Kesehatan; pemeliharaan kesehatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1164",
+   "id": "avam-2836",
    "kata": "傾向",
    "kana": "けいこう",
    "arti": "kecenderungan; kemiringan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1165",
+   "id": "avam-2837",
    "kata": "内側",
    "kana": "うちがわ",
    "arti": "sisi dalam",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1166",
+   "id": "avam-2838",
    "kata": "内部",
    "kana": "ないぶ",
    "arti": "bagian dalam",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1167",
+   "id": "avam-2839",
    "kata": "再使用",
    "kana": "さいしよう",
    "arti": "penggunaan ulang (reuse)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1168",
+   "id": "avam-2840",
    "kata": "分析",
    "kana": "ぶんせき",
    "arti": "analisis",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1169",
+   "id": "avam-2841",
    "kata": "分解",
    "kana": "ぶんかい",
    "arti": "membongkar",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1170",
+   "id": "avam-2842",
    "kata": "判断",
    "kana": "はんだん",
    "arti": "penilaian; keputusan; penghakiman",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1171",
+   "id": "avam-2843",
    "kata": "前提",
    "kana": "ぜんてい",
    "arti": "Prasyarat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1172",
+   "id": "avam-2844",
    "kata": "割合",
    "kana": "わりあい",
    "arti": "proporsi; rasio; persentase; perbandingan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1173",
+   "id": "avam-2845",
    "kata": "加圧",
    "kana": "かあつ",
    "arti": "penekanan; pemberian tekanan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1174",
+   "id": "avam-2846",
    "kata": "加工",
    "kana": "かこう",
    "arti": "Pengolahan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1175",
+   "id": "avam-2847",
    "kata": "動力",
    "kana": "どうりょく",
    "arti": "tenaga penggerak",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1176",
+   "id": "avam-2848",
    "kata": "勝手",
    "kana": "かって",
    "arti": "seenaknya",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1177",
+   "id": "avam-2849",
    "kata": "化学物質",
    "kana": "かがくぶっしつ",
    "arti": "bahan kimia",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2",
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1178",
+   "id": "avam-2850",
    "kata": "半導体",
    "kana": "はんどうたい",
    "arti": "semikonduktor",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1179",
+   "id": "avam-2851",
    "kata": "危険",
    "kana": "きけん",
    "arti": "bahaya",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1180",
+   "id": "avam-2852",
    "kata": "原則",
    "kana": "げんそく",
    "arti": "prinsip; aturan dasar; norma; pedoman",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1181",
+   "id": "avam-2853",
    "kata": "原因",
    "kana": "げんいん",
    "arti": "penyebab; alasan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2",
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1182",
+   "id": "avam-2854",
    "kata": "右側",
    "kana": "みぎがわ",
    "arti": "sebelah kanan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1183",
+   "id": "avam-2855",
    "kata": "合金",
    "kana": "ごうきん",
    "arti": "Paduan logam",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1184",
+   "id": "avam-2856",
    "kata": "問題",
    "kana": "もんだい",
    "arti": "masalah; pertanyaan; isu; tantangan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s99"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1185",
+   "id": "avam-2857",
    "kata": "器具",
    "kana": "きぐ",
    "arti": "perkakas; aparat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1186",
+   "id": "avam-2858",
    "kata": "回路",
    "kana": "かいろ",
    "arti": "sirkuit",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1187",
+   "id": "avam-2859",
    "kata": "回転",
    "kana": "かいてん",
    "arti": "putaran",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1188",
+   "id": "avam-2860",
    "kata": "回転力",
    "kana": "かいてんりょく",
    "arti": "daya putar",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1189",
+   "id": "avam-2861",
    "kata": "固定",
    "kana": "こてい",
    "arti": "menetapkan, mengunci",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1190",
+   "id": "avam-2862",
    "kata": "圧力",
    "kana": "あつりょく",
    "arti": "tekanan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s4",
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1191",
+   "id": "avam-2863",
    "kata": "地上",
    "kana": "ちじょう",
    "arti": "di atas tanah",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1192",
+   "id": "avam-2864",
    "kata": "基本",
    "kana": "きほん",
    "arti": "dasar; prinsip; pokok",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1193",
+   "id": "avam-2865",
    "kata": "基本技術",
    "kana": "きほんぎじゅつ",
    "arti": "teknologi dasar",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1194",
+   "id": "avam-2866",
    "kata": "基準",
    "kana": "きじゅん",
    "arti": "standar; tolok ukur; kriteria; patokan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1195",
+   "id": "avam-2867",
    "kata": "場所",
    "kana": "ばしょ",
    "arti": "Tempat; lokasi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1196",
+   "id": "avam-2868",
    "kata": "変換",
    "kana": "へんかん",
    "arti": "konversi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1197",
+   "id": "avam-2869",
    "kata": "外側",
    "kana": "そとがわ",
    "arti": "sisi luar",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1198",
+   "id": "avam-2870",
    "kata": "大切",
    "kana": "たいせつ",
    "arti": "penting; berharga",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5",
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1199",
+   "id": "avam-2871",
    "kata": "始動",
    "kana": "しどう",
    "arti": "mulai bergerak",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1",
+    "b5s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1200",
+   "id": "avam-2872",
    "kata": "安全性",
    "kana": "あんぜんせい",
    "arti": "keselamatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "avam-1201",
+   "id": "avam-2873",
    "kata": "定時性",
    "kana": "ていじせい",
    "arti": "ketepatan waktu",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "avam-1202",
+   "id": "avam-2874",
    "kata": "定期的",
    "kana": "ていきてき",
    "arti": "secara teratur; berkala",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1203",
+   "id": "avam-2875",
    "kata": "客室",
    "kana": "きゃくしつ",
    "arti": "kamar tamu (di hotel); Kabin Tamu (di atas kapal)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1204",
+   "id": "avam-2876",
    "kata": "工場",
    "kana": "こうじょう",
    "arti": "pabrik; bengkel; tempat produksi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1205",
+   "id": "avam-2877",
    "kata": "工夫",
    "kana": "くふう",
    "arti": "usaha atau kreativitas",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1206",
+   "id": "avam-2878",
    "kata": "左右",
    "kana": "さゆう",
    "arti": "kiri dan kanan; dua arah; pergerakan ke kiri dan ke kanan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1207",
+   "id": "avam-2879",
    "kata": "強度",
    "kana": "きょうど",
    "arti": "kekuatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3",
+    "b1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1208",
+   "id": "avam-2880",
    "kata": "影響",
    "kana": "えいきょう",
    "arti": "pengaruh; memengaruhi; mempengaruhi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1209",
+   "id": "avam-2881",
    "kata": "必要",
    "kana": "ひつよう",
    "arti": "perlu; dibutuhkan; diperlukan; wajib",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1210",
+   "id": "avam-2882",
    "kata": "快適性",
    "kana": "かいてきせい",
    "arti": "kenyamanan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "avam-1211",
+   "id": "avam-2883",
    "kata": "急性中毒",
    "kana": "きゅうせいちゅうどく",
    "arti": "Keracunan akut",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1212",
+   "id": "avam-2884",
    "kata": "性質",
    "kana": "せいしつ",
    "arti": "sifat; karakteristik",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1213",
+   "id": "avam-2885",
    "kata": "手元",
    "kana": "てもと",
    "arti": "di tangan; di dekat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1214",
+   "id": "avam-2886",
    "kata": "手袋",
    "kana": "てぶくろ",
    "arti": "sarung tangan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1215",
+   "id": "avam-2887",
    "kata": "手順",
    "kana": "てじゅん",
    "arti": "urutan langkah; prosedur; cara; metode dalam melakukan sesuatu",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1216",
+   "id": "avam-2888",
    "kata": "指定",
    "kana": "してい",
    "arti": "ditentukan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1217",
+   "id": "avam-2889",
    "kata": "指示",
    "kana": "しじ",
    "arti": "instruksi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4",
+    "b1s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1218",
+   "id": "avam-2890",
    "kata": "指針",
    "kana": "ししん",
    "arti": "panduan; petunjuk",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1219",
+   "id": "avam-2891",
    "kata": "振動",
    "kana": "しんどう",
    "arti": "getaran",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s5",
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1220",
+   "id": "avam-2892",
    "kata": "操縦",
    "kana": "そうじゅう",
    "arti": "pengendalian; mengendalikan, mengoperasikan (seperti pesawat terbang)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2",
+    "b5s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1221",
+   "id": "avam-2893",
    "kata": "故障",
    "kana": "こしょう",
    "arti": "kerusakan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1",
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1222",
+   "id": "avam-2894",
    "kata": "教育",
    "kana": "きょういく",
    "arti": "pendidikan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1223",
+   "id": "avam-2895",
    "kata": "数百",
    "kana": "すうひゃく",
    "arti": "beberapa ratus",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1224",
+   "id": "avam-2896",
    "kata": "整備",
    "kana": "せいび",
    "arti": "Perawatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1225",
+   "id": "avam-2897",
    "kata": "整備士",
    "kana": "せいびし",
    "arti": "mekanik pesawat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1226",
+   "id": "avam-2898",
    "kata": "整理整頓",
    "kana": "せいりせいとん",
    "arti": "menjaga hal -hal tetap rapi dan teratur",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1227",
+   "id": "avam-2899",
    "kata": "方向",
    "kana": "ほうこう",
    "arti": "arah; orientasi; bantalan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1228",
+   "id": "avam-2900",
    "kata": "方式",
    "kana": "ほうしき",
    "arti": "metode; sistem",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1229",
+   "id": "avam-2901",
    "kata": "方法",
    "kana": "ほうほう",
    "arti": "cara; metode; jalan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6",
+    "b1s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1230",
+   "id": "avam-2902",
    "kata": "方針",
    "kana": "ほうしん",
    "arti": "kebijakan; prinsip",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1231",
+   "id": "avam-2903",
    "kata": "時間",
    "kana": "じかん",
    "arti": "Waktu; jam",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1232",
+   "id": "avam-2904",
    "kata": "最低",
    "kana": "さいてい",
    "arti": "paling rendah",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1233",
+   "id": "avam-2905",
    "kata": "最大",
    "kana": "さいだい",
    "arti": "terbesar; Terbaik; maksimum",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4",
+    "b1s5",
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1234",
+   "id": "avam-2906",
    "kata": "最大値",
    "kana": "さいだいち",
    "arti": "nilai maksimum",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1235",
+   "id": "avam-2907",
    "kata": "最小",
    "kana": "さいしょう",
    "arti": "paling kecil",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1236",
+   "id": "avam-2908",
    "kata": "有効",
    "kana": "ゆうこう",
    "arti": "Berharga; efektif; sah; Berfungsi dengan baik atau sesuai",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1237",
+   "id": "avam-2909",
    "kata": "有害物",
    "kana": "ゆうがいぶつ",
    "arti": "zat berbahaya",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1238",
+   "id": "avam-2910",
    "kata": "有無",
    "kana": "うむ",
    "arti": "ada atau tidak ada; keberadaan atau ketidakberadaan; kehadiran atau ketidakhadiran",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1239",
+   "id": "avam-2911",
    "kata": "本人",
    "kana": "ほんにん",
    "arti": "orang yang dimaksud; orang itu sendiri; kata orang",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1240",
+   "id": "avam-2912",
    "kata": "材料",
    "kana": "ざいりょう",
    "arti": "Bahan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1241",
+   "id": "avam-2913",
    "kata": "格納",
    "kana": "かくのう",
    "arti": "penyimpanan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1242",
+   "id": "avam-2914",
    "kata": "格納庫",
    "kana": "かくのうこ",
    "arti": "hanggar; gudang penyimpanan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1243",
+   "id": "avam-2915",
    "kata": "検査",
    "kana": "けんさ",
    "arti": "pemeriksaan; inspeksi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1244",
+   "id": "avam-2916",
    "kata": "構造",
    "kana": "こうぞう",
    "arti": "struktur; konstruksi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2",
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1245",
+   "id": "avam-2917",
    "kata": "標準",
    "kana": "ひょうじゅん",
    "arti": "mode pencucian normal",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1246",
+   "id": "avam-2918",
    "kata": "機内",
    "kana": "きない",
    "arti": "dalam pesawat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1247",
+   "id": "avam-2919",
    "kata": "機構",
    "kana": "きこう",
    "arti": "mekanisme; lembaga",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1248",
+   "id": "avam-2920",
    "kata": "機種",
    "kana": "きしゅ",
    "arti": "Model; tipe",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1249",
+   "id": "avam-2921",
    "kata": "機能",
    "kana": "きのう",
    "arti": "fungsi; kemampuan; fitur",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1250",
+   "id": "avam-2922",
    "kata": "機首",
    "kana": "きしゅ",
    "arti": "hidung pesawat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1",
+    "b5s2",
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1251",
+   "id": "avam-2923",
    "kata": "比例",
    "kana": "ひれい",
    "arti": "proporsi; rasio",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1252",
+   "id": "avam-2924",
    "kata": "気持",
    "kana": "きも",
    "arti": "perasaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1253",
+   "id": "avam-2925",
    "kata": "気温",
    "kana": "きおん",
    "arti": "suhu udara; temperatur; derajat panas",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1254",
+   "id": "avam-2926",
    "kata": "気象",
    "kana": "きしょう",
    "arti": "cuaca; meteorologi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1255",
+   "id": "avam-2927",
    "kata": "法則",
    "kana": "ほうそく",
    "arti": "hukum; peraturan; prinsip",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1256",
+   "id": "avam-2928",
    "kata": "混同",
    "kana": "こんどう",
    "arti": "mencampuradukkan; kebingungan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1257",
+   "id": "avam-2929",
    "kata": "温度",
    "kana": "おんど",
    "arti": "suhu",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1258",
+   "id": "avam-2930",
    "kata": "測定値",
    "kana": "そくていち",
    "arti": "nilai ukur",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1259",
+   "id": "avam-2931",
    "kata": "測定器",
    "kana": "そくていき",
    "arti": "alat ukur",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1260",
+   "id": "avam-2932",
    "kata": "潤滑油",
    "kana": "じゅんかつゆ",
    "arti": "minyak pelumas",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1261",
+   "id": "avam-2933",
    "kata": "火気",
    "kana": "かき",
    "arti": "api terbuka",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1262",
+   "id": "avam-2934",
    "kata": "点検",
    "kana": "てんけん",
    "arti": "pemeriksaan; pengecekan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1263",
+   "id": "avam-2935",
    "kata": "無理",
    "kana": "むり",
    "arti": "mustahil; tidak sanggup; terlalu berat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1264",
+   "id": "avam-2936",
    "kata": "無線機",
    "kana": "むせんき",
    "arti": "radio nirkabel",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1265",
+   "id": "avam-2937",
    "kata": "燃料",
    "kana": "ねんりょう",
    "arti": "bahan bakar",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1266",
+   "id": "avam-2938",
    "kata": "燃焼室",
    "kana": "ねんしょうしつ",
    "arti": "ruang bakar",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1267",
+   "id": "avam-2939",
    "kata": "爆発",
    "kana": "ばくはつ",
    "arti": "Ledakan; Eksplosi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1268",
+   "id": "avam-2940",
    "kata": "片側",
    "kana": "かたがわ",
    "arti": "satu sisi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1269",
+   "id": "avam-2941",
    "kata": "特定",
    "kana": "とくてい",
    "arti": "spesifik; tertentu",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1270",
+   "id": "avam-2942",
    "kata": "特定技能評価試験",
    "kana": "とくていぎのうひょうかしけん",
    "arti": "ujian penilaian TOKUTEI GINOU",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s99"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1271",
+   "id": "avam-2943",
    "kata": "特性",
    "kana": "とくせい",
    "arti": "karakteristik khusus; kualitas khusus; sifat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1272",
+   "id": "avam-2944",
    "kata": "特殊",
    "kana": "とくしゅ",
    "arti": "khusus; istimewa",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1273",
+   "id": "avam-2945",
    "kata": "状態",
    "kana": "じょうたい",
    "arti": "keadaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1274",
+   "id": "avam-2946",
    "kata": "独立",
    "kana": "どくりつ",
    "arti": "independensi; kemandirian; tidak tergantung pada orang lain",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1275",
+   "id": "avam-2947",
    "kata": "現場",
    "kana": "げんば",
    "arti": "lokasi kerja",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1276",
+   "id": "avam-2948",
    "kata": "環境",
    "kana": "かんきょう",
    "arti": "lingkungan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1277",
+   "id": "avam-2949",
    "kata": "病気",
    "kana": "びょうき",
    "arti": "penyakit; sakit",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1278",
+   "id": "avam-2950",
    "kata": "登場",
    "kana": "とうじょう",
    "arti": "muncul; tampil",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1279",
+   "id": "avam-2951",
    "kata": "監視",
    "kana": "かんし",
    "arti": "pemantauan; menonton",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1280",
+   "id": "avam-2952",
    "kata": "目印",
    "kana": "めじるし",
    "arti": "tanda; patokan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1281",
+   "id": "avam-2953",
    "kata": "目的",
    "kana": "もくてき",
    "arti": "tujuan; maksud; sasaran",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1282",
+   "id": "avam-2954",
    "kata": "直径",
    "kana": "ちょっけい",
    "arti": "diameter",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6",
+    "b1s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1283",
+   "id": "avam-2955",
    "kata": "直流",
    "kana": "ちょくりゅう",
    "arti": "arus searah; Dc",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1284",
+   "id": "avam-2956",
    "kata": "直角",
    "kana": "ちょっかく",
    "arti": "tegak lurus",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1285",
+   "id": "avam-2957",
    "kata": "着用",
    "kana": "ちゃくよう",
    "arti": "memakai (seragam)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1286",
+   "id": "avam-2958",
    "kata": "確実",
    "kana": "かくじつ",
    "arti": "pasti; yakin; terjamin; pasti terjadi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1287",
+   "id": "avam-2959",
    "kata": "確認",
    "kana": "かくにん",
    "arti": "pengecekan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1288",
+   "id": "avam-2960",
    "kata": "磁界",
    "kana": "じかい",
    "arti": "medan magnet",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1289",
+   "id": "avam-2961",
    "kata": "社会",
    "kana": "しゃかい",
    "arti": "ilmu pengetahuan sosial",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1290",
+   "id": "avam-2962",
    "kata": "程度",
    "kana": "ていど",
    "arti": "Tingkat; derajat; taraf; kondisi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1291",
+   "id": "avam-2963",
    "kata": "種類",
    "kana": "しゅるい",
    "arti": "jenis",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1292",
+   "id": "avam-2964",
    "kata": "空気",
    "kana": "くうき",
    "arti": "Angin; udara",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s3",
+    "b5s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1293",
+   "id": "avam-2965",
    "kata": "空港",
    "kana": "くうこう",
    "arti": "Bandara",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1294",
+   "id": "avam-2966",
    "kata": "空調",
    "kana": "くうちょう",
    "arti": "AC — Menyesuaikan suhu, kelembapan, dll. ruangan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s4",
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1295",
+   "id": "avam-2967",
    "kata": "窒素",
    "kana": "ちっそ",
    "arti": "nitrogen",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1296",
+   "id": "avam-2968",
    "kata": "等級",
    "kana": "とうきゅう",
    "arti": "tingkat; kelas",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1297",
+   "id": "avam-2969",
    "kata": "範囲",
    "kana": "はんい",
    "arti": "area; jangkauan; batas; ruang lingkup",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1298",
+   "id": "avam-2970",
    "kata": "簡単",
    "kana": "かんたん",
    "arti": "mudah; sederhana; tidak sulit",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1299",
+   "id": "avam-2971",
    "kata": "精密",
    "kana": "せいみつ",
    "arti": "presisi; akurat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1300",
+   "id": "avam-2972",
    "kata": "精度",
    "kana": "せいど",
    "arti": "ketelitian; presisi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1301",
+   "id": "avam-2973",
    "kata": "系統",
    "kana": "けいとう",
    "arti": "sistem; garis keturunan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1302",
+   "id": "avam-2974",
    "kata": "結果",
    "kana": "けっか",
    "arti": "hasil; konsekuensi; memengaruhi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1303",
+   "id": "avam-2975",
    "kata": "締付",
    "kana": "しめつけ",
    "arti": "pengikatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1304",
+   "id": "avam-2976",
    "kata": "自分",
    "kana": "じぶん",
    "arti": "diri sendiri",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1305",
+   "id": "avam-2977",
    "kata": "航空機",
    "kana": "こうくうき",
    "arti": "pesawat terbang",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1306",
+   "id": "avam-2978",
    "kata": "航空機概要",
    "kana": "こうくうきがいよう",
    "arti": "Gambaran Umum Pesawat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "bab5-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "avam-1307",
+   "id": "avam-2979",
    "kata": "蒸気",
    "kana": "じょうき",
    "arti": "uap",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1308",
+   "id": "avam-2980",
    "kata": "行動",
    "kana": "こうどう",
    "arti": "aktivitas; kegiatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1309",
+   "id": "avam-2981",
    "kata": "衛星電話",
    "kana": "えいせいでんわ",
    "arti": "telepon satelit",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1310",
+   "id": "avam-2982",
    "kata": "装置",
    "kana": "そうち",
    "arti": "perangkat; alat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1311",
+   "id": "avam-2983",
    "kata": "複合材料",
    "kana": "ふくごうざいりょう",
    "arti": "bahan komposit; material campuran",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1312",
+   "id": "avam-2984",
    "kata": "見分",
    "kana": "みわ",
    "arti": "inspeksi; penyelidikan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1313",
+   "id": "avam-2985",
    "kata": "規格",
    "kana": "きかく",
    "arti": "standar; norma",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1314",
+   "id": "avam-2986",
    "kata": "設備",
    "kana": "せつび",
    "arti": "peralatan; fasilitas; instalasi; perlengkapan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1315",
+   "id": "avam-2987",
    "kata": "評価",
    "kana": "ひょうか",
    "arti": "penilaian; evaluasi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1316",
+   "id": "avam-2988",
    "kata": "誤差",
    "kana": "ごさ",
    "arti": "galat; selisih",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1",
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1317",
+   "id": "avam-2989",
    "kata": "調整",
    "kana": "ちょうせい",
    "arti": "penyesuaian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1318",
+   "id": "avam-2990",
    "kata": "軽微",
    "kana": "けいび",
    "arti": "ringan; kecil (dampaknya)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1319",
+   "id": "avam-2991",
    "kata": "送気",
    "kana": "おくき",
    "arti": "pengiriman udara",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1320",
+   "id": "avam-2992",
    "kata": "通信",
    "kana": "つうしん",
    "arti": "komunikasi; telekomunikasi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1321",
+   "id": "avam-2993",
    "kata": "速度",
    "kana": "そくど",
    "arti": "kecepatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1322",
+   "id": "avam-2994",
    "kata": "部分",
    "kana": "ぶぶん",
    "arti": "bagian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1323",
+   "id": "avam-2995",
    "kata": "部品",
    "kana": "ぶひん",
    "arti": "bagian; aksesoris",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s3",
+    "b1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1324",
+   "id": "avam-2996",
    "kata": "部品番号",
    "kana": "ぶひんばんごう",
    "arti": "nomor bagian; kode komponen",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1325",
+   "id": "avam-2997",
    "kata": "部材",
    "kana": "ぶざい",
    "arti": "komponen; elemen struktur",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1326",
+   "id": "avam-2998",
    "kata": "酸素",
    "kana": "さんそ",
    "arti": "oksigen (o)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1327",
+   "id": "avam-2999",
    "kata": "酸素濃度",
    "kana": "さんそのうど",
    "arti": "kadar oksigen",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1328",
+   "id": "avam-3000",
    "kata": "重要",
    "kana": "じゅうよう",
    "arti": "penting",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1329",
+   "id": "avam-3001",
    "kata": "金属",
    "kana": "きんぞく",
    "arti": "logam",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2",
+    "b1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1330",
+   "id": "avam-3002",
    "kata": "間隔",
    "kana": "かんかく",
    "arti": "jarak; interval; ruang antara",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1331",
+   "id": "avam-3003",
    "kata": "関係",
    "kana": "かんけい",
    "arti": "hubungan; relasi; keterkaitan antara orang, benda, atau ide-ide",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1332",
+   "id": "avam-3004",
    "kata": "防止",
    "kana": "ぼうし",
    "arti": "pencegahan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1333",
+   "id": "avam-3005",
    "kata": "防毒",
    "kana": "ぼうどく",
    "arti": "perlindungan dari racun",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2",
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1334",
+   "id": "avam-3006",
    "kata": "電力",
    "kana": "でんりょく",
    "arti": "listrik; daya listrik",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1335",
+   "id": "avam-3007",
    "kata": "電圧",
    "kana": "でんあつ",
    "arti": "tegangan listrik",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1336",
+   "id": "avam-3008",
    "kata": "電気",
    "kana": "でんき",
    "arti": "Lampu; listrik",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1",
+    "b5s2",
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1337",
+   "id": "avam-3009",
    "kata": "電気信号",
    "kana": "でんきしんごう",
    "arti": "sinyal listrik",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1338",
+   "id": "avam-3010",
    "kata": "電気系統",
    "kana": "でんきけいとう",
    "arti": "sistem listrik",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1339",
+   "id": "avam-3011",
    "kata": "電流",
    "kana": "でんりゅう",
    "arti": "arus listrik",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1340",
+   "id": "avam-3012",
    "kata": "電源",
    "kana": "でんげん",
    "arti": "tombol daya",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1341",
+   "id": "avam-3013",
    "kata": "静電気",
    "kana": "せいでんき",
    "arti": "debu listrik statis",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1342",
+   "id": "avam-3014",
    "kata": "非常口",
    "kana": "ひじょうぐち",
    "arti": "pintu darurat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1343",
+   "id": "avam-3015",
    "kata": "非常時",
    "kana": "ひじょうじ",
    "arti": "waktu darurat; (dalam sebuah darurat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1344",
+   "id": "avam-3016",
    "kata": "非常用",
    "kana": "ひじょうよう",
    "arti": "darurat (perlengkapan)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1345",
+   "id": "avam-3017",
    "kata": "順番",
    "kana": "じゅんばん",
    "arti": "urutan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1346",
+   "id": "avam-3018",
    "kata": "飛行",
    "kana": "ひこう",
    "arti": "penerbangan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "avam-1347",
+   "id": "avam-3019",
    "kata": "飛行機",
    "kana": "ひこうき",
    "arti": "Pesawat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1348",
+   "id": "avam-3020",
    "kata": "飲料水",
    "kana": "いんりょうすい",
    "arti": "air minum",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1349",
+   "id": "avam-3021",
    "kata": "駆動",
    "kana": "くどう",
    "arti": "penggerak",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1350",
+   "id": "avam-3022",
    "kata": "高所作業",
    "kana": "こうしょさぎょう",
    "arti": "pekerjaan di ketinggian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "avam-1351",
+   "id": "avam-3023",
    "kata": "一般知識",
    "kana": "いっぱんちしき",
    "arti": "pengetahuan umum",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1352",
+   "id": "avam-3024",
    "kata": "不安全",
    "kana": "ふあんぜん",
    "arti": "tidak aman",
    "cat": "Kosakata dari teks materi",
-   "bab": "bab3",
-   "src": [],
+   "bab": "bab4",
+   "src": [
+    "b4s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1353",
+   "id": "avam-3025",
    "kata": "主翼前縁",
    "kana": "しゅよくぜんえん",
    "arti": "tepi depan sayap utama",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1354",
+   "id": "avam-3026",
    "kata": "主電源",
    "kana": "しゅでんげん",
    "arti": "sumber listrik utama",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1355",
+   "id": "avam-3027",
    "kata": "代替方法",
    "kana": "だいたいほうほう",
    "arti": "metode alternatif",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1356",
+   "id": "avam-3028",
    "kata": "使用回数",
    "kana": "しようかいすう",
    "arti": "jumlah pemakaian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1357",
+   "id": "avam-3029",
    "kata": "六角頭",
    "kana": "ろっかくあたま",
    "arti": "kepala heksagonal (baut)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1358",
+   "id": "avam-3030",
    "kata": "剪断力",
    "kana": "せんだんりょく",
    "arti": "gaya geser",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1359",
+   "id": "avam-3031",
    "kata": "副操縦士",
    "kana": "ふくそうじゅうし",
    "arti": "kopilot",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "bab5-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1360",
+   "id": "avam-3032",
    "kata": "化学反応型",
    "kana": "かがくはんのうがた",
    "arti": "tipe reaksi kimia",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1361",
+   "id": "avam-3033",
    "kata": "急減圧",
    "kana": "きゅうげんあつ",
    "arti": "dekompresi mendadak",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1362",
+   "id": "avam-3034",
    "kata": "構造用",
    "kana": "こうぞうよう",
    "arti": "untuk struktur",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1363",
+   "id": "avam-3035",
    "kata": "温度変化",
    "kana": "おんどへんか",
    "arti": "perubahan suhu",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1364",
+   "id": "avam-3036",
    "kata": "測定前",
    "kana": "そくていまえ",
    "arti": "sebelum pengukuran",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1365",
+   "id": "avam-3037",
    "kata": "溝付き",
    "kana": "みぞつき",
    "arti": "beralur",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s7"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1366",
+   "id": "avam-3038",
    "kata": "異種金属",
    "kana": "いしゅきんぞく",
    "arti": "logam berbeda jenis",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1367",
+   "id": "avam-3039",
    "kata": "皿頭",
    "kana": "さらあたま",
    "arti": "kepala benam (countersunk)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1368",
+   "id": "avam-3040",
    "kata": "直流電流",
    "kana": "ちょくりゅうでんりゅう",
    "arti": "arus searah (DC)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1369",
+   "id": "avam-3041",
    "kata": "着陸後",
    "kana": "ちゃくりくご",
    "arti": "setelah mendarat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s2",
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1370",
+   "id": "avam-3042",
    "kata": "空気取り入れ口",
    "kana": "くうきとりいれぐち",
    "arti": "lubang masuk udara",
    "cat": "Kosakata dari teks materi",
-   "bab": "bab5",
-   "src": [],
+   "bab": "bab1",
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1371",
+   "id": "avam-3043",
    "kata": "精密公差",
    "kana": "せいみつこうさ",
    "arti": "toleransi presisi",
    "cat": "Kosakata dari teks materi",
-   "bab": "bab3",
-   "src": [],
+   "bab": "bab1",
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1372",
+   "id": "avam-3044",
    "kata": "総合監視",
    "kana": "そうごうかんし",
    "arti": "pengawasan menyeluruh",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1373",
+   "id": "avam-3045",
    "kata": "締付け",
    "kana": "しめつけ",
    "arti": "pengencangan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1374",
+   "id": "avam-3046",
    "kata": "締結一般",
    "kana": "ていけついっぱん",
    "arti": "dasar pengencangan (fastening)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1375",
+   "id": "avam-3047",
    "kata": "自己点検",
    "kana": "じこてんけん",
    "arti": "pemeriksaan sendiri",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2",
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1376",
+   "id": "avam-3048",
    "kata": "識別記号",
    "kana": "しきべつきごう",
    "arti": "tanda identifikasi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1377",
+   "id": "avam-3049",
    "kata": "酸素発生器",
    "kana": "さんそはっせいき",
    "arti": "generator oksigen",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1378",
+   "id": "avam-3050",
    "kata": "重構造",
    "kana": "じゅうこうぞう",
    "arti": "struktur berat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1379",
+   "id": "avam-3051",
    "kata": "重点監視",
    "kana": "じゅうてんかんし",
    "arti": "pengawasan prioritas",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1380",
+   "id": "avam-3052",
    "kata": "離陸後",
    "kana": "りりくご",
    "arti": "setelah lepas landas",
    "cat": "Kosakata dari teks materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1381",
+   "id": "avam-3053",
    "kata": "電気計測一般",
    "kana": "でんきけいそくいっぱん",
    "arti": "dasar pengukuran listrik",
    "cat": "Kosakata dari teks materi",
-   "bab": "bab1",
-   "src": [],
+   "bab": "bab5",
+   "src": [
+    "bab5-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1382",
+   "id": "avam-3054",
    "kata": "飛行中",
    "kana": "ひこうちゅう",
    "arti": "sedang terbang",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b1s6",
+    "b5s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1383",
+   "id": "avam-3055",
    "kata": "飛行前後",
    "kana": "ひこうぜんご",
    "arti": "sebelum dan sesudah terbang",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "avam-1384",
+   "id": "avam-3056",
    "kata": "ボール盤",
    "kana": "ボールばん",
    "arti": "Mesin Bor (Drilling Machine)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1385",
+   "id": "avam-3057",
    "kata": "不安",
    "kana": "ふあん",
    "arti": "cemas; ragu",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b4s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1386",
+   "id": "avam-3058",
    "kata": "不注意",
    "kana": "ふちゅうい",
    "arti": "kelalaian; tidak hati-hati",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1387",
+   "id": "avam-3059",
    "kata": "不適切",
    "kana": "ふてきせつ",
    "arti": "tidak layak; tidak tepat",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1388",
+   "id": "avam-3060",
    "kata": "予告",
    "kana": "よこく",
    "arti": "pemberitahuan atau pengumuman sebelumnya tentang sesuatu",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1389",
+   "id": "avam-3061",
    "kata": "事業者",
    "kana": "じぎょうしゃ",
    "arti": "pelaku usaha",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1390",
+   "id": "avam-3062",
    "kata": "事項",
    "kana": "じこう",
    "arti": "hal; butir ketentuan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1391",
+   "id": "avam-3063",
    "kata": "付加",
    "kana": "ふか",
    "arti": "penambahan; tambahan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1392",
+   "id": "avam-3064",
    "kata": "代替",
    "kana": "だいたい",
    "arti": "pengganti",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s7"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1393",
+   "id": "avam-3065",
    "kata": "件数",
    "kana": "けんすう",
    "arti": "jumlah acara",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1394",
+   "id": "avam-3066",
    "kata": "低下",
    "kana": "ていか",
    "arti": "penurunan; kemerosotan dalam kualitas, fungsi, atau tingkat; pengurangan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1395",
+   "id": "avam-3067",
    "kata": "作動",
    "kana": "さどう",
    "arti": "pengoperasian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1396",
+   "id": "avam-3068",
    "kata": "作成",
    "kana": "さくせい",
    "arti": "membuat; menyusun; mengembangkan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1397",
+   "id": "avam-3069",
    "kata": "作業場",
    "kana": "さぎょうば",
    "arti": "pekerjaan; bengkel",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1398",
+   "id": "avam-3070",
    "kata": "作業現場",
    "kana": "さぎょうげんば",
    "arti": "lokasi kerja",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1399",
+   "id": "avam-3071",
    "kata": "作業環境",
    "kana": "さぎょうかんきょう",
    "arti": "lingkungan kerja",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1400",
+   "id": "avam-3072",
    "kata": "作業者",
    "kana": "さぎょうしゃ",
    "arti": "pekerja",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1401",
+   "id": "avam-3073",
    "kata": "例題",
    "kana": "れいだい",
    "arti": "soal contoh; soal latihan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1402",
+   "id": "avam-3074",
    "kata": "供給",
    "kana": "きょうきゅう",
    "arti": "penyediaan; pasokan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b5s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1403",
+   "id": "avam-3075",
    "kata": "保護",
    "kana": "ほご",
    "arti": "perlindungan; pengamanan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b3s2",
+    "b3s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1404",
+   "id": "avam-3076",
    "kata": "倍数",
    "kana": "ばいすう",
    "arti": "kelipatan (pengali)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1405",
+   "id": "avam-3077",
    "kata": "倍率",
    "kana": "ばいりつ",
    "arti": "perbesaran; manfaat; amplifikasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1406",
+   "id": "avam-3078",
    "kata": "優先",
    "kana": "ゆうせん",
    "arti": "preferensi; prioritas",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s7"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "avam-1407",
+   "id": "avam-3079",
    "kata": "充電",
    "kana": "じゅうでん",
    "arti": "Pengecasan; isi ulang daya",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1408",
+   "id": "avam-3080",
    "kata": "先端",
    "kana": "せんたん",
    "arti": "ujung",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1409",
+   "id": "avam-3081",
    "kata": "先端部",
    "kana": "せんたんぶ",
    "arti": "bagian ujung",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1410",
+   "id": "avam-3082",
    "kata": "免責",
    "kana": "めんせき",
    "arti": "pembebasan dari tanggung jawab; penafian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1411",
+   "id": "avam-3083",
    "kata": "全体",
    "kana": "ぜんたい",
    "arti": "seluruh",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1412",
+   "id": "avam-3084",
    "kata": "公序良俗",
    "kana": "こうじょりょうぞく",
    "arti": "ketertiban dan kesusilaan umum",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1413",
+   "id": "avam-3085",
    "kata": "公益",
    "kana": "こうえき",
    "arti": "kepentingan umum",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1414",
+   "id": "avam-3086",
    "kata": "公称",
    "kana": "こうしょう",
    "arti": "sebutan resmi; nominal",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1415",
+   "id": "avam-3087",
    "kata": "公開",
    "kana": "こうかい",
    "arti": "publikasi; pameran; dibuka untuk umum; tayang (film, acara)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1416",
+   "id": "avam-3088",
    "kata": "共通",
    "kana": "きょうつう",
    "arti": "bersama; umum; memiliki kesamaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1417",
+   "id": "avam-3089",
    "kata": "内容",
    "kana": "ないよう",
    "arti": "isi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1418",
+   "id": "avam-3090",
    "kata": "内蔵",
    "kana": "ないぞう",
    "arti": "terpasang di dalam",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1419",
+   "id": "avam-3091",
    "kata": "出典",
    "kana": "しゅってん",
    "arti": "sumber",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1420",
+   "id": "avam-3092",
    "kata": "分野",
    "kana": "ぶんや",
    "arti": "bidang; area; disiplin (ilmu)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1421",
+   "id": "avam-3093",
    "kata": "分類",
    "kana": "ぶんるい",
    "arti": "pengelompokan; klasifikasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1422",
+   "id": "avam-3094",
    "kata": "切断",
    "kana": "せつだん",
    "arti": "pemotongan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1423",
+   "id": "avam-3095",
    "kata": "制限",
    "kana": "せいげん",
    "arti": "pembatasan; limit; batasan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1424",
+   "id": "avam-3096",
    "kata": "削除",
    "kana": "さくじょ",
    "arti": "penghapusan; eliminasi; mengejutkan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1425",
+   "id": "avam-3097",
    "kata": "副読本",
    "kana": "ふくどくほん",
    "arti": "buku pelengkap; buku tambahan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1426",
+   "id": "avam-3098",
    "kata": "労働者",
    "kana": "ろうどうしゃ",
    "arti": "pekerja",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1427",
+   "id": "avam-3099",
    "kata": "区分",
    "kana": "くぶん",
    "arti": "divisi; bagian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1428",
+   "id": "avam-3100",
    "kata": "協会",
    "kana": "きょうかい",
    "arti": "asosiasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1429",
+   "id": "avam-3101",
    "kata": "危険性",
    "kana": "きけんせい",
    "arti": "berisiko; (level) bahaya",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1430",
+   "id": "avam-3102",
    "kata": "原本",
    "kana": "げんぽん",
    "arti": "dokumen asli",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1431",
+   "id": "avam-3103",
    "kata": "厳禁",
    "kana": "げんきん",
    "arti": "dilarang keras",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1432",
+   "id": "avam-3104",
    "kata": "参考",
    "kana": "さんこう",
    "arti": "referensi; rujukan; acuan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1433",
+   "id": "avam-3105",
    "kata": "反社会的",
    "kana": "はんしゃかいてき",
    "arti": "anti sosial",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1434",
+   "id": "avam-3106",
    "kata": "取付",
    "kana": "とりつ",
    "arti": "instalasi; pemasangan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1435",
+   "id": "avam-3107",
    "kata": "可能",
    "kana": "かのう",
    "arti": "mungkin; potensi; praktis",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1436",
+   "id": "avam-3108",
    "kata": "可能性",
    "kana": "かのうせい",
    "arti": "kemampuan; kemungkinan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1437",
+   "id": "avam-3109",
    "kata": "同意",
    "kana": "どうい",
    "arti": "persetujuan; kesepakatan; persetujuan tertulis",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1438",
+   "id": "avam-3110",
    "kata": "名称",
    "kana": "めいしょう",
    "arti": "nama; sebutan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1439",
+   "id": "avam-3111",
    "kata": "向上",
    "kana": "こうじょう",
    "arti": "Peningkatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1440",
+   "id": "avam-3112",
    "kata": "周囲",
    "kana": "しゅうい",
    "arti": "lingkungan; area sekeliling; batasan atau ruang di sekitar sesuatu",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1441",
+   "id": "avam-3113",
    "kata": "問題点",
    "kana": "もんだいてん",
    "arti": "masalahnya",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1442",
+   "id": "avam-3114",
    "kata": "在留",
    "kana": "ざいりゅう",
    "arti": "tinggal di luar negeri",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1443",
+   "id": "avam-3115",
    "kata": "型式",
    "kana": "けいしき",
    "arti": "bentuk; model",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1444",
+   "id": "avam-3116",
    "kata": "基本的",
    "kana": "きほんてき",
    "arti": "bersifat dasar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1445",
+   "id": "avam-3117",
    "kata": "場合",
    "kana": "ばあい",
    "arti": "dalam hal, kalau",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1446",
+   "id": "avam-3118",
    "kata": "増加",
    "kana": "ぞうか",
    "arti": "meningkatkan; bangkit; pertumbuhan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1447",
+   "id": "avam-3119",
    "kata": "墜落",
    "kana": "ついらく",
    "arti": "jatuh dari ketinggian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1448",
+   "id": "avam-3120",
    "kata": "変化",
    "kana": "へんか",
    "arti": "perubahan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1449",
+   "id": "avam-3121",
    "kata": "変形",
    "kana": "へんけい",
    "arti": "perubahan bentuk; deformasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1450",
+   "id": "avam-3122",
    "kata": "変更",
    "kana": "へんこう",
    "arti": "mengubah; modifikasi; perubahan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1451",
+   "id": "avam-3123",
    "kata": "多数",
    "kana": "たすう",
    "arti": "banyak sekali",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1452",
+   "id": "avam-3124",
    "kata": "学習",
    "kana": "がくしゅう",
    "arti": "pembelajaran; studi; proses belajar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1453",
+   "id": "avam-3125",
    "kata": "実施",
    "kana": "じっし",
    "arti": "pelaksanaan; pelaksanaan suatu rencana atau kebijakan; implementasi; penerapan suatu proyek atau tindakan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1454",
+   "id": "avam-3126",
    "kata": "実際",
    "kana": "じっさい",
    "arti": "kenyataan; dalam praktek; secara nyata atau sebenarnya",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1455",
+   "id": "avam-3127",
    "kata": "対応",
    "kana": "たいおう",
    "arti": "Tanggapan; Penanganan; Menghadapi; Respon terhadap sesuatu",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1456",
+   "id": "avam-3128",
    "kata": "対策",
    "kana": "たいさく",
    "arti": "tindakan atau langkah",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1457",
+   "id": "avam-3129",
    "kata": "就労",
    "kana": "しゅうろう",
    "arti": "bekerja; masuk dunia kerja",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1458",
+   "id": "avam-3130",
    "kata": "左側",
    "kana": "ひだりがわ",
    "arti": "kiri; sisi kiri (tangan)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1459",
+   "id": "avam-3131",
    "kata": "帰属",
    "kana": "きぞく",
    "arti": "milik; anggapan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1460",
+   "id": "avam-3132",
    "kata": "平型",
    "kana": "ひらがた",
    "arti": "tipe datar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1461",
+   "id": "avam-3133",
    "kata": "平安",
    "kana": "へいあん",
    "arti": "damai; tenteram",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b5s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1462",
+   "id": "avam-3134",
    "kata": "度合",
    "kana": "どあい",
    "arti": "tingkat; derajat",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1463",
+   "id": "avam-3135",
    "kata": "引張",
    "kana": "ひっぱり",
    "arti": "menarik; peregangan; ketegangan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1464",
+   "id": "avam-3136",
    "kata": "形状",
    "kana": "けいじょう",
    "arti": "apel pagi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1465",
+   "id": "avam-3137",
    "kata": "後部",
    "kana": "こうぶ",
    "arti": "bagian belakang",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1466",
+   "id": "avam-3138",
    "kata": "所作",
    "kana": "しょさ",
    "arti": "tindakan; gerakan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1467",
+   "id": "avam-3139",
    "kata": "技術協会",
    "kana": "ぎじゅつきょうかい",
    "arti": "asosiasi teknik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1468",
+   "id": "avam-3140",
    "kata": "抵抗測定",
    "kana": "ていこうそくてい",
    "arti": "Pengukuran Resistansi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1469",
+   "id": "avam-3141",
    "kata": "指標",
    "kana": "しひょう",
    "arti": "indeks; indikator",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1470",
+   "id": "avam-3142",
    "kata": "接続",
    "kana": "せつぞく",
    "arti": "koneksi; penghubungan; penyambungan (dalam konteks jaringan atau perangkat)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1471",
+   "id": "avam-3143",
    "kata": "接触",
    "kana": "せっしょく",
    "arti": "kontak; sentuhan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1472",
+   "id": "avam-3144",
    "kata": "掲載",
    "kana": "けいさい",
    "arti": "penerbitan; publikasi; pencantuman (dalam media)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1473",
+   "id": "avam-3145",
    "kata": "損傷",
    "kana": "そんしょう",
    "arti": "kerusakan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1474",
+   "id": "avam-3146",
    "kata": "損失",
    "kana": "そんしつ",
    "arti": "kerugian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1475",
+   "id": "avam-3147",
    "kata": "損害",
    "kana": "そんがい",
    "arti": "kerugian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1476",
+   "id": "avam-3148",
    "kata": "操作",
    "kana": "そうさ",
    "arti": "pengoperasian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1477",
+   "id": "avam-3149",
    "kata": "施設",
    "kana": "しせつ",
    "arti": "Fasilitas",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1478",
+   "id": "avam-3150",
    "kata": "旅客機",
    "kana": "りょかくき",
    "arti": "pesawat penumpang",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1479",
+   "id": "avam-3151",
    "kata": "旋回",
    "kana": "せんかい",
    "arti": "perputaran; berputar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1480",
+   "id": "avam-3152",
    "kata": "日本航空",
    "kana": "にほんこうくう",
    "arti": "Japan Airlines (JAL)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1481",
+   "id": "avam-3153",
    "kata": "明記",
    "kana": "めいき",
    "arti": "tertulis dengan jelas",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1482",
+   "id": "avam-3154",
    "kata": "有償",
    "kana": "ゆうしょう",
    "arti": "berbayar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1483",
+   "id": "avam-3155",
    "kata": "枚数",
    "kana": "まいすう",
    "arti": "jumlah lembar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1484",
+   "id": "avam-3156",
    "kata": "業務",
    "kana": "ぎょうむ",
    "arti": "pekerjaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1485",
+   "id": "avam-3157",
    "kata": "概要",
    "kana": "がいよう",
    "arti": "ringkasan; gambaran umum",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1486",
+   "id": "avam-3158",
    "kata": "構成",
    "kana": "こうせい",
    "arti": "Struktur; komposisi; pengaturan; cara penyusunan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1487",
+   "id": "avam-3159",
    "kata": "構造物",
    "kana": "こうぞうぶつ",
    "arti": "struktur bangunan; bangunan sipil",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1488",
+   "id": "avam-3160",
    "kata": "機体",
    "kana": "きたい",
    "arti": "badan pesawat",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1489",
+   "id": "avam-3161",
    "kata": "機械",
    "kana": "きかい",
    "arti": "mesin",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1490",
+   "id": "avam-3162",
    "kata": "正常",
    "kana": "せいじょう",
    "arti": "normal; baik; standar; tidak ada kelainan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1491",
+   "id": "avam-3163",
    "kata": "正確",
    "kana": "せいかく",
    "arti": "tepat; benar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1492",
+   "id": "avam-3164",
    "kata": "正解",
    "kana": "せいかい",
    "arti": "jawaban benar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1493",
+   "id": "avam-3165",
    "kata": "注意",
    "kana": "ちゅうい",
    "arti": "Perhatian!",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1494",
+   "id": "avam-3166",
    "kata": "注意事項",
    "kana": "ちゅういじこう",
    "arti": "hal-hal yang perlu diperhatikan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1495",
+   "id": "avam-3167",
    "kata": "潜在的",
    "kana": "せんざいてき",
    "arti": "potensial; tersembunyi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1496",
+   "id": "avam-3168",
    "kata": "特定技能",
    "kana": "とくていぎのう",
    "arti": "keterampilan khusus (TOKUTEI GINOU)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s99"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1497",
+   "id": "avam-3169",
    "kata": "理想的",
    "kana": "りそうてき",
    "arti": "ideal; sempurna",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1498",
+   "id": "avam-3170",
    "kata": "理解",
    "kana": "りかい",
    "arti": "memahami",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1499",
+   "id": "avam-3171",
    "kata": "異種",
    "kana": "いしゅ",
    "arti": "Jenis berbeda; Spesies berbeda",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1500",
+   "id": "avam-3172",
    "kata": "疲労",
    "kana": "ひろう",
    "arti": "kelelahan; keletihan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1501",
+   "id": "avam-3173",
    "kata": "発射",
    "kana": "はっしゃ",
    "arti": "menembakkan, memancarkan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1502",
+   "id": "avam-3174",
    "kata": "発電機",
    "kana": "はつでんき",
    "arti": "generator listrik",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1503",
+   "id": "avam-3175",
    "kata": "着陸",
    "kana": "ちゃくりく",
    "arti": "pendaratan (pesawat)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b5s2",
+    "b5s5"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1504",
+   "id": "avam-3176",
    "kata": "知識",
    "kana": "ちしき",
    "arti": "pengetahuan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1505",
+   "id": "avam-3177",
    "kata": "確率",
    "kana": "かくりつ",
    "arti": "kemungkinan atau probabilitas; tingkat kemungkinan suatu peristiwa terjadi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1506",
+   "id": "avam-3178",
    "kata": "社会的",
    "kana": "しゃかいてき",
    "arti": "sosial; masyarakat",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1507",
+   "id": "avam-3179",
    "kata": "社団",
    "kana": "しゃだん",
    "arti": "perusahaan; asosiasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1508",
+   "id": "avam-3180",
    "kata": "社団法人",
    "kana": "しゃだんほうじん",
    "arti": "orang yuridis perusahaan; Tubuh Terkumpul; perusahaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1509",
+   "id": "avam-3181",
    "kata": "箇所",
    "kana": "かしょ",
    "arti": "bagian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1510",
+   "id": "avam-3182",
    "kata": "管理",
    "kana": "かんり",
    "arti": "pengelolaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b3s2",
+    "b3s3",
+    "b4s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1511",
+   "id": "avam-3183",
    "kata": "精神",
    "kana": "せいしん",
    "arti": "mental; semangat",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1512",
+   "id": "avam-3184",
    "kata": "紹介",
    "kana": "しょうかい",
    "arti": "perkenalan; presentasi; rujukan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1513",
+   "id": "avam-3185",
    "kata": "結合",
    "kana": "けつごう",
    "arti": "penggabungan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1514",
+   "id": "avam-3186",
    "kata": "給源",
    "kana": "きゅうげん",
    "arti": "sumber pasokan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b5s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1515",
+   "id": "avam-3187",
    "kata": "編集",
    "kana": "へんしゅう",
    "arti": "penyuntingan; pengeditan; modifikasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1516",
+   "id": "avam-3188",
    "kata": "義務",
    "kana": "ぎむ",
    "arti": "kewajiban; tanggung jawab",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1517",
+   "id": "avam-3189",
    "kata": "翻訳",
    "kana": "ほんやく",
    "arti": "terjemahan; menguraikan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1518",
+   "id": "avam-3190",
    "kata": "耐熱",
    "kana": "たいねつ",
    "arti": "penahan panas",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1519",
+   "id": "avam-3191",
    "kata": "職場",
    "kana": "しょくば",
    "arti": "tempat kerja",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1520",
+   "id": "avam-3192",
    "kata": "自己",
    "kana": "じこ",
    "arti": "diri sendiri; ego; identitas",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b3s2",
+    "b3s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1521",
+   "id": "avam-3193",
    "kata": "航空",
    "kana": "こうくう",
    "arti": "penerbangan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b5s5"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1522",
+   "id": "avam-3194",
    "kata": "荷重",
    "kana": "かじゅう",
    "arti": "beban",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1523",
+   "id": "avam-3195",
    "kata": "著作権",
    "kana": "ちょさくけん",
    "arti": "hak cipta",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1524",
+   "id": "avam-3196",
    "kata": "衝撃",
    "kana": "しょうげき",
    "arti": "benturan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1525",
+   "id": "avam-3197",
    "kata": "装備",
    "kana": "そうび",
    "arti": "perlengkapan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1526",
+   "id": "avam-3198",
    "kata": "装備品",
    "kana": "そうびひん",
    "arti": "perlengkapan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1527",
+   "id": "avam-3199",
    "kata": "裏表紙",
    "kana": "うらおもてし",
    "arti": "sampul belakang dan depan buku",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1528",
+   "id": "avam-3200",
    "kata": "複製",
    "kana": "ふくせい",
    "arti": "duplikasi; salinan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1529",
+   "id": "avam-3201",
    "kata": "要因",
    "kana": "よういん",
    "arti": "penyebab",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1530",
+   "id": "avam-3202",
    "kata": "要約",
    "kana": "ようやく",
    "arti": "ringkasan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1531",
+   "id": "avam-3203",
    "kata": "要領",
    "kana": "ようりょう",
    "arti": "cara; metode; prosedur; keahlian dalam melakukan sesuatu",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1532",
+   "id": "avam-3204",
    "kata": "規定",
    "kana": "きてい",
    "arti": "peraturan; ketentuan; norma",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1533",
+   "id": "avam-3205",
    "kata": "規程",
    "kana": "きてい",
    "arti": "peraturan resmi; aturan batin",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1534",
+   "id": "avam-3206",
    "kata": "観察",
    "kana": "かんさつ",
    "arti": "pengamatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1535",
+   "id": "avam-3207",
    "kata": "計測",
    "kana": "けいそく",
    "arti": "pengukuran",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1536",
+   "id": "avam-3208",
    "kata": "記載",
    "kana": "きさい",
    "arti": "sebutkan (dalam dokumen); catatan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1537",
+   "id": "avam-3209",
    "kata": "設問",
    "kana": "せつもん",
    "arti": "pertanyaan; soal",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1538",
+   "id": "avam-3210",
    "kata": "説明",
    "kana": "せつめい",
    "arti": "penjelasan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1539",
+   "id": "avam-3211",
    "kata": "識別",
    "kana": "しきべつ",
    "arti": "identifikasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1540",
+   "id": "avam-3212",
    "kata": "負荷",
    "kana": "ふか",
    "arti": "beban; beban (mis. Waktu CPU, listrik, dll.)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1541",
+   "id": "avam-3213",
    "kata": "販売",
    "kana": "はんばい",
    "arti": "penjualan; penjualan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1542",
+   "id": "avam-3214",
    "kata": "責任",
    "kana": "せきにん",
    "arti": "tanggung jawab",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1543",
+   "id": "avam-3215",
    "kata": "転載",
    "kana": "てんさい",
    "arti": "penyalinan; reposting",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1544",
+   "id": "avam-3216",
    "kata": "軽量",
    "kana": "けいりょう",
    "arti": "ringan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1545",
+   "id": "avam-3217",
    "kata": "通常",
    "kana": "つうじょう",
    "arti": "biasanya; umumnya; secara umum; dalam keadaan normal",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1546",
+   "id": "avam-3218",
    "kata": "連続",
    "kana": "れんぞく",
    "arti": "Terus menerus; tanpa henti",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1547",
+   "id": "avam-3219",
    "kata": "違法",
    "kana": "いほう",
    "arti": "melanggar hukum",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1548",
+   "id": "avam-3220",
    "kata": "適合",
    "kana": "てきごう",
    "arti": "sesuai; cocok",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1549",
+   "id": "avam-3221",
    "kata": "適正",
    "kana": "てきせい",
    "arti": "layak; wajar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1550",
+   "id": "avam-3222",
    "kata": "関連",
    "kana": "かんれん",
    "arti": "hubungan; keterkaitan; relevansi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "PDF bidang"
   },
   {
-   "id": "avam-1551",
+   "id": "avam-3223",
    "kata": "頭部",
    "kana": "とうぶ",
    "arti": "bagian kepala",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"

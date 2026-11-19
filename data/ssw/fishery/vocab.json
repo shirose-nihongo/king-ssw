@@ -37178,1219 +37178,1439 @@
    ]
   },
   {
-   "id": "fy-2587",
+   "id": "fy-3088",
    "kata": "一人",
    "kana": "ひとり",
    "arti": "satu orang; sendiri; tunggal",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2",
+    "b2s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2588",
+   "id": "fy-3089",
    "kata": "一体",
    "kana": "いったい",
    "arti": "menyatu",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2589",
+   "id": "fy-3090",
    "kata": "一斉",
    "kana": "いっせい",
    "arti": "serentak",
    "cat": "Kosakata dari teks materi",
    "bab": "bab8",
-   "src": [],
+   "src": [
+    "b8s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2590",
+   "id": "fy-3091",
    "kata": "一本釣",
    "kana": "いちほんつり",
    "arti": "memancing dengan satu umpan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2591",
+   "id": "fy-3092",
    "kata": "一気",
    "kana": "いっき",
    "arti": "sekaligus",
    "cat": "Kosakata dari teks materi",
    "bab": "bab9",
-   "src": [],
+   "src": [
+    "b9s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2592",
+   "id": "fy-3093",
    "kata": "一緒",
    "kana": "いっしょ",
    "arti": "bersama-sama",
    "cat": "Kosakata dari teks materi",
    "bab": "bab10",
-   "src": [],
+   "src": [
+    "b10s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2593",
+   "id": "fy-3094",
    "kata": "下方",
    "kana": "かほう",
    "arti": "ke bawah; bagian bawah",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2594",
+   "id": "fy-3095",
    "kata": "全体",
    "kana": "ぜんたい",
    "arti": "seluruh",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2",
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2595",
+   "id": "fy-3096",
    "kata": "全員",
    "kana": "ぜんいん",
    "arti": "seluruh anggota",
    "cat": "Kosakata dari teks materi",
    "bab": "bab11",
-   "src": [],
+   "src": [
+    "b11s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2596",
+   "id": "fy-3097",
    "kata": "内水面",
    "kana": "うちすいめん",
    "arti": "perairan internal",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2597",
+   "id": "fy-3098",
    "kata": "円錐形",
    "kana": "えんすいがた",
    "arti": "berbentuk kerucut",
    "cat": "Kosakata dari teks materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1",
+    "b7s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2598",
+   "id": "fy-3099",
    "kata": "切落し",
    "kana": "せつおとし",
    "arti": "pemotongan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab11",
-   "src": [],
+   "src": [
+    "bab11-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2599",
+   "id": "fy-3100",
    "kata": "別々",
    "kana": "べつべつ",
    "arti": "masing-masing; terpisah",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2600",
+   "id": "fy-3101",
    "kata": "加工場",
    "kana": "かこうじょう",
    "arti": "tempat fabrikasi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2601",
+   "id": "fy-3102",
    "kata": "動物",
    "kana": "どうぶつぷ",
    "arti": "hewan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab8",
-   "src": [],
+   "src": [
+    "b8s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2602",
+   "id": "fy-3103",
    "kata": "動物性",
    "kana": "どうぶつせいた",
    "arti": "hewan (di alam; Hewan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2603",
+   "id": "fy-3104",
    "kata": "十分気",
    "kana": "じゅうぶんき",
    "arti": "dengan penuh perhatian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2604",
+   "id": "fy-3105",
    "kata": "即座",
    "kana": "そくざ",
    "arti": "Langsung; Segera",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2605",
+   "id": "fy-3106",
    "kata": "取付",
    "kana": "とりつ",
    "arti": "instalasi; pemasangan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2606",
+   "id": "fy-3107",
    "kata": "受取り",
    "kana": "うけとり",
    "arti": "penerimaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2607",
+   "id": "fy-3108",
    "kata": "同時",
    "kana": "どうじ",
    "arti": "bersamaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2608",
+   "id": "fy-3109",
    "kata": "子方",
    "kana": "こかた",
    "arti": "pihak anak (dalam perjanjian)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2609",
+   "id": "fy-3110",
    "kata": "字型",
    "kana": "じがた",
    "arti": "bentuk huruf",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s1",
+    "b6s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2610",
+   "id": "fy-3111",
    "kata": "安全帯",
    "kana": "あんぜんたい",
    "arti": "sabuk pengaman",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2611",
+   "id": "fy-3112",
    "kata": "定義",
    "kana": "ていぎ",
    "arti": "definisi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2612",
+   "id": "fy-3113",
    "kata": "実際",
    "kana": "じっさい",
    "arti": "kenyataan; dalam praktek; secara nyata atau sebenarnya",
    "cat": "Kosakata dari teks materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2613",
+   "id": "fy-3114",
    "kata": "年頃",
    "kana": "としごろ",
    "arti": "Usia tertentu; masa remaja/dewasa muda",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2614",
+   "id": "fy-3115",
    "kata": "徐々",
    "kana": "じょじょ",
    "arti": "lambat; secara bertahap",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2615",
+   "id": "fy-3116",
    "kata": "折返る",
    "kana": "おりかえる",
    "arti": "kembali (berputar)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2616",
+   "id": "fy-3117",
    "kata": "数多",
    "kana": "かずおお",
    "arti": "banyak; banyak",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2617",
+   "id": "fy-3118",
    "kata": "映像",
    "kana": "えいぞう",
    "arti": "gambar; citra",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2618",
+   "id": "fy-3119",
    "kata": "案内",
    "kana": "あんない",
    "arti": "Informasi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2619",
+   "id": "fy-3120",
    "kata": "植物",
    "kana": "しょくぶつぷ",
    "arti": "tanaman; flora; tumbuhan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2620",
+   "id": "fy-3121",
    "kata": "樹脂",
    "kana": "じゅし",
    "arti": "resin",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "b4s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2621",
+   "id": "fy-3122",
    "kata": "正面",
    "kana": "しょうめん",
    "arti": "depan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2622",
+   "id": "fy-3123",
    "kata": "水面",
    "kana": "すいめん",
    "arti": "permukaan air",
    "cat": "Kosakata dari teks materi",
    "bab": "bab12",
-   "src": [],
+   "src": [
+    "b12s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2623",
+   "id": "fy-3124",
    "kata": "活発",
    "kana": "かっぱつ",
    "arti": "hidup; aktif; kuat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab9",
-   "src": [],
+   "src": [
+    "b9s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2624",
+   "id": "fy-3125",
    "kata": "熱帯",
    "kana": "ねったい",
    "arti": "daerah tropis",
    "cat": "Kosakata dari teks materi",
    "bab": "bab9",
-   "src": [],
+   "src": [
+    "b9s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2625",
+   "id": "fy-3126",
    "kata": "生鮮",
    "kana": "せいせんか",
    "arti": "segar",
    "cat": "Kosakata dari teks materi",
    "bab": "bab9",
-   "src": [],
+   "src": [
+    "b9s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2626",
+   "id": "fy-3127",
    "kata": "用語",
    "kana": "ようご",
    "arti": "istilah",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2627",
+   "id": "fy-3128",
    "kata": "発泡",
    "kana": "はっぽうす",
    "arti": "berbusa",
    "cat": "Kosakata dari teks materi",
    "bab": "bab10",
-   "src": [],
+   "src": [
+    "b10s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2628",
+   "id": "fy-3129",
    "kata": "発砲",
    "kana": "はっぽう",
    "arti": "penembakan; peledakan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2629",
+   "id": "fy-3130",
    "kata": "目通り",
    "kana": "めどおり",
    "arti": "pandang; penglihatan langsung",
    "cat": "Kosakata dari teks materi",
    "bab": "bab4",
-   "src": [],
+   "src": [
+    "bab4-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2630",
+   "id": "fy-3131",
    "kata": "直巻き",
    "kana": "ちょくまき",
    "arti": "gulungan langsung; gulungan utuh",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "bab3-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2631",
+   "id": "fy-3132",
    "kata": "知識",
    "kana": "ちしき",
    "arti": "pengetahuan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2632",
+   "id": "fy-3133",
    "kata": "碇綱",
    "kana": "いかりつな",
    "arti": "tali jangkar (tali yang digunakan untuk jangkar kapal)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2633",
+   "id": "fy-3134",
    "kata": "繰上る",
    "kana": "くりがみる",
    "arti": "naik (dari bawah)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab8",
-   "src": [],
+   "src": [
+    "bab8-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2634",
+   "id": "fy-3135",
    "kata": "自然",
    "kana": "しぜん",
    "arti": "Kekayaan alam",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2635",
+   "id": "fy-3136",
    "kata": "自由",
    "kana": "じゆう",
    "arti": "kebebasan; bebas",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2636",
+   "id": "fy-3137",
    "kata": "転倒",
    "kana": "てんとう",
    "arti": "terjungkal; jatuh terpeleset",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2637",
+   "id": "fy-3138",
    "kata": "鉄環",
    "kana": "てつたまき",
    "arti": "cincin besi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab8",
-   "src": [],
+   "src": [
+    "b8s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2638",
+   "id": "fy-3139",
    "kata": "非常",
    "kana": "ひじょう",
    "arti": "darurat; luar biasa; tidak biasa",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "fy-2639",
+   "id": "fy-3140",
    "kata": "面上",
    "kana": "めんじょう",
    "arti": "di permukaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3",
+    "b1s6"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2640",
+   "id": "fy-3141",
    "kata": "養殖",
    "kana": "ようしょく",
    "arti": "budidaya; ternak",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "fy-2641",
+   "id": "fy-3142",
    "kata": "一旦",
    "kana": "いったん",
    "arti": "sementara; sesaat; sejenak",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2642",
+   "id": "fy-3143",
    "kata": "一段",
    "kana": "いちだん",
    "arti": "satu tingkat; satu langkah",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2643",
+   "id": "fy-3144",
    "kata": "一隻",
    "kana": "いちせき",
    "arti": "satu ekor (binatang kapal)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2644",
+   "id": "fy-3145",
    "kata": "丁寧",
    "kana": "ていねい",
    "arti": "sopan, teliti",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab9",
-   "src": [],
+   "src": [
+    "b9s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2645",
+   "id": "fy-3146",
    "kata": "三枚",
    "kana": "さんまい",
    "arti": "tiga benda datar (lembaran kertas, potongan kain, dll.); → gambar [mai] 1",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2646",
+   "id": "fy-3147",
    "kata": "両肘",
    "kana": "りょうひじ",
    "arti": "kedua siku",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2647",
+   "id": "fy-3148",
    "kata": "中央部",
    "kana": "ちゅうおうぶ",
    "arti": "bagian pusat",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2648",
+   "id": "fy-3149",
    "kata": "交差",
    "kana": "こうさ",
    "arti": "persilangan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2649",
+   "id": "fy-3150",
    "kata": "人工",
    "kana": "じんこう",
    "arti": "palsu; buatan manusia; pekerjaan manusia",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2650",
+   "id": "fy-3151",
    "kata": "以降",
    "kana": "いこう",
    "arti": "mulai dari sekarang",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2651",
+   "id": "fy-3152",
    "kata": "共通",
    "kana": "きょうつう",
    "arti": "bersama; umum; memiliki kesamaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2652",
+   "id": "fy-3153",
    "kata": "切断",
    "kana": "せつだん",
    "arti": "pemotongan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab11",
-   "src": [],
+   "src": [
+    "b11s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2653",
+   "id": "fy-3154",
    "kata": "前垂",
    "kana": "まえだれ",
    "arti": "penurunan depan (bagian depan yang menggantung)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab8",
-   "src": [],
+   "src": [
+    "b8s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2654",
+   "id": "fy-3155",
    "kata": "前方",
    "kana": "ぜんぽう",
    "arti": "depan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2655",
+   "id": "fy-3156",
    "kata": "前端",
    "kana": "ぜんたん",
    "arti": "ujung depan (bagian depan)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab5",
-   "src": [],
+   "src": [
+    "b5s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2656",
+   "id": "fy-3157",
    "kata": "前縁",
    "kana": "ぜんえん",
    "arti": "tepi depan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab8",
-   "src": [],
+   "src": [
+    "b8s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2657",
+   "id": "fy-3158",
    "kata": "厚生",
    "kana": "こうせい",
    "arti": "kesejahteraan; kehidupan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2658",
+   "id": "fy-3159",
    "kata": "厳禁",
    "kana": "げんきん",
    "arti": "dilarang keras",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2659",
+   "id": "fy-3160",
    "kata": "取替",
    "kana": "とかわ",
    "arti": "penggantian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab11",
-   "src": [],
+   "src": [
+    "b11s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2660",
+   "id": "fy-3161",
    "kata": "右端",
    "kana": "みぎはし",
    "arti": "ujung kanan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2661",
+   "id": "fy-3162",
    "kata": "右舷",
    "kana": "うげん",
    "arti": "sisi kanan kapal",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2",
+    "b7s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2662",
+   "id": "fy-3163",
    "kata": "各県",
    "kana": "かくけん",
    "arti": "setiap prefektur",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2663",
+   "id": "fy-3164",
    "kata": "同士",
    "kana": "どうし",
    "arti": "sesama; teman; pasangan (dalam konteks hubungan antarpersonal)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4",
+    "b1s5"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2664",
+   "id": "fy-3165",
    "kata": "回以上",
    "kana": "かいいじょう",
    "arti": "lebih dari ... kali",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2665",
+   "id": "fy-3166",
    "kata": "対応",
    "kana": "たいおう",
    "arti": "Tanggapan; Penanganan; Menghadapi; Respon terhadap sesuatu",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2666",
+   "id": "fy-3167",
    "kata": "尾部",
    "kana": "おぶ",
    "arti": "bagian ekor",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2667",
+   "id": "fy-3168",
    "kata": "年代",
    "kana": "ねんだい",
    "arti": "Era; periode waktu tertentu",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2668",
+   "id": "fy-3169",
    "kata": "底曳網",
    "kana": "そこびきあみ",
    "arti": "jaring dasar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2669",
+   "id": "fy-3170",
    "kata": "建造",
    "kana": "けんぞう",
    "arti": "pembuatan (pembuatan; pembangunan)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2670",
+   "id": "fy-3171",
    "kata": "往復",
    "kana": "おうふく",
    "arti": "pulang pergi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2671",
+   "id": "fy-3172",
    "kata": "後半",
    "kana": "こうはん",
    "arti": "paruh kedua; bagian kedua",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2672",
+   "id": "fy-3173",
    "kata": "循環",
    "kana": "じゅんかん",
    "arti": "sirkulasi",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab11",
-   "src": [],
+   "src": [
+    "b11s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2673",
+   "id": "fy-3174",
    "kata": "応急処置",
    "kana": "おうきゅうしょち",
    "arti": "pertolongan pertama",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2674",
+   "id": "fy-3175",
    "kata": "提供",
    "kana": "ていきょう",
    "arti": "penyediaan; penawaran; suplay; pasokan (informasi, layanan, dan sebagainya)",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2675",
+   "id": "fy-3176",
    "kata": "方面",
    "kana": "ほうめん",
    "arti": "arah; sisi; wilayah",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab8",
-   "src": [],
+   "src": [
+    "b8s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2676",
+   "id": "fy-3177",
    "kata": "時間以上",
    "kana": "じかんいじょう",
    "arti": "lebih dari ... jam",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab11",
-   "src": [],
+   "src": [
+    "b11s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2677",
+   "id": "fy-3178",
    "kata": "栄養",
    "kana": "えいよう",
    "arti": "nutrisi; makanan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2678",
+   "id": "fy-3179",
    "kata": "株式会社",
    "kana": "かぶしきかいしゃ",
    "arti": "perusahaan publik; perusahaan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2679",
+   "id": "fy-3180",
    "kata": "機船",
    "kana": "きせん",
    "arti": "kapal mesin",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2680",
+   "id": "fy-3181",
    "kata": "比較的",
    "kana": "ひかくてき",
    "arti": "relatif",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2681",
+   "id": "fy-3182",
    "kata": "水産",
    "kana": "すいさん",
    "arti": "Produk Akuatik; Perikanan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2682",
+   "id": "fy-3183",
    "kata": "沖合",
    "kana": "おきあい",
    "arti": "di lepas pantai; di laut lepas",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2683",
+   "id": "fy-3184",
    "kata": "温度",
    "kana": "おんど",
    "arti": "suhu",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2684",
+   "id": "fy-3185",
    "kata": "漁撈",
    "kana": "ぎょろう",
    "arti": "penangkapan ikan",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2685",
+   "id": "fy-3186",
    "kata": "熊本県",
    "kana": "くまもとけん",
    "arti": "Prefektur Kumamoto",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2686",
+   "id": "fy-3187",
    "kata": "画面上",
    "kana": "がめんじょう",
    "arti": "di layar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s6"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2687",
+   "id": "fy-3188",
    "kata": "発光",
    "kana": "はっこう",
    "arti": "bercahaya; bersinar",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab8",
-   "src": [],
+   "src": [
+    "b8s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2688",
+   "id": "fy-3189",
    "kata": "着衣",
    "kana": "ちゃくい",
    "arti": "berpakaian",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2689",
+   "id": "fy-3190",
    "kata": "網状",
    "kana": "もうじょう",
    "arti": "berbentuk jaring; berjaring",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2690",
+   "id": "fy-3191",
    "kata": "船体",
    "kana": "せんたい",
    "arti": "badan kapal",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab8",
-   "src": [],
+   "src": [
+    "b8s1"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2691",
+   "id": "fy-3192",
    "kata": "順次",
    "kana": "じゅんじ",
    "arti": "secara berurutan; berurutan; Seri",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab6",
-   "src": [],
+   "src": [
+    "b6s2"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "kamus website",
    "asal_kata": "pecahan frasa teks"
   },
   {
-   "id": "fy-2692",
+   "id": "fy-3193",
    "kata": "鳥取県",
    "kana": "とっとりけん",
    "arti": "Prefektur Tottori",
    "cat": "Kosakata dari teks/PDF materi",
    "bab": "bab7",
-   "src": [],
+   "src": [
+    "b7s3"
+   ],
    "sumber": "panen-pdf",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)",
    "asal_kata": "pecahan frasa teks"

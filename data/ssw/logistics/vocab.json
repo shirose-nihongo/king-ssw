@@ -1425,959 +1425,1145 @@
    "halaman": 1
   },
   {
-   "id": "lg-938",
+   "id": "lg-090",
    "kata": "一緒",
    "kana": "いっしょ",
    "arti": "bersama-sama",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-939",
+   "id": "lg-091",
    "kata": "上下",
    "kana": "じょうげ",
    "arti": "naik-turun",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-940",
+   "id": "lg-092",
    "kata": "事故",
    "kana": "じこ",
    "arti": "kecelakaan; insiden",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-941",
+   "id": "lg-093",
    "kata": "交換",
    "kana": "こうかん",
    "arti": "pertukaran, penggantian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-942",
+   "id": "lg-094",
    "kata": "交通",
    "kana": "こうつう",
    "arti": "lalu lintas; transportasi; sistem transportasi; komunikasi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-943",
+   "id": "lg-095",
    "kata": "以上",
    "kana": "いじょう",
    "arti": "lebih dari; di atas; lebih tinggi dari",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-944",
+   "id": "lg-096",
    "kata": "以下",
    "kana": "いか",
    "arti": "di bawah; kurang dari; tidak mencapai; berikut",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-945",
+   "id": "lg-097",
    "kata": "作業",
    "kana": "さぎょう",
    "arti": "pekerjaan; tugas; proses kerja",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-946",
+   "id": "lg-098",
    "kata": "作業場",
    "kana": "さぎょうば",
    "arti": "pekerjaan; bengkel",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-947",
+   "id": "lg-099",
    "kata": "作業手順",
    "kana": "さぎょうてじゅん",
    "arti": "urutan kerja",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-948",
+   "id": "lg-100",
    "kata": "保護",
    "kana": "ほご",
    "arti": "perlindungan; pengamanan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-949",
+   "id": "lg-101",
    "kata": "値札",
    "kana": "ねふだ",
    "arti": "label harga",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "lg-950",
+   "id": "lg-102",
    "kata": "停止",
    "kana": "ていし",
    "arti": "berhenti",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-951",
+   "id": "lg-103",
    "kata": "出来事",
    "kana": "できごと",
    "arti": "Peristiwa; Kejadian; Hal yang terjadi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-952",
+   "id": "lg-104",
    "kata": "制限",
    "kana": "せいげん",
    "arti": "pembatasan; limit; batasan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-953",
+   "id": "lg-105",
    "kata": "受け取",
    "kana": "うけと",
    "arti": "menerima",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "lg-954",
+   "id": "lg-106",
    "kata": "台車",
    "kana": "だいしゃ",
    "arti": "troli",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-955",
+   "id": "lg-107",
    "kata": "名前",
    "kana": "なまえ",
    "arti": "Nama",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-956",
+   "id": "lg-108",
    "kata": "品番",
    "kana": "ひんばん",
    "arti": "nomor produk",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "lg-957",
+   "id": "lg-109",
    "kata": "国土",
    "kana": "こくど",
    "arti": "Wilayah negara",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-958",
+   "id": "lg-110",
    "kata": "国土交通大臣",
    "kana": "こくどこうつうだいじん",
    "arti": "Transportasi dan Pariwisata",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "lg-959",
+   "id": "lg-111",
    "kata": "垂直",
    "kana": "すいちょく",
    "arti": "tegak lurus",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-960",
+   "id": "lg-112",
    "kata": "基本",
    "kana": "きほん",
    "arti": "dasar; prinsip; pokok",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-961",
+   "id": "lg-113",
    "kata": "場所",
    "kana": "ばしょ",
    "arti": "Tempat; lokasi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-962",
+   "id": "lg-114",
    "kata": "大事",
    "kana": "だいじ",
    "arti": "penting; serius",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-963",
+   "id": "lg-115",
    "kata": "大切",
    "kana": "たいせつ",
    "arti": "penting; berharga",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-964",
+   "id": "lg-116",
    "kata": "大臣",
    "kana": "だいじん",
    "arti": "Menteri",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-965",
+   "id": "lg-117",
    "kata": "安全",
    "kana": "あんぜん",
    "arti": "keselamatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s2",
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-966",
+   "id": "lg-118",
    "kata": "定期的",
    "kana": "ていきてき",
    "arti": "secara teratur; berkala",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-967",
+   "id": "lg-119",
    "kata": "実際",
    "kana": "じっさい",
    "arti": "kenyataan; dalam praktek; secara nyata atau sebenarnya",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-968",
+   "id": "lg-120",
    "kata": "必要",
    "kana": "ひつよう",
    "arti": "perlu; dibutuhkan; diperlukan; wajib",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-969",
+   "id": "lg-121",
    "kata": "手袋",
    "kana": "てぶくろ",
    "arti": "sarung tangan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1",
+    "b3s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "lg-970",
+   "id": "lg-122",
    "kata": "手順",
    "kana": "てじゅん",
    "arti": "urutan langkah; prosedur; cara; metode dalam melakukan sesuatu",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-971",
+   "id": "lg-123",
    "kata": "指示",
    "kana": "しじ",
    "arti": "instruksi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-972",
+   "id": "lg-124",
    "kata": "搬送",
    "kana": "はんそう",
    "arti": "pengangkutan; pengiriman",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-973",
+   "id": "lg-125",
    "kata": "整理",
    "kana": "せいり",
    "arti": "penataan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-974",
+   "id": "lg-126",
    "kata": "整頓",
    "kana": "せいとん",
    "arti": "kerapian",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-975",
+   "id": "lg-127",
    "kata": "方法",
    "kana": "ほうほう",
    "arti": "cara; metode; jalan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-976",
+   "id": "lg-128",
    "kata": "時間",
    "kana": "じかん",
    "arti": "Waktu; jam",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-977",
+   "id": "lg-129",
    "kata": "最大",
    "kana": "さいだい",
    "arti": "terbesar; Terbaik; maksimum",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-978",
+   "id": "lg-130",
    "kata": "未満",
    "kana": "みまん",
    "arti": "kurang dari",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-979",
+   "id": "lg-131",
    "kata": "機器",
    "kana": "きき",
    "arti": "perangkat; peralatan; mesin",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-980",
+   "id": "lg-132",
    "kata": "機械",
    "kana": "きかい",
    "arti": "mesin",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-981",
+   "id": "lg-133",
    "kata": "正確",
    "kana": "せいかく",
    "arti": "tepat; benar",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-982",
+   "id": "lg-134",
    "kata": "段差",
    "kana": "だんさ",
    "arti": "perbedaan kelas (mis. Dalam go, shoji, dll; Perbedaan level",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-983",
+   "id": "lg-135",
    "kata": "注意",
    "kana": "ちゅうい",
    "arti": "Perhatian!",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-984",
+   "id": "lg-136",
    "kata": "注文",
    "kana": "ちゅうもん",
    "arti": "pesanan (untuk suatu item); permintaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-985",
+   "id": "lg-137",
    "kata": "清掃",
    "kana": "せいそう",
    "arti": "pembersihan; kegiatan membersihkan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-986",
+   "id": "lg-138",
    "kata": "清潔",
    "kana": "せいけつ",
    "arti": "kebersihan; keadaan bersih dan terawat; murni; murni dari kotoran atau noda",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-987",
+   "id": "lg-139",
    "kata": "温度",
    "kana": "おんど",
    "arti": "suhu",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-988",
+   "id": "lg-140",
    "kata": "火事",
    "kana": "かじ",
    "arti": "Kebakaran",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-989",
+   "id": "lg-141",
    "kata": "用語",
    "kana": "ようご",
    "arti": "istilah",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-990",
+   "id": "lg-142",
    "kata": "番号",
    "kana": "ばんごう",
    "arti": "nomor; serangkaian digit",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-991",
+   "id": "lg-143",
    "kata": "登録",
    "kana": "とうろく",
    "arti": "pendaftaran",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-992",
+   "id": "lg-144",
    "kata": "目視",
    "kana": "もくし",
    "arti": "lihat langsung",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "teks bidang"
   },
   {
-   "id": "lg-993",
+   "id": "lg-145",
    "kata": "直接",
    "kana": "ちょくせつ",
    "arti": "langsung; secara langsung",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-994",
+   "id": "lg-146",
    "kata": "相談",
    "kana": "そうだん",
    "arti": "konsultasi; berdiskusi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-995",
+   "id": "lg-147",
    "kata": "確認",
    "kana": "かくにん",
    "arti": "pengecekan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-996",
+   "id": "lg-148",
    "kata": "禁止",
    "kana": "きんし",
    "arti": "larangan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-997",
+   "id": "lg-149",
    "kata": "種類",
    "kana": "しゅるい",
    "arti": "jenis",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-998",
+   "id": "lg-150",
    "kata": "管理",
    "kana": "かんり",
    "arti": "pengelolaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-999",
+   "id": "lg-151",
    "kata": "結束",
    "kana": "けっそく",
    "arti": "penyatuan; kebersamaan; persatuan; pengikat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2",
+    "b2s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1000",
+   "id": "lg-152",
    "kata": "自分",
    "kana": "じぶん",
    "arti": "diri sendiri",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1001",
+   "id": "lg-153",
    "kata": "荷役",
    "kana": "にやく",
    "arti": "bongkar muat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "bab1-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1002",
+   "id": "lg-154",
    "kata": "荷物",
    "kana": "にもつ",
    "arti": "barang bawaan; paket",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s2",
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1003",
+   "id": "lg-155",
    "kata": "荷重",
    "kana": "かじゅう",
    "arti": "beban",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1004",
+   "id": "lg-156",
    "kata": "落ち着き",
    "kana": "おちつき",
    "arti": "ketenangan; kedewasaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "bab3-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "lg-1005",
+   "id": "lg-157",
    "kata": "行動",
    "kana": "こうどう",
    "arti": "aktivitas; kegiatan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1006",
+   "id": "lg-158",
    "kata": "衛生",
    "kana": "えいせい",
    "arti": "Kesehatan; kebersihan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "bab3-x"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1007",
+   "id": "lg-159",
    "kata": "計算",
    "kana": "けいさん",
    "arti": "perhitungan; menghitung; ramalan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1008",
+   "id": "lg-160",
    "kata": "記録",
    "kana": "きろく",
    "arti": "rekaman; menit",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1009",
+   "id": "lg-161",
    "kata": "設備",
    "kana": "せつび",
    "arti": "peralatan; fasilitas; instalasi; perlengkapan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1010",
+   "id": "lg-162",
    "kata": "調子",
    "kana": "ちょうし",
    "arti": "kondisi; keadaan (badan)",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s1"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1011",
+   "id": "lg-163",
    "kata": "資格",
    "kana": "しかく",
    "arti": "kualifikasi; sertifikat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1012",
+   "id": "lg-164",
    "kata": "賞味期限",
    "kana": "しょうみきげん",
    "arti": "tanggal kedaluwarsa",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1013",
+   "id": "lg-165",
    "kata": "追加",
    "kana": "ついか",
    "arti": "tambahan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab2",
-   "src": [],
+   "src": [
+    "b2s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "JPdict (lawlie/dom, terjemahan AI)"
   },
   {
-   "id": "lg-1014",
+   "id": "lg-166",
    "kata": "連絡",
    "kana": "れんらく",
    "arti": "komunikasi; menghubungi",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1015",
+   "id": "lg-167",
    "kata": "道具",
    "kana": "どうぐ",
    "arti": "Peralatan; alat",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1016",
+   "id": "lg-168",
    "kata": "防止",
    "kana": "ぼうし",
    "arti": "pencegahan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s2"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1017",
+   "id": "lg-169",
    "kata": "防火",
    "kana": "ぼうか",
    "arti": "tahan api",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1018",
+   "id": "lg-170",
    "kata": "防災",
    "kana": "ぼうさい",
    "arti": "Pencegahan bencana",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1019",
+   "id": "lg-171",
    "kata": "食品",
    "kana": "しょくひん",
    "arti": "makanan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s1",
+    "b1s5"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1020",
+   "id": "lg-172",
    "kata": "黄色",
    "kana": "きいろ",
    "arti": "Kuning",
    "cat": "Kosakata dari teks materi",
    "bab": "bab3",
-   "src": [],
+   "src": [
+    "b3s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "kamus website"
   },
   {
-   "id": "lg-1021",
+   "id": "lg-173",
    "kata": "受け取り",
    "kana": "うけとり",
    "arti": "penerimaan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "lg-1022",
+   "id": "lg-174",
    "kata": "段数",
    "kana": "だんすう",
    "arti": "jumlah tingkat tumpukan",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "lg-1023",
+   "id": "lg-175",
    "kata": "積み重ね",
    "kana": "つみかさね",
    "arti": "menumpuk",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s4"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   },
   {
-   "id": "lg-1024",
+   "id": "lg-176",
    "kata": "荷受け",
    "kana": "にうけ",
    "arti": "penerimaan barang",
    "cat": "Kosakata dari teks materi",
    "bab": "bab1",
-   "src": [],
+   "src": [
+    "b1s3"
+   ],
    "sumber": "panen-teks",
    "asal_arti": "terjemahan Shirose"
   }
